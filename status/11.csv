@@ -28,7 +28,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 112305,埼玉県,新座市,https://www.city.niiza.lg.jp/,300,,126,186,0,212,,,
 112313,埼玉県,桶川市,https://www.city.okegawa.lg.jp/,300,,187,244,0,20,,,
 112321,埼玉県,久喜市,https://www.city.kuki.lg.jp/,300,,410,589,0,190,,,
-112330,埼玉県,北本市,http://www.city.kitamoto.saitama.jp/,0,ConnectionError,0,0,0,0,,,
+112330,埼玉県,北本市,http://www.city.kitamoto.saitama.jp/,300,,150,41,0,150,https://www.city.kitamoto.lg.jp,200:369,国内ブラウザ
 112348,埼玉県,八潮市,https://www.city.yashio.lg.jp/,300,,822,51,0,161,,,
 112356,埼玉県,富士見市,https://www.city.fujimi.saitama.jp/,300,,1470,97,0,301,,,
 112372,埼玉県,三郷市,https://www.city.misato.lg.jp/,300,,302,116,0,49,,,
