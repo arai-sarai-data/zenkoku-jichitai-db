@@ -79,35 +79,73 @@ def english(name, kana):
     return base[:1].upper() + base[1:]
 
 
-def main():
+def read_book(content):
+    """団体コード一覧のExcelから {code: 行} を読む。見出しの改行・数値のコードにも対応"""
     import openpyxl
-    page = requests.get(PAGE, headers=UA, timeout=60)
-    page.encoding = page.apparent_encoding
-    m = re.search(r'href="([^"]+\.xlsx)"', page.text)
-    if not m:
-        sys.exit("団体コード一覧のExcelが見つかりません")
-    xl = requests.get(urljoin(PAGE, m.group(1)), headers=UA, timeout=120)
-    wb = openpyxl.load_workbook(io.BytesIO(xl.content), read_only=True)
+    if content[:2] != b"PK":   # 古い .xls
+        import xlrd
+        bk = xlrd.open_workbook(file_contents=content)
+        sheets = [(sh.name, (sh.row_values(i) for i in range(sh.nrows))) for sh in bk.sheets()]
+    else:
+        wb = openpyxl.load_workbook(io.BytesIO(content))   # read_only だと表の範囲を誤って1行しか読めないことがある
+        sheets = [(ws.title, ws.iter_rows(values_only=True)) for ws in wb.worksheets]
+
+    def norm(v):
+        if isinstance(v, float) and v.is_integer():
+            v = int(v)
+        return re.sub(r"\s", "", unicodedata.normalize("NFKC", str(v if v is not None else "")))
+
     rows = {}
-    for ws in wb.worksheets:
-        it = ws.iter_rows(values_only=True)
+    for title, it in sheets:
         head = None
         for r in it:
-            cells = [str(c or "").strip() for c in r]
+            cells = [norm(c) for c in r]
             if head is None:
                 if any("団体コード" in c for c in cells):
                     head = cells
+                    print(f"  [{title}] 見出し: {head}")
                 continue
-            get = lambda key: next((cells[i] for i, h in enumerate(head) if key in h and i < len(cells)), "")  # noqa: E731
-            code = re.sub(r"\D", "", get("団体コード"))[:6]
-            if len(code) != 6:
+
+            def get(*keys):
+                for key in keys:
+                    for i, h in enumerate(head):
+                        if key in h and i < len(cells) and cells[i]:
+                            return cells[i]
+                return ""
+            code = re.sub(r"\D", "", get("団体コード"))
+            if not code:
                 continue
-            city, city_k = get("市区町村名（漢字）") or get("市区町村名(漢字)"), get("市区町村名（カナ）") or get("市区町村名(カナ)")
-            pref, pref_k = get("都道府県名（漢字）") or get("都道府県名(漢字)"), get("都道府県名（カナ）") or get("都道府県名(カナ)")
+            code = code.zfill(6)[:6]   # 数値で保存されていると先頭の0が落ちる
+            city, city_k = get("市区町村名(漢字)", "市区町村名"), get("市区町村名(カナ)", "市区町村名カナ")
+            pref, pref_k = get("都道府県名(漢字)", "都道府県名"), get("都道府県名(カナ)", "都道府県名カナ")
+            if city == city_k:
+                city = ""
             name, kana = (city, city_k) if city else (pref, pref_k)
             if name and code not in rows:
-                rows[code] = {"code": code, "name": name, "kana": unicodedata.normalize("NFKC", kana),
-                              "name_en": english(name, kana)}
+                rows[code] = {"code": code, "name": name, "kana": kana, "name_en": english(name, kana)}
+        print(f"  [{title}] ここまで {len(rows)} 団体")
+    return rows
+
+
+def main():
+    page = requests.get(PAGE, headers=UA, timeout=60)
+    page.encoding = page.apparent_encoding
+    links = list(dict.fromkeys(re.findall(r'href="([^"]+\.xlsx?)"', page.text)))
+    if not links:
+        sys.exit("団体コード一覧のExcelが見つかりません")
+    best = {}
+    for href in links[:6]:   # 最初のExcelが一覧とは限らないので順に試す
+        print("試す:", urljoin(PAGE, href))
+        try:
+            got = read_book(requests.get(urljoin(PAGE, href), headers=UA, timeout=120).content)
+        except Exception as e:   # noqa: BLE001
+            print("  読めず:", e)
+            continue
+        if len(got) > len(best):
+            best = got
+        if len(best) >= 1700:
+            break
+    rows = best
     if len(rows) < 1700:
         sys.exit(f"読み取れた団体が少なすぎます: {len(rows)}")
     out = ROOT / "data" / "names_en.csv"
