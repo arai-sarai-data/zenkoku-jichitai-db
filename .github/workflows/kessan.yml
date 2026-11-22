@@ -1,0 +1,40 @@
+name: kessan
+
+# 総務省の決算状況調(市町村別・都道府県)を全年度取り込む。年1回の公表後に動かせばよい。
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "11 19 1 * *"   # 毎月1日 04:11 (日本時間)。新年度の公表を拾う
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests lxml openpyxl xlrd pypdf
+      - name: 自治体マスタ(決算カードの団体名照合用)
+        run: python crawler/build_master.py
+      - run: python crawler/kessan.py
+      - name: 決算カード(原本PDF)のページ対応
+        run: python crawler/cards.py
+        continue-on-error: true
+      - name: 全年度をReleaseに置く
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="kessan-$(date +%Y%m%d)"
+          gh release create "$TAG" --title "$TAG" --notes "総務省 市町村別決算状況調・都道府県決算状況調(全年度)。原本URLは各CSVの最終列。" || true
+          gh release upload "$TAG" work/kessan_all.zip --clobber
+      - name: 直近年度をコミット
+        run: |
+          git config user.name "collector-bot"
+          git config user.email "collector-bot@users.noreply.github.com"
+          git add data/kessan
+          git commit -m "kessan: $(date +%Y-%m-%d) [skip ci]" || echo "no changes"
+          git pull --rebase && git push
