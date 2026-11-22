@@ -164,6 +164,26 @@ class Site:
         return r, ctype
 
 
+def safe_join(base, href):
+    """壊れたURL(角かっこ入りなど)でも例外にしない urljoin"""
+    try:
+        return urljoin(base, href)
+    except ValueError:
+        return None
+
+
+def crawl_safe(entity):
+    """1団体の予期しない失敗で県全体が止まらないようにする"""
+    try:
+        return crawl(entity)
+    except Exception as e:  # noqa: BLE001
+        status = {"code": entity["code"], "pref": entity["pref"], "name": entity["name"],
+                  "official_url": entity["official_url"], "pages": 0,
+                  "error": f"crash: {type(e).__name__}: {e}"[:200], **{k: 0 for k in KEYWORDS},
+                  "final_url": "", "codes": ""}
+        return [], status
+
+
 def crawl(entity):
     code, name, base = entity["code"], entity["name"], entity["official_url"]
     found = []        # (kind, url, text, page_url, is_doc, external, strong)
@@ -273,15 +293,17 @@ def crawl(entity):
         if len(doc.xpath(".//a[@href]")) < 15 and depth < 6:
             # メニューをJavaScriptで組み立てるサイト: スクリプト中のURLらしき文字列も候補にする
             for m in set(JS_URL.findall(r.text)):
-                link = urljoin(r.url, m)
-                if site.same_site(link) and not link.lower().split("?")[0].endswith(SKIP_EXT):
+                link = safe_join(r.url, m)
+                if link and site.same_site(link) and not link.lower().split("?")[0].endswith(SKIP_EXT):
                     sc = score("", link)
                     push(link, (max(sc.values()) if sc else 1) - depth * 0.5, depth + 1)
         for a in doc.iterfind(".//a[@href]"):
             href = a.get("href", "").strip()
             if not href or href.startswith(("mailto:", "tel:", "javascript:")):
                 continue
-            link = urljoin(r.url, href)
+            link = safe_join(r.url, href)
+            if not link:
+                continue
             text = " ".join(a.text_content().split())[:200]
             low = link.lower().split("?")[0]
             if low.endswith(SKIP_EXT):
@@ -344,7 +366,7 @@ def main():
     status_path = ROOT / "data" / "status" / f"{pref}.csv"
     results = []
     with ThreadPoolExecutor(WORKERS) as ex:
-        for found, st in ex.map(crawl, ents):
+        for found, st in ex.map(crawl_safe, ents):
             results.append((found, st))
             print(st["code"], st["name"], st["pages"], st["budget"], st["bids"], st["grants"], st["error"], flush=True)
     retrieved = time.strftime("%Y-%m-%d")
