@@ -8,7 +8,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 192074,山梨県,韮崎市,https://www.city.nirasaki.lg.jp/,300,,90,407,0,69,https://www.city.nirasaki.lg.jp,200:300 404:1 ConnectionError:1
 192082,山梨県,南アルプス市,https://www.city.minami-alps.yamanashi.jp/,300,,241,65,0,250,https://www.city.minami-alps.yamanashi.jp,200:303 ConnectionError:2
 192091,山梨県,北杜市,https://www.city.hokuto.yamanashi.jp/,300,,19,74,0,290,https://www.city.hokuto.yamanashi.jp,200:305 ConnectionError:1 SSLError:1
-192104,山梨県,甲斐市,https://www.city.kai.yamanashi.jp/,300,,52,23,0,134,,
+192104,山梨県,甲斐市,https://www.city.kai.yamanashi.jp/,300,,52,23,0,134,https://www.city.kai.yamanashi.jp,200:315 403:5 429:1 ConnectionError:2
 192112,山梨県,笛吹市,https://www.city.fuefuki.yamanashi.jp/,300,,60,47,0,126,https://www.city.fuefuki.yamanashi.jp,200:244 404:62 ConnectionError:2
 192121,山梨県,上野原市,https://www.city.uenohara.yamanashi.jp/,300,,40,553,0,0,https://www.city.uenohara.yamanashi.jp,200:301 ConnectTimeout:1 ConnectionError:2
 192139,山梨県,甲州市,https://www.city.koshu.yamanashi.jp/,247,,92,39,0,95,,
