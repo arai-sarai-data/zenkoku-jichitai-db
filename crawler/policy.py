@@ -1,6 +1,7 @@
 """各自治体サイトの「著作権・リンク・利用規約」ページを読み、原本のコピーを公開してよいかを判定する。
 
   reuse : free    … 政府標準利用規約・公共データ利用規約・CC BY など、出典を書けば自由に複製・公開できる
+          partial … 一部のページ・データだけ自由利用(全体としては公開しない扱い)
           consult … 転載・複製の前に相談・連絡・許可を求めている、または無断転載を禁じている
           unknown … ルールのページが見つからない、または読み取れない(安全側に倒し、公開しない扱い)
   link  : free    … リンクは自由(連絡不要)
@@ -54,7 +55,10 @@ def classify(text):
     strong_free = free_hit and re.search(r"政府標準利用規約|公共データ利用規約|クリエイティブ・?コモンズ|Creative\s*Commons|CC[\s\-]?BY",
                                           free_hit)
     if free_hit and (strong_free or not consult_hit):
-        reuse, ev = "free", free_hit
+        # 「各ページで表記されたデータは二次利用可」のような一部だけの許可は、全体を自由利用とはみなさない
+        partial = re.search(r"各ページ|一部の|表記され|明記されている(データ|もの|コンテンツ)|記載があるもの", free_hit) and \
+            not re.search(r"(全て|すべて|全部)のページ|特に記載の(無|な)い限り|特記されていない限り|権利表記の記載がない限り", free_hit)
+        reuse, ev = ("partial" if partial else "free"), free_hit
     elif consult_hit:
         reuse, ev = "consult", consult_hit
     if LINK_NOTICE.search(text) and not any(LINK_NOTICE.search(s) and NEGATED.search(s) for s in sentences):
@@ -127,8 +131,8 @@ def main():
         w.writeheader()
         w.writerows(res)
     n = len(res)
-    cnt = {k: sum(1 for r in res if r["reuse"] == k) for k in ("free", "consult", "unknown")}
-    print(f"{pref}: {n} 団体  自由利用 {cnt['free']} / 要相談 {cnt['consult']} / 不明 {cnt['unknown']}  "
+    cnt = {k: sum(1 for r in res if r["reuse"] == k) for k in ("free", "partial", "consult", "unknown")}
+    print(f"{pref}: {n} 団体  自由利用 {cnt['free']} / 一部 {cnt['partial']} / 要相談 {cnt['consult']} / 不明 {cnt['unknown']}  "
           f"リンク連絡要 {sum(1 for r in res if r['link'] == 'notice')}")
 
 
