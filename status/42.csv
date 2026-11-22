@@ -1,7 +1,7 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 420000,長崎県,長崎県,https://www.pref.nagasaki.jp/,300,,133,357,0,466,https://www.pref.nagasaki.jp,200:299 404:1 ConnectionError:1
 422011,長崎県,長崎市,https://www.city.nagasaki.lg.jp/,300,,120,17,0,382,https://www.city.nagasaki.lg.jp,200:294 404:6 ConnectionError:1
-422029,長崎県,佐世保市,https://www.city.sasebo.lg.jp/,300,,450,85,0,159,https://www.city.sasebo.lg.jp,200:235 404:65 ConnectionError:1
+422029,長崎県,佐世保市,https://www.city.sasebo.lg.jp/,300,,451,85,0,159,https://www.city.sasebo.lg.jp,200:235 404:65 ConnectionError:1
 422037,長崎県,島原市,https://www.city.shimabara.lg.jp/,300,,105,183,0,60,https://www.city.shimabara.lg.jp,200:556 ConnectionError:1
 422045,長崎県,諫早市,https://www.city.isahaya.nagasaki.jp/,282,,49,4,0,133,https://www.city.isahaya.nagasaki.jp,200:282 ConnectionError:2
 422053,長崎県,大村市,https://www.city.omura.nagasaki.jp/,300,,11,10,0,275,https://www.city.omura.nagasaki.jp,200:302 ConnectionError:2
@@ -16,7 +16,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 423076,長崎県,長与町,https://webtown.nagayo.jp/,300,,6,37,0,74,https://webtown.nagayo.jp,200:299 404:1 ConnectionError:1
 423084,長崎県,時津町,https://www.town.togitsu.nagasaki.jp/,300,,42,55,0,109,https://www.town.togitsu.nagasaki.jp,200:300 ConnectionError:2
 423211,長崎県,東彼杵町,https://www.town.higashisonogi.lg.jp/,300,,36,294,0,69,https://www.town.higashisonogi.lg.jp,200:302 ConnectionError:1
-423220,長崎県,川棚町,https://www.kawatana.jp/,300,,17,1212,0,192,https://www.kawatana.jp,200:279 404:22 SSLError:1 robots:1
+423220,長崎県,川棚町,https://www.kawatana.jp/,300,,17,1212,0,192,https://www.kawatana.jp,200:279 404:22 ConnectTimeout:1 robots:1
 423238,長崎県,波佐見町,https://www.town.hasami.lg.jp/,115,,33,27,0,73,https://www.town.hasami.lg.jp,200:115 ConnectionError:1 SSLError:4
 423831,長崎県,小値賀町,https://www.town.ojika.lg.jp/,52,,126,4,0,1,https://www.town.ojika.lg.jp,200:52 ConnectionError:1
 423912,長崎県,佐々町,https://www.sazacho-nagasaki.jp/,300,,71,0,0,75,https://www.sazacho-nagasaki.jp,200:301 ConnectionError:1
