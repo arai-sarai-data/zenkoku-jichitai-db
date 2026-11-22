@@ -11,7 +11,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 302091,和歌山県,岩出市,https://www.city.iwade.lg.jp/,258,,110,152,0,36,https://www.city.iwade.lg.jp,200:255 403:3 ConnectTimeout:2 ConnectionError:1
 303046,和歌山県,紀美野町,https://www.town.kimino.wakayama.jp/,160,,0,101,0,51,https://www.town.kimino.wakayama.jp,200:163 ConnectionError:2
 303411,和歌山県,かつらぎ町,https://www.town.katsuragi.wakayama.jp/,184,,26,644,0,47,https://www.town.katsuragi.wakayama.jp,200:187 ConnectionError:2
-303437,和歌山県,九度山町,https://www.town.kudoyama.wakayama.jp/,172,,71,237,0,74,https://www.town.kudoyama.lg.jp,200:172 SSLError:2
+303437,和歌山県,九度山町,https://www.town.kudoyama.wakayama.jp/,172,,71,237,0,74,https://www.town.kudoyama.lg.jp,200:172 ConnectTimeout:1 SSLError:1
 303445,和歌山県,高野町,https://www.town.koya.wakayama.jp/,230,,148,0,0,110,https://www.town.koya.wakayama.jp,200:229 404:3 ConnectionError:1
 303615,和歌山県,湯浅町,https://www.town.yuasa.wakayama.jp/,168,,5,48,0,95,https://www.town.yuasa.wakayama.jp,200:169 404:1 ConnectionError:1 SSLError:1
 303623,和歌山県,広川町,https://www.town.hirogawa.wakayama.jp/,300,,4,370,0,125,https://www.town.hirogawa.wakayama.jp,200:302 ConnectionError:1 SSLError:1
