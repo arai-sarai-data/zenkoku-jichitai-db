@@ -10,7 +10,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 212083,岐阜県,瑞浪市,https://www.city.mizunami.lg.jp/,300,,236,172,0,166,https://www.city.mizunami.lg.jp,200:299 400:1 ConnectionError:2,
 212091,岐阜県,羽島市,https://www.city.hashima.lg.jp/,300,,125,6,0,118,https://www.city.hashima.lg.jp,200:307 ConnectionError:1,
 212105,岐阜県,恵那市,https://www.city.ena.lg.jp/,300,,480,1730,0,199,https://www.city.ena.lg.jp,200:311 ConnectionError:1,
-212113,岐阜県,美濃加茂市,https://www.city.minokamo.lg.jp/,241,,103,16,0,276,https://www.city.minokamo.lg.jp,200:243 ConnectionError:1,
+212113,岐阜県,美濃加茂市,https://www.city.minokamo.lg.jp/,244,,103,16,0,276,https://www.city.minokamo.lg.jp,200:246 ConnectionError:1,
 212121,岐阜県,土岐市,https://www.city.toki.lg.jp/,300,,61,1117,0,75,https://www.city.toki.lg.jp,200:302 ConnectionError:1 robots:3,
 212130,岐阜県,各務原市,https://www.city.kakamigahara.lg.jp/,300,,90,95,0,170,https://www.city.kakamigahara.lg.jp,200:300 ConnectionError:1 robots:2,
 212148,岐阜県,可児市,https://www.city.kani.lg.jp/,231,,479,6,0,99,https://www.city.kani.lg.jp,200:234 ConnectionError:1,
@@ -32,7 +32,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 214019,岐阜県,揖斐川町,https://www.town.ibigawa.lg.jp/,222,,223,24,0,91,https://www.town.ibigawa.lg.jp,200:224 404:1 ConnectTimeout:1,
 214035,岐阜県,大野町,https://www.town-ono.jp/,126,,7,92,0,72,https://www.town-ono.jp,200:129 ConnectionError:1,
 214043,岐阜県,池田町,https://www.town.gifu-ikeda.lg.jp/,300,,715,15,0,108,https://www.town.gifu-ikeda.lg.jp,200:306 ConnectionError:1,
-214213,岐阜県,北方町,http://www.town.kitagata.gifu.jp/,268,,68,4,0,6,http://www.town.kitagata.gifu.jp,200:263 502:5 ConnectionError:2,
+214213,岐阜県,北方町,http://www.town.kitagata.gifu.jp/,269,,68,4,0,6,http://www.town.kitagata.gifu.jp,200:269 ConnectionError:2,
 215015,岐阜県,坂祝町,https://www.town.sakahogi.gifu.jp/,283,,0,1,0,19,https://www.town.sakahogi.gifu.jp,200:283,国内ブラウザ
 215023,岐阜県,富加町,https://www.town.tomika.gifu.jp/,241,,27,62,0,176,https://www.town.tomika.gifu.jp,200:249 404:3 SSLError:2,
 215031,岐阜県,川辺町,https://www.kawabe-gifu.jp/,181,,163,1,0,139,https://www.kawabe-gifu.jp,200:185,
