@@ -16,7 +16,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 232131,愛知県,西尾市,https://www.city.nishio.aichi.jp/,300,,12,34,0,341,https://www.city.nishio.aichi.jp,200:302 ConnectionError:2 robots:3
 232149,愛知県,蒲郡市,https://www.city.gamagori.lg.jp/,300,,131,42,0,555,https://www.city.gamagori.lg.jp,200:298 404:2 ConnectionError:1
 232157,愛知県,犬山市,https://www.city.inuyama.aichi.jp/,300,,421,3730,0,1107,https://www.city.inuyama.aichi.jp,200:301 ConnectionError:2
-232165,愛知県,常滑市,https://www.city.tokoname.aichi.jp/,300,,347,117,1,216,https://www.city.tokoname.aichi.jp,200:300 ConnectionError:2
+232165,愛知県,常滑市,https://www.city.tokoname.aichi.jp/,300,,231,141,1,178,https://www.city.tokoname.aichi.jp,200:300 ConnectionError:2
 232173,愛知県,江南市,https://www.city.konan.lg.jp/,300,,480,118,0,275,https://www.city.konan.lg.jp,200:301 ConnectionError:1
 232190,愛知県,小牧市,https://www.city.komaki.aichi.jp/,300,,795,92,0,287,https://www.city.komaki.aichi.jp,200:300 ConnectionError:1
 232203,愛知県,稲沢市,https://www.city.inazawa.aichi.jp/,300,,325,4,0,389,https://www.city.inazawa.aichi.jp,200:302 404:1 ConnectionError:2
@@ -50,7 +50,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 234451,愛知県,南知多町,https://www.town.minamichita.lg.jp/,299,,76,2,0,94,https://www.town.minamichita.lg.jp,200:299 ConnectTimeout:1
 234460,愛知県,美浜町,https://www.town.aichi-mihama.lg.jp/,283,,16,5,0,111,https://www.town.aichi-mihama.lg.jp,200:286 ConnectionError:1
 234478,愛知県,武豊町,https://www.town.taketoyo.lg.jp/,286,,47,2,0,166,https://www.town.taketoyo.lg.jp,200:286 ConnectionError:1 robots:2
-235016,愛知県,幸田町,https://www.town.kota.lg.jp/,240,,45,4,0,105,https://www.town.kota.lg.jp,200:245 ConnectionError:1
+235016,愛知県,幸田町,https://www.town.kota.lg.jp/,240,,45,4,0,105,https://www.town.kota.lg.jp,200:244 429:1 ConnectionError:1
 235610,愛知県,設楽町,https://www.town.shitara.lg.jp/,300,,102,20,0,139,https://www.town.shitara.lg.jp,200:299 404:1 ConnectionError:1
 235628,愛知県,東栄町,https://www.town.toei.aichi.jp/,300,,169,3,0,54,https://www.town.toei.aichi.jp,200:88 404:213 ConnectionError:2
 235636,愛知県,豊根村,https://www.vill.toyone.aichi.jp/,104,,30,2,0,22,https://www.vill.toyone.aichi.jp,200:109 ConnectionError:2
