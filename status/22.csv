@@ -8,9 +8,9 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 222071,静岡県,富士宮市,https://www.city.fujinomiya.lg.jp/,300,,105,249,0,356,https://www.city.fujinomiya.lg.jp,200:298 403:1 404:3 ConnectionError:1
 222089,静岡県,伊東市,https://www.city.ito.shizuoka.jp/,300,,323,19,0,20,https://www.city.ito.shizuoka.jp,200:301 ConnectionError:2
 222097,静岡県,島田市,https://www.city.shimada.shizuoka.jp/,300,,403,12,0,663,https://www.city.shimada.shizuoka.jp,200:300 403:1 404:5 ConnectionError:2
-222101,静岡県,富士市,https://www.city.fuji.shizuoka.jp/,300,,37,25,2,867,https://www.city.fuji.shizuoka.jp,200:302 ConnectionError:2
+222101,静岡県,富士市,https://www.city.fuji.shizuoka.jp/,300,,37,26,2,846,https://www.city.fuji.shizuoka.jp,200:302 ConnectionError:2
 222119,静岡県,磐田市,https://www.city.iwata.shizuoka.jp/,300,,115,166,0,253,https://www.city.iwata.shizuoka.jp,200:309 ConnectionError:2 robots:6
-222127,静岡県,焼津市,https://www.city.yaizu.lg.jp/,300,,133,276,29,586,https://www.city.yaizu.lg.jp,200:300 ConnectTimeout:1
+222127,静岡県,焼津市,https://www.city.yaizu.lg.jp/,300,,132,277,29,540,https://www.city.yaizu.lg.jp,200:300 ConnectTimeout:1
 222135,静岡県,掛川市,https://www.city.kakegawa.shizuoka.jp/,300,,63,13,5,203,https://www.city.kakegawa.shizuoka.jp,200:299 404:1 ConnectionError:2
 222143,静岡県,藤枝市,https://www.city.fujieda.shizuoka.jp/,300,,331,59,0,416,https://www.city.fujieda.shizuoka.jp,200:306 ConnectionError:2
 222151,静岡県,御殿場市,https://www.city.gotemba.lg.jp/,300,,203,55,6,238,https://www.city.gotemba.lg.jp,200:297 404:3 ConnectionError:1
