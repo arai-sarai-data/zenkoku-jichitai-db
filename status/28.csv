@@ -30,7 +30,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 282286,兵庫県,加東市,https://www.city.kato.lg.jp/,300,,38,15,0,28,,,
 282294,兵庫県,たつの市,https://www.city.tatsuno.lg.jp/,300,,67,7,0,61,,,
 283011,兵庫県,猪名川町,https://www.town.inagawa.lg.jp/,242,,202,51,0,68,,,
-283657,兵庫県,多可町,https://www.town.taka.lg.jp/,0,ConnectionError,0,0,0,0,,,
+283657,兵庫県,多可町,https://www.town.taka.lg.jp/,131,,9,212,0,118,https://www.town.taka.lg.jp,200:234,国内ブラウザ
 283819,兵庫県,稲美町,https://www.town.hyogo-inami.lg.jp/,293,,25,4,0,193,,,
 283827,兵庫県,播磨町,https://www.town.harima.lg.jp/,300,,78,382,0,187,,,
 284424,兵庫県,市川町,https://www.town.ichikawa.lg.jp/,281,,49,15,0,94,,,
