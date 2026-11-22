@@ -1,4 +1,322 @@
 code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
+404217,桂川町,bids,https://www.ebs-cloud.fwd.ne.jp/CALS/Accepter/ebidmlit/jsp/common/dummy.jsp?name1=0660072006000620,桂川町電子入札システム【外部リンク】,https://www.town.keisen.fukuoka.jp/sitemap.php,0,1,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/e-bidding03.xlsx,紙入札用入札書（Excelファイル：16KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/rikou.xls,工事（委託）履行証明願,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/rikousyoumei.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_02.xls,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_03.xls,（27KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_04.xls,（27KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_05.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_06.xls,（28KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_07.xls,（27KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_08.xls,（26KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_09.xls,（30KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_11.xls,（32KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s260401_01.xls,（34KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_01.xlsx,（14KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_02.xls,（19KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_04.xlsx,（12KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_05.xlsx,（15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_06.xlsx,（15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s01.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s02.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s03.xls,（24KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s04.xls,（24KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s05.xls,（29KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s06.xls,（29KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s07.xls,（29KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s08.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s09.xls,（48KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s10.xls,（48KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s11.xls,（43KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s12.xls,（43KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s13.xls,（59KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s14.xls,（60KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s15.xls,（61KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s16.xls,（62KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s17.xls,（59KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s18.xls,（30KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s19.xls,（30KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s20.xls,（45KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s21.xls,（45KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s22.xls,（34KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s23.xls,（34KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s24.xls,（39KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s25.xls,（43KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s26.xls,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s27.xls,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s28.xlsx,（15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_i_buppin.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_i_kouji.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_i_suidou.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_n_buppin.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_n_kouji.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_n_suidou.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/chonai_ken260401.pdf,建設工事（193KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/chonai_sc260401.pdf,測量・コンサル（167KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/chonai_sei260401.pdf,清掃業務委託（171KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding01.pdf,桂川町電子入札実施要綱（PDFファイル：170KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding04.pdf,"導入編（PDFファイル：2,522KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding05.pdf,"指名競争入札マニュアル（PDFファイル：4,727KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding06.pdf,"入札情報公開システムマニュアル（PDFファイル：1,798KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding07.pdf,"ご利用までの流れ（PDFファイル：1,160KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding08.pdf,"利用者登録手順（PDFファイル：1,509KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding09.pdf,利用のためのPC環境設定（PDFファイル：843KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding10.pdf,コアシステム対応民間認証局一覧（PDFファイル：82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/henkou_1.pdf,入札参加資格審査申請書変更届添付書類（84KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/henkou_1507_2.pdf,誓約書（92KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_01.pdf,（102KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_02.pdf,（98KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_03.pdf,（105KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_04.pdf,（95KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_05.pdf,（94KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_05h.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_08_01.pdf,（100KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_08_02.pdf,（94KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/k_r0810.pdf,令和8年度 発注予定工事情報調書（10月公表分）（127KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/mitoshi.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_02.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_03.pdf,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_04.pdf,（46KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_05.pdf,（64KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_06.pdf,（48KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_07.pdf,（42KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_08.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_09.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_10.pdf,（51KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_11.pdf,（63KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_12.pdf,（90KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s260401_01.pdf,（102KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_01h.pdf,（74KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_01n.pdf,（120KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_01s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_02n.pdf,（127KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_02s.pdf,（149KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_03n.pdf,（128KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_03s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_04n.pdf,（133KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_04s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_05n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_05s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_06n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_06s.pdf,（152KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_07h.pdf,（89KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_07n.pdf,（136KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_07s.pdf,（159KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_08h.pdf,（96KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_08n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_08s.pdf,（159KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_09h.pdf,（87KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_09n.pdf,（131KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_09s.pdf,（154KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_10n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_10s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_11h.pdf,（80KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_11n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_11s.pdf,（151KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_12h.pdf,（90KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_12n.pdf,（133KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_12s.pdf,（166KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_13h.pdf,（85KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_13n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_13s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_14n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_14s.pdf,（151KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_15h.pdf,（88KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_15n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_15s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_16h.pdf,（76KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_16n.pdf,（121KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_16s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_17h.pdf,（88KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_17n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_17s.pdf,（157KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_18h.pdf,（84KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_18n.pdf,（127KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_18s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_19n.pdf,（139KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_19s.pdf,（162KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_20h.pdf,（91KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_20n.pdf,（139KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_20s.pdf,（156KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_21h.pdf,（84KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_21n.pdf,（132KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_21s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_22h.pdf,（87KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_22n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_22s.pdf,（159KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_23h.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_23n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_23s.pdf,（155KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_01h.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_01n.pdf,（129KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_01s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_02n.pdf,（131KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_02s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_03n.pdf,（120KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_03s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_04n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_04s.pdf,（149KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_05h.pdf,（77KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_05n.pdf,（123KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_05s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_06h.pdf,（87KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_06n.pdf,（135KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_06s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_07h.pdf,（96KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_07n.pdf,（136KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_07s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_08h.pdf,（83KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_08n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_08s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_09n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_09s.pdf,（154KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_10h.pdf,（80KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_10n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_10s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_11h.pdf,（80KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_11n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_11s.pdf,（151KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_12h.pdf,（89KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_12n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_12s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_13n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_13s.pdf,（160KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_14h.pdf,（90KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_14n.pdf,（140KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_14s.pdf,（156KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_15n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_15s.pdf,（160KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_16n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_16s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_17n.pdf,（136KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_17s.pdf,（152KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_18n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_18s.pdf,（154KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_19n.pdf,（131KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_19s.pdf,（152KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_01.pdf,（108KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_02.pdf,（26KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_04.pdf,（53KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_05.pdf,（91KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_06.pdf,（85KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_youryou_r07.pdf,申請要領（250KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_i_buppin.pdf,（37KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_i_kouji.pdf,（37KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_i_suidou.pdf,（38KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_n_buppin.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_n_kouji.pdf,（46KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_n_suidou.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,入札・契約情報,https://www.town.keisen.fukuoka.jp/,0,0,1,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,入札結果（令和7年度）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,0,0,1,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,入札・契約情報＜入札結果（令和8年度）を更新しました,https://www.town.keisen.fukuoka.jp/,0,0,1,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/mitoshi.php,入札・契約情報<発注見通し を更新しました,https://www.town.keisen.fukuoka.jp/rireki/rirekiList.php,0,0,1,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/word/nyusatsu/e-bidding02.docx,紙入札方式参加届出書（Wordファイル：15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/word/nyusatsu/s220401_10.docx,（17KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/word/nyusatsu/s220401_12.docx,（21KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R01_y.pdf,令和元年度予算（PDFファイル：79KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R02_y.pdf,令和2年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R03_y.pdf,令和3年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R04_y.pdf,令和4年度予算（PDFファイル：73KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R05_y.pdf,令和5年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R06_y.pdf,令和6年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R07_y.pdf,令和7年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R08_y.pdf,令和8年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo27.pdf,"平成27年度 当初予算書（PDFファイル：3,097KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo28.pdf,"平成28年度 当初予算書（PDFファイル：21,748KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo29.pdf,"平成29年度 当初予算書（PDFファイル：22,963KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo30.pdf,"平成30年度 当初予算書（PDFファイル：25,380KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo31.pdf,"平成31年度 当初予算書（PDFファイル：22,421KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR02.pdf,"令和2年度 当初予算書（PDFファイル：24,392KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR03.pdf,"令和3年度 当初予算書（PDFファイル：2,450KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04.pdf,"令和4年度 一般会計当初予算書（PDFファイル：2,490KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei01.pdf,令和4年度 一般会計補正予算書（補正第１号）（PDFファイル：274KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei02.pdf,令和4年度 一般会計補正予算書（専決第１号）（PDFファイル：132KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei03.pdf,令和4年度 一般会計補正予算書（補正第２号）（PDFファイル：389KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei04.pdf,令和4年度 一般会計補正予算書（専決第２号）（PDFファイル：173KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei05.pdf,令和4年度 一般会計補正予算書（補正第３号）（PDFファイル：701KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei06.pdf,令和4年度 一般会計補正予算書（専決第３号）（PDFファイル：117KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei07.pdf,令和4年度 一般会計補正予算書（専決第４号）（PDFファイル：118KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei08.pdf,令和4年度 一般会計補正予算書（補正第４号）（PDFファイル：608KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei09.pdf,令和4年度 一般会計補正予算書（専決第５号）（PDFファイル：247KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei10.pdf,令和4年度 一般会計補正予算書（補正第５号）（PDFファイル：185KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei11.pdf,令和4年度 一般会計補正予算書（専決第６号）（PDFファイル：850KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05.pdf,"令和5年度 一般会計当初予算書（PDFファイル：2,521KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei01.pdf,令和5年度 一般会計補正予算書（補正第１号）（PDFファイル：142KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei02.pdf,令和5年度 一般会計補正予算書（専決第１号）（PDFファイル：122KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei03.pdf,令和5年度 一般会計補正予算書（補正第２号）（PDFファイル：330KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei04.pdf,令和5年度 一般会計補正予算書（専決第２号）（PDFファイル：112KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei05.pdf,令和5年度 一般会計補正予算書（補正第３号）（PDFファイル：724KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei06.pdf,令和5年度 一般会計補正予算書（補正第４号）（PDFファイル：651KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei07.pdf,令和5年度 一般会計専決予算（専決第3号）（PDFファイル：162KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,0,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei08.pdf,令和5年度 一般会計専決予算（専決第4号）（PDFファイル：131KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,0,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei09.pdf,令和5年度 一般会計補正予算（補正第5号）（PDFファイル：384KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06.pdf,"令和6年度 一般会計予算書（PDFファイル：2,590,KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei01.pdf,令和6年度 一般会計補正予算書（専決第１号）（PDFファイル：105KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei02.pdf,令和6年度 一般会計補正予算書（補正第１号）（PDFファイル：231KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei03.pdf,令和6年度 一般会計補正予算書（専決第２号）（PDFファイル：101KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei04.pdf,令和6年度 一般会計補正予算書（補正第２号）（PDFファイル：714KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei05.pdf,令和6年度 一般会計補正予算書（専決第３号）（PDFファイル：127KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei06.pdf,令和6年度 一般会計補正予算書（専決第４号）（PDFファイル：246KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei07.pdf,令和6年度 一般会計補正予算書（補正第３号）（PDFファイル：654KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei08.pdf,令和6年度 一般会計補正予算書（専決第５号）（PDFファイル：105KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei09.pdf,令和6年度 一般会計補正予算書（専決第６号）（PDFファイル：122KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei10.pdf,令和6年度 一般会計補正予算書（補正第４号）（PDFファイル：381KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07.pdf,"令和7年度 一般会計予算書（PDFファイル：1,228KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei01.pdf,令和7年度 一般会計補正予算書（補正第１号）（PDFファイル：387KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei02.pdf,令和7年度 一般会計補正予算書（専決第１号）（PDFファイル：100KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei03.pdf,令和7年度 一般会計補正予算書（専決第２号）（PDFファイル：98KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei04.pdf,令和7年度 一般会計補正予算書（補正第２号）（PDFファイル：735KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei05.pdf,令和7年度 一般会計補正予算書（専決第３号）（PDFファイル：277KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei06.pdf,令和7年度 一般会計補正予算書（補正第３号）（PDFファイル：711KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei07.pdf,令和7年度 一般会計補正予算書（専決第４号）（PDFファイル：114KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei08.pdf,令和7年度 一般会計補正予算書（専決第５号）（PDFファイル：117KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei09.pdf,令和7年度 一般会計補正予算書（専決第６号）（PDFファイル：128KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei10.pdf,令和7年度 一般会計補正予算書（補正第４号）（PDFファイル：444KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei11.pdf,令和7年度 一般会計補正予算書（専決第７号）（PDFファイル：900KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08.pdf,"令和8年度 一般会計予算書（PDFファイル：2,670KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei01.pdf,令和8年度 一般会計補正予算書（専決第１号）（PDFファイル：98KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei02.pdf,令和8年度 一般会計補正予算書（補正第１号）（PDFファイル：104KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei03.pdf,令和8年度 一般会計補正予算書（補正第２号）（PDFファイル：224KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei04.pdf,令和8年度 一般会計補正予算書（専決第２号）（PDFファイル：249KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei05.pdf,令和8年度 一般会計補正予算書（補正第３号）（PDFファイル：684KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF2007313.docx,定期券購入費補助金申請様式（Wordファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF3007313.pdf,定期券購入費補助金申請様式（記入例）（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF4007313.pdf,電子申請方法（パソコン）（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF5007313.pdf,電子申請方法（スマホ）（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/news/%e6%a1%82%e5%b7%9d%e7%94%ba%e7%a7%bb%e4%bd%8f%e5%b0%b1%e6%a5%ad%e6%94%af%e6%8f%b4%e8%a3%9c%e5%8a%a9%e9%87%91%e3%81%ae%e7%94%b3%e8%ab%8b%e5%8f%97%e4%bb%98%e4%b8%ad%e6%96%ad%e3%81%ab%e3%81%a4%e3%81%84/,桂川町移住就業支援補助金の申請受付の再開について,https://www.town.keisen.fukuoka.jp/anniversary80/,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/support/,移住支援制度,https://www.town.keisen.fukuoka.jp/anniversary80/,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2021/01/01_移住支援事業_申請様式.pdf,♪ 補助金申請書をダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2023/06/11_桂川町移住定住奨励金等交付該当要件チェック表-1.pdf,♪ 補助金申請書をダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2023/06/R5桂川町結婚新生活支援補助金交付申請書一式.pdf,♪ 補助金申請書をダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/住宅ローン金利優遇措置.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/移住定住奨励金等交付事業.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/移住就業支援事業-1.pdf,♪ 詳しいチラシをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/結婚新生活支援事業-1.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2026/06/浄化槽設置補助金交付事業03.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2026/09/移住就業支援事業.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,桂川町大学生等通学定期券購入費補助金事業,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/block.php,ブロック塀等撤去費補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/jyoukaso.php,浄化槽補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/namagomi.php,電動生ごみ処理機購入費補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/roukyu.php,桂川町老朽家屋等解体補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/taishinkaisyu.php,木造戸建住宅耐震改修工事費等補助金について,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/block.pdf,桂川町ブロック塀等撤去費補助金交付要綱（PDFファイル：227KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/block.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/namagomi.pdf,桂川町電動生ごみ処理機購入費補助金交付要綱（PDFファイル：88KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/namagomi.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/roukyu.pdf,桂川町老朽家屋等解体補助金交付要綱（PDFファイル：227KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/roukyu.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/taishinkaisyu.pdf,桂川町木造戸建住宅耐震改修工事費等補助金交付要綱（PDFファイル：155KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/taishinkaisyu.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/download/hoken/zyoka_koufu.pdf,桂川町浄化槽設置整備事業補助金交付要綱（PDFファイル：163KB）,https://www.town.keisen.fukuoka.jp/townspeople/download/hoken.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/download/kenkou/kenshin_gan_appearance.pdf,桂川町アピアランスケア推進事業助成金交付申請書（PDFファイル：113KB）,https://www.town.keisen.fukuoka.jp/kenkou/kenkou/jyosei.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/kenkou/ninpushien_soudan.pdf,給付金と相談窓口のご案内（PDFファイル：124KB）,https://www.town.keisen.fukuoka.jp/kosodate/boshihoken/ninpushienkyufu.php,1,0,0,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/kosodate/tsugakuenjo.pdf,（参考）桂川町大学生等通学定期券購入費補助金チラシ（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/tetsuzuki/kekkonseikatsu01.pdf,桂川町結婚新生活支援補助金交付要綱（PDFファイル：201KB）,https://www.town.keisen.fukuoka.jp/kurashi/tetsuzuki/kekkonseikatsu.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/tetsuzuki/kekkonseikatsu02.pdf,桂川町結婚新生活支援補助金に関するＱ＆Ａ（PDFファイル：85KB）,https://www.town.keisen.fukuoka.jp/kurashi/tetsuzuki/kekkonseikatsu.php,1,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/hoken.php#namagomi,電動生ごみ処理機購入費補助金関係,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/hoken.php#zyoka,浄化槽補助金申請関係,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kenkou.php#appearance,アピアランスケア推進事業助成金交付申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kensetsu.php#block,ブロック塀等撤去費補助金申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kensetsu.php#roukyu,老朽家屋家屋等解体費補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kensetsu.php#taishinkaisyu,木造戸建住宅耐震改修工事費等補助金申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/sangyou.php#kaisyu,住宅改修補助金交付申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
+404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/word/zaisei/jutenshien_report0801.doc,重点支援地方交付金の活用状況（Wordファイル：43KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,0,2026-11-22
 400009,福岡県,bids,https://www.choutatsu-ppi.pref.fukuoka.lg.jp/DENTYO/P1005_05,福岡県入札情報サービス（発注予定情報・指名結果・入札結果情報）,https://www.pref.fukuoka.lg.jp/life/8/63/,0,0,1,2026-11-22
 400009,福岡県,bids,https://www.pref.fukuoka.lg.jp/bid-info/r7joukasouijikanrikekka.html,入札結果の公表について（令和８年度浄化槽法定検査受検促進・調査事業）,https://www.pref.fukuoka.lg.jp/life/8/63/277/,0,0,1,2026-11-22
 400009,福岡県,bids,https://www.pref.fukuoka.lg.jp/bid-info/r7joukasouijikanrikekkanyusatsu.html,入札結果の公表について（令和７年度浄化槽維持管理情報収集事業）,https://www.pref.fukuoka.lg.jp/life/8/63/277/,0,0,1,2026-11-22
@@ -3297,6 +3615,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401005,北九州市,grants,https://www.mhlw.go.jp/stf/newpage_52738.html,【参考】厚生労働省「65歳超雇用推進助成金（65歳超継続雇用促進コース）」（外部リンク）,https://www.city.kitakyushu.lg.jp/contents/09801348_00003.html,0,1,1,2026-11-22
 401005,北九州市,grants,https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html,業務改善助成金（厚生労働省）（外部リンク）,https://www.city.kitakyushu.lg.jp/contents/division098.html,0,1,1,2026-11-22
 401307,福岡市,bids,http://subway.city.fukuoka.lg.jp/subway/contract/,交通局の入札・契約情報,https://www.city.fukuoka.lg.jp/business/keiyaku-kobo/index.html,0,0,1,2026-11-22
+401307,福岡市,bids,http://www.city.fukuoka.lg.jp/business/keiyaku-kobo/index.html,入札・契約・公募,http://www.city.fukuoka.lg.jp/,0,0,1,2026-11-22
 401307,福岡市,bids,https://keiyaku.city.fukuoka.lg.jp/php/fkks1010.php,入札結果検索,https://keiyaku.city.fukuoka.lg.jp/,0,0,1,2026-11-22
 401307,福岡市,bids,https://subway.city.fukuoka.lg.jp:443/pdf/banner.pdf,バナー広告のご案内,https://subway.city.fukuoka.lg.jp:443/subway/contract/past.php,1,0,0,2026-11-22
 401307,福岡市,bids,https://subway.city.fukuoka.lg.jp:443/subway/contract/index.php,今月の入札結果,https://subway.city.fukuoka.lg.jp:443/subway/contract/,0,0,1,2026-11-22
@@ -3397,8 +3716,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,bids,https://subway.city.fukuoka.lg.jp:443/subway_webapp/files/contract_plugin/results/pdf20261120130646.pdf,空港線博多駅女性助役休憩室改修工事,https://subway.city.fukuoka.lg.jp:443/subway/contract/past.php,1,0,0,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/business/index.html#007,入札・契約・公募,https://www.city.fukuoka.lg.jp/business/index.html,0,0,1,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/business/keiyaku-kobo/index.html,入札・契約・公募,https://www.city.fukuoka.lg.jp/,0,0,1,2026-11-22
-401307,福岡市,bids,https://www.city.fukuoka.lg.jp/kankyo/kateigomi/business/sodainyusatsuKEKKA_reiwa2.html,令和７年度粗大ごみ収集運搬業務委託（東区、博多区、西区）の入札結果について,https://www.city.fukuoka.lg.jp/business/keiyaku-kobo/teiankyogi.html,0,0,1,2026-11-22
-401307,福岡市,bids,https://www.city.fukuoka.lg.jp/kankyo/rinkaikojo/baiden_2025_kekka.html,「令和８年度臨海工場の余剰電力売却」の入札結果について,https://www.city.fukuoka.lg.jp/business/keiyaku-kobo/teiankyogi.html,0,0,1,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/mizu/keiyaku/machi/fsuido-nkekka-02/fsuido-nkekka-02.html,福岡市水道局令和２年度入札結果,https://www.city.fukuoka.lg.jp/suido/nyusatsu.html,0,0,1,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/mizu/keiyaku/machi/fsuido-nkekka-06/fsuido-nkekka-06.html,福岡市水道局令和６年度入札結果 2026年4月7日,https://www.city.fukuoka.lg.jp/suido/nyusatsu.html,0,0,1,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/mizu/keiyaku/machi/fsuido-nkekka-07/fsuido-nkekka-07.html,福岡市水道局令和７年度入札結果 2026年4月7日,https://www.city.fukuoka.lg.jp/suido/nyusatsu.html,0,0,1,2026-11-22
@@ -3426,7 +3743,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/suido/documents/R080731hachyukijunkaitei.pdf,工事請負契約に係る発注標準の改定について（PDF：162KB）,https://www.city.fukuoka.lg.jp/suido/topics-keiyaku.html,1,0,0,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/suido/nyusatsu.html,入札結果情報,https://www.city.fukuoka.lg.jp/mizu/somu/0109.html,0,0,1,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/suido/topics-keiyaku.html,入札・契約に関するお知らせ,https://www.city.fukuoka.lg.jp/mizu/somu/0109.html,0,0,1,2026-11-22
-401307,福岡市,bids,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/business/documents/Kakuninkoubo-youkou-20140205.pdf,※「随意契約における参加者の有無を確認する公募手続（試行）に関する要綱」 （PDF：113KB）,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/business/zuiikeiyaku.html,1,0,0,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/keiyaku_hp/contract_index.html,入札・契約情報,https://www.city.fukuoka.lg.jp/business/keiyaku-kobo/index.html,0,0,1,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/keiyaku_hp/documents/hukuokacity-mitumorisyo.pdf,物品用見積書（随意契約伺） （PDF：216KB）,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/keiyaku_hp/contract02.html,1,0,0,2026-11-22
 401307,福岡市,bids,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/keiyaku_hp/documents/kensaku2.pdf,入札情報サービスシステムの操作方法 （251kbyte）,https://www.city.fukuoka.lg.jp/zaisei/keiyaku-info/keiyaku_hp/contract_index.html,1,0,0,2026-11-22
@@ -3781,35 +4097,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/30Npoint.pdf,平成30年度当初予算案のポイント（一般会計の概要） （109kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/30Ntousyoyosanan_.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/30Nsesaku.pdf,平成30年度各局重要施策 （608kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/30Ntousyoyosanan_.html,1,0,0,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/30Ntokusyoku.pdf,平成30年度当初予算案の特色 （551kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/30Ntousyoyosanan_.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/4nendo5gatuhosei.pdf,令和４年度 令和４年５月補正予算案 （180kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4nendoreiwa4nen5gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/4nendo6gatsuhosei.pdf,令和４年度 令和４年６月補正予算案 （250kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4nendoreiwa4nen6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo12gatuhosei.pdf,令和５年度 12月補正予算案 （260kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo12gatuhosei_setsumeisho.pdf,"令和5年12月 令和５年度一般会計及び特別会計補正予算案説明書 （2,060kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo12gatuhosei_yosanan.pdf,令和5年12月 令和５年度一般会計及び特別会計補正予算案 （742kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo2gatuhosei.pdf,令和５年度 2月補正予算案（247kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo2gatuhosei_setsumeisho.pdf,"令和６年2月 令和５年度一般会計及び特別会計補正予算案説明書（1,273kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo2gatuhosei_yosanan.pdf,令和６年2月 令和５年度一般会計及び特別会計補正予算案（752kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo3gatsuhosei.pdf,令和５年度 令和５年３月補正予算案 （187kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendoreiwa5nen3gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo3gatsuhosei_setsumeisho.pdf,令和5年3月 一般会計補正予算案説明書 （592kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendoreiwa5nen3gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo3gatsuhosei_yosanan.pdf,令和5年3月 一般会計補正予算案 （458kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendoreiwa5nen3gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo6gatsuhosei.pdf,令和５年度 ６月補正予算案 （266kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo6gatsuhosei_setsumeisho.pdf,令和5年６月 令和５年度一般会計及び特別会計補正予算案説明書 （786kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo6gatsuhosei_yosanan.pdf,令和5年６月 令和５年度一般会計及び特別会計補正予算案 （527kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo9gatsuhosei.pdf,令和５年度 ９月補正予算案 （428kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo9gatsuhosei_setsumeisho.pdf,令和5年9月 令和５年度一般会計及び特別会計補正予算案説明書 （933kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/5nendo9gatsuhosei_yosanan.pdf,令和5年9月 令和５年度一般会計及び特別会計補正予算案 （652kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/5nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/6nendo12gatuhosei_setsumeisho.pdf,"令和６年12月 令和６年度一般会計及び特別会計補正予算案説明書（PDF：1,789KB）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/6nendo12gatuhosei_yosanan.pdf,令和６年12月 令和６年度一般会計及び特別会計補正予算案（PDF：675KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/6nendo9gatsuhosei.pdf,令和６年度 ９月補正予算案 （284kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/6nendo9gatsuhosei_setsumeisho.pdf,令和６年９月 令和６年度一般会計及び特別会計補正予算案説明書 （839kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/6nendo9gatsuhosei_yosanan.pdf,令和６年９月 令和６年度一般会計及び特別会計補正予算案 （546kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo12gatuhosei_setsumeisho.pdf,"令和7年12月 令和7年度一般会計及び特別会計補正予算案説明書（PDF：2,155KB）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo12gatuhosei_setsumeisho_tsuika.pdf,令和7年12月 令和7年度一般会計及び特別会計補正予算案説明書（PDF：433KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor12gatsuhosei_tsuika.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo12gatuhosei_yosanan.pdf,令和7年12月 令和7年度一般会計及び特別会計補正予算案（PDF：723KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo12gatuhosei_yosanan_tsuika.pdf,令和7年12月 令和7年度一般会計及び特別会計補正予算案（PDF：170KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor12gatsuhosei_tsuika.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo9gatsuhosei.pdf,令和7年度９月補正予算案（PDF：174KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo9gatsuhosei_setsumeisho.pdf,令和7年９月 令和7年度一般会計及び特別会計補正予算案説明書（PDF：795KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor9gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/7nendo9gatsuhosei_yosanan.pdf,令和7年９月 令和7年度一般会計及び特別会計補正予算案（PDF：581KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor9gatsuhosei.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/H24gaiyou2.pdf,"平成24年度当初予算案の概要 （1,262kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/H24tousyoyosan_2.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/H24juuyoujigyou42.22.pdf,"平成24年度当初予算案重要事業等（前半） （2,971kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/H24tousyoyosan_2.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/H24juuyoujigyou52.22.pdf,"平成24年度当初予算案重要事業等（後半） （2,780kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/H24tousyoyosan_2.html,1,0,1,2026-11-22
@@ -3823,21 +4110,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/H25keisuusiryou.pdf,平成25年度当初予算案計数資料 （190kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/H25tousyoyosan_2_2.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/H25point.pdf,平成25年度当初予算案のポイント（一般会計の概要） （112kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/H25tousyoyosan_2_2.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/H25tokushoku.pdf,平成25年度当初予算案の特色 （722kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/H25tousyoyosan_2_2.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo12gatsuhosei.pdf,令和６年度 12月補正予算案（PDF：243KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo2gatsuhosei.pdf,令和６年度 2月補正予算案等（PDF：274KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo2gatsuhosei_setsumeisho.pdf,"令和７年2月 令和６年度一般会計補正予算案説明書及び特別会計予算案・補正予算案説明書（PDF：1,396KB）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo2gatsuhosei_yosanan.pdf,令和７年2月 令和６年度一般会計補正予算案及び特別会計予算案・補正予算案（PDF：687KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo6gatsuhosei.pdf,令和６年度 ６月補正予算案（114kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo6gatsuhosei_setsumeisho.pdf,令和６年６月 令和６年度一般会計及び特別会計補正予算案説明書（725kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R6nendo6gatsuhosei_yosanan.pdf,令和６年６月 令和６年度一般会計及び特別会計補正予算案（499kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/6nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo12gatsuhosei.pdf,令和7年度12月補正予算案（PDF：150KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor12gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo12gatsuhosei_tsuika.pdf,令和7年度12月補正予算案（追加提出分）（PDF：176KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor12gatsuhosei_tsuika.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo2gatsuhosei.pdf,令和7年度 2月補正予算案（PDF：262KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendo2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo2gatsuhosei_setsumeisho.pdf,"令和8年2月 令和7年度一般会計及び特別会計補正予算案説明書（PDF：1,355KB）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendo2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo2gatsuhosei_yosanan.pdf,令和8年2月 令和7年度一般会計及び特別会計補正予算案（PDF：383KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendo2gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo6gatsuhosei.pdf,令和7年度 6月補正予算案（PDF：121KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo6gatsuhosei_setsumeisho.pdf,令和7年6月 令和7年度一般会計補正予算案説明書（PDF：675KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R7nendo6gatsuhosei_yosanan.pdf,令和7年6月 令和7年度一般会計補正予算案（PDF：483KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/7nendor6gatsuhosei.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R8nendo6gatsuhosei.pdf,令和8年度 ６月補正予算案（PDF：151KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/8nendor6gatsuhosei.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R8nendo6gatsuhosei_setsumeisyo.pdf,令和8年６月 令和８年度一般会計及び特別会計補正予算案説明書（PDF：704KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/8nendor6gatsuhosei.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R8nendo6gatsuhosei_tsuika.pdf,令和8年度6月補正予算案（追加提出分）（PDF：91KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/8nendor6gatsuhosei_tsuika.html,1,0,1,2026-11-22
@@ -3849,10 +4121,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/R8nendo9gatsuhosei_yosanan.pdf,令和８年９月 令和８年度一般会計及び特別会計補正予算案（PDF：639KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/8nendor9gatsuhosei.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/cyouseinogaiyou08.pdf,調整の概要（PDF：416KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/chouseinogaiyou08.html,1,0,0,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/mitsumoriyosan08.pdf,令和８年度予算各局等見積（要求）額の状況（PDF：53KB）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/kyokumitsumori08.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nen5gatsu_setsumeisho.pdf,令和４年５月 一般会計補正予算案説明書 （642kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4nendoreiwa4nen5gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nen5gatsu_yosanan.pdf,令和4年5月 一般会計補正予算案 （458kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4nendoreiwa4nen5gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nen6gatsu_setsumeisho.pdf,令和4年6月 一般会計及び特別会計補正予算案説明書 （316kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4nendoreiwa4nen6gatsuhosei.html,1,0,1,2026-11-22
-401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nen6gatsu_yosanan.pdf,令和４年６月 一般会計及び特別会計補正予算案 （116kbyte）,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4nendoreiwa4nen6gatsuhosei.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nentousho_setsumeisho1.pdf,"令和4年度当初 一般会計及び特別会計予算案説明書1 （6,921kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4Ntoushoyosanan.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nentousho_setsumeisho2.pdf,"令和4年度当初 一般会計及び特別会計予算案説明書2 （8,185kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4Ntoushoyosanan.html,1,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/documents/reiwa4nentousho_yosanan.pdf,"令和４年度当初 一般会計及び特別会計予算案 （1,579kbyte）",https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/4Ntoushoyosanan.html,1,0,1,2026-11-22
@@ -3875,6 +4143,20 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/yosanmitsumori201106.html,平成23年度6月補正予算案 2011年9月5日,https://www.city.fukuoka.lg.jp/shisei/zaisei-kifu/zaisei-yosan/yosan-h23.html,0,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/yosanmitsumori201109.html,平成23年度9月補正予算案 2011年9月5日,https://www.city.fukuoka.lg.jp/shisei/zaisei-kifu/zaisei-yosan/yosan-h23.html,0,0,1,2026-11-22
 401307,福岡市,budget,https://www.city.fukuoka.lg.jp/zaisei/zaisei/shisei/yosanmitsumori_2.html,平成23年度予算各局等見積の状況 2011年1月12日,https://www.city.fukuoka.lg.jp/shisei/zaisei-kifu/zaisei-yosan/yosan-h23.html,0,0,1,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/namagomi_taihikayoki_hojokin.html,家庭用生ごみ堆肥化容器購入費補助金について 2026年11月21日,http://www.city.fukuoka.lg.jp/,0,0,1,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/namagomi_taihikayoki_hojokin_2.html,家庭用生ごみ堆肥化容器購入費補助金オンライン申請ページ 2026年11月21日,http://www.city.fukuoka.lg.jp/,0,0,1,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/hennkousinnsei.docx,交付申請内容変更承認申請書（様式第９号）（ワード：19KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/hojyokinnannnai.pdf,補助金のご案内（PDF：517KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,1,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/ininjou.docx,委任状 （ワード：17KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/jissekihoukokusyo.docx,補助対象事業（登記申請完了）実績報告書（様式第６号） （ワード：19KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/kinyuurei.pdf,記入例はこちら（PDF：270KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/kouhusinseisyo.docx,福岡市新規創業促進補助金交付申請書兼同意書（様式第１号）（ワード：29KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,1,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/mennkyozeiryousyuusyo.pdf,"登録免許税の支出を証する書類について（PDF：1,040KB）",http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/seikyuusyo.xlsx,請求書（エクセル：31KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/shoukaiyoumeibo_youshiki2.xlsx,照会用名簿（様式第２号） （エクセル：11KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/torisagesyo.docx,（ワード：18KB）,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,令和8年度福岡市新規創業促進補助金のご案内 2026年11月20日,http://www.city.fukuoka.lg.jp/,0,0,1,2026-11-22
+401307,福岡市,grants,http://www.city.fukuoka.lg.jp/shisei/zaisei-kifu/index.html#004,補助金等審査委員会,http://www.city.fukuoka.lg.jp/shisei/index.html,0,0,1,2026-11-22
 401307,福岡市,grants,https://seisansei.smrj.go.jp/,補助金活用ナビ,https://www.city.fukuoka.lg.jp/keizai/keieishien/business/jigyo_tenkai_support.html,0,1,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/business/kenchiku/00001_2_2_2_4.html,補助制度,https://www.city.fukuoka.lg.jp/business/kenchiku/sienseido.html,0,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/business/kenchiku/sienseido.html,建築物に関する支援制度を受ける（アスベスト・耐震改修等）,https://www.city.fukuoka.lg.jp/business/index.html,0,0,1,2026-11-22
@@ -4193,7 +4475,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/jutaku-toshi/somu/shisei/documents/r8_shigaichisaikaihatsu_youkou.pdf,要綱（PDF：91KB）,https://www.city.fukuoka.lg.jp/jutaku-toshi/somu/shisei/R8hojokintyousyo_jyutakutoshi.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/jutaku-toshi/somu/shisei/documents/r8_sumaisupport.pdf,住まいサポートふくおか運営費補助金（PDF：120KB）,https://www.city.fukuoka.lg.jp/jutaku-toshi/somu/shisei/R8hojokintyousyo_jyutakutoshi.html,1,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/jutaku-toshi/somu/shisei/documents/r8_toshikeikan.pdf,都市景観補助金（PDF：76KB）,https://www.city.fukuoka.lg.jp/jutaku-toshi/somu/shisei/R8hojokintyousyo_jyutakutoshi.html,1,0,1,2026-11-22
-401307,福岡市,grants,https://www.city.fukuoka.lg.jp/kankyo/j-suishin/genre/0001.html,補助金・サポート,https://www.city.fukuoka.lg.jp/kankyo/kateigomi/business/sodainyusatsuKEKKA_reiwa2.html,0,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/documents/r8-10.docx,Word版（ワード：43KB）,https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/namagomi_taihikayoki_hojokin.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/documents/r8-10.pdf,代理申請者選任届（様式第10号）PDF版（PDF：515KB）,https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/namagomi_taihikayoki_hojokin.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/documents/r8-3.pdf,取下届（様式第３号）PDF版（PDF：100KB）,https://www.city.fukuoka.lg.jp/kankyo/jigyokeigomi/life/3r/namagomi_taihikayoki_hojokin.html,1,0,0,2026-11-22
@@ -4292,7 +4573,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/keieishien/life/documents/R7ndshougakukinnkouhouyoukoufuyoukouhojyokinn.pdf,福岡市中小企業奨学金返還支援事業補助金交付要綱（PDF：322KB）,https://www.city.fukuoka.lg.jp/keizai/keieishien/life/fukuoka_shogakukinhenkan_support.html,1,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/keieishien/life/documents/fukuokashi_shougakukin_koho.pdf,"事業（広報用）チラシ（PDF：15,760KB）",https://www.city.fukuoka.lg.jp/keizai/keieishien/life/fukuoka_shogakukinhenkan_support.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/keieishien/life/fukuoka_shogakukinhenkan_support.html,中小企業奨学金返還支援事業（補助金） 2026年11月16日,https://www.city.fukuoka.lg.jp/business/kigyoshien/index.html,0,0,1,2026-11-22
-401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/R8nd/documents/shitumon_kaito.pdf,質問と回答（PDF：233KB）,https://www.city.fukuoka.lg.jp/keizai/r-support/kenkyukaihatsu_hojokin_shitsumonkaitou_2026.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/hennkousinnsei.docx,交付申請内容変更承認申請書（様式第９号）（ワード：19KB）,https://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/hojyokinnannnai.pdf,補助金のご案内（PDF：517KB）,https://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/ininjou.docx,委任状 （ワード：17KB）,https://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
@@ -4304,7 +4584,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/shoukaiyoumeibo_youshiki2.xlsx,照会用名簿（様式第２号） （エクセル：11KB）,https://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/documents/torisagesyo.docx,（ワード：18KB）,https://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/business/tokutei-sougyou-sientoujigyou_08.html,令和8年度福岡市新規創業促進補助金のご案内 2026年11月20日,https://www.city.fukuoka.lg.jp/,0,0,1,2026-11-22
-401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/r-support/kenkyukaihatsu_hojokin_shitsumonkaitou_2026.html,【令和８年度】「福岡市研究開発型スタートアップ成長支援事業補助金」に関する質問と回答,https://www.city.fukuoka.lg.jp/business/keiyaku-kobo/teiankyogi.html,0,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/seisakuchosei/shisei/documents/r701_shokibo.pdf,小規模事業指導事業補助金（PDF：114KB）,https://www.city.fukuoka.lg.jp/keizai/seisakuchosei/shisei/r7hojokintyousyokeizai.html,1,0,1,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/seisakuchosei/shisei/documents/r701_shokiboyoukou.pdf,要綱（PDF：274KB）,https://www.city.fukuoka.lg.jp/keizai/seisakuchosei/shisei/r7hojokintyousyokeizai.html,1,0,0,2026-11-22
 401307,福岡市,grants,https://www.city.fukuoka.lg.jp/keizai/seisakuchosei/shisei/documents/r702_shoutengaiibento.pdf,商店街イベント事業補助金（PDF：145KB）,https://www.city.fukuoka.lg.jp/keizai/seisakuchosei/shisei/r7hojokintyousyokeizai.html,1,0,1,2026-11-22
@@ -13430,7 +13709,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/ijyuiizuka/16241.html,移住支援事業（移住に関する補助制度）,https://www.city.iizuka.lg.jp/site/ijyuiizuka/list76-252.html,0,0,1,2026-11-22
 402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/ijyuiizuka/2905.html,浄化槽設置整備補助金の紹介,https://www.city.iizuka.lg.jp/site/ijyuiizuka/list76-252.html,0,0,1,2026-11-22
 402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/ijyuiizuka/list76-252.html,移住支援制度,https://www.city.iizuka.lg.jp/site/ijyuiizuka/1147.html,0,0,1,2026-11-22
-402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/shinsei/1145.html,飯塚市ブロック塀等撤去補助金制度,https://www.city.iizuka.lg.jp/life/1/,0,0,1,2026-11-22
+402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/shinsei/1145.html,飯塚市ブロック塀等撤去補助金制度,https://www.city.iizuka.lg.jp/life/1/7/27/,0,0,1,2026-11-22
 402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/shinsei/1148.html,飯塚市木造戸建て住宅性能向上改修補助金制度,https://www.city.iizuka.lg.jp/life/1/7/27/,0,0,1,2026-11-22
 402052,飯塚市,grants,https://www.city.iizuka.lg.jp/site/shinsei/2051.html,飯塚市老朽危険家屋解体撤去補助金制度,https://www.city.iizuka.lg.jp/life/1/7/27/,0,0,1,2026-11-22
 402052,飯塚市,grants,https://www.city.iizuka.lg.jp/soshiki/15/2048.html,飯塚市協働のまちづくり応援補助金,https://www.city.iizuka.lg.jp/life/6/27/101/,0,0,1,2026-11-22
@@ -31391,324 +31670,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 404021,鞍手町,grants,https://www.town.kurate.lg.jp/syoukai/documents/b8_chiikikasseika_checksheat.pdf,PDF,https://www.town.kurate.lg.jp/syoukai/chiikikasseikahojyokin_kobo.html,1,0,0,2026-11-22
 404021,鞍手町,grants,https://www.town.kurate.lg.jp/syoukai/documents/chiikikasseikajigyo_koufu_r06.pdf,鞍手町公募型地域活性化事業補助金交付要綱（PDF：298KB）,https://www.town.kurate.lg.jp/syoukai/chiikikasseikahojyokin_kobo.html,1,0,1,2026-11-22
 404021,鞍手町,grants,https://www.town.kurate.lg.jp/syoukai/documents/koubogatatiikikasseikajigyouhojokinn-2026.pdf,鞍手町公募型地域活性化事業補助金交付要領（PDF：387KB）,https://www.town.kurate.lg.jp/syoukai/chiikikasseikahojyokin_kobo.html,1,0,1,2026-11-22
-404217,桂川町,bids,https://www.ebs-cloud.fwd.ne.jp/CALS/Accepter/ebidmlit/jsp/common/dummy.jsp?name1=0660072006000620,桂川町電子入札システム【外部リンク】,https://www.town.keisen.fukuoka.jp/sitemap.php,0,1,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/e-bidding03.xlsx,紙入札用入札書（Excelファイル：16KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/rikou.xls,工事（委託）履行証明願,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/rikousyoumei.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_02.xls,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_03.xls,（27KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_04.xls,（27KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_05.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_06.xls,（28KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_07.xls,（27KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_08.xls,（26KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_09.xls,（30KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s220401_11.xls,（32KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/s260401_01.xls,（34KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_01.xlsx,（14KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_02.xls,（19KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_04.xlsx,（12KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_05.xlsx,（15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/syoukibo_06.xlsx,（15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s01.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s02.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s03.xls,（24KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s04.xls,（24KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s05.xls,（29KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s06.xls,（29KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s07.xls,（29KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s08.xls,（36KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s09.xls,（48KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s10.xls,（48KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s11.xls,（43KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s12.xls,（43KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s13.xls,（59KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s14.xls,（60KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s15.xls,（61KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s16.xls,（62KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s17.xls,（59KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s18.xls,（30KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s19.xls,（30KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s20.xls,（45KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s21.xls,（45KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s22.xls,（34KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s23.xls,（34KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s24.xls,（39KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s25.xls,（43KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s26.xls,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s27.xls,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/ukeoi_s28.xlsx,（15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/ukeoi_syorui.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_i_buppin.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_i_kouji.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_i_suidou.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_n_buppin.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_n_kouji.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/excel/nyusatsu/youshiki_n_suidou.xlsx,（13KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/chonai_ken260401.pdf,建設工事（193KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/chonai_sc260401.pdf,測量・コンサル（167KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/chonai_sei260401.pdf,清掃業務委託（171KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding01.pdf,桂川町電子入札実施要綱（PDFファイル：170KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding04.pdf,"導入編（PDFファイル：2,522KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding05.pdf,"指名競争入札マニュアル（PDFファイル：4,727KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding06.pdf,"入札情報公開システムマニュアル（PDFファイル：1,798KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding07.pdf,"ご利用までの流れ（PDFファイル：1,160KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding08.pdf,"利用者登録手順（PDFファイル：1,509KB）",https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding09.pdf,利用のためのPC環境設定（PDFファイル：843KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/e-bidding10.pdf,コアシステム対応民間認証局一覧（PDFファイル：82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/henkou_1.pdf,入札参加資格審査申請書変更届添付書類（84KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/henkou_1507_2.pdf,誓約書（92KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_01.pdf,（102KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_02.pdf,（98KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_03.pdf,（105KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_04.pdf,（95KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_05.pdf,（94KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_07_05h.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_08_01.pdf,（100KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/j_08_02.pdf,（94KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/k_r0810.pdf,令和8年度 発注予定工事情報調書（10月公表分）（127KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/mitoshi.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_02.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_03.pdf,（40KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_04.pdf,（46KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_05.pdf,（64KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_06.pdf,（48KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_07.pdf,（42KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_08.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_09.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_10.pdf,（51KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_11.pdf,（63KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s220401_12.pdf,（90KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s260401_01.pdf,（102KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_01h.pdf,（74KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_01n.pdf,（120KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_01s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_02n.pdf,（127KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_02s.pdf,（149KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_03n.pdf,（128KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_03s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_04n.pdf,（133KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_04s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_05n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_05s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_06n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_06s.pdf,（152KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_07h.pdf,（89KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_07n.pdf,（136KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_07s.pdf,（159KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_08h.pdf,（96KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_08n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_08s.pdf,（159KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_09h.pdf,（87KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_09n.pdf,（131KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_09s.pdf,（154KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_10n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_10s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_11h.pdf,（80KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_11n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_11s.pdf,（151KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_12h.pdf,（90KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_12n.pdf,（133KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_12s.pdf,（166KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_13h.pdf,（85KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_13n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_13s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_14n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_14s.pdf,（151KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_15h.pdf,（88KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_15n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_15s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_16h.pdf,（76KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_16n.pdf,（121KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_16s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_17h.pdf,（88KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_17n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_17s.pdf,（157KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_18h.pdf,（84KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_18n.pdf,（127KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_18s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_19n.pdf,（139KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_19s.pdf,（162KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_20h.pdf,（91KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_20n.pdf,（139KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_20s.pdf,（156KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_21h.pdf,（84KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_21n.pdf,（132KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_21s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_22h.pdf,（87KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_22n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_22s.pdf,（159KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_23h.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_23n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_07_23s.pdf,（155KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_01h.pdf,（82KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_01n.pdf,（129KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_01s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_02n.pdf,（131KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_02s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_03n.pdf,（120KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_03s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_04n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_04s.pdf,（149KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_05h.pdf,（77KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_05n.pdf,（123KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_05s.pdf,（147KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_06h.pdf,（87KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_06n.pdf,（135KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_06s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_07h.pdf,（96KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_07n.pdf,（136KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_07s.pdf,（158KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_08h.pdf,（83KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_08n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_08s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_09n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_09s.pdf,（154KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_10h.pdf,（80KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_10n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_10s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_11h.pdf,（80KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_11n.pdf,（126KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_11s.pdf,（151KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_12h.pdf,（89KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_12n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_12s.pdf,（153KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_13n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_13s.pdf,（160KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_14h.pdf,（90KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_14n.pdf,（140KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_14s.pdf,（156KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_15n.pdf,（137KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_15s.pdf,（160KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_16n.pdf,（134KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_16s.pdf,（150KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_17n.pdf,（136KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_17s.pdf,（152KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_18n.pdf,（130KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_18s.pdf,（154KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_19n.pdf,（131KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/s_08_19s.pdf,（152KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_01.pdf,（108KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_02.pdf,（26KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_04.pdf,（53KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_05.pdf,（91KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_06.pdf,（85KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/syoukibo_youryou_r07.pdf,申請要領（250KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/syoukibo.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_i_buppin.pdf,（37KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_i_kouji.pdf,（37KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_i_suidou.pdf,（38KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_n_buppin.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_n_kouji.pdf,（46KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/pdf/nyusatsu/youshiki_n_suidou.pdf,（47KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/youshiki.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,入札・契約情報,https://www.town.keisen.fukuoka.jp/,0,0,1,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka07.php,入札結果（令和7年度）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,0,0,1,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/kekka08.php,入札・契約情報＜入札結果（令和8年度）を更新しました,https://www.town.keisen.fukuoka.jp/,0,0,1,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/mitoshi.php,入札・契約情報<発注見通し を更新しました,https://www.town.keisen.fukuoka.jp/rireki/rirekiList.php,0,0,1,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/word/nyusatsu/e-bidding02.docx,紙入札方式参加届出書（Wordファイル：15KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/word/nyusatsu/s220401_10.docx,（17KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,bids,https://www.town.keisen.fukuoka.jp/word/nyusatsu/s220401_12.docx,（21KB）,https://www.town.keisen.fukuoka.jp/townspeople/nyusatsu/shimei20.php,1,0,0,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R01_y.pdf,令和元年度予算（PDFファイル：79KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R02_y.pdf,令和2年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R03_y.pdf,令和3年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R04_y.pdf,令和4年度予算（PDFファイル：73KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R05_y.pdf,令和5年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R06_y.pdf,令和6年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R07_y.pdf,令和7年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/keihi_R08_y.pdf,令和8年度予算（PDFファイル：75KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo27.pdf,"平成27年度 当初予算書（PDFファイル：3,097KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo28.pdf,"平成28年度 当初予算書（PDFファイル：21,748KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo29.pdf,"平成29年度 当初予算書（PDFファイル：22,963KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo30.pdf,"平成30年度 当初予算書（PDFファイル：25,380KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyo31.pdf,"平成31年度 当初予算書（PDFファイル：22,421KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR02.pdf,"令和2年度 当初予算書（PDFファイル：24,392KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR03.pdf,"令和3年度 当初予算書（PDFファイル：2,450KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04.pdf,"令和4年度 一般会計当初予算書（PDFファイル：2,490KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei01.pdf,令和4年度 一般会計補正予算書（補正第１号）（PDFファイル：274KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei02.pdf,令和4年度 一般会計補正予算書（専決第１号）（PDFファイル：132KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei03.pdf,令和4年度 一般会計補正予算書（補正第２号）（PDFファイル：389KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei04.pdf,令和4年度 一般会計補正予算書（専決第２号）（PDFファイル：173KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei05.pdf,令和4年度 一般会計補正予算書（補正第３号）（PDFファイル：701KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei06.pdf,令和4年度 一般会計補正予算書（専決第３号）（PDFファイル：117KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei07.pdf,令和4年度 一般会計補正予算書（専決第４号）（PDFファイル：118KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei08.pdf,令和4年度 一般会計補正予算書（補正第４号）（PDFファイル：608KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei09.pdf,令和4年度 一般会計補正予算書（専決第５号）（PDFファイル：247KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei10.pdf,令和4年度 一般会計補正予算書（補正第５号）（PDFファイル：185KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR04_hosei11.pdf,令和4年度 一般会計補正予算書（専決第６号）（PDFファイル：850KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05.pdf,"令和5年度 一般会計当初予算書（PDFファイル：2,521KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei01.pdf,令和5年度 一般会計補正予算書（補正第１号）（PDFファイル：142KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei02.pdf,令和5年度 一般会計補正予算書（専決第１号）（PDFファイル：122KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei03.pdf,令和5年度 一般会計補正予算書（補正第２号）（PDFファイル：330KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei04.pdf,令和5年度 一般会計補正予算書（専決第２号）（PDFファイル：112KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei05.pdf,令和5年度 一般会計補正予算書（補正第３号）（PDFファイル：724KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei06.pdf,令和5年度 一般会計補正予算書（補正第４号）（PDFファイル：651KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei07.pdf,令和5年度 一般会計専決予算（専決第3号）（PDFファイル：162KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,0,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei08.pdf,令和5年度 一般会計専決予算（専決第4号）（PDFファイル：131KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,0,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR05_hosei09.pdf,令和5年度 一般会計補正予算（補正第5号）（PDFファイル：384KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06.pdf,"令和6年度 一般会計予算書（PDFファイル：2,590,KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei01.pdf,令和6年度 一般会計補正予算書（専決第１号）（PDFファイル：105KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei02.pdf,令和6年度 一般会計補正予算書（補正第１号）（PDFファイル：231KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei03.pdf,令和6年度 一般会計補正予算書（専決第２号）（PDFファイル：101KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei04.pdf,令和6年度 一般会計補正予算書（補正第２号）（PDFファイル：714KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei05.pdf,令和6年度 一般会計補正予算書（専決第３号）（PDFファイル：127KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei06.pdf,令和6年度 一般会計補正予算書（専決第４号）（PDFファイル：246KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei07.pdf,令和6年度 一般会計補正予算書（補正第３号）（PDFファイル：654KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei08.pdf,令和6年度 一般会計補正予算書（専決第５号）（PDFファイル：105KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei09.pdf,令和6年度 一般会計補正予算書（専決第６号）（PDFファイル：122KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR06_hosei10.pdf,令和6年度 一般会計補正予算書（補正第４号）（PDFファイル：381KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07.pdf,"令和7年度 一般会計予算書（PDFファイル：1,228KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei01.pdf,令和7年度 一般会計補正予算書（補正第１号）（PDFファイル：387KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei02.pdf,令和7年度 一般会計補正予算書（専決第１号）（PDFファイル：100KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei03.pdf,令和7年度 一般会計補正予算書（専決第２号）（PDFファイル：98KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei04.pdf,令和7年度 一般会計補正予算書（補正第２号）（PDFファイル：735KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei05.pdf,令和7年度 一般会計補正予算書（専決第３号）（PDFファイル：277KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei06.pdf,令和7年度 一般会計補正予算書（補正第３号）（PDFファイル：711KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei07.pdf,令和7年度 一般会計補正予算書（専決第４号）（PDFファイル：114KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei08.pdf,令和7年度 一般会計補正予算書（専決第５号）（PDFファイル：117KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei09.pdf,令和7年度 一般会計補正予算書（専決第６号）（PDFファイル：128KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei10.pdf,令和7年度 一般会計補正予算書（補正第４号）（PDFファイル：444KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR07_hosei11.pdf,令和7年度 一般会計補正予算書（専決第７号）（PDFファイル：900KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei/zaisei_yosan.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08.pdf,"令和8年度 一般会計予算書（PDFファイル：2,670KB）",https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei01.pdf,令和8年度 一般会計補正予算書（専決第１号）（PDFファイル：98KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei02.pdf,令和8年度 一般会計補正予算書（補正第１号）（PDFファイル：104KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei03.pdf,令和8年度 一般会計補正予算書（補正第２号）（PDFファイル：224KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei04.pdf,令和8年度 一般会計補正予算書（専決第２号）（PDFファイル：249KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,budget,https://www.town.keisen.fukuoka.jp/pdf/zaisei/tousyoR08_hosei05.pdf,令和8年度 一般会計補正予算書（補正第３号）（PDFファイル：684KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF2007313.docx,定期券購入費補助金申請様式（Wordファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF3007313.pdf,定期券購入費補助金申請様式（記入例）（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF4007313.pdf,電子申請方法（パソコン）（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/UPLOAD/INFF5007313.pdf,電子申請方法（スマホ）（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/news/%e6%a1%82%e5%b7%9d%e7%94%ba%e7%a7%bb%e4%bd%8f%e5%b0%b1%e6%a5%ad%e6%94%af%e6%8f%b4%e8%a3%9c%e5%8a%a9%e9%87%91%e3%81%ae%e7%94%b3%e8%ab%8b%e5%8f%97%e4%bb%98%e4%b8%ad%e6%96%ad%e3%81%ab%e3%81%a4%e3%81%84/,桂川町移住就業支援補助金の申請受付の再開について,https://www.town.keisen.fukuoka.jp/anniversary80/,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/support/,移住支援制度,https://www.town.keisen.fukuoka.jp/anniversary80/,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2021/01/01_移住支援事業_申請様式.pdf,♪ 補助金申請書をダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2023/06/11_桂川町移住定住奨励金等交付該当要件チェック表-1.pdf,♪ 補助金申請書をダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2023/06/R5桂川町結婚新生活支援補助金交付申請書一式.pdf,♪ 補助金申請書をダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/住宅ローン金利優遇措置.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/移住定住奨励金等交付事業.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/移住就業支援事業-1.pdf,♪ 詳しいチラシをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2024/06/結婚新生活支援事業-1.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2026/06/浄化槽設置補助金交付事業03.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/anniversary80/wordpress/wp-content/uploads/2026/09/移住就業支援事業.pdf,♪ 詳しいちらしをダウンロード ♪,https://www.town.keisen.fukuoka.jp/anniversary80/support/,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,桂川町大学生等通学定期券購入費補助金事業,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/block.php,ブロック塀等撤去費補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/jyoukaso.php,浄化槽補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/namagomi.php,電動生ごみ処理機購入費補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/roukyu.php,桂川町老朽家屋等解体補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/kurashi/benri/taishinkaisyu.php,木造戸建住宅耐震改修工事費等補助金について,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/block.pdf,桂川町ブロック塀等撤去費補助金交付要綱（PDFファイル：227KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/block.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/namagomi.pdf,桂川町電動生ごみ処理機購入費補助金交付要綱（PDFファイル：88KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/namagomi.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/roukyu.pdf,桂川町老朽家屋等解体補助金交付要綱（PDFファイル：227KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/roukyu.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/benri/taishinkaisyu.pdf,桂川町木造戸建住宅耐震改修工事費等補助金交付要綱（PDFファイル：155KB）,https://www.town.keisen.fukuoka.jp/kurashi/benri/taishinkaisyu.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/download/hoken/zyoka_koufu.pdf,桂川町浄化槽設置整備事業補助金交付要綱（PDFファイル：163KB）,https://www.town.keisen.fukuoka.jp/townspeople/download/hoken.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/download/kenkou/kenshin_gan_appearance.pdf,桂川町アピアランスケア推進事業助成金交付申請書（PDFファイル：113KB）,https://www.town.keisen.fukuoka.jp/kenkou/kenkou/jyosei.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/kenkou/ninpushien_soudan.pdf,給付金と相談窓口のご案内（PDFファイル：124KB）,https://www.town.keisen.fukuoka.jp/kosodate/boshihoken/ninpushienkyufu.php,1,0,0,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/kosodate/tsugakuenjo.pdf,（参考）桂川町大学生等通学定期券購入費補助金チラシ（PDFファイル）,https://www.town.keisen.fukuoka.jp/kosodate/tsugaku/tsugakuhojo.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/tetsuzuki/kekkonseikatsu01.pdf,桂川町結婚新生活支援補助金交付要綱（PDFファイル：201KB）,https://www.town.keisen.fukuoka.jp/kurashi/tetsuzuki/kekkonseikatsu.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/pdf/tetsuzuki/kekkonseikatsu02.pdf,桂川町結婚新生活支援補助金に関するＱ＆Ａ（PDFファイル：85KB）,https://www.town.keisen.fukuoka.jp/kurashi/tetsuzuki/kekkonseikatsu.php,1,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/hoken.php#namagomi,電動生ごみ処理機購入費補助金関係,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/hoken.php#zyoka,浄化槽補助金申請関係,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kenkou.php#appearance,アピアランスケア推進事業助成金交付申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kensetsu.php#block,ブロック塀等撤去費補助金申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kensetsu.php#roukyu,老朽家屋家屋等解体費補助金,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/kensetsu.php#taishinkaisyu,木造戸建住宅耐震改修工事費等補助金申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/townspeople/download/sangyou.php#kaisyu,住宅改修補助金交付申請書,https://www.town.keisen.fukuoka.jp/sitemap.php,0,0,1,2026-11-22
-404217,桂川町,grants,https://www.town.keisen.fukuoka.jp/word/zaisei/jutenshien_report0801.doc,重点支援地方交付金の活用状況（Wordファイル：43KB）,https://www.town.keisen.fukuoka.jp/tyousei/zaisei.php,1,0,0,2026-11-22
 404471,筑前町,bids,https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/01_kusabagawa_sakuranamiki.pdf,01_草場川桜並木管理業務（PDF：87KB）,https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/20250404114248.html,1,0,0,2026-11-22
 404471,筑前町,bids,https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/02_kokudo386_ryokuti.pdf,02_国道３８６号線側道緑地公園・大國様公園管理業務（PDF：89KB）,https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/20250404114248.html,1,0,0,2026-11-22
 404471,筑前町,bids,https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/03_sangayama_zyumoku.pdf,03_三箇山道路公園樹木・草刈管理業務（PDF：83KB）,https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/20250404114248.html,1,0,0,2026-11-22
@@ -35307,7 +35268,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 406091,赤村,bids,https://www.akamura.net/government/news_808/,2026年04月27日入札・契約>公共工事変更請負契約の内容に関する事項の公表,https://www.akamura.net/government/news_keiyaku/,0,0,1,2026-11-22
 406091,赤村,bids,https://www.akamura.net/government/news_821/,2026年06月03日入札・契約>令和８年度 指名願名簿について,https://www.akamura.net/government/news_keiyaku/,0,0,1,2026-11-22
 406091,赤村,bids,https://www.akamura.net/government/news_823/,2026年06月03日入札・契約>令和８年度入札結果について,https://www.akamura.net/government/news_keiyaku/,0,0,1,2026-11-22
-406091,赤村,bids,https://www.akamura.net/government/news_keiyaku/,入札・契約News,https://www.akamura.net/government/news_858/,0,0,1,2026-11-22
+406091,赤村,bids,https://www.akamura.net/government/news_keiyaku/,・入札・契約のお知らせ,https://www.akamura.net/government/sitemap.html,0,0,1,2026-11-22
 406091,赤村,bids,https://www.akamura.net/img/government/704_1.pdf,５月１５日入札結果表,https://www.akamura.net/government/news_704/,1,0,1,2026-11-22
 406091,赤村,bids,https://www.akamura.net/img/government/704_2.pdf,５月２１日入札結果表,https://www.akamura.net/government/news_704/,1,0,1,2026-11-22
 406091,赤村,bids,https://www.akamura.net/img/government/704_4.pdf,６月２０日入札結果表,https://www.akamura.net/government/news_704/,1,0,1,2026-11-22
