@@ -4,7 +4,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 282014,兵庫県,姫路市,https://www.city.himeji.lg.jp/,300,,226,66,0,175,https://www.city.himeji.lg.jp,200:300 ConnectionError:1,
 282022,兵庫県,尼崎市,https://www.city.amagasaki.hyogo.jp/,300,,1480,2,32,202,https://www.city.amagasaki.hyogo.jp,200:300 ConnectionError:2,
 282031,兵庫県,明石市,https://www.city.akashi.lg.jp/,300,,829,286,0,293,https://www.city.akashi.lg.jp,200:295 404:6 ConnectionError:1,
-282049,兵庫県,西宮市,https://www.nishi.or.jp/,300,,262,88,0,111,https://www.nishi.or.jp,200:242 404:58 ConnectionError:1 robots:1,
+282049,兵庫県,西宮市,https://www.nishi.or.jp/,300,,264,88,0,114,https://www.nishi.or.jp,200:241 404:59 ConnectionError:1 robots:1,
 282057,兵庫県,洲本市,https://www.city.sumoto.lg.jp/,269,,67,155,0,112,https://www.city.sumoto.lg.jp,200:273 404:1 ConnectionError:1,
 282065,兵庫県,芦屋市,https://www.city.ashiya.lg.jp/,300,,203,129,0,74,https://www.city.ashiya.lg.jp,200:296 404:4 ConnectionError:1,
 282073,兵庫県,伊丹市,https://www.city.itami.lg.jp/,300,,147,216,0,63,https://www.city.itami.lg.jp,200:299 404:1 ConnectionError:1,
@@ -33,7 +33,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 283657,兵庫県,多可町,https://www.town.taka.lg.jp/,131,,9,212,0,118,https://www.town.taka.lg.jp,200:234,国内ブラウザ
 283819,兵庫県,稲美町,https://www.town.hyogo-inami.lg.jp/,293,,25,4,0,193,https://www.town.hyogo-inami.lg.jp,200:303 ConnectTimeout:1 ConnectionError:1,
 283827,兵庫県,播磨町,https://www.town.harima.lg.jp/,300,,78,382,0,187,https://www.town.harima.lg.jp,200:218 404:100 ConnectionError:1,
-284424,兵庫県,市川町,https://www.town.ichikawa.lg.jp/,289,,49,14,0,94,https://www.town.ichikawa.lg.jp,200:297 ConnectionError:1 robots:1,
+284424,兵庫県,市川町,https://www.town.ichikawa.lg.jp/,290,,49,15,0,94,https://www.town.ichikawa.lg.jp,200:298 ConnectionError:1 robots:1,
 284432,兵庫県,福崎町,https://www.town.fukusaki.hyogo.jp/,248,,5,1113,9,88,https://www.town.fukusaki.hyogo.jp,200:250 ConnectionError:1 SSLError:1,
 284467,兵庫県,神河町,https://www.town.kamikawa.hyogo.jp/,210,,11,780,0,100,https://www.town.kamikawa.hyogo.jp,200:214 403:1 ConnectionError:2,
 284645,兵庫県,太子町,https://www.town.hyogo-taishi.lg.jp/,209,,97,185,0,11,https://www.town.hyogo-taishi.lg.jp,200:212 ConnectionError:1,
