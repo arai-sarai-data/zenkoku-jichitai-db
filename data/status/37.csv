@@ -1,6 +1,6 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 370002,香川県,香川県,https://www.pref.kagawa.lg.jp/,300,,980,36,0,505,https://www.pref.kagawa.lg.jp,200:298 404:2 ConnectionError:1
-372013,香川県,高松市,https://www.city.takamatsu.kagawa.jp/,300,,344,493,0,433,https://www.city.takamatsu.kagawa.jp,200:233 404:67 ConnectionError:2
+372013,香川県,高松市,https://www.city.takamatsu.kagawa.jp/,300,,346,698,0,481,https://www.city.takamatsu.kagawa.jp,200:247 404:53 ConnectionError:2
 372021,香川県,丸亀市,https://www.city.marugame.lg.jp/,300,,179,344,0,486,https://www.city.marugame.lg.jp,200:302 ConnectionError:1
 372030,香川県,坂出市,https://www.city.sakaide.lg.jp/,300,,9,98,0,266,https://www.city.sakaide.lg.jp,200:300 ConnectionError:1
 372048,香川県,善通寺市,https://www.city.zentsuji.kagawa.jp/,300,,22,226,0,139,https://www.city.zentsuji.kagawa.jp,200:300 ConnectionError:2

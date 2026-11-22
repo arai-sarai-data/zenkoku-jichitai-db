@@ -7644,6 +7644,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,bids,http://www.city.fuji.shizuoka.jp/shigoto/index.html#a8376,入札・契約情報,http://www.city.fuji.shizuoka.jp/shigoto/index.html,0,0,1,2026-11-22
 222101,富士市,bids,http://www.city.fuji.shizuoka.jp/shigoto/nyusatsu/index.html,入札・契約情報,http://www.city.fuji.shizuoka.jp/shigoto/nyusatsu/sankatoroku/index.html,0,0,1,2026-11-22
 222101,富士市,bids,http://www.city.fuji.shizuoka.jp/shigoto/nyusatsu/kensetsukoji/nyusatsu/index.html,入札・契約制度,http://www.city.fuji.shizuoka.jp/shigoto/nyusatsu/index.html,0,0,1,2026-11-22
+222101,富士市,bids,https://www.city.fuji.shizuoka.jp/1010170000/p004317.html,入札・契約関係書式,https://www.city.fuji.shizuoka.jp/2020050000/p005489.html,0,0,1,2026-11-22
 222101,富士市,bids,https://www.city.fuji.shizuoka.jp/shigoto/index.html#a8376,入札・契約情報,https://www.city.fuji.shizuoka.jp/shigoto/index.html,0,0,1,2026-11-22
 222101,富士市,bids,https://www.city.fuji.shizuoka.jp/shigoto/nyusatsu/index.html,入札・契約情報,https://www.city.fuji.shizuoka.jp/1010170000/p007827.html,0,0,1,2026-11-22
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/1030050000/p004111.html,予算の状況,http://www.city.fuji.shizuoka.jp/1030050000/p004112.html,0,0,1,2026-11-22
@@ -7661,11 +7662,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/4450/rn2ola000004lx55.docx,（様式2）収支予算書（ワード：17KB）,http://www.city.fuji.shizuoka.jp/1035070000/p004503.html,1,0,1,2026-11-22
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/4545/fmervo000000imzv.doc,収支予算書（ワード：39KB）,http://www.city.fuji.shizuoka.jp/1035050000/p004598.html,1,0,1,2026-11-22
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/4550/rn2ola000000d13e.doc,収支予算書（第3号様式）（ワード：46KB）,http://www.city.fuji.shizuoka.jp/1035050000/p004603.html,1,0,1,2026-11-22
-222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/5155/f1e599000000b44f.pdf,令和6年度当初予算の状況（PDF：147KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005196.html,1,0,1,2026-11-22
-222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/5156/rn2ola000001i496.pdf,平成30年度当初予算の状況（PDF：57KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005197.html,1,0,1,2026-11-22
-222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/5159/rn2ola0000034zaj.pdf,令和3年度当初予算の状況（PDF：64KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005200.html,1,0,1,2026-11-22
-222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/5161/rn2ola000003wbu7.pdf,令和4年度当初予算の状況（PDF：66KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005202.html,1,0,1,2026-11-22
-222101,富士市,budget,http://www.city.fuji.shizuoka.jp/documents/5163/rn2ola000004im8c.pdf,令和5年度当初予算の状況（PDF：65KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005204.html,1,0,1,2026-11-22
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/shiseijoho/yosan/yosan/r05/index.html,令和5年度予算,http://www.city.fuji.shizuoka.jp/shiseijoho/yosan/index.html,0,0,1,2026-11-22
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/shiseijoho/yosan/yosan/r06/index.html,令和6年度予算,http://www.city.fuji.shizuoka.jp/shiseijoho/yosan/index.html,0,0,1,2026-11-22
 222101,富士市,budget,http://www.city.fuji.shizuoka.jp/shiseijoho/yosan/yosan/r07/index.html,令和7年度予算,http://www.city.fuji.shizuoka.jp/shiseijoho/yosan/index.html,0,0,1,2026-11-22
@@ -7683,6 +7679,11 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/4450/rn2ola000004lx55.docx,（様式2）収支予算書（ワード：17KB）,https://www.city.fuji.shizuoka.jp/1035070000/p004503.html,1,0,1,2026-11-22
 222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/4545/fmervo000000imzv.doc,収支予算書（ワード：39KB）,https://www.city.fuji.shizuoka.jp/1035050000/p004598.html,1,0,1,2026-11-22
 222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/4550/rn2ola000000d13e.doc,収支予算書（第3号様式）（ワード：46KB）,https://www.city.fuji.shizuoka.jp/1035050000/p004603.html,1,0,1,2026-11-22
+222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/5155/f1e599000000b44f.pdf,令和6年度当初予算の状況（PDF：147KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005196.html,1,0,1,2026-11-22
+222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/5156/rn2ola000001i496.pdf,平成30年度当初予算の状況（PDF：57KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005197.html,1,0,1,2026-11-22
+222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/5159/rn2ola0000034zaj.pdf,令和3年度当初予算の状況（PDF：64KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005200.html,1,0,1,2026-11-22
+222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/5161/rn2ola000003wbu7.pdf,令和4年度当初予算の状況（PDF：66KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005202.html,1,0,1,2026-11-22
+222101,富士市,budget,https://www.city.fuji.shizuoka.jp/documents/5163/rn2ola000004im8c.pdf,令和5年度当初予算の状況（PDF：65KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005204.html,1,0,1,2026-11-22
 222101,富士市,grants,http://krg311.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf,例規集（「富士市市民活動支援補助金交付要綱」を検索してください）（外部サイトへリンク）,https://www.city.fuji.shizuoka.jp/1015130000/p001053.html,0,1,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/1005050000/p004460.html,富士市SDGsプロジェクトエッグ応援補助金,http://www.city.fuji.shizuoka.jp/1035070000/p007731.html,0,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/1005330000/p000753.html,先導的テレワーク移住者支援補助金,http://www.city.fuji.shizuoka.jp/1020010000/p000752.html,0,0,1,2026-11-22
@@ -7872,28 +7873,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4062/03-04_dendousya_sinseinotebiki.pdf,申請の手引き（市民ゼロカーボンチャレンジ補助金）（PDF：175KB）（別ウィンドウで開きます）,http://www.city.fuji.shizuoka.jp/1030050000/p004114.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4062/03-05_dendousya_r8siminzcchojokin_qa.pdf,Q＆A（市民ゼロカーボンチャレンジ補助金）（PDF：69KB）（別ウィンドウで開きます）,http://www.city.fuji.shizuoka.jp/1030050000/p004114.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4062/03-06_dendousya_henkoutyusitodoke.docx,事業計画変更・中止届（ワード：17KB）（別ウィンドウで開きます）,http://www.city.fuji.shizuoka.jp/1030050000/p004114.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4065/hngtkl0000001cjn_1.pdf,補助対象者の詳細（PDF：102KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004116.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4065/kouhushinnseisho.docx,交付申請書（ワード：27KB）（別ウィンドウで開きます）,http://www.city.fuji.shizuoka.jp/1030050000/p004116.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4065/kouhushinnseishokinyuumihonn.pdf,（記入見本）交付申請書（PDF：361KB）（別ウィンドウで開きます）,http://www.city.fuji.shizuoka.jp/1030050000/p004116.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/r8tebikishouene.pdf,補助金申請の手引き（省エネ対策）（PDF：373KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,1,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghk6_1.docx,交付申請書（ワード：15KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghkv_1.docx,健全経営に係る宣誓書（ワード：20KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghm3_1.docx,完了報告書（ワード：14KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghnu_1.doc,事業計画変更・中止届（ワード：14KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghpe_1.pdf,補助対象者の詳細（PDF：46KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghua_1.docx,事業計画書（ワード：20KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghuq_1.docx,脱炭素化推進計画書（提出希望者のみ）（ワード：13KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/rn2ola000004ghv9_1.xls,請求書（エクセル：23KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4066/tyuusyousyoueneshindan.docx,富士市省エネ診断申込書（ワード：25KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/r8tebikishinene.pdf,補助金申請の手引き（新エネ対策）（PDF：318KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,1,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi0b_1.pdf,補助対象者の詳細（PDF：46KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi4y_1.docx,交付申請書（ワード：15KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi54_1.docx,事業計画書（ワード：20KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi5w_1.docx,健全経営に関する覚書（ワード：20KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi6r_1.docx,脱炭素化推進計画書（提出希望者のみ）（ワード：13KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi7b_1.docx,完了報告書（ワード：14KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi8b_1.xls,請求書（エクセル：23KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4067/rn2ola000004gi91_1.doc,事業計画変更・中止届（ワード：14KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4071/chuushoushouenesindanntaiyoukou.docx,富士市省エネ診断申込書（ワード：29KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004119.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4071/hatudendenryokukeikakuhyou.xlsx,発電電力の利用計画表（エクセル：37KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004119.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4071/r8tebikitaiyoukou.pdf,補助金申請の手引き（自己所有太陽光）（PDF：176KB）,http://www.city.fuji.shizuoka.jp/1030050000/p004119.html,1,0,1,2026-11-22
@@ -8012,9 +7991,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4706/6.docx,富士市富士地域材使用非住宅建築物取得費補助金交付申請書（第6号様式）（ワード：19KB）,http://www.city.fuji.shizuoka.jp/1035250000/p004744.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4706/rn2ola0000030dta.docx,完了報告書（第4号様式）（ワード：23KB）,http://www.city.fuji.shizuoka.jp/1035250000/p004744.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/4706/rn2ola0000030dtp.xlsx,口座振替（登録）申請書（エクセル：29KB）,http://www.city.fuji.shizuoka.jp/1035250000/p004744.html,1,0,0,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/5190/rn2ola000003s3yx.pdf,令和3年度 補助金等の見直しについて（PDF：119KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005231.html,1,0,1,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/5190/rn2ola000003s8zx.pdf,令和3年度 補助金等見直し評価結果一覧表（PDF：176KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005231.html,1,0,1,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/5191/rn2ola000004sa7o.pdf,補助金交付に関する指針（PDF：767KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005232.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/696/qa.pdf,Q＆A（令和８年度事業）（PDF：735KB）,http://www.city.fuji.shizuoka.jp/1020010000/p000752.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/696/r7youshiki1.pdf,富士市結婚新生活支援補助金交付申請書（第1号様式）（PDF：160KB）,http://www.city.fuji.shizuoka.jp/1020010000/p000752.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/696/r8shinseikatu.pdf,"令和８年度チラシ（PDF：2,224KB）",http://www.city.fuji.shizuoka.jp/1020010000/p000752.html,1,0,0,2026-11-22
@@ -8133,8 +8109,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/8209/hngtkl000000ds1x.pdf,補助制度に関するQ＆A（PDF：165KB）,http://www.city.fuji.shizuoka.jp/3005200000/p007640.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/8209/hngtkl000000ds2c.pdf,富士市感震ブレーカー設置費補助金交付要綱（PDF：78KB）,http://www.city.fuji.shizuoka.jp/3005200000/p007640.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/8209/hngtkl000000ds2h.docx,補助金変更（中止）申請書（第3号様式）（ワード：38KB）,http://www.city.fuji.shizuoka.jp/3005200000/p007640.html,1,0,1,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/8249/hngtkl000000na43.pdf,令和6年度 補助金等の見直しについて（PDF：149KB）,http://www.city.fuji.shizuoka.jp/1010050000/p007730.html,1,0,1,2026-11-22
-222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/8249/hngtkl000000na4d.pdf,令和6年度 補助金等見直し評価結果一覧表（PDF：385KB）,http://www.city.fuji.shizuoka.jp/1010050000/p007730.html,1,0,1,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/86/boukametebiki.pdf,"令和8年度富士市通学路防犯カメラ申請等の手引き（PDF：1,835KB）",http://www.city.fuji.shizuoka.jp/1015150000/p000079.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/86/gaidorainn.pdf,"富士市通学路防犯カメラ ガイドライン（PDF：2,277KB）",http://www.city.fuji.shizuoka.jp/1015150000/p000079.html,1,0,0,2026-11-22
 222101,富士市,grants,http://www.city.fuji.shizuoka.jp/documents/86/gouikeisei.docx,住民合意形成報告書（ワード：18KB）,http://www.city.fuji.shizuoka.jp/1015150000/p000079.html,1,0,0,2026-11-22
@@ -8184,6 +8158,9 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1005050000/p004460.html,富士市SDGsプロジェクトエッグ応援補助金,https://www.city.fuji.shizuoka.jp/1035070000/p007731.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1005330000/p000753.html,先導的テレワーク移住者支援補助金,https://www.city.fuji.shizuoka.jp/1020010000/p000752.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1005330000/p000761.html,先導的テレワーク移住者支援補助金（別ウィンドウで開きます）,https://www.city.fuji.shizuoka.jp/1005330000/p000753.html,0,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1010050000/p005231.html,令和3年度補助金等の見直し,https://www.city.fuji.shizuoka.jp/shiseijoho/yosan/hojokin/index.html,0,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1010050000/p005232.html,補助金交付に関する指針（令和4年10月31日策定）,https://www.city.fuji.shizuoka.jp/shiseijoho/yosan/hojokin/index.html,0,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1010050000/p007730.html,令和6年度補助金等の見直し,https://www.city.fuji.shizuoka.jp/shiseijoho/yosan/hojokin/index.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1015130000/p001052.html,令和8年度富士市市民活動支援補助金募集,https://www.city.fuji.shizuoka.jp/1015130000/p001053.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1015130000/p001053.html,市民活動支援補助金,https://www.city.fuji.shizuoka.jp/1005330000/p008167.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/1015130000/p001071.html,富士市市民協働スタートアップ補助金,https://www.city.fuji.shizuoka.jp/1005330000/p008167.html,0,0,1,2026-11-22
@@ -8408,6 +8385,9 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/4706/6.docx,富士市富士地域材使用非住宅建築物取得費補助金交付申請書（第6号様式）（ワード：19KB）,https://www.city.fuji.shizuoka.jp/1035250000/p004744.html,1,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/4706/rn2ola0000030dta.docx,完了報告書（第4号様式）（ワード：23KB）,https://www.city.fuji.shizuoka.jp/1035250000/p004744.html,1,0,0,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/4706/rn2ola0000030dtp.xlsx,口座振替（登録）申請書（エクセル：29KB）,https://www.city.fuji.shizuoka.jp/1035250000/p004744.html,1,0,0,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/5190/rn2ola000003s3yx.pdf,令和3年度 補助金等の見直しについて（PDF：119KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005231.html,1,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/5190/rn2ola000003s8zx.pdf,令和3年度 補助金等見直し評価結果一覧表（PDF：176KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005231.html,1,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/5191/rn2ola000004sa7o.pdf,補助金交付に関する指針（PDF：767KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005232.html,1,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/696/qa.pdf,Q＆A（令和８年度事業）（PDF：735KB）,https://www.city.fuji.shizuoka.jp/1020010000/p000752.html,1,0,0,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/696/r7youshiki1.pdf,富士市結婚新生活支援補助金交付申請書（第1号様式）（PDF：160KB）,https://www.city.fuji.shizuoka.jp/1020010000/p000752.html,1,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/696/r8shinseikatu.pdf,"令和８年度チラシ（PDF：2,224KB）",https://www.city.fuji.shizuoka.jp/1020010000/p000752.html,1,0,0,2026-11-22
@@ -8509,6 +8489,8 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/8209/hngtkl000000ds1x.pdf,補助制度に関するQ＆A（PDF：165KB）,https://www.city.fuji.shizuoka.jp/3005200000/p007640.html,1,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/8209/hngtkl000000ds2c.pdf,富士市感震ブレーカー設置費補助金交付要綱（PDF：78KB）,https://www.city.fuji.shizuoka.jp/3005200000/p007640.html,1,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/8209/hngtkl000000ds2h.docx,補助金変更（中止）申請書（第3号様式）（ワード：38KB）,https://www.city.fuji.shizuoka.jp/3005200000/p007640.html,1,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/8249/hngtkl000000na43.pdf,令和6年度 補助金等の見直しについて（PDF：149KB）,https://www.city.fuji.shizuoka.jp/1010050000/p007730.html,1,0,1,2026-11-22
+222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/8249/hngtkl000000na4d.pdf,令和6年度 補助金等見直し評価結果一覧表（PDF：385KB）,https://www.city.fuji.shizuoka.jp/1010050000/p007730.html,1,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/86/boukametebiki.pdf,"令和8年度富士市通学路防犯カメラ申請等の手引き（PDF：1,835KB）",https://www.city.fuji.shizuoka.jp/1015150000/p000079.html,1,0,0,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/86/gaidorainn.pdf,"富士市通学路防犯カメラ ガイドライン（PDF：2,277KB）",https://www.city.fuji.shizuoka.jp/1015150000/p000079.html,1,0,0,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/documents/86/gouikeisei.docx,住民合意形成報告書（ワード：18KB）,https://www.city.fuji.shizuoka.jp/1015150000/p000079.html,1,0,0,2026-11-22
@@ -8547,9 +8529,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/shigoto/shogyo/shiryo/index.html,資料・補助金・奨励金,https://www.city.fuji.shizuoka.jp/shigoto/index.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/shiseijoho/yosan/hojokin/index.html,補助金等見直し,https://www.city.fuji.shizuoka.jp/shiseijoho/index.html,0,0,1,2026-11-22
 222101,富士市,grants,https://www.city.fuji.shizuoka.jp/toshiseibi/kankyo/hojoseido/index.html,中小企業者ゼロカーボンチャレンジ補助金,https://www.city.fuji.shizuoka.jp/1005330000/p008167.html,0,0,1,2026-11-22
-222101,富士市,grants,https://www.enecho.meti.go.jp/category/saving_and_new/saving/enterprise/support/,各種支援制度 ｜ 事業者向け省エネ関連情報 - 資源エネルギー庁（外部サイトへリンク）,http://www.city.fuji.shizuoka.jp/1030050000/p004118.html,0,1,1,2026-11-22
 222101,富士市,grants,https://www.pref.shizuoka.jp/kodomokyoiku/kodomokosodate/shoshika/1040714/1002879/1062856.html,静岡県不妊治療費（先進医療）助成制度のご案内（外部サイトへリンク）,https://www.city.fuji.shizuoka.jp/1025130000/p007671.html,0,1,1,2026-11-22
-222101,富士市,grants,https://www.pref.shizuoka.jp/kurashikankyo/kankyo/energy/1016064.html,静岡県中小企業等省エネ設備導入促進事業費補助金（外部サイトへリンク）,http://www.city.fuji.shizuoka.jp/1030050000/p004117.html,0,1,1,2026-11-22
 222101,富士市,pref_muni_budget,http://www.city.fuji.shizuoka.jp/documents/5152/fmervo000000ec4r_1.pdf,平成21年度市町村財政比較分析表（普通会計決算）（PDF：172KB）,http://www.city.fuji.shizuoka.jp/1010050000/p005192.html,1,0,0,2026-11-22
 222101,富士市,pref_muni_budget,https://www.city.fuji.shizuoka.jp/documents/5152/fmervo000000ec4r_1.pdf,平成21年度市町村財政比較分析表（普通会計決算）（PDF：172KB）,https://www.city.fuji.shizuoka.jp/1010050000/p005192.html,1,0,0,2026-11-22
 222119,磐田市,bids,http://www.cals-shizuoka.jp/ec/,静岡県共同利用電子入札システムポータルサイト（外部リンク）,https://www.city.iwata.shizuoka.jp/sangyou_business/nyuusatsu_keiyaku/nyuusatsu_kitei_seido/1002105.html,0,1,0,2026-11-22
@@ -9088,7 +9068,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222119,磐田市,grants,https://www.pref.shizuoka.jp/sangyoshigoto/shuroshien/1083367/1083425/1045890/1062858.html,静岡県副業・兼業人材確保事業費補助金事業ホームページ（外部リンク）,https://www.city.iwata.shizuoka.jp/sangyou_business/kigyou_shien/1011014/1010648.html,0,1,1,2026-11-22
 222127,焼津市,bids,http://www.cals-shizuoka.jp/ec/index.htm,静岡県共同利用電子入札システムポータルサイト（外部サイトへリンク）,https://www.city.yaizu.lg.jp/business/bid-contract/seido/koji-bid/denshi-bid-portal.html,0,1,0,2026-11-22
 222127,焼津市,bids,http://www.city.yaizu.lg.jp/business/bid-contract/index.html,入札・契約情報,http://www.city.yaizu.lg.jp/sitemap.html,0,0,1,2026-11-22
-222127,焼津市,bids,http://www.city.yaizu.lg.jp/business/index.html#a15761,入札・契約情報,http://www.city.yaizu.lg.jp/business/index.html,0,0,1,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/business/bid-contract/index.html,入札・契約情報,https://www.city.yaizu.lg.jp/business/index.html,0,0,1,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/business/bid-contract/info/ekimu-bid/ekimu-bid-info/buppin-kekka.html,物品製造等の入札結果,https://www.city.yaizu.lg.jp/business/shinchaku/index.html,0,0,1,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/business/bid-contract/info/ekimu-bid/ekimu-bid-info/ekimu-kekka.html,役務の入札結果,https://www.city.yaizu.lg.jp/business/shinchaku/index.html,0,0,1,2026-11-22
@@ -9104,6 +9083,8 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/18120/youshiki_005.pdf,主任技術者等通知書（PDF：81KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/water/tetuzuki/jigyosha/youshiki_dl.html,1,0,0,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/18120/youshiki_006.doc,業務完了報告書（ワード：34KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/water/tetuzuki/jigyosha/youshiki_dl.html,1,0,0,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/18120/youshiki_006.pdf,業務完了報告書（PDF：68KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/water/tetuzuki/jigyosha/youshiki_dl.html,1,0,0,2026-11-22
+222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/20039/nyuusatukekkahyo.pdf,入札結果表（PDF：135KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/info/proposal/info-suidou.html,1,0,1,2026-11-22
+222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/20775/nyuusatukekka.pdf,入札結果（PDF：101KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/info/proposal/9th-high-voltage-power.html,1,0,1,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/20816/zuiikeiyakumitsumorikokoroe20250401.pdf,焼津市随意契約見積心得（PDF：151KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/info/proposal/info-00047.html,1,0,0,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/21041/20260805200243.pdf,令和7年4月分の入札結果（PDF：267KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/info/ekimu-bid/ekimu-bid-info/buppin-kekka.html,1,0,1,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/21041/r604_buppinn_kekka6.pdf,令和6年4月分の入札結果（PDF：257KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/info/ekimu-bid/ekimu-bid-info/buppin-kekka.html,1,0,1,2026-11-22
@@ -9362,7 +9343,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/3984/tokkisyouryakutuuti.pdf,通知文（PDF：87KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/seido/koji-bid/information.html,1,0,0,2026-11-22
 222127,焼津市,bids,https://www.city.yaizu.lg.jp/documents/3984/tuuti.pdf,通知文（PDF：101KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/seido/koji-bid/information.html,1,0,0,2026-11-22
 222127,焼津市,bids,https://www.ppi.cals-shiz.jp/ebidPPIPublish/EjPPIj,工事・委託入札情報（入札情報サービスPPI）（外部サイトへリンク）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/bid-contract/info/koji-bid/koji-bid-info/index.html,0,1,0,2026-11-22
-222127,焼津市,budget,http://www.city.yaizu.lg.jp/city-info/finance/tosho-yosan.html,当初予算について,http://www.city.yaizu.lg.jp/city-info/index.html,0,0,1,2026-11-22
 222127,焼津市,budget,https://www.city.yaizu.lg.jp/city-info/finance/index.html#a244,当初予算について,https://www.city.yaizu.lg.jp/city-info/finance/index.html,0,0,1,2026-11-22
 222127,焼津市,budget,https://www.city.yaizu.lg.jp/city-info/finance/tosho-yosan.html,当初予算について,https://www.city.yaizu.lg.jp/city-info/index.html,0,0,1,2026-11-22
 222127,焼津市,budget,https://www.city.yaizu.lg.jp/documents/18703/03yoshiki.docx,収支予算書（第3号様式）（ワード：23KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/dx-model.html,1,0,1,2026-11-22
@@ -9496,51 +9476,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,budget,https://www.city.yaizu.lg.jp/documents/9727/20240523164751.xlsx,収支予算書（参考様式）（エクセル：15KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/gasshuku-hojo.html,1,0,1,2026-11-22
 222127,焼津市,budget,https://www.city.yaizu.lg.jp/documents/9727/20240524171231.pdf,収支予算書（参考様式）（PDF：15KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/gasshuku-hojo.html,1,0,1,2026-11-22
 222127,焼津市,grants,http://logoform.jp/form/tWbQ/1552971,焼津市家具転倒防止器具等購入費補助金交付申請フォーム（外部サイトへリンク）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/kounyu.html,0,1,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/index.html,企業等への支援・補助金,http://www.city.yaizu.lg.jp/business/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/akitenpo.html,焼津駅周辺まちなか空き店舗利活用事業補助金,http://www.city.yaizu.lg.jp/yaizulife/support/work.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/index.html,補助金・支援,http://www.city.yaizu.lg.jp/business/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/kaisyu.html,焼津駅周辺まちなか空き店舗等改修事業費補助金,http://www.city.yaizu.lg.jp/yaizulife/support/work.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/index.html,ひとり親家庭への各種支援制度,http://www.city.yaizu.lg.jp/yaizulife/support/birth-raise.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/00_r8kekkonnyoukou.pdf,焼津市結婚新生活支援補助金要綱（PDF：181KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/02_r8kekkonn1gou2yousiki.docx,結婚新生活支援補助金交付申請書兼実績報告書（第1号の2様式）（ワード：29KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/02_r8kekkonn1gou2yousiki.pdf,結婚新生活支援補助金交付申請書兼実績報告書（第1号の2様式）（PDF：137KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/20260615102953.docx,結婚新生活支援補助金交付申請書兼実績報告書（第1号様式）（ワード：31KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/20260709104330.pdf,"【記入例】結婚新生活支援補助金交付申請書兼実績報告書（第1号様式）（PDF：4,051KB）（別ウインドウで開きます）",http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/20260709104410.pdf,【記入例】結婚新生活支援補助金交付申請書兼実績報告書（第1号の2様式）（PDF：254KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/10349/r8_kekkonnchecksheet.pdf,結婚新生活支援補助金チェックシート（PDF：306KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/13516/20240502084436.pdf,手引き（PDF：112KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/akiya/akiya-hojyo.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/13516/zyokyakuhozyokinntirasi.pdf,チラシ（PDF：318KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/akiya/akiya-hojyo.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/13516/zyokyakuhozyokinnyoukou.pdf,要綱（PDF：181KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/akiya/akiya-hojyo.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/655/1_ikegaki_shinseisyo.doc,生け垣づくり補助金申請書（第1号様式）（ワード：150KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/655/1_ikegaki_shinseisyo.pdf,生け垣づくり補助金交付申請書（第1号様式）（PDF：209KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/655/2_ikegaki_kanryou.doc,生け垣づくり完了届（第2号様式）（ワード：134KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/655/2_ikegaki_kanryou.pdf,生け垣づくり完了届（第2号様式）（PDF：177KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/655/ikegaki_haichirei.pdf,生け垣の配置例（PDF：22KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/655/ikegaki_sekourei.pdf,生け垣づくりの施工例（PDF：38KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/documents/723/r8blockpaper.pdf,焼津市ブロック塀等撤去補助金案内チラシ（PDF：238KB）（別ウインドウで開きます）,http://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/index.html,1,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/chiiki-kyodo/shien-hojo/machizukuri.html,焼津市地域未来まちづくり公益活動事業費補助金,http://www.city.yaizu.lg.jp/yaizulife/support/other.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/gomi/reduce/taihika.html,生ごみ堆肥化処理容器設置補助金,http://www.city.yaizu.lg.jp/yaizulife/support/other.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,結婚新生活支援事業費補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,生け垣づくり補助金交付事業,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/kankyo/josei/enefarm.html,住宅用新エネルギー機器設置事業補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/kankyo/josei/ev.html,電気自動車普及促進事業補助金,http://www.city.yaizu.lg.jp/yaizulife/support/other.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/kankyo/josei/index.html,助成制度,http://www.city.yaizu.lg.jp/life/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/kankyo/josei/solar.html,住宅用太陽光発電システム等設置事業補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/other/hearse_subsidy.html,霊きゅう車費用助成金支給制度について,http://www.city.yaizu.lg.jp/life/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/akiya/akiya-hojyo.html,空き家除却事業補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/akiya/chukozyutaku-hozyo.html,焼津市中古住宅流通促進事業補助金,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/akiya/akiya-hojyo.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/gakekin.html,がけ地近接危険住宅移転事業費補助金について,http://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/index.html,住まいに関する補助制度など,http://www.city.yaizu.lg.jp/life/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/breaker.html,感震ブレーカー等設置推進事業補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/kounyu.html,家具転倒防止器具等購入費補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/index.html,プロジェクト「TOUKAI-0」総合支援事業費補助金,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/birth-raise.html,支援制度（産み・育てる）,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/education.html,支援制度（教育）,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/house.html,支援制度（住まい）,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,焼津の支援制度,http://www.city.yaizu.lg.jp/yaizulife/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/other.html,支援制度（その他）,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/welfare.html,支援制度（福祉）,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,http://www.city.yaizu.lg.jp/yaizulife/support/work.html,支援制度（はたらく）,http://www.city.yaizu.lg.jp/yaizulife/support/index.html,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/kigyo-shien/index.html#a15398,企業等への支援・補助金,https://www.city.yaizu.lg.jp/business/kigyo-shien/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/chiikisanpinkakuju.html,【申請受付終了】焼津市地域産品拡充等事業補助金,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/chusho-kyojinka.html,【申請受付終了】焼津市中小企業強靭化支援事業補助金,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/dx-model.html,焼津市中小企業等DX促進モデル事業補助金,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/index.html,0,0,1,2026-11-22
@@ -9565,10 +9501,13 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/gasshuku-hojo.html,焼津市コンベンション及びスポーツ合宿等事業補助金,https://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/index.html,補助金・支援,https://www.city.yaizu.lg.jp/business/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/sangyo-shogyo/shien-hojo/kaisyu.html,焼津駅周辺まちなか空き店舗等改修事業費補助金,https://www.city.yaizu.lg.jp/yaizulife/support/work.html,0,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/hitorioya-shien.html,ひとり親家庭への各種支援制度,https://www.city.yaizu.lg.jp/news/kosodate/index.html,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/index.html,農業経営支援・補助金,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html,焼津市農業者猛暑対策支援事業補助金,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,焼津市農業者猛暑対策支援事業補助金ページ,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/shuno/hojyokin.html,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/hitorioya-shien.html,ひとり親家庭への各種支援制度,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/index.html,ひとり親家庭への各種支援制度,https://www.city.yaizu.lg.jp/yaizulife/support/birth-raise.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hoikuriyo-hojo.html,認可外保育園施設利用者補助金,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/index.html,0,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/index.html,各種手当・助成制度,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/hitorioya-shien.html,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/index.html,各種手当・助成制度,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10349/00_r8kekkonnyoukou.pdf,焼津市結婚新生活支援補助金要綱（PDF：181KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10349/02_r8kekkonn1gou2yousiki.docx,結婚新生活支援補助金交付申請書兼実績報告書（第1号の2様式）（ワード：29KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10349/02_r8kekkonn1gou2yousiki.pdf,結婚新生活支援補助金交付申請書兼実績報告書（第1号の2様式）（PDF：137KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
@@ -9576,25 +9515,9 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10349/20260709104330.pdf,"【記入例】結婚新生活支援補助金交付申請書兼実績報告書（第1号様式）（PDF：4,051KB）（別ウインドウで開きます）",https://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10349/20260709104410.pdf,【記入例】結婚新生活支援補助金交付申請書兼実績報告書（第1号の2様式）（PDF：254KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10349/r8_kekkonnchecksheet.pdf,結婚新生活支援補助金チェックシート（PDF：306KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/iju-marriage/support-marriage/kekkonshien.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/2022kakuninhyoukanryouji.xls,確認表（完了時）（エクセル：32KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/2022kakuninhyousinseiji.xls,確認表（申請時）（エクセル：23KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/2022kakuninkensahyo.pdf,設置工事の確認検査表（PDF：88KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/2022seiyakusyo.pdf,誓約書（PDF：32KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/24kakuninkannryoujitakunaihaikann.pdf,確認表（完了時）（PDF：48KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/24kakuninnkannryouji.pdf,確認表（完了時）（PDF：102KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/haisi_k3.pdf,浄化槽使用廃止届出書（PDF：39KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/henkou_b2.pdf,浄化槽変更届出書（PDF：70KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/jis_1.pdf,建築物の用途別によるし尿浄化槽の処理対象人員算定基準（JISA3302-2000）（PDF：248KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/kakuninnsinnseiji.pdf,確認表（申請時）（PDF：88KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/miseibikuikizu.pdf,補助対象区域図（PDF：302KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/setti_b1.pdf,浄化槽設置届出書（PDF：71KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_henkou.doc,変更等承認申請書（ワード：41KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_henkou.pdf,変更等承認申請書（PDF：130KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_jiseki.doc,実績報告書（ワード：49KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_jiseki.pdf,実績報告書（PDF：133KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_oboegaki.pdf,覚書（PDF：83KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_sinseisyo.doc,焼津市特定区域浄化槽設置補助金交付申請書（ワード：55KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10855/tokutei_sinseisyo.pdf,焼津市特定区域浄化槽設置補助金交付申請書（PDF：129KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/miseibikuiki-hojo.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10589/r8t-0hojoyoko.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金交付要綱（PDF：404KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/tsugakuro.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10965/r8dairiyoryo.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金代理受領制度取扱要領（PDF：92KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/hokyo-ittaigata.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/10965/r8t-0hojoyoko.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金交付要綱（PDF：404KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/hokyo-ittaigata.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/12831/kagutenntouyouryour8.pdf,令和8年度 焼津市家具転倒防止器具等購入費補助金交付要綱（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/kounyu.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/12831/kangutenntouchirashi.pdf,令和8年度 焼津市家具転倒防止器具等購入費補助金チラシ（PDF：479KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/kounyu.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/12948/gakekinyoukou.pdf,焼津市がけ地近接危険住宅移転事業費補助金交付要綱（PDF：91KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/gakekin.html,1,0,1,2026-11-22
@@ -9642,6 +9565,16 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14471/2026evhojosinseishokinyuurei.pdf,【記入例】補助金交付申請書兼実績報告書（PDF：235KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/kankyo/josei/ev.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14471/2026evhojoyoukou.pdf,2026年度焼津市電気自動車普及促進事業補助金交付要綱（PDF：129KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/kankyo/josei/ev.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14471/gaiyou_ev_r8.pdf,2026年度電気自動車普及促進事業補助金交付制度の概要（PDF：211KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/kankyo/josei/ev.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/20240326171334.pdf,（事実婚の場合のみ）事実婚関係に関する申立書（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/20240326171627.pdf,（事実婚の場合のみ）事実婚関係に関する申立書（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/20240327171938.pdf,焼津市不妊治療費助成金交付申請書兼請求書（PDF：64KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/20240329102507.pdf,チラシ（PDF：127KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/43miman.pdf,令和8年4月1日以降に治療を開始された方（チラシ）（PDF：351KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/43mimanf.pdf,令和8年3月31日までに治療を開始された方（チラシ）（PDF：340KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/43tiryou.pdf,不妊治療受診等証明書 焼津市不妊治療費助成金（43歳未満）用（PDF：138KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/funinsinseisyo.pdf,焼津市不妊治療費助成金交付申請書兼請求書（R6年度～）（PDF：102KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/funintiryousinsesyo.pdf,焼津市不妊治療費助成金（43歳未満）交付申請書兼請求書（PDF：103KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14522/tiryou.pdf,不妊治療受診等証明書（焼津市不妊治療費補助金用）（PDF：137KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14623/r8syouenejutakuhojoyoko.pdf,焼津市省エネ住宅普及推進事業費補助金交付要綱（PDF：259KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/shoene-jitaku.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14676/jigyousyoukei_p.pdf,様式（第1～11号）（PDF：81KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/jigyousyoukei.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/14676/jigyousyoukei_wo.docx,様式（第1～11号）（ワード：31KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/jigyousyoukei.html,1,0,0,2026-11-22
@@ -9672,6 +9605,8 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18227/r8yoshiki-7.pdf,請求書（第7号様式）（PDF：128KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/shoenejutaku.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18227/r8yoshiki-8.doc,消費税等申出書（第8号様式）（ワード：34KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/shoenejutaku.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18227/r8yoshiki-8.pdf,消費税等申出書（第8号様式）（PDF：121KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/shoenejutaku.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18467/20250129174427.pdf,焼津市低所得の妊婦に対する初回産科受診料支援事業助成金交付申請書兼請求書（PDF：181KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/medical/techo-kensa/ninpu-checkup/teishotoku.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18467/20250129174531.pdf,焼津市低所得の妊婦に対する初回産科受診料支援事業助成金交付申請書兼請求書の記載例（PDF：197KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/medical/techo-kensa/ninpu-checkup/teishotoku.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18471/20240307190859.docx,【Word】雨水貯留浸透施設補助金交付申請書（第1号様式）（ワード：29KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/usui.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18471/20240307191007.docx,【Word】変更（中止）承認申請（第4号様式）（ワード：22KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/usui.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18471/20240307191034.pdf,（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/usui.html,1,0,0,2026-11-22
@@ -9692,6 +9627,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18471/kanryouhoukoku.pdf,完了報告時（PDF：279KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/usui.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18471/kouhusinseisyo.pdf,交付申請時（PDF：510KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/usui.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18471/youkou.pdf,（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/sumai-hojo/usui.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18535/r8t-0hojoyoko.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金交付要綱（PDF：404KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/taishin-shelter.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18561/r8t-0hojoyoko.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金交付要綱（PDF：404KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/taishinshelter.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18561/r8yoshiki-1-6.doc,事業概要（第1号の6様式）（ワード：45KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/taishinshelter.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/18561/r8yoshiki-1-6.pdf,事業概要（第1号の6様式）（PDF：250KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/taishinshelter.html,1,0,0,2026-11-22
@@ -9759,6 +9695,16 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19764/sinsashorui.pdf,審査に関する書類（別記様式第2号）（PDF：283KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/chiikikeizai-junkansozo.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19764/teian.docx,提案申込書（別記様式第1号）（ワード：20KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/chiikikeizai-junkansozo.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19764/teian.pdf,提案申込書（別記様式第1号）（PDF：108KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/chiikikeizai-junkansozo.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424145326.pdf,焼津市農業者猛暑対策支援事業補助金交付要綱（PDF：140KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424145444.docx,申請書（ワード：21KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424145529.docx,事業変更申請書（ワード：19KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424145610.docx,実績報告書（ワード：21KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424145642.docx,請求書（ワード：20KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424145929.pdf,申請書,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424150109.pdf,実績報告書（PDF：77KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424150211.pdf,請求書（PDF：85KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260424154300.pdf,事業変更申請書（PDF：52KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/19818/20260501143906.pdf,チラシ（PDF：419KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/suisan-nougyo/agriculture/manage-support/mosyotaisaku.html?mode=preview,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/20446/20251224154101.pdf,静岡県補助金チラシデータ（PDF：497KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/hisaijigyosha-shienjigyo-hojo.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/20446/hisaijigyousyahojoyoukou.pdf,被災事業者支援事業補助金交付要綱（PDF：203KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/hisaijigyosha-shienjigyo-hojo.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/20446/hisaijigyousyahojoyousiki.docx,申請様式（ワード：32KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/hisaijigyosha-shienjigyo-hojo.html,1,0,0,2026-11-22
@@ -9866,24 +9812,6 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/21261/20261105144503.pdf,様式8リノベーション事業（宿泊施設・観光施設）（PDF：99KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/koufukakati.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/21261/20261105144532.pdf,様式9リノベーション事業（廃屋撤去）（PDF：73KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/koufukakati.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/21261/20261109090934.pdf,"【焼津市】観光地域高付加価値化整備事業費補助金（事業者向け）（PDF：3,682KB）（別ウインドウで開きます）",https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/koufukakati.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2022henkousinnseisyo.pdf,変更承認申請書（PDF：26KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2022kakuninhyousinseiji.xls,確認表（申請時）（エクセル：23KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2022kakuninkensahyo.pdf,設置工事の確認検査表（PDF：88KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2022seiyakusyo.pdf,誓約書（PDF：32KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/20250402161844.pdf,環境配慮型浄化槽一覧（PDF：134KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/20250530102217.pdf,浄化槽補助金チラシ（PDF：192KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/20260325142706.pdf,"浄化槽補助金申請手引書（令和8年度浄化槽区域用）（PDF：2,907KB）（別ウインドウで開きます）",https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/20261022114851.pdf,請求書（PDF：344KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026jisekihoukoku.docx,実績報告書（ワード：24KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026jisekihoukoku.pdf,実績報告書（PDF：89KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026kakuninhyo.xls,確認表（完了時）（エクセル：44KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026kakuninhyohontai.pdf,確認表（完了時）（本体設置分）（PDF：103KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026kakuninhyotakunaihaikan.pdf,確認表（完了時）（宅内配管分）（PDF：62KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026koufusinseisho.docx,焼津市浄化槽設置補助金交付申請書（ワード：32KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/2026koufusinseisho.pdf,焼津市浄化槽設置補助金交付申請書（PDF：116KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,1,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/jis.pdf,建築物の用途別による屎尿浄化槽の処理対象人員算定基準（JISA3302-2000）（PDF：248KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/kakuninnsinnseiji.pdf,確認表（申請時）（PDF：88KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
-222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/471/oboegaki.pdf,覚書（PDF：42KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/water-sewage/sewage/kumitori-joka/secchi-hojo.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/508/20250206145053.pdf,生ごみ処理機補助金申請手順について（電気式）（PDF：97KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/gomi/reduce/taihika.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/508/20250206145135.pdf,生ごみ処理容器補助金申請手順について（コンポスト式）（PDF：96KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/gomi/reduce/taihika.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/508/5gouyousiki.pdf,完了届兼補助金請求書（一般用）（PDF：52KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/gomi/reduce/taihika.html,1,0,1,2026-11-22
@@ -9904,6 +9832,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/655/2_ikegaki_kanryou.pdf,生け垣づくり完了届（第2号様式）（PDF：177KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/655/ikegaki_haichirei.pdf,生け垣の配置例（PDF：22KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/655/ikegaki_sekourei.pdf,生け垣づくりの施工例（PDF：38KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/kankyo/eco/greening/ikegaki.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/718/r8t-0hojoyoko.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金交付要綱（PDF：404KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/taishinshindan.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7192/20260520161121.pdf,概要チラシ（PDF：152KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/sogyo-kigyo-shorei.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7192/20260619104931.pdf,焼津市産業立地奨励事業費補助金交付要綱（PDF：136KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/sogyo-kigyo-shorei.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7192/20260619105137.pdf,補助金交付申請書等様式（PDF：176KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/sogyo-kigyo-shorei.html,1,0,1,2026-11-22
@@ -9915,6 +9844,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7193/h31_keizoku_youkou.pdf,焼津市立地工場等事業継続強化事業費補助金交付要綱（PDF：237KB）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/ritchi-kojo-hojo.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7193/h31_keizoku_youshiki.doc,補助金交付申請書等様式（ワード：179KB）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/ritchi-kojo-hojo.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7193/h31_keizoku_youshiki.pdf,補助金交付申請書等様式（PDF：167KB）,https://www.city.yaizu.lg.jp/business/kigyo-shien/shien-hojo/ritchi-kojo-hojo.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/720/r8t-0hojoyoko.pdf,焼津市プロジェクト「TOUKAI-0」総合支援事業費補助金交付要綱（PDF：404KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/mokuzo-jutaku.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/723/r8blockpaper.pdf,焼津市ブロック塀等撤去補助金案内チラシ（PDF：238KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/sonae/support-info/toukai-0/index.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7793/mousitatesyo.pdf,申立書（PDF：52KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hoikuriyo-hojo.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/7793/mousitatesyo.xlsx,申立書（エクセル：33KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hoikuriyo-hojo.html,1,0,0,2026-11-22
@@ -10029,10 +9959,14 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/9837/r8ayousiki-7.pdf,請求書（第7号様式）（PDF：79KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/asbestos.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/9837/r8ayousiki-8.doc,消費税等申出書（第8号様式）（ワード：35KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/asbestos.html,1,0,0,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/9837/r8ayousiki-8.pdf,消費税等申出書（第8号様式）（PDF：45KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/kenchiku_yoshikishu/asbestos.html,1,0,0,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/9840/r8asube-chirashi.pdf,補助制度のチラシ（PDF：263KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/asbestos-hojo.html,1,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/documents/9840/r8asubesuto-youkou.pdf,焼津市民間建築物吹付けアスベスト対策事業費補助金交付要綱（PDF：184KB）（別ウインドウで開きます）,https://www.city.yaizu.lg.jp/life/sumai-kenchiku/kenchiku/asbestos-hojo.html,1,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/hitorioya002.html,【よくある質問】児童扶養手当やひとり親家庭等医療費助成制度は、前年に収入がなかった場合でも、所得の申告は必要ですか,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/hitorioya003.html,【よくある質問】児童扶養手当やひとり親家庭等医療費助成制度は、住所や氏名などが変わった場合、届出は必要ですか,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/hitorioya006.html,【よくある質問】ひとり親家庭等医療費助成金の振込口座は変更できますか,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/faq/kosodate/hitorioya/index.html,【よくある質問】ひとり親家庭への各種支援制度,https://www.city.yaizu.lg.jp/child-edu/kodomo/mokuteki/application/hitorioya/hitorioya-shien.html,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/index.html,焼津市不妊治療費助成金交付について,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/rpl.html,0,0,1,2026-11-22
+222127,焼津市,grants,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/subsidy.html,焼津市不妊治療費助成金交付について,https://www.city.yaizu.lg.jp/health-welfare/medical-care/infertility-treatment/infertility/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/health-welfare/other-welfare/soudan/seikatsu-konkyu/index.html,生活困窮者自立支援制度,https://www.city.yaizu.lg.jp/news/general/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/life/chiiki-kyodo/shien-hojo/koeki-katsudo.html,焼津市地域未来まちづくり公益活動事業補助金交付団体活動,https://www.city.yaizu.lg.jp/life/chiiki-kyodo/shien-hojo/index.html,0,0,1,2026-11-22
 222127,焼津市,grants,https://www.city.yaizu.lg.jp/life/chiiki-kyodo/shien-hojo/machizukuri.html,焼津市地域未来まちづくり公益活動事業費補助金,https://www.city.yaizu.lg.jp/life/chiiki-kyodo/shien-hojo/index.html,0,0,1,2026-11-22

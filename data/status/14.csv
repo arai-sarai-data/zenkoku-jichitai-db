@@ -1,10 +1,10 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 140007,神奈川県,神奈川県,https://www.pref.kanagawa.jp/,300,,2480,4,0,181,https://www.pref.kanagawa.jp,200:306 ConnectionError:1
 141003,神奈川県,横浜市,https://www.city.yokohama.lg.jp/,300,,210,523,0,247,https://www.city.yokohama.lg.jp,200:306 SSLError:1
-141305,神奈川県,川崎市,https://www.city.kawasaki.jp/,300,,200,135,0,383,https://www.city.kawasaki.jp,200:299 404:1 ConnectionError:2
+141305,神奈川県,川崎市,https://www.city.kawasaki.jp/,300,,200,135,0,383,https://www.city.kawasaki.jp,200:293 404:7 ConnectionError:2
 141500,神奈川県,相模原市,https://www.city.sagamihara.kanagawa.jp/,300,,53,6697,0,178,https://www.city.sagamihara.kanagawa.jp,200:297 504:3 ConnectionError:2 robots:6
 142018,神奈川県,横須賀市,https://www.city.yokosuka.kanagawa.jp/,300,,123,150,0,396,https://www.city.yokosuka.kanagawa.jp,200:260 404:40 ConnectionError:2
-142034,神奈川県,平塚市,https://www.city.hiratsuka.kanagawa.jp/,300,,134,32,0,511,,
+142034,神奈川県,平塚市,https://www.city.hiratsuka.kanagawa.jp/,300,,134,32,0,511,https://www.city.hiratsuka.kanagawa.jp,200:301 404:3 ConnectionError:2
 142042,神奈川県,鎌倉市,https://www.city.kamakura.kanagawa.jp/,300,,505,90,3,170,https://www.city.kamakura.kanagawa.jp,200:300 ConnectionError:2
 142051,神奈川県,藤沢市,https://www.city.fujisawa.kanagawa.jp/,300,,104,73,0,340,https://www.city.fujisawa.kanagawa.jp,200:269 404:31 ConnectionError:2
 142069,神奈川県,小田原市,https://www.city.odawara.kanagawa.jp/,300,,473,31,0,316,https://www.city.odawara.kanagawa.jp,200:300 ConnectionError:2

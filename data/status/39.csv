@@ -2,9 +2,9 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 390003,高知県,高知県,https://www.pref.kochi.lg.jp/,300,,292,31,0,718,https://www.pref.kochi.lg.jp,200:300 404:1 502:1 ConnectionError:1 SSLError:1
 392014,高知県,高知市,https://www.city.kochi.kochi.jp/,300,,196,396,0,414,https://www.city.kochi.kochi.jp,200:297 404:4 ConnectionError:1
 392022,高知県,室戸市,https://www.city.muroto.kochi.jp/,147,,13,15,0,84,https://www.city.muroto.kochi.jp,200:155 ConnectionError:2
-392031,高知県,安芸市,https://www.city.aki.kochi.jp/,233,,35,19,0,66,,
-392049,高知県,南国市,https://www.city.nankoku.lg.jp/,161,,0,21,0,53,https://www.city.nankoku.lg.jp,200:331 ConnectionError:1
-392057,高知県,土佐市,https://www.city.tosa.lg.jp/,217,,0,2,0,39,https://www.city.tosa.lg.jp,200:88 403:172 ConnectionError:1
+392031,高知県,安芸市,https://www.city.aki.kochi.jp/,233,,35,19,0,66,https://www.city.aki.kochi.jp,200:469 ConnectTimeout:1 ConnectionError:1
+392049,高知県,南国市,https://www.city.nankoku.lg.jp/,163,,0,21,0,56,https://www.city.nankoku.lg.jp,200:335 ConnectionError:1
+392057,高知県,土佐市,https://www.city.tosa.lg.jp/,300,,0,2,0,83,https://www.city.tosa.lg.jp,200:415 403:74 ConnectionError:1
 392065,高知県,須崎市,https://www.city.susaki.lg.jp/,213,,53,23,0,108,https://www.city.susaki.lg.jp,200:502 ConnectionError:1
 392081,高知県,宿毛市,https://www.city.sukumo.kochi.jp/,199,,6,408,0,114,https://www.city.sukumo.kochi.jp,200:198 404:2 ConnectionError:2
 392090,高知県,土佐清水市,https://www.city.tosashimizu.kochi.jp/,203,,44,453,0,43,https://www.city.tosashimizu.kochi.jp,200:203 ConnectionError:1
@@ -23,7 +23,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 393631,高知県,土佐町,http://www.town.tosa.kochi.jp/,118,,2,0,0,50,http://www.town.tosa.kochi.jp,200:157 ConnectionError:1
 393649,高知県,大川村,https://www.vill.okawa.kochi.jp/,121,,16,6,0,2,https://www.vill.okawa.kochi.jp,200:156 ConnectionError:2
 393860,高知県,いの町,https://www.town.ino.kochi.jp/,300,,1,120,4,191,https://www.town.ino.kochi.jp,200:303 404:1 ConnectionError:2
-393878,高知県,仁淀川町,https://www.town.niyodogawa.lg.jp/,155,,5,4,0,30,https://www.town.niyodogawa.lg.jp,200:248 ConnectionError:1
+393878,高知県,仁淀川町,https://www.town.niyodogawa.lg.jp/,156,,5,4,0,30,https://www.town.niyodogawa.lg.jp,200:249 ConnectionError:1
 394017,高知県,中土佐町,https://www.town.nakatosa.lg.jp/,115,,3,6,0,45,https://www.town.nakatosa.lg.jp,200:248 ConnectionError:1
 394025,高知県,佐川町,https://www.town.sakawa.lg.jp/,140,,4,17,0,53,https://www.town.sakawa.lg.jp,200:225 ConnectionError:1
 394033,高知県,越知町,http://www.town.ochi.kochi.jp/,122,,0,485,0,76,http://www.town.ochi.kochi.jp,200:121 404:1 ConnectionError:2
@@ -33,4 +33,4 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 394122,高知県,四万十町,https://www.town.shimanto.lg.jp/,259,時間上限,166,26,0,54,https://www.town.shimanto.lg.jp,200:590 ConnectionError:1
 394246,高知県,大月町,https://www.town.otsuki.kochi.jp/,81,,0,11,0,38,https://www.town.otsuki.kochi.jp,200:163 ConnectionError:2
 394271,高知県,三原村,http://www.vill.mihara.kochi.jp/,100,,11,1,0,16,http://www.vill.mihara.kochi.jp,200:171 404:1 ConnectionError:2
-394289,高知県,黒潮町,https://www.town.kuroshio.lg.jp/,217,,69,78,0,171,https://www.town.kuroshio.lg.jp,200:217 ConnectionError:1
+394289,高知県,黒潮町,https://www.town.kuroshio.lg.jp/,220,,69,78,0,171,https://www.town.kuroshio.lg.jp,200:220 ConnectionError:1

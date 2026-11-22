@@ -1,0 +1,21 @@
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+350001,山口県,山口県,https://www.pref.yamaguchi.lg.jp/,300,,513,123,0,205,https://www.pref.yamaguchi.lg.jp,200:300 ConnectionError:1
+352012,山口県,下関市,https://www.city.shimonoseki.lg.jp/,300,,1276,5,0,281,https://www.city.shimonoseki.lg.jp,200:300 ConnectionError:1
+352021,山口県,宇部市,https://www.city.ube.yamaguchi.jp/,300,,22,713,0,593,https://www.city.ube.yamaguchi.jp,200:300 ConnectionError:2 robots:10
+352039,山口県,山口市,https://www.city.yamaguchi.lg.jp/,300,,66,401,0,0,https://www.city.yamaguchi.lg.jp,200:300 ConnectionError:1
+352047,山口県,萩市,https://www.city.hagi.lg.jp/,300,,235,2,10,146,https://www.city.hagi.lg.jp,200:305 404:2 ConnectionError:1
+352063,山口県,防府市,https://www.city.hofu.yamaguchi.jp/,300,,93,319,0,194,https://www.city.hofu.yamaguchi.jp,200:299 404:3 ConnectionError:2
+352071,山口県,下松市,https://www.city.kudamatsu.lg.jp/,300,,42,141,0,127,https://www.city.kudamatsu.lg.jp,200:300 404:2 ConnectionError:1
+352080,山口県,岩国市,https://www.city.iwakuni.lg.jp/,300,,62,86,0,169,https://www.city.iwakuni.lg.jp,200:302 ConnectionError:1
+352101,山口県,光市,https://www.city.hikari.lg.jp/,300,,26,277,6,55,https://www.city.hikari.lg.jp,200:300 ConnectionError:1
+352110,山口県,長門市,https://www.city.nagato.yamaguchi.jp/,300,,69,154,0,201,https://www.city.nagato.yamaguchi.jp,200:295 403:1 404:4 ConnectionError:2
+352128,山口県,柳井市,https://www.city-yanai.jp/,212,,134,269,0,113,https://www.city-yanai.jp,200:212 403:1 404:1 ConnectionError:1
+352136,山口県,美祢市,https://www2.city.mine.lg.jp/,297,,65,288,8,105,https://www2.city.mine.lg.jp,200:301 404:2 ConnectionError:1
+352152,山口県,周南市,https://www.city.shunan.lg.jp/,300,,113,65,0,168,https://www.city.shunan.lg.jp,200:295 404:5 ConnectionError:1
+352161,山口県,山陽小野田市,https://www.city.sanyo-onoda.lg.jp/,300,,60,598,0,166,https://www.city.sanyo-onoda.lg.jp,200:299 404:1 ConnectionError:1
+353051,山口県,周防大島町,https://www.town.suo-oshima.lg.jp/,253,,36,19,0,94,https://www.town.suo-oshima.lg.jp,200:254 ConnectionError:1
+353213,山口県,和木町,https://www.town.waki.lg.jp/,237,,0,69,0,80,https://www.town.waki.lg.jp,200:238 403:1 429:1 ConnectionError:1
+353418,山口県,上関町,https://www.town.kaminoseki.lg.jp/,179,,7,0,0,88,https://www.town.kaminoseki.lg.jp,200:178 404:1 ConnectionError:1
+353434,山口県,田布施町,https://www.town.tabuse.lg.jp/,300,,25,0,0,69,https://www.town.tabuse.lg.jp,200:301 ConnectionError:1
+353442,山口県,平生町,https://www.town.hirao.lg.jp/,132,,13,116,0,24,https://www.town.hirao.lg.jp,200:135 ConnectionError:1
+355020,山口県,阿武町,https://www.town.abu.lg.jp/,95,,11,0,0,22,https://www.town.abu.lg.jp,200:95 ConnectionError:1

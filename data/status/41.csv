@@ -7,7 +7,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 412058,佐賀県,伊万里市,https://www.city.imari.saga.jp/,297,,6,232,0,198,https://www.city.imari.lg.jp,200:299 ConnectTimeout:1
 412066,佐賀県,武雄市,https://www.city.takeo.lg.jp/,250,,750,6,0,55,https://www.city.takeo.lg.jp,200:303 403:3 404:5 ConnectTimeout:1 robots:1
 412074,佐賀県,鹿島市,https://www.city.saga-kashima.lg.jp/,268,,35,6,0,183,https://www.city.saga-kashima.lg.jp,200:268 ConnectionError:1 robots:1
-412082,佐賀県,小城市,https://www.city.ogi.lg.jp/,300,,236,290,0,118,https://www.city.ogi.lg.jp,200:301 ConnectionError:1
+412082,佐賀県,小城市,https://www.city.ogi.lg.jp/,300,,236,290,0,121,https://www.city.ogi.lg.jp,200:301 ConnectionError:1
 412091,佐賀県,嬉野市,https://www.city.ureshino.lg.jp/,300,,509,79,0,218,https://www.city.ureshino.lg.jp,200:316 ConnectionError:1
 412104,佐賀県,神埼市,https://www.city.kanzaki.saga.jp/,300,,24,1729,0,1,https://www.city.kanzaki.saga.jp,200:300 ConnectionError:2
 413275,佐賀県,吉野ヶ里町,https://www.town.yoshinogari.lg.jp/,56,,16,2,0,6,https://www.town.yoshinogari.lg.jp,200:56 ConnectionError:1

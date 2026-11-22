@@ -12,7 +12,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 313700,鳥取県,湯梨浜町,https://www.yurihama.jp/,260,,976,1250,5,300,https://www.yurihama.jp,200:250 404:11 ConnectionError:1,
 313718,鳥取県,琴浦町,https://www.town.kotoura.tottori.jp/,300,,148,2274,0,82,https://www.town.kotoura.tottori.jp,200:300 ConnectionError:2,
 313726,鳥取県,北栄町,https://www.e-hokuei.net/,300,,119,195,0,182,https://www.e-hokuei.net,200:302 ConnectionError:1,
-313840,鳥取県,日吉津村,https://www.hiezu.jp/,300,,2,5,0,164,https://www.hiezu.jp,200:296 404:4 ConnectionError:1,
+313840,鳥取県,日吉津村,https://www.hiezu.jp/,300,,2,5,0,167,https://www.hiezu.jp,200:296 404:4 ConnectionError:1,
 313866,鳥取県,大山町,https://www.daisen.jp/,300,,1140,10,0,95,https://www.daisen.jp,200:302 ConnectionError:1,
 313891,鳥取県,南部町,https://www.town.nanbu.tottori.jp/,300,,4,128,0,101,https://www.town.nanbu.tottori.jp,200:298 403:1 404:3 ConnectionError:2,
 313904,鳥取県,伯耆町,https://www.houki-town.jp/,179,,91,193,0,140,https://www.houki-town.jp,200:171 404:9 ConnectionError:1,
