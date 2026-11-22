@@ -33,7 +33,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 214035,岐阜県,大野町,https://www.town-ono.jp/,126,,7,92,0,72,,,
 214043,岐阜県,池田町,https://www.town.gifu-ikeda.lg.jp/,300,,715,15,0,108,,,
 214213,岐阜県,北方町,http://www.town.kitagata.gifu.jp/,233,,67,4,0,5,,,
-215015,岐阜県,坂祝町,https://www.town.sakahogi.gifu.jp/,0,ConnectionError,0,0,0,0,,,
+215015,岐阜県,坂祝町,https://www.town.sakahogi.gifu.jp/,283,,0,1,0,19,https://www.town.sakahogi.gifu.jp,200:283,国内ブラウザ
 215023,岐阜県,富加町,https://www.town.tomika.gifu.jp/,241,,27,62,0,176,,,
 215031,岐阜県,川辺町,https://www.kawabe-gifu.jp/,181,,163,1,0,139,,,
 215040,岐阜県,七宗町,https://www.hichiso.jp/,252,,58,72,0,53,,,
