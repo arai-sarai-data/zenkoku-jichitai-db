@@ -1,0 +1,63 @@
+name: import-old
+# 一時的な処理: 旧リポジトリの収集結果を、団体ごとに読めたページ数の多い方を残して results に合わせる
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/import-old.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: ingest-browser
+  cancel-in-progress: false
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    env:
+      SRC: ${{ secrets.SRC_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: 合わせる
+        run: |
+          set -e
+          git config user.name "collector-bot"
+          git config user.email "collector-bot@users.noreply.github.com"
+          git fetch -q "$SRC" results:oldres
+          git fetch -q origin results
+          git worktree add -q --detach /tmp/new FETCH_HEAD
+          git worktree add -q --detach /tmp/old oldres
+          mkdir -p data/status data/links data/docs /tmp/new/status /tmp/new/links /tmp/new/docs
+          for f in /tmp/old/status/*.csv; do
+            p=$(basename "$f" .csv)
+            cp "/tmp/old/status/$p.csv" data/status/
+            cp "/tmp/old/links/$p.csv" data/links/ 2>/dev/null || : > "data/links/$p.csv"
+            python crawler/merge_results.py "$p" /tmp/new
+            cp "data/status/$p.csv" "/tmp/new/status/$p.csv"
+            cp "data/links/$p.csv" "/tmp/new/links/$p.csv"
+            if [ -f "/tmp/old/docs/$p.csv" ]; then
+              python - "$p" <<'PY'
+          import csv, sys
+          p = sys.argv[1]
+          def rows(path):
+              try:
+                  with open(path, encoding="utf-8") as f:
+                      r = csv.DictReader(f); return list(r), r.fieldnames or []
+              except FileNotFoundError:
+                  return [], []
+          a, fa = rows(f"/tmp/new/docs/{p}.csv"); b, fb = rows(f"/tmp/old/docs/{p}.csv")
+          fields = list(dict.fromkeys(fa + fb)); seen = set(); out = []
+          for r in a + b:
+              k = tuple(r.get(x, "") for x in fields)
+              if k not in seen:
+                  seen.add(k); out.append(r)
+          with open(f"/tmp/new/docs/{p}.csv", "w", newline="", encoding="utf-8") as f:
+              w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore"); w.writeheader(); w.writerows(out)
+          PY
+            fi
+          done
+          cd /tmp/new
+          git add status links docs
+          git commit -qm "旧リポジトリの収集結果を合わせる" || exit 0
+          git push -q origin HEAD:refs/heads/results
+          ls status | wc -l
