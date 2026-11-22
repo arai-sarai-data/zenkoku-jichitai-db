@@ -124,6 +124,8 @@ def process_entity(args):
             pages, text = xlsx_text(data) if ext == ".xlsx" else (0, "")
         else:
             pages, text = 0, ""
+        # PDFから取り出した文字に壊れた文字(サロゲート)が混じると保存で止まるため、置き換えておく
+        text = (text or "").encode("utf-8", "replace").decode("utf-8")
         rec["pages"], rec["text_chars"] = pages, len(text.strip())
         if data[:4] == b"%PDF":
             # 1ページあたり50文字未満なら画像PDFとみなしOCR対象
@@ -144,6 +146,15 @@ def process_entity(args):
     return results
 
 
+def process_entity_safe(args):
+    """1団体の失敗で県全体が止まらないようにする"""
+    try:
+        return process_entity(args)
+    except Exception as e:  # noqa: BLE001
+        print(f"{args[1]}: 原本の取得を中断 {type(e).__name__}: {e}")
+        return []
+
+
 def main():
     pref = sys.argv[1].zfill(2)
     by_code = defaultdict(list)
@@ -153,7 +164,7 @@ def main():
     jobs = [(pref, code, rows) for code, rows in by_code.items()]
     out = []
     with ThreadPoolExecutor(WORKERS) as ex:
-        for res in ex.map(process_entity, jobs):
+        for res in ex.map(process_entity_safe, jobs):
             out.extend(res)
     (ROOT / "data" / "docs").mkdir(parents=True, exist_ok=True)
     fields = ["code", "kind", "url", "link_text", "found_on", "sha256", "bytes", "pages", "text_chars",
