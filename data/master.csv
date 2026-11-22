@@ -129,7 +129,7 @@ code,pref,name,kind,official_url,url_check
 052108,秋田県,由利本荘市,市,https://www.city.yurihonjo.lg.jp/,ok
 052116,秋田県,潟上市,市,https://www.city.katagami.lg.jp/,ok
 052124,秋田県,大仙市,市,https://www.city.daisen.lg.jp/,ok
-052132,秋田県,北秋田市,市,https://www.city.kitaakita.akita.jp/,unreachable
+052132,秋田県,北秋田市,市,https://www.city.kitaakita.akita.jp/,ok
 052141,秋田県,にかほ市,市,https://www.city.nikaho.akita.jp/,ok
 052159,秋田県,仙北市,市,https://www.city.semboku.akita.jp/,ok
 062014,山形県,山形市,市,https://www.city.yamagata-yamagata.lg.jp/,ok
@@ -735,7 +735,7 @@ code,pref,name,kind,official_url,url_check
 392022,高知県,室戸市,市,https://www.city.muroto.kochi.jp/,ok
 392031,高知県,安芸市,市,https://www.city.aki.kochi.jp/,ok
 392049,高知県,南国市,市,https://www.city.nankoku.lg.jp/,ok
-392057,高知県,土佐市,市,https://www.city.tosa.lg.jp/,ok
+392057,高知県,土佐市,市,https://www.city.tosa.lg.jp/,ng
 392065,高知県,須崎市,市,https://www.city.susaki.lg.jp/,ok
 392081,高知県,宿毛市,市,https://www.city.sukumo.kochi.jp/,ok
 392090,高知県,土佐清水市,市,https://www.city.tosashimizu.kochi.jp/,ok
@@ -1162,7 +1162,7 @@ code,pref,name,kind,official_url,url_check
 083640,茨城県,大子町,町村,https://www.town.daigo.ibaraki.jp/,ok
 084425,茨城県,美浦村,町村,https://www.vill.miho.lg.jp/,ok
 084433,茨城県,阿見町,町村,https://www.town.ami.lg.jp/,ok
-084476,茨城県,河内町,町村,https://www.town.ibaraki-kawachi.lg.jp/,ng
+084476,茨城県,河内町,町村,https://www.town.ibaraki-kawachi.lg.jp/,ok
 085219,茨城県,八千代町,町村,https://www.town.ibaraki-yachiyo.lg.jp/,ok
 085421,茨城県,五霞町,町村,https://www.town.goka.lg.jp/,ok
 085464,茨城県,境町,町村,https://www.town.ibaraki-sakai.lg.jp/,ok
@@ -1212,7 +1212,7 @@ code,pref,name,kind,official_url,url_check
 113476,埼玉県,吉見町,町村,https://www.town.yoshimi.saitama.jp/,ok
 113484,埼玉県,鳩山町,町村,https://www.town.hatoyama.saitama.jp/,ok
 113492,埼玉県,ときがわ町,町村,https://www.town.tokigawa.lg.jp/,ok
-113611,埼玉県,横瀬町,町村,https://www.town.yokoze.saitama.jp/,unreachable
+113611,埼玉県,横瀬町,町村,https://www.town.yokoze.saitama.jp/,ok
 113620,埼玉県,皆野町,町村,https://www.town.minano.saitama.jp/,ok
 113638,埼玉県,長瀞町,町村,https://www.town.nagatoro.saitama.jp/,ok
 113654,埼玉県,小鹿野町,町村,https://www.town.ogano.lg.jp/,ok
@@ -1589,7 +1589,7 @@ code,pref,name,kind,official_url,url_check
 364037,徳島県,藍住町,町村,https://www.town.aizumi.lg.jp/,ok
 364045,徳島県,板野町,町村,http://www.town.itano.tokushima.jp/,ok
 364053,徳島県,上板町,町村,https://www.townkamiita.jp/,ok
-364681,徳島県,つるぎ町,町村,https://www.town.tokushima-tsurugi.lg.jp/,unreachable
+364681,徳島県,つるぎ町,町村,https://www.town.tokushima-tsurugi.lg.jp/,ok
 364894,徳島県,東みよし町,町村,https://www.town.higashimiyoshi.lg.jp/,ok
 373222,香川県,土庄町,町村,https://www.town.tonosho.kagawa.jp/,ok
 373249,香川県,小豆島町,町村,https://www.town.shodoshima.lg.jp/,ok
