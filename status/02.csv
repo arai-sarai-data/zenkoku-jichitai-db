@@ -1,42 +1,42 @@
-code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants
-020001,青森県,青森県,https://www.pref.aomori.lg.jp/,300,,498,52,14,566
-022012,青森県,青森市,https://www.city.aomori.aomori.jp/,300,,177,748,0,63
-022021,青森県,弘前市,https://www.city.hirosaki.aomori.jp/,300,,335,1194,0,91
-022039,青森県,八戸市,https://www.city.hachinohe.aomori.jp/,300,,58,292,0,274
-022047,青森県,黒石市,http://www.city.kuroishi.aomori.jp/,300,,10,404,0,120
-022055,青森県,五所川原市,https://www.city.goshogawara.lg.jp/,300,,69,162,0,60
-022063,青森県,十和田市,https://www.city.towada.lg.jp/,300,,41,289,0,101
-022071,青森県,三沢市,https://www.city.misawa.lg.jp/,300,,37,2023,0,274
-022080,青森県,むつ市,https://www.city.mutsu.lg.jp/,300,,38,40,0,228
-022098,青森県,つがる市,https://www.city.tsugaru.aomori.jp/,300,,37,358,0,38
-022101,青森県,平川市,https://www.city.hirakawa.lg.jp/,300,,56,728,0,171
-023019,青森県,平内町,https://www.town.hiranai.aomori.jp/,130,,11,1,0,52
-023035,青森県,今別町,https://www.town.imabetsu.lg.jp/,142,,6,0,0,22
-023043,青森県,蓬田村,https://www.vill.yomogita.lg.jp/,300,,4,140,0,32
-023078,青森県,外ヶ浜町,https://www.town.sotogahama.lg.jp/,132,,52,82,0,102
-023213,青森県,鰺ケ沢町,https://www.town.ajigasawa.lg.jp/,271,,2,78,0,113
-023230,青森県,深浦町,https://www.town.fukaura.lg.jp/,223,,21,279,0,90
-023434,青森県,西目屋村,https://www.nishimeya.jp/,99,,10,70,0,3
-023612,青森県,藤崎町,http://www.town.fujisaki.lg.jp/,162,,54,2356,0,38
-023621,青森県,大鰐町,http://www.town.owani.lg.jp/,138,,11,698,0,95
-023671,青森県,田舎館村,http://www.vill.inakadate.lg.jp/,300,,11,100,0,41
-023817,青森県,板柳町,https://www.town.tsuruta.lg.jp/,279,,12,3,0,104
-023841,青森県,鶴田町,http://www.town.tsuruta.lg.jp/,279,,12,3,0,104
-023876,青森県,中泊町,https://www.town.nakadomari.lg.jp/,195,,18,123,0,11
-024015,青森県,野辺地町,https://www.town.noheji.aomori.jp/,100,,108,2,0,20
-024023,青森県,七戸町,https://www.town.shichinohe.lg.jp/,300,,15,158,0,102
-024058,青森県,六戸町,https://www.town.rokunohe.aomori.jp/,300,,10,38,0,156
-024066,青森県,横浜町,https://www.town.yokohama.lg.jp/,300,,62,152,0,105
-024082,青森県,東北町,https://www.town.tohoku.lg.jp/,286,,0,96,0,242
-024112,青森県,六ケ所村,https://www.rokkasho.jp/,300,,158,52,0,180
-024121,青森県,おいらせ町,https://www.town.oirase.aomori.jp/,300,,172,22,0,70
-024236,青森県,大間町,https://www.town.ooma.lg.jp/,300,,33,202,0,17
-024244,青森県,東通村,http://www.vill.higashidoori.lg.jp/,125,,0,50,0,18
-024252,青森県,風間浦村,https://www.kazamaura.jp/,49,,0,59,0,2
-024261,青森県,佐井村,http://www.vill.sai.lg.jp/,179,,1,2,0,33
-024414,青森県,三戸町,https://www.town.sannohe.aomori.jp/,145,,30,109,0,85
-024422,青森県,五戸町,https://www.town.gonohe.aomori.jp/,163,,26,14,0,172
-024431,青森県,田子町,https://www.town.takko.lg.jp/,300,,4,2,0,59
-024457,青森県,南部町,https://www.town.aomori-nanbu.lg.jp/,229,,40,220,0,98
-024465,青森県,階上町,https://www.town.hashikami.lg.jp/,300,,24,2368,0,82
-024503,青森県,新郷村,http://www.vill.shingo.aomori.jp/,214,,2,24,0,16
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+020001,青森県,青森県,https://www.pref.aomori.lg.jp/,300,,498,52,14,566,https://www.pref.aomori.lg.jp,200:295 404:5 ConnectionError:1
+022012,青森県,青森市,https://www.city.aomori.aomori.jp/,300,,177,748,0,63,https://www.city.aomori.aomori.jp,200:300 ConnectionError:2
+022021,青森県,弘前市,https://www.city.hirosaki.aomori.jp/,300,,335,1194,0,91,https://www.city.hirosaki.aomori.jp,200:284 404:16 ConnectionError:1
+022039,青森県,八戸市,https://www.city.hachinohe.aomori.jp/,300,,58,304,0,273,https://www.city.hachinohe.aomori.jp,200:300 ConnectionError:2
+022047,青森県,黒石市,http://www.city.kuroishi.aomori.jp/,300,,10,404,0,120,http://www.city.kuroishi.aomori.jp,200:293 404:7 ConnectionError:2
+022055,青森県,五所川原市,https://www.city.goshogawara.lg.jp/,300,,69,162,0,60,https://www.city.goshogawara.lg.jp,200:291 404:9 ConnectionError:1
+022063,青森県,十和田市,https://www.city.towada.lg.jp/,300,,41,289,0,101,https://www.city.towada.lg.jp,200:299 404:2 ConnectionError:1 robots:1
+022071,青森県,三沢市,https://www.city.misawa.lg.jp/,300,,37,2023,0,274,https://www.city.misawa.lg.jp,200:300 ConnectionError:1
+022080,青森県,むつ市,https://www.city.mutsu.lg.jp/,300,,38,40,0,228,https://www.city.mutsu.lg.jp,200:302 ConnectTimeout:1
+022098,青森県,つがる市,https://www.city.tsugaru.aomori.jp/,300,,37,357,0,38,https://www.city.tsugaru.aomori.jp,200:304 ConnectionError:2
+022101,青森県,平川市,https://www.city.hirakawa.lg.jp/,300,,56,728,0,171,https://www.city.hirakawa.lg.jp,200:288 404:12 ConnectionError:1
+023019,青森県,平内町,https://www.town.hiranai.aomori.jp/,137,,11,1,0,64,https://www.town.hiranai.aomori.jp,200:138 ConnectionError:3
+023035,青森県,今別町,https://www.town.imabetsu.lg.jp/,142,,6,0,0,22,https://www.town.imabetsu.lg.jp,200:145 ConnectionError:1
+023043,青森県,蓬田村,https://www.vill.yomogita.lg.jp/,300,,4,140,0,32,https://www.vill.yomogita.lg.jp,200:310 ConnectionError:1
+023078,青森県,外ヶ浜町,https://www.town.sotogahama.lg.jp/,132,,52,82,0,102,https://www.town.sotogahama.lg.jp,200:144 ConnectionError:1
+023213,青森県,鰺ケ沢町,https://www.town.ajigasawa.lg.jp/,271,,2,78,0,113,https://www.town.ajigasawa.lg.jp,200:263 404:9 ConnectionError:1
+023230,青森県,深浦町,https://www.town.fukaura.lg.jp/,223,,21,279,0,90,https://www.town.fukaura.lg.jp,200:228 404:1 ConnectionError:1
+023434,青森県,西目屋村,https://www.nishimeya.jp/,99,,10,70,0,3,https://www.nishimeya.jp,200:99
+023612,青森県,藤崎町,http://www.town.fujisaki.lg.jp/,162,,54,2356,0,38,http://www.town.fujisaki.lg.jp,200:162 ConnectionError:1
+023621,青森県,大鰐町,http://www.town.owani.lg.jp/,138,,11,698,0,95,http://www.town.owani.lg.jp,200:138 ConnectionError:1 SSLError:1
+023671,青森県,田舎館村,http://www.vill.inakadate.lg.jp/,300,,11,100,0,41,http://www.vill.inakadate.lg.jp,200:306 404:2 ConnectTimeout:1 SSLError:1
+023817,青森県,板柳町,https://www.town.tsuruta.lg.jp/,279,,12,3,0,104,https://www.town.tsuruta.lg.jp,200:280 404:2 ConnectionError:1
+023841,青森県,鶴田町,http://www.town.tsuruta.lg.jp/,279,,12,3,0,104,http://www.town.tsuruta.lg.jp,200:280 404:2 ConnectionError:1
+023876,青森県,中泊町,https://www.town.nakadomari.lg.jp/,203,,18,123,0,12,https://www.town.nakadomari.lg.jp,200:203 ConnectionError:1
+024015,青森県,野辺地町,https://www.town.noheji.aomori.jp/,101,,108,2,0,20,https://www.town.noheji.aomori.jp,200:238 ConnectionError:1 SSLError:1
+024023,青森県,七戸町,https://www.town.shichinohe.lg.jp/,300,,15,158,0,102,https://www.town.shichinohe.lg.jp,200:300 ConnectionError:1
+024058,青森県,六戸町,https://www.town.rokunohe.aomori.jp/,300,,10,38,0,156,https://www.town.rokunohe.aomori.jp,200:328 ConnectionError:2
+024066,青森県,横浜町,https://www.town.yokohama.lg.jp/,300,,62,152,0,105,https://www.town.yokohama.lg.jp,200:305 404:4 ConnectionError:1
+024082,青森県,東北町,https://www.town.tohoku.lg.jp/,286,,0,96,0,242,https://www.town.tohoku.lg.jp,200:284 404:4 ConnectionError:1
+024112,青森県,六ケ所村,https://www.rokkasho.jp/,300,,158,52,0,180,https://www.rokkasho.jp,200:297 404:5 ConnectionError:1
+024121,青森県,おいらせ町,https://www.town.oirase.aomori.jp/,300,,172,22,0,70,https://www.town.oirase.aomori.jp,200:300 ConnectTimeout:2 ConnectionError:2
+024236,青森県,大間町,https://www.town.ooma.lg.jp/,300,,33,202,0,17,https://www.town.ooma.lg.jp,200:294 404:6 ConnectionError:1
+024244,青森県,東通村,http://www.vill.higashidoori.lg.jp/,145,,0,50,0,18,http://www.vill.higashidoori.lg.jp,200:145 ConnectionError:2 SSLError:1
+024252,青森県,風間浦村,https://www.kazamaura.jp/,54,,0,59,0,2,https://www.kazamaura.jp,200:72 403:2 404:2 ConnectTimeout:1 robots:1
+024261,青森県,佐井村,http://www.vill.sai.lg.jp/,179,,1,2,0,33,http://www.vill.sai.lg.jp,200:179
+024414,青森県,三戸町,https://www.town.sannohe.aomori.jp/,173,,30,118,0,85,https://www.town.sannohe.aomori.jp,200:173 ConnectTimeout:1 SSLError:1
+024422,青森県,五戸町,https://www.town.gonohe.aomori.jp/,163,,26,14,0,172,https://www.town.gonohe.aomori.jp,200:167 404:2 ConnectTimeout:1 ConnectionError:1
+024431,青森県,田子町,https://www.town.takko.lg.jp/,300,,4,2,0,59,https://www.town.takko.lg.jp,200:300 ConnectionError:1
+024457,青森県,南部町,https://www.town.aomori-nanbu.lg.jp/,231,,40,220,0,98,https://www.town.aomori-nanbu.lg.jp,200:231 ConnectionError:1
+024465,青森県,階上町,https://www.town.hashikami.lg.jp/,300,,24,2368,0,82,https://www.town.hashikami.lg.jp,200:300 ConnectionError:1
+024503,青森県,新郷村,http://www.vill.shingo.aomori.jp/,216,,2,24,0,16,http://www.vill.shingo.aomori.jp,200:214 403:1 404:1 ConnectionError:1
