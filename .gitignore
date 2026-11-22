@@ -1,0 +1,7 @@
+data/saita/
+data/compare/
+work/
+_site/
+work/
+__pycache__/
+*.pyc

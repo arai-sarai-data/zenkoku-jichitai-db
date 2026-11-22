@@ -1,0 +1,8 @@
+code,name,official_url,reason
+245615,御浜町,https://www.town.mihama.mie.jp/,Wikidataの旧ドメインが無関係のサイトに転用されていた
+216046,白川村,https://www.vill.shirakawa.lg.jp/,Wikidataが観光サイトを指していた
+052094,鹿角市,https://www.city.kazuno.lg.jp/,旧ドメインの証明書切れ・移転
+032077,久慈市,https://www.city.kuji.lg.jp/,旧ドメインの証明書切れ・移転
+073687,南会津町,https://www.town.minamiaizu.lg.jp/,旧ドメインから移転
+102105,富岡市,https://www.city.tomioka.lg.jp/,接続できない旧URL
+112330,北本市,https://www.city.kitamoto.lg.jp/,旧ドメインから移転

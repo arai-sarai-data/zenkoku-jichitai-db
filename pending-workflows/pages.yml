@@ -1,0 +1,40 @@
+name: pages
+
+# data/ が更新されたら公開サイトを作り直して GitHub Pages に出す。
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["collect-originals", "kessan"]
+    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    # 収集・取り込みが成功したときだけ(手動実行は常に)。公開は全国の収集完了後に Pages を有効化してから
+    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && vars.PAGES_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python site/build.py
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: _site }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.d.outputs.page_url }}
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4

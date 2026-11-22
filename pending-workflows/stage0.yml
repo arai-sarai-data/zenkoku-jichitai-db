@@ -1,0 +1,38 @@
+name: stage0-checks
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "stage0/**"
+      - ".github/workflows/stage0.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests openpyxl pypdf
+      - name: 決算データ(総務省)
+        run: python stage0/check_soumu.py
+        continue-on-error: true
+      - name: 補助金(Jグランツ)
+        run: python stage0/check_jgrants.py
+        continue-on-error: true
+      - name: 入札(官公需情報ポータル)
+        run: python stage0/check_kkj.py
+        continue-on-error: true
+      - name: 結果をリポジトリに保存
+        run: |
+          git config user.name "stage0-bot"
+          git config user.email "stage0-bot@users.noreply.github.com"
+          git add stage0/out
+          git commit -m "stage0: check results [skip ci]" || echo "no changes"
+          git push
