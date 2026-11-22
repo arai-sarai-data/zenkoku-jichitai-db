@@ -19,6 +19,11 @@ if (-not (Test-Path (Join-Path $dir 'config.cmd'))) {
     Expand-Archive $zip -DestinationPath $dir -Force
     Remove-Item $zip
 }
+# 以前の登録(別のリポジトリ向け)が残っていれば止めて外す
+Get-Process -Name 'Runner.Listener','Runner.Worker' -ErrorAction SilentlyContinue |
+    Where-Object { $_.Path -like "$dir*" } | Stop-Process -Force -ErrorAction SilentlyContinue
+Get-ChildItem ([Environment]::GetFolderPath('Startup')) -Filter 'github-runner-*.cmd' -ErrorAction SilentlyContinue | Remove-Item -Force
+foreach ($f in '.runner','.credentials','.credentials_rsaparams') { $p = Join-Path $dir $f; if (Test-Path $p) { Remove-Item $p -Force } }
 Write-Host ""
 Write-Host "[3/4] 登録します。GitHubの画面の「./config.cmd --url ... --token XXXXX」の XXXXX 部分を貼り付けて Enter を押してください。"
 $token = (Read-Host 'トークン').Trim()
