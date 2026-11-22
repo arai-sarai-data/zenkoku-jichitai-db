@@ -20,7 +20,7 @@ code,name,policy_url,reuse,link,evidence
 112216,草加市,https://www.city.soka.saitama.jp/link-bkup.html,unknown,unknown,
 112224,越谷市,https://www.city.koshigaya.saitama.jp/aboutweb/index.html,unknown,unknown,
 112232,蕨市,https://www.city.warabi.saitama.jp/about/1003454.html,consult,unknown,本サイト内の記事・写真の無断転載はできません。
-112241,戸田市,https://www.city.toda.saitama.jp/soshiki/154/todacity-link.html,free,unknown,スポーツセンターの利用案内のほか、施設の予約や抽選の申込みができます。
+112241,戸田市,https://www.city.toda.saitama.jp/soshiki/154/todacity-copyright.html,unknown,unknown,
 112259,入間市,https://www.city.iruma.saitama.jp/this_site/5379.html,unknown,free,
 112275,朝霞市,https://www.city.asaka.lg.jp/site/userguide/copyright.html,consult,unknown,朝霞市ホームページの内容について、「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 112283,志木市,https://www.city.shiki.lg.jp/site/userguide/7386.html,free,free,）は、どなたでも以下に従って、複製、公衆送信、翻訳・変形等の翻案等、自由に利用できます。
@@ -29,37 +29,37 @@ code,name,policy_url,reuse,link,evidence
 112313,桶川市,https://www.city.okegawa.lg.jp/soshiki/hisyoshitsu/hisyokoho/koho/officialwebsite/2160.html,consult,free,当ホームページの内容について無断で複製および転用することはできません。
 112321,久喜市,https://www.city.kuki.lg.jp/about/1006511.html,unknown,unknown,
 112330,北本市,https://www.city.kitamoto.lg.jp/chosakuken.html,consult,unknown,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
-112348,八潮市,https://www.city.yashio.lg.jp/aboutweb/site_policy.html,unknown,free,
-112356,富士見市,https://www.city.fujimi.saitama.jp/00fujimi/2010-0530-1822-146.html,unknown,free,
+112348,八潮市,https://www.city.yashio.lg.jp/aboutweb/chosakuken.html,consult,free,著作権法上認められる場合を除き、八潮市の許可なく当サイト上に掲載されている文書や画像などを無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
+112356,富士見市,https://www.city.fujimi.saitama.jp/00fujimi/2010-0530-1822-146.html,consult,free,（QRコードは（株）デンソーウェーブの登録商標です）著作権法上認められる場合を除き、富士見市の許可なく富士見市ホームページ上に掲載されている文書や画像等を無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 112372,三郷市,https://www.city.misato.lg.jp/shiseijoho/koho_kocho/homepage/6360.html,consult,free,本サイト内の記事・写真の無断転載を禁じます。
-112381,蓮田市,https://www.city.hasuda.saitama.jp/bunkakaikan/shise/link/e-yoyaku-henko.html,free,unknown,error: ConnectionError
-112399,坂戸市,https://www.city.sakado.lg.jp/site/userguide/4791.html,unknown,free,
+112381,蓮田市,,unknown,unknown,error: ConnectionError
+112399,坂戸市,https://www.city.sakado.lg.jp/site/userguide/4791.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、坂戸市の許可なく当サイトに掲載されている文書・画像等を無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 112402,幸手市,https://www.city.satte.lg.jp/important/15957.html,unknown,unknown,
-112411,鶴ケ島市,https://www.city.tsurugashima.lg.jp/gyousei/ict/page009429.html,unknown,unknown,
+112411,鶴ケ島市,,unknown,unknown,
 112429,日高市,https://www.city.hidaka.lg.jp/soshiki/sogoseisaku/seisakuhisho/shiseijoho/saitojoho/727.html,unknown,free,
 112437,吉川市,,unknown,unknown,
 112453,ふじみ野市,https://www.city.fujimino.saitama.jp/soshikiichiran/kohokochoka/kohokochokakari/hp_about/834.html,consult,free,無断で転載することを禁じます。
 112461,白岡市,https://www.city.shiraoka.lg.jp/3/1559.html,consult,free,「私的利用」または「引用」など著作権法上認められた行為として適切な方法で利用する場合を除き、無断で転載、複製、改変などをすることはできません。
-113018,伊奈町,https://www.town.saitama-ina.lg.jp/site_policy/0000000011.html,free,free,伊奈町ホームページは利用目的を問わず、自由に閲覧していただくことが可能ですが、著作権法上認められた「私的使用」や「引用」の範囲を越えて、無断で複製・転用などをすることは出来ません。
+113018,伊奈町,https://www.town.saitama-ina.lg.jp/site_policy/0000000011.html,unknown,free,
 113247,三芳町,,unknown,unknown,
 113263,毛呂山町,,unknown,unknown,
 113271,越生町,,unknown,unknown,
-113417,滑川町,https://www.town.namegawa.saitama.jp/1357.html,unknown,free,
+113417,滑川町,https://www.town.namegawa.saitama.jp/1357.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、滑川町の許可なく当サイトに掲載されている文書・画像等を無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 113425,嵐山町,https://www.town.ranzan.saitama.jp/site_policy/0000000003.html,unknown,free,
 113433,小川町,https://www.town.ogawa.saitama.jp/gyosei/jyuuyou/7472.html,unknown,unknown,
 113468,川島町,https://www.town.kawajima.saitama.jp/1272.htm,consult,free,「私的利用」または「引用」など著作権法上認められた行為として適切な方法で利用する場合を除き、無断で転載、複製、改変などをすることはできません。
 113476,吉見町,https://www.town.yoshimi.saitama.jp/gyosei/1241.html,unknown,unknown,
 113484,鳩山町,https://www.town.hatoyama.saitama.jp/hp_guide/,unknown,unknown,
 113492,ときがわ町,https://www.town.tokigawa.lg.jp/link/itemlist/1,unknown,unknown,
-113611,横瀬町,https://www.town.yokoze.saitama.jp/site-policy,free,free,本ホームページの通常のページに関しては、個人情報を明かすことなく利用することができますが、一部、ご意見やお問い合わせに関しては氏名・住所等の個人情報の入力をお願いする場合があります。
-113620,皆野町,https://www.town.minano.saitama.jp/#!,unknown,unknown,
+113611,横瀬町,,unknown,unknown,
+113620,皆野町,https://www.town.minano.saitama.jp/about/,consult,unknown,また、そのすべてについて、「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、皆野町の許可・承諾を得ないまま、無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 113638,長瀞町,https://www.town.nagatoro.saitama.jp/link_about/,unknown,free,
 113654,小鹿野町,,unknown,unknown,
 113697,東秩父村,https://www.vill.higashichichibu.saitama.jp/site/userguide/exclusion.html,consult,free,本ホームページは、著作権法上認められた「私的使用のための複製」や「引用」などの場合を除き、無断で複製、転載、販売、貸与することはできません。
-113816,美里町,https://www.town.saitama-misato.lg.jp/0000000906.html,free,free,美里町ホームページは利用目的を問わず、自由に閲覧していただくことが可能ですが、著作権法上認められた「私的使用」や「引用」の範囲を越えて、無断で複製・転用などをすることは出来ません。
+113816,美里町,https://www.town.saitama-misato.lg.jp/0000000906.html,unknown,free,
 113832,神川町,https://www.town.kamikawa.saitama.jp/abot/index.html,unknown,unknown,
 113859,上里町,https://www.town.kamisato.saitama.jp/1037.htm,consult,free,これらの情報は「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、無断使用・転載を禁止します。
 114081,寄居町,https://www.town.yorii.saitama.jp/soshiki/13/exclusion.html,consult,unknown,本町ホームページに掲載されている文書・画像等の無断使用・転載を禁止します。
-114421,宮代町,https://www.town.miyashiro.lg.jp/category/12-7-0-0-0-0-0-0-0-0.html,free,unknown,（埼玉県AED設置情報提供システム） [2016年11月9日]埼玉県家具固定サポーター登録制度が利用できます [2016年11月4日]災害情報を共有「さいたま減災プロジェクト」 [2016年11月4日]埼玉県防火防災指導者人材バンク利用者・
+114421,宮代町,https://www.town.miyashiro.lg.jp/category/12-7-0-0-0-0-0-0-0-0.html,unknown,unknown,
 114642,杉戸町,https://www.town.sugito.lg.jp/site/userguide/7004.html,consult,free,また、これらの情報の全部または一部について、著作権法上認められた場合を除き、無断で複製・転用することはできません。
 114651,松伏町,https://www.town.matsubushi.lg.jp/0000001131.html#link-c,consult,free,また、そのすべてについて、「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で転載・引用することを禁止します。
