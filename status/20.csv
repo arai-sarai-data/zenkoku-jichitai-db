@@ -6,9 +6,9 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 202045,長野県,岡谷市,https://www.city.okaya.lg.jp/,300,,101,335,0,37,https://www.city.okaya.lg.jp,200:300 ConnectionError:1
 202053,長野県,飯田市,https://www.city.iida.lg.jp/,300,,178,1061,0,432,https://www.city.iida.lg.jp,200:290 404:10 ConnectionError:1
 202061,長野県,諏訪市,https://www.city.suwa.lg.jp/,300,,9,32,0,358,https://www.city.suwa.lg.jp,200:303 ConnectionError:1
-202070,長野県,須坂市,https://www.city.suzaka.nagano.jp/,300,,169,43,0,189,https://www.city.suzaka.nagano.jp,200:301 ConnectionError:2
+202070,長野県,須坂市,https://www.city.suzaka.nagano.jp/,300,,169,43,0,188,https://www.city.suzaka.nagano.jp,200:300 404:1 ConnectionError:2
 202088,長野県,小諸市,https://www.city.komoro.lg.jp/,298,,74,11,0,117,https://www.city.komoro.lg.jp,200:301 ConnectionError:1
-202096,長野県,伊那市,https://www.inacity.jp/,300,,232,76,0,428,https://www.inacity.jp,200:300 ConnectionError:1
+202096,長野県,伊那市,https://www.inacity.jp/,300,,232,76,0,425,https://www.inacity.jp,200:300 ConnectionError:1
 202100,長野県,駒ケ根市,https://www.city.komagane.nagano.jp/,300,,273,188,0,207,https://www.city.komagane.nagano.jp,200:300 ConnectionError:2
 202118,長野県,中野市,https://www.city.nakano.nagano.jp/,300,,134,2656,0,330,https://www.city.nakano.nagano.jp,200:300 ConnectionError:2
 202126,長野県,大町市,https://www.city.omachi.nagano.jp/,300,,57,121,0,64,https://www.city.omachi.nagano.jp,200:279 404:21 ConnectionError:2
@@ -16,7 +16,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 202142,長野県,茅野市,https://www.city.chino.lg.jp/,300,,13,80,0,294,https://www.city.chino.lg.jp,200:316 ConnectionError:1
 202151,長野県,塩尻市,https://www.city.shiojiri.lg.jp/,300,,31,124,0,121,https://www.city.shiojiri.lg.jp,200:303 404:3 ConnectionError:1
 202177,長野県,佐久市,https://www.city.saku.nagano.jp/,300,,319,163,0,491,https://www.city.saku.nagano.jp,200:309 ConnectTimeout:1 ConnectionError:1
-202185,長野県,千曲市,https://www.city.chikuma.lg.jp/,300,,55,360,0,248,https://www.city.chikuma.lg.jp,200:300 404:2 ConnectionError:1
+202185,長野県,千曲市,https://www.city.chikuma.lg.jp/,300,,55,360,0,248,https://www.city.chikuma.lg.jp,200:300 404:2 ConnectTimeout:1
 202193,長野県,東御市,https://www.city.tomi.nagano.jp/,300,,105,19,0,152,https://www.city.tomi.nagano.jp,200:198 404:102 ConnectionError:2
 202207,長野県,安曇野市,https://www.city.azumino.nagano.jp/,209,,900,184,0,467,https://www.city.azumino.nagano.jp,200:205 302:1 404:4 ConnectionError:2
 203033,長野県,小海町,https://www.koumi-town.jp/,176,,44,73,1,38,https://www.koumi-town.jp,200:177 ConnectionError:1
@@ -30,12 +30,12 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 203246,長野県,立科町,https://www.town.tateshina.nagano.jp/,197,,1,30,0,136,https://www.town.tateshina.nagano.jp,200:198 ConnectionError:1
 203491,長野県,青木村,http://www.vill.aoki.nagano.jp/,72,,2,1,0,416,http://www.vill.aoki.nagano.jp,200:72 ConnectionError:1
 203505,長野県,長和町,https://www.town.nagawa.nagano.jp/,281,,50,84,0,61,https://www.town.nagawa.nagano.jp,200:282 ConnectionError:1
-203611,長野県,下諏訪町,https://www.town.shimosuwa.lg.jp/,300,,24,17,0,225,https://www.town.shimosuwa.lg.jp,200:304 404:2 ConnectionError:1
+203611,長野県,下諏訪町,https://www.town.shimosuwa.lg.jp/,300,,24,17,0,225,https://www.town.shimosuwa.lg.jp,200:304 404:2 ConnectTimeout:1
 203629,長野県,富士見町,https://www.town.fujimi.lg.jp/,243,,25,51,0,155,https://www.town.fujimi.lg.jp,200:240 401:1 403:3 404:4 ConnectionError:1
 203637,長野県,原村,https://www.vill.hara.lg.jp/,162,,32,79,0,77,https://www.vill.hara.lg.jp,200:167 ConnectionError:1
 203823,長野県,辰野町,https://www.town.tatsuno.lg.jp/,300,,35,168,0,345,https://www.town.tatsuno.lg.jp,200:301 ConnectionError:1
 203831,長野県,箕輪町,https://www.town.minowa.lg.jp/,269,,42,201,0,199,https://www.town.minowa.lg.jp,200:270 ConnectionError:1
-203840,長野県,飯島町,https://www.town.iijima.lg.jp/,300,,448,159,0,248,https://www.town.iijima.lg.jp,200:300 ConnectionError:1
+203840,長野県,飯島町,https://www.town.iijima.lg.jp/,300,,448,159,0,247,https://www.town.iijima.lg.jp,200:299 404:1 ConnectionError:1
 203858,長野県,南箕輪村,https://www.vill.minamiminowa.lg.jp/,300,,39,651,0,150,https://www.vill.minamiminowa.lg.jp,200:294 403:1 404:7 ConnectionError:1
 203866,長野県,中川村,https://www.vill.nakagawa.nagano.jp/,300,,39,25,0,217,https://www.vill.nakagawa.nagano.jp,200:299 403:1 ConnectionError:2
 203882,長野県,宮田村,https://www.vill.miyada.nagano.jp/,4,,0,0,0,0,https://www.vill.miyada.nagano.jp,200:3 403:1 ConnectionError:1
