@@ -2,13 +2,13 @@ code,name,policy_url,reuse,link,evidence
 270008,大阪府,https://www.pref.osaka.lg.jp/o070050/koho/information/use.html#a1,consult,free,「私的使用」や「引用」など、著作権法上認められている適切な方法で利用する場合を除き、無断使用・無断転載することはできません。
 271004,大阪市,https://www.city.osaka.lg.jp/main/site_policy/0000000148.html,free,unknown,オープンデータの提供について当サイトから配信しているRSSデータについては、CC（クリエイティブコモンズ）ライセンスにおけるCC-BYで提供いたします。
 271403,堺市,https://www.city.sakai.lg.jp/aboutweb/linkchosakuken.html,consult,free,本サイト上の文書・画像等について、私的利用のための複製や引用など著作権法上認められた場合を除き、無断で複製・転用することはできません。
-272027,岸和田市,https://www.city.kishiwada.lg.jp/page/129-rose-bus-riyou.html,free,unknown,現金または交通系ICカード（Pitapa、I C O C A 等）が利用できます。
+272027,岸和田市,https://www.city.kishiwada.lg.jp/site/userguide/menseki.html,unknown,unknown,
 272035,豊中市,https://www.city.toyonaka.osaka.jp/aboutweb/link.html,consult,free,「私的使用のための複製」や「引用」など、著作権法上認められた場合を除き、無断で複製、転用することはできません。
 272043,池田市,https://www.city.ikeda.osaka.jp/homepage/copyright.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 272051,吹田市,https://www.city.suita.osaka.jp/about/1012303.html,unknown,unknown,
 272060,泉大津市,https://www.city.izumiotsu.lg.jp/privacypolicy.html,unknown,unknown,
 272078,高槻市,https://www.city.takatsuki.osaka.jp/soshiki/6/38436.html,consult,free,著作権法上認められている適切な方法で利用する場合を除き、無断使用・無断転載することはできません。
-272086,貝塚市,https://www.city.kaizuka.lg.jp/copyright.html,free,free,当ホームページの内容について、私的な使用または引用等著作権法上認められた行為として、当ホームページからの出典である旨を明示することで、転載、引用、複製を行うことができます。
+272086,貝塚市,https://www.city.kaizuka.lg.jp/copyright.html,unknown,free,
 272094,守口市,https://www.city.moriguchi.osaka.jp/gyoseijoho/konositenitsuite/copyright.html,consult,unknown,「私的使用」や「引用」など、著作権法で認められている適切な方法で利用する場合を除き、無断使用・無断転載することはできませんのでご注意ください。
 272108,枚方市,https://www.city.hirakata.osaka.jp/0000010379.html,consult,free,本サイトに掲載されている個々の情報（文章、写真、イラスト等）は、私的使用のための複製や引用等の著作権上認められた場合を除き、無断で複製・転用することはできません。
 272116,茨木市,https://www.city.ibaraki.osaka.jp/aboutsite/copyright.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
@@ -20,10 +20,10 @@ code,name,policy_url,reuse,link,evidence
 272175,松原市,https://www.city.matsubara.lg.jp/docs/page8086.html,consult,free,当ホームページ上の文書・画像等について「私的利用のための複製」や「引用」等著作権法上認められている場合を除き、無断で複製、転用することはできません。
 272183,大東市,https://www.city.daito.lg.jp/site/userguide/list32-63.html,unknown,unknown,
 272191,和泉市,https://www.city.osaka-izumi.lg.jp/copyright.html,consult,free,私的利用のための複製や引用など著作権法上認められた場合を除き、無断で複製・転用することはできません。
-272205,箕面市,https://www.city.minoh.lg.jp/about_site/privacy.html,free,unknown,この技術により、みなさんから送信された情報がインターネット上の第三者に傍受されたり改ざんされることなく、安心してご利用いただくことができます。
+272205,箕面市,,unknown,unknown,error: ConnectTimeout
 272213,柏原市,https://www.city.kashiwara.lg.jp/docs/2014062300013/,consult,unknown,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 272221,羽曳野市,https://www.city.habikino.lg.jp/soshiki/shichou/toshimiryoku/other/copyright.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、本サイトに掲載の文章、画像などについて無断で複製・転用することを禁止します。
-272230,門真市,https://www.city.kadoma.osaka.jp/3969.html,free,free,当ホームページの内容について、私的な使用または引用等著作権法上認められた行為として、当ホームページからの出典である旨を明示することで、転載、引用、複製を行うことができます。
+272230,門真市,https://www.city.kadoma.osaka.jp/3969.html,unknown,free,
 272248,摂津市,https://www.city.settsu.osaka.jp/soshiki/shichoukoushitsu/kouhouka/homepage/6297.html,consult,unknown,著作権法上、認められた場合を除き、無断で複製・転用することはできません。
 272256,高石市,https://www.city.takaishi.lg.jp/copyright.html,consult,free,・「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 272264,藤井寺市,https://www.city.fujiidera.lg.jp/konositenitsuite/,unknown,unknown,
@@ -36,8 +36,8 @@ code,name,policy_url,reuse,link,evidence
 273015,島本町,https://www.town.shimamoto.lg.jp/site/userguide/1984.html,consult,unknown,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、本サイト上のコンテンツを無断で複製・転用することはできません。
 273210,豊能町,https://www.town.toyono.osaka.jp/about/,unknown,unknown,
 273228,能勢町,https://www.town.nose.osaka.jp/chosakuken.html,consult,unknown,「私的使用のため複製」、「引用」など著作権法上認められた場合を除き、無断で複製・転用することを禁止しています。
-273414,忠岡町,https://www.town.tadaoka.osaka.jp/about_tadaoka.html,unknown,free,
-273619,熊取町,https://www.town.kumatori.lg.jp/gyosei_joho/gaiyo/homepage/copyright.html,unknown,unknown,
+273414,忠岡町,https://www.town.tadaoka.osaka.jp/about_tadaoka.html,consult,free,法律上の「私的利用」、その他法律によって認められる範囲を超えて、本ホームページに掲載されているコンテンツの全部または一部を許可なく使用（複製、引用、改変、掲示、送信、頒布、販売等を含む）することはできません。
+273619,熊取町,https://www.town.kumatori.lg.jp/gyosei_joho/gaiyo/homepage/copyright.html,consult,unknown,著作権法上の「私的利用」、その他法律によって明示的に認められる範囲を超えて、これらの全部または一部を許可なく使用（複製、引用、改変、掲示、送信、頒布、販売等を含む）することを禁じます。
 273627,田尻町,https://www.town.tajiri.osaka.jp/taisetsu/5762.html,unknown,unknown,
 273660,岬町,https://www.town.misaki.osaka.jp/soshiki/matidukuri/kikaku/homepage/copyright.html,consult,free,個人で利用するための複製・引用など、著作権法上認められた場合を除き、本サイトの情報を無断で複製・転用をすることはできません。
 273813,太子町,http://www.town.taishi.osaka.jp/riyousha/iju/index.html,unknown,unknown,
