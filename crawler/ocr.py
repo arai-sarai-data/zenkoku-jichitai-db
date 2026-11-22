@@ -47,7 +47,7 @@ def main():
             continue
         tdir = ROOT / "work" / "text" / pref / r["code"]
         tdir.mkdir(parents=True, exist_ok=True)
-        (tdir / (r["sha256"][:16] + ".txt")).write_text(text, encoding="utf-8")
+        (tdir / (r["sha256"][:16] + ".txt")).write_text(text, encoding="utf-8", errors="replace")
         r["text_chars"], r["needs_ocr"] = len(text.strip()), "ocr"
         done[r["sha256"]] = r["text_chars"]
     with open(path, "w", newline="", encoding="utf-8") as f:
