@@ -6,7 +6,7 @@ code,name,policy_url,reuse,link,evidence
 232033,一宮市,https://www.city.ichinomiya.aichi.jp/about/linkpolicy.html,unknown,free,
 232041,瀬戸市,https://www.city.seto.aichi.jp/docs/2011/02/03/00016/index.html,consult,free,瀬戸市ホームページ上の文書・画像等の無断使用・転載、二次利用を禁止します。
 232050,半田市,https://www.city.handa.lg.jp/about/index.html,unknown,unknown,
-232068,春日井市,https://www.city.kasugai.lg.jp/site/sitepolicy/index.html,unknown,free,
+232068,春日井市,https://www.city.kasugai.lg.jp/site/sitepolicy/index.html,consult,free,著作権法で認められている場合を除き、著作権者の許可なく文章や画像、データなどの一部または全部を利用することは禁止します。
 232076,豊川市,https://www.city.toyokawa.lg.jp/26812.html,unknown,unknown,
 232084,津島市,https://www.city.tsushima.lg.jp/thissite/linkchosakuken.html,unknown,free,
 232092,碧南市,https://www.city.hekinan.lg.jp/homepage/copyright.html,consult,free,当ホームページで掲載している情報・文章・画像などのデータについては、権利者の許可なく複製・転用することを固く禁止します。
@@ -26,13 +26,13 @@ code,name,policy_url,reuse,link,evidence
 232246,知多市,https://www.city.chita.lg.jp/aboutHP/,unknown,unknown,
 232254,知立市,https://www.city.chiryu.aichi.jp/1450690105548.html,consult,notice,引用、転用、転載を行う場合には、必ず事前にご連絡ください。
 232262,尾張旭市,,unknown,unknown,
-232271,高浜市,https://www.city.takahama.lg.jp/soshiki/seisaku/13317.html,unknown,free,
+232271,高浜市,https://www.city.takahama.lg.jp/soshiki/seisaku/13317.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、高浜市の許可なく当サイトに掲載されている文書・画像等を無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 232289,岩倉市,https://www.city.iwakura.aichi.jp/site_policy/0000000005.html,unknown,free,
 232297,豊明市,https://www.city.toyoake.lg.jp/1112.htm,consult,free,これらの情報は、「私的使用のための複製」や「引用」などの著作権法上認められた場合を除き、無断で転用・引用することはできません。
 232301,日進市,https://www.city.nisshin.lg.jp/gaiyo/copyright.html,consult,unknown,日進市公式Webサイトは利用目的を問わず自由に閲覧していただくことが可能ですが、「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 232319,田原市,https://www.city.tahara.aichi.jp/site/1002165.html,consult,free,「私的使用のための複製」や「引用」など、著作権法上認められた場合を除き、これらの著作物を無断で複製、転用、再利用することはできません。
 232327,愛西市,https://www.city.aisai.lg.jp/site_policy/0000000003.html,unknown,unknown,
-232335,清須市,https://www.city.kiyosu.aichi.jp/shisetsu_annai/toshokan_bijutsukan.html,free,unknown,【ご利用案内】・どなたでもご乗車できます（車椅子可）。
+232335,清須市,https://www.city.kiyosu.aichi.jp/shisei_joho/koho_kiyosu/banner_boshu.html,unknown,unknown,
 232343,北名古屋市,https://www.city.kitanagoya.lg.jp/shisei/1005580.html,unknown,unknown,
 232351,弥富市,https://www.city.yatomi.lg.jp/1000896.html,unknown,unknown,
 232360,みよし市,https://www.city.aichi-miyoshi.lg.jp/hidden/7/7764.html,consult,free,無断で転載することを禁じます。
@@ -41,7 +41,7 @@ code,name,policy_url,reuse,link,evidence
 233021,東郷町,https://www.town.aichi-togo.lg.jp/emergency/13883.html,unknown,unknown,
 233421,豊山町,https://www.town.toyoyama.lg.jp/about/index.html,unknown,unknown,
 233617,大口町,https://www.town.oguchi.lg.jp/1085.htm,unknown,unknown,
-233625,扶桑町,https://www.town.fuso.lg.jp/about/1002845/1002847.html,unknown,free,
+233625,扶桑町,https://www.town.fuso.lg.jp/about/1002845/1002847.html,consult,free,掲載内容を無断で転載・複製等などは著作権の侵害となり法律で禁止されています。
 234249,大治町,https://www.town.oharu.aichi.jp/1286.htm,unknown,unknown,
 234257,蟹江町,https://www.town.kanie.aichi.jp/site/userguide/about-web.html#copyrighting,consult,free,そのため当サイトに掲載されている写真は、「私的使用」または「引用」など著作権法上認められた例外を除き、蟹江町に無断で転用、転載などを行うことはできません。
 234273,飛島村,https://www.vill.tobishima.aichi.jp/about/index.html,unknown,unknown,
