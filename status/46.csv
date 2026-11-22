@@ -2,7 +2,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 460001,鹿児島県,鹿児島県,https://www.pref.kagoshima.jp,300,,315,1,77,117,https://www.pref.kagoshima.jp,200:302 ConnectionError:2
 462012,鹿児島県,鹿児島市,https://www.city.kagoshima.lg.jp/,300,,9,50,0,510,https://www.city.kagoshima.lg.jp,200:300 404:1 ConnectionError:1 robots:1
 462039,鹿児島県,鹿屋市,https://www.city.kanoya.lg.jp/,300,,250,543,0,373,https://www.city.kanoya.lg.jp,200:261 404:39 ConnectionError:1
-462047,鹿児島県,枕崎市,https://www.city.makurazaki.lg.jp/,300,,28,26,0,103,https://www.city.makurazaki.lg.jp,200:303 ConnectionError:2
+462047,鹿児島県,枕崎市,https://www.city.makurazaki.lg.jp/,300,,28,26,0,103,https://www.city.makurazaki.lg.jp,200:303 ConnectTimeout:1 ConnectionError:1
 462063,鹿児島県,阿久根市,https://www.city.akune.lg.jp/,300,,11,142,1,200,https://www.city.akune.lg.jp,200:302 404:1 ConnectionError:1
 462080,鹿児島県,出水市,https://www.city.kagoshima-izumi.lg.jp/,218,,25,631,0,101,https://www.city.kagoshima-izumi.lg.jp,200:218 404:2 ConnectionError:1
 462101,鹿児島県,指宿市,https://www.city.ibusuki.lg.jp/,109,,18,106,0,83,https://www.city.ibusuki.lg.jp,200:106 404:5 ConnectionError:1
