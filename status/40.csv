@@ -1,62 +1,62 @@
-code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants
-400009,福岡県,福岡県,https://www.pref.fukuoka.lg.jp/,300,,497,267,1281,257
-401005,福岡県,北九州市,https://www.city.kitakyushu.lg.jp/,300,,530,268,0,199
-401307,福岡県,福岡市,https://www.city.fukuoka.lg.jp/,300,,494,134,0,5580
-402028,福岡県,大牟田市,https://www.city.omuta.lg.jp/,300,,514,189,0,46
-402036,福岡県,久留米市,https://www.city.kurume.fukuoka.jp/,300,,136,3388,0,0
-402044,福岡県,直方市,https://www.city.nogata.fukuoka.jp/,1,,0,0,0,0
-402052,福岡県,飯塚市,https://www.city.iizuka.lg.jp/,300,,153,86,0,253
-402061,福岡県,田川市,https://www.joho.tagawa.fukuoka.jp/,194,,161,264,0,67
-402079,福岡県,柳川市,https://www.city.yanagawa.fukuoka.jp/,300,,76,1310,0,68
-402109,福岡県,八女市,https://www.city.yame.fukuoka.jp/,239,,262,191,0,172
-402117,福岡県,筑後市,https://www.city.chikugo.lg.jp/,267,,22,278,0,220
-402125,福岡県,大川市,https://www.city.okawa.lg.jp/,246,,2,56,0,32
-402133,福岡県,行橋市,https://www.city.yukuhashi.fukuoka.jp/,300,,14,325,0,94
-402141,福岡県,豊前市,https://www.city.buzen.lg.jp/,276,,171,713,0,49
-402150,福岡県,中間市,https://www.city.nakama.lg.jp/,263,,126,103,0,43
-402168,福岡県,小郡市,https://www.city.ogori.fukuoka.jp/,205,時間上限,86,9,0,53
-402176,福岡県,筑紫野市,https://www.city.chikushino.fukuoka.jp/,300,,77,180,0,89
-402184,福岡県,春日市,https://www.city.kasuga.fukuoka.jp/,300,,249,84,0,81
-402192,福岡県,大野城市,https://www.city.onojo.fukuoka.jp/,206,,64,9,0,44
-402206,福岡県,宗像市,https://www.city.munakata.lg.jp/,300,,55,650,0,232
-402214,福岡県,太宰府市,https://www.city.dazaifu.lg.jp/,256,,450,511,0,100
-402231,福岡県,古賀市,https://www.city.koga.fukuoka.jp/,275,,29,18,0,19
-402249,福岡県,福津市,https://www.city.fukutsu.lg.jp/,300,,149,1188,0,36
-402257,福岡県,うきは市,https://www.city.ukiha.fukuoka.jp/,300,,127,104,0,236
-402265,福岡県,宮若市,https://www.city.miyawaka.lg.jp/,300,,117,7,0,216
-402273,福岡県,嘉麻市,https://www.city.kama.lg.jp/,300,,240,535,0,124
-402281,福岡県,朝倉市,https://www.city.asakura.lg.jp/,300,,498,238,0,131
-402290,福岡県,みやま市,https://www.city.miyama.lg.jp/,300,,143,1301,0,140
-402303,福岡県,糸島市,https://www.city.itoshima.lg.jp/,300,,167,49,0,135
-402311,福岡県,那珂川市,https://www.city.nakagawa.lg.jp/,300,,17,739,0,78
-403415,福岡県,宇美町,https://www.town.umi.lg.jp/,187,,45,233,0,21
-403423,福岡県,篠栗町,https://www.town.sasaguri.fukuoka.jp/,151,,260,15,0,4
-403431,福岡県,志免町,https://www.town.shime.lg.jp/,300,,254,5,0,6
-403440,福岡県,須恵町,https://www.town.sue.fukuoka.jp/,253,,137,45,0,11
-403458,福岡県,新宮町,https://www.town.shingu.fukuoka.jp/,300,,318,560,0,35
-403482,福岡県,久山町,https://www.town.hisayama.fukuoka.jp/,239,,191,64,0,12
-403491,福岡県,粕屋町,https://www.town.kasuya.fukuoka.jp/,220,,140,12,0,42
-403814,福岡県,芦屋町,https://www.town.ashiya.lg.jp/,300,,25,151,0,68
-403822,福岡県,水巻町,https://www.town.mizumaki.lg.jp/,173,,0,136,0,51
-403831,福岡県,岡垣町,https://www.town.okagaki.lg.jp/,300,,228,67,0,118
-403849,福岡県,遠賀町,https://www.town.onga.lg.jp/,262,,33,93,0,32
-404012,福岡県,小竹町,https://town.kotake.lg.jp/,290,,47,6,0,59
-404021,福岡県,鞍手町,https://www.town.kurate.lg.jp/,140,,282,63,0,146
-404217,福岡県,桂川町,https://www.town.keisen.fukuoka.jp/,144,,66,213,0,39
-404471,福岡県,筑前町,https://www.town.chikuzen.fukuoka.jp/,300,,439,1090,0,1
-404489,福岡県,東峰村,https://vill.toho-info.com/,64,,8,4,0,16
-405035,福岡県,大刀洗町,https://www.town.tachiarai.fukuoka.jp/,300,,112,63,0,62
-405221,福岡県,大木町,https://www.town.ooki.lg.jp/,300,,141,35,0,16
-405442,福岡県,広川町,https://www.town.hirokawa.fukuoka.jp/,174,,234,133,0,12
-406015,福岡県,香春町,https://www.town.kawara.fukuoka.jp/,177,,379,35,0,81
-406023,福岡県,添田町,https://www.town.soeda.fukuoka.jp/,209,,124,39,0,41
-406040,福岡県,糸田町,https://www.town.itoda.lg.jp/,164,,1,8,0,39
-406058,福岡県,川崎町,https://www.town-kawasaki.com/,281,,167,203,0,86
-406082,福岡県,大任町,https://www.town.oto.fukuoka.jp/,150,,0,0,0,10
-406091,福岡県,赤村,https://www.akamura.net/,40,,0,25,1,0
-406104,福岡県,福智町,https://www.town.fukuchi.lg.jp/,253,,23,28,0,131
-406210,福岡県,苅田町,https://www.town.kanda.lg.jp/,253,,268,188,0,78
-406252,福岡県,みやこ町,https://www.town.miyako.lg.jp/,300,,13,12,0,95
-406422,福岡県,吉富町,https://www.town.yoshitomi.lg.jp/,168,,9,10,0,88
-406465,福岡県,上毛町,https://www.town.koge.lg.jp/,118,,9,2,0,50
-406473,福岡県,築上町,https://www.town.chikujo.fukuoka.jp/,270,,104,29,0,78
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+400009,福岡県,福岡県,https://www.pref.fukuoka.lg.jp/,300,,497,265,1281,257,https://www.pref.fukuoka.lg.jp,200:300 ConnectionError:1
+401005,福岡県,北九州市,https://www.city.kitakyushu.lg.jp/,300,,530,268,0,199,https://www.city.kitakyushu.lg.jp,200:299 404:1 ConnectionError:1
+401307,福岡県,福岡市,https://www.city.fukuoka.lg.jp/,300,,441,138,0,5036,https://www.city.fukuoka.lg.jp,200:300 403:1 404:3 ConnectionError:1
+402028,福岡県,大牟田市,https://www.city.omuta.lg.jp/,300,,514,189,0,46,https://www.city.omuta.lg.jp,200:300 ConnectionError:1
+402036,福岡県,久留米市,https://www.city.kurume.fukuoka.jp/,300,,136,3388,0,0,https://www.city.kurume.fukuoka.jp,200:300 ConnectTimeout:1 ConnectionError:1
+402044,福岡県,直方市,https://www.city.nogata.fukuoka.jp/,1,,0,0,0,0,https://www.city.nogata.fukuoka.jp,404:1 ConnectionError:1 SSLError:2
+402052,福岡県,飯塚市,https://www.city.iizuka.lg.jp/,300,,153,86,0,253,https://www.city.iizuka.lg.jp,200:302 403:1 ConnectTimeout:1 ConnectionError:1
+402061,福岡県,田川市,https://www.joho.tagawa.fukuoka.jp/,195,,161,264,0,67,https://www.joho.tagawa.fukuoka.jp,200:193 404:2 ConnectionError:1
+402079,福岡県,柳川市,https://www.city.yanagawa.fukuoka.jp/,300,,76,1310,0,68,https://www.city.yanagawa.fukuoka.jp,200:298 404:8 ConnectionError:2 robots:1
+402109,福岡県,八女市,https://www.city.yame.fukuoka.jp/,240,,262,191,0,172,https://www.city.yame.fukuoka.jp,200:240 ConnectionError:2
+402117,福岡県,筑後市,https://www.city.chikugo.lg.jp/,267,,22,278,0,220,https://www.city.chikugo.lg.jp,200:267 ConnectionError:1
+402125,福岡県,大川市,https://www.city.okawa.lg.jp/,246,,2,56,0,32,https://www.city.okawa.lg.jp,200:248 404:2 ConnectionError:1
+402133,福岡県,行橋市,https://www.city.yukuhashi.fukuoka.jp/,300,,14,325,0,94,https://www.city.yukuhashi.fukuoka.jp,200:301 404:3 ConnectionError:1 SSLError:1
+402141,福岡県,豊前市,https://www.city.buzen.lg.jp/,300,,171,713,0,74,https://www.city.buzen.lg.jp,200:281 403:3 404:16 ConnectionError:1
+402150,福岡県,中間市,https://www.city.nakama.lg.jp/,263,,126,103,0,43,https://www.city.nakama.lg.jp,200:263 401:1 ConnectTimeout:2 ConnectionError:2
+402168,福岡県,小郡市,https://www.city.ogori.fukuoka.jp/,205,時間上限,86,9,0,53,https://www.city.ogori.fukuoka.jp,200:578 403:2 ConnectionError:2
+402176,福岡県,筑紫野市,https://www.city.chikushino.fukuoka.jp/,300,,77,180,0,89,https://www.city.chikushino.fukuoka.jp,200:305 ConnectionError:2
+402184,福岡県,春日市,https://www.city.kasuga.fukuoka.jp/,300,,249,84,0,81,https://www.city.kasuga.fukuoka.jp,200:300 ConnectionError:2
+402192,福岡県,大野城市,https://www.city.onojo.fukuoka.jp/,206,,64,9,0,44,https://www.city.onojo.fukuoka.jp,200:204 404:2 ConnectTimeout:1 ConnectionError:1
+402206,福岡県,宗像市,https://www.city.munakata.lg.jp/,300,,55,650,0,232,https://www.city.munakata.lg.jp,200:300 ConnectTimeout:1
+402214,福岡県,太宰府市,https://www.city.dazaifu.lg.jp/,257,,450,511,0,100,https://www.city.dazaifu.lg.jp,200:256 404:2 ConnectTimeout:1
+402231,福岡県,古賀市,https://www.city.koga.fukuoka.jp/,275,,29,18,0,19,https://www.city.koga.fukuoka.jp,200:274 403:1 404:1 ConnectTimeout:1 ConnectionError:1
+402249,福岡県,福津市,https://www.city.fukutsu.lg.jp/,300,,149,286,0,46,https://www.city.fukutsu.lg.jp,200:300 ConnectTimeout:1
+402257,福岡県,うきは市,https://www.city.ukiha.fukuoka.jp/,300,,127,104,0,236,https://www.city.ukiha.fukuoka.jp,200:299 404:2 ConnectionError:2
+402265,福岡県,宮若市,https://www.city.miyawaka.lg.jp/,300,,117,7,0,216,https://www.city.miyawaka.lg.jp,200:290 403:4 404:7 ConnectTimeout:1
+402273,福岡県,嘉麻市,https://www.city.kama.lg.jp/,300,,240,535,0,124,https://www.city.kama.lg.jp,200:303 403:1 ConnectionError:1
+402281,福岡県,朝倉市,https://www.city.asakura.lg.jp/,300,,498,238,0,131,https://www.city.asakura.lg.jp,200:287 404:13 SSLError:1
+402290,福岡県,みやま市,https://www.city.miyama.lg.jp/,300,,143,1301,0,129,https://www.city.miyama.lg.jp,200:298 404:5 ConnectionError:1
+402303,福岡県,糸島市,https://www.city.itoshima.lg.jp/,300,,167,60,0,151,https://www.city.itoshima.lg.jp,200:444 404:1 ConnectionError:1
+402311,福岡県,那珂川市,https://www.city.nakagawa.lg.jp/,300,,17,739,0,78,https://www.city.nakagawa.lg.jp,200:299 404:1 ConnectionError:1
+403415,福岡県,宇美町,https://www.town.umi.lg.jp/,188,,45,233,0,21,https://www.town.umi.lg.jp,200:188 ConnectionError:1
+403423,福岡県,篠栗町,https://www.town.sasaguri.fukuoka.jp/,162,,260,15,0,5,https://www.town.sasaguri.fukuoka.jp,200:162 ConnectionError:1
+403431,福岡県,志免町,https://www.town.shime.lg.jp/,300,,254,5,0,6,https://www.town.shime.lg.jp,200:297 404:4 ConnectionError:1
+403440,福岡県,須恵町,https://www.town.sue.fukuoka.jp/,297,,137,45,0,13,https://www.town.sue.fukuoka.jp,200:292 404:8 ConnectionError:2
+403458,福岡県,新宮町,https://www.town.shingu.fukuoka.jp/,300,,332,469,0,35,https://www.town.shingu.fukuoka.jp,200:300 ConnectionError:2
+403482,福岡県,久山町,https://www.town.hisayama.fukuoka.jp/,246,,193,64,0,12,https://www.town.hisayama.fukuoka.jp,200:246 ConnectionError:1
+403491,福岡県,粕屋町,https://www.town.kasuya.fukuoka.jp/,220,,140,12,0,42,https://www.town.kasuya.fukuoka.jp,200:228 404:1 ConnectionError:1 SSLError:1
+403814,福岡県,芦屋町,https://www.town.ashiya.lg.jp/,300,,25,151,0,68,https://www.town.ashiya.lg.jp,200:315 ConnectionError:1
+403822,福岡県,水巻町,https://www.town.mizumaki.lg.jp/,173,,0,136,0,51,https://www.town.mizumaki.lg.jp,200:170 404:4 503:1 ConnectionError:1 SSLError:1
+403831,福岡県,岡垣町,https://www.town.okagaki.lg.jp/,300,,228,67,0,118,https://www.town.okagaki.lg.jp,200:299 404:6 ConnectionError:1
+403849,福岡県,遠賀町,https://www.town.onga.lg.jp/,262,,33,93,0,32,https://www.town.onga.lg.jp,200:260 404:3 503:1 ConnectTimeout:1 ConnectionError:1
+404012,福岡県,小竹町,https://town.kotake.lg.jp/,296,,47,6,0,59,https://town.kotake.lg.jp,200:452 403:1 ConnectionError:1
+404021,福岡県,鞍手町,https://www.town.kurate.lg.jp/,140,,282,63,0,146,https://www.town.kurate.lg.jp,200:154 404:4 ConnectionError:1
+404217,福岡県,桂川町,https://www.town.keisen.fukuoka.jp/,144,,66,213,0,39,https://www.town.keisen.fukuoka.jp,200:143 404:1 ConnectionError:2
+404471,福岡県,筑前町,https://www.town.chikuzen.fukuoka.jp/,300,,439,1090,0,1,https://www.town.chikuzen.fukuoka.jp,200:300 ConnectTimeout:1 ConnectionError:1
+404489,福岡県,東峰村,https://vill.toho-info.com/,64,,8,4,0,16,https://vill.toho-info.com,200:64 ConnectionError:2
+405035,福岡県,大刀洗町,https://www.town.tachiarai.fukuoka.jp/,300,,112,63,0,62,https://www.town.tachiarai.fukuoka.jp,200:302 404:2 ConnectTimeout:1 ConnectionError:1
+405221,福岡県,大木町,https://www.town.ooki.lg.jp/,300,,141,45,0,16,https://www.town.ooki.lg.jp,200:300 ConnectionError:1
+405442,福岡県,広川町,https://www.town.hirokawa.fukuoka.jp/,175,,234,133,0,12,https://www.town.hirokawa.fukuoka.jp,200:177 ConnectionError:2
+406015,福岡県,香春町,https://www.town.kawara.fukuoka.jp/,177,,379,35,0,81,https://www.town.kawara.fukuoka.jp,200:127 404:61 ConnectTimeout:1 ConnectionError:1 SSLError:1
+406023,福岡県,添田町,https://www.town.soeda.fukuoka.jp/,209,,124,39,0,41,https://www.town.soeda.fukuoka.jp,200:210 202:1 301:1 ConnectionError:2 ReadTimeout:1
+406040,福岡県,糸田町,https://www.town.itoda.lg.jp/,164,,1,8,0,39,https://www.town.itoda.lg.jp,200:164 404:2 ConnectionError:1 ReadTimeout:1
+406058,福岡県,川崎町,https://www.town-kawasaki.com/,281,,167,203,0,86,https://www.town-kawasaki.com,200:271 404:4 500:6
+406082,福岡県,大任町,https://www.town.oto.fukuoka.jp/,150,,0,0,0,10,https://www.town.oto.fukuoka.jp,200:152 ConnectTimeout:1 ConnectionError:1
+406091,福岡県,赤村,https://www.akamura.net/,40,,0,25,1,0,https://www.akamura.net,200:40
+406104,福岡県,福智町,https://www.town.fukuchi.lg.jp/,256,,23,28,0,131,https://www.town.fukuchi.lg.jp,200:254 404:2 ConnectionError:1
+406210,福岡県,苅田町,https://www.town.kanda.lg.jp/,253,,268,188,0,78,https://www.town.kanda.lg.jp,200:251 404:4 429:1 ConnectionError:1
+406252,福岡県,みやこ町,https://www.town.miyako.lg.jp/,300,,13,12,0,95,https://www.town.miyako.lg.jp,200:303 404:1 ConnectionError:1
+406422,福岡県,吉富町,https://www.town.yoshitomi.lg.jp/,168,,9,10,0,88,https://www.town.yoshitomi.lg.jp,200:169 404:4 ConnectionError:1
+406465,福岡県,上毛町,https://www.town.koge.lg.jp/,128,,9,2,0,52,https://www.town.koge.lg.jp,200:128 ConnectionError:1
+406473,福岡県,築上町,https://www.town.chikujo.fukuoka.jp/,270,,104,29,0,78,https://www.town.chikujo.fukuoka.jp,200:273 ConnectTimeout:1 ConnectionError:1
