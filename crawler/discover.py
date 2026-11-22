@@ -55,6 +55,7 @@ STRONG = {
 }
 NAV_HINT = re.compile(r"(くらし|事業者|ビジネス|産業|行政|市政|町政|村政|区政|県政|財政|組織|分類|カテゴリ|一覧|sitemap|サイトマップ)")
 EXTERNAL_BID = re.compile(r"(ppi|nyusatsu|e-?bid|denshi|choutatsu|chotatsu|cals|e-?nyu|keiyaku|efftis)", re.I)
+JS_URL = re.compile(r"""["'](/[A-Za-z0-9_\-./%]+?\.(?:html?|php|jsp|aspx?)|https?://[^"'\s<>]+?)["']""")
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".mp4", ".mp3", ".ics", ".css", ".js")
 
 
@@ -201,15 +202,39 @@ def crawl(entity):
         alts.append(f"https://www.{gk[0]}.{gk[1]}.lg.jp/")   # 例: city.kazuno.akita.jp → city.kazuno.lg.jp
     for alt in alts:
         push(alt, 99, 0)
-    # sitemap.xml があれば候補を足す
+    # サイトマップ(robots.txt の Sitemap: 行と /sitemap.xml、索引形式は子も)から候補を足す
+    def read_sitemaps():
+        queue, done = [], set()
+        try:
+            rr = site._get(site.root + "/robots.txt")
+            if rr.status_code == 200:
+                queue += re.findall(r"(?im)^\s*sitemap:\s*(\S+)", rr.text)
+        except Exception:  # noqa: BLE001
+            pass
+        queue.append(site.root + "/sitemap.xml")
+        while queue and len(done) < 12:
+            sm = queue.pop(0)
+            if sm in done or not site.allowed(sm):
+                continue
+            done.add(sm)
+            try:
+                r = site._get(sm)
+            except Exception:  # noqa: BLE001
+                continue
+            if r.status_code != 200 or "<loc>" not in r.text:
+                continue
+            locs = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", r.text)
+            if "<sitemapindex" in r.text:
+                # 予算・入札・補助金に関係しそうな子サイトマップを先に読む
+                locs.sort(key=lambda u: -max(score("", u).values(), default=0))
+                queue += locs[:30]
+                continue
+            for loc in locs[:20000]:
+                sc = score("", loc)
+                if sc:
+                    push(loc, max(sc.values()), 1)
     try:
-        if site.allowed(site.root + "/sitemap.xml"):
-            r = site._get(site.root + "/sitemap.xml")
-            if r.status_code == 200 and "<loc>" in r.text:
-                for loc in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", r.text)[:5000]:
-                    sc = score("", loc)
-                    if sc:
-                        push(loc, max(sc.values()), 1)
+        read_sitemaps()
     except Exception:  # noqa: BLE001
         pass
 
@@ -245,6 +270,13 @@ def crawl(entity):
             continue
         title = (doc.findtext(".//title") or "").strip()
         page_sc = score(title, r.url)
+        if len(doc.xpath(".//a[@href]")) < 15 and depth < 6:
+            # メニューをJavaScriptで組み立てるサイト: スクリプト中のURLらしき文字列も候補にする
+            for m in set(JS_URL.findall(r.text)):
+                link = urljoin(r.url, m)
+                if site.same_site(link) and not link.lower().split("?")[0].endswith(SKIP_EXT):
+                    sc = score("", link)
+                    push(link, (max(sc.values()) if sc else 1) - depth * 0.5, depth + 1)
         for a in doc.iterfind(".//a[@href]"):
             href = a.get("href", "").strip()
             if not href or href.startswith(("mailto:", "tel:", "javascript:")):
