@@ -131,6 +131,10 @@ def main():
         for r in read_csv(p):
             links[r["code"]][r["kind"]].append(r)
             retrieved[r["code"]] = r.get("retrieved", "")
+    policy = {}   # 団体コード → 利用ルールの判定(crawler/policy.py)
+    for p in (ROOT / "data" / "policy").glob("*.csv"):
+        for r in read_csv(p):
+            policy[r["code"]] = r
     kessan, kyear = load_kessan()
     cards = defaultdict(list)   # 団体コード → [(年度, PDF, ページ)]
     for r in read_csv(ROOT / "data" / "kessan" / "cards.csv"):
@@ -194,6 +198,14 @@ def main():
             else:
                 body.append(f"<p class=muted>この団体の公式サイトから{label}の原本はまだ見つかっていません。"
                             f"<a href=\"{esc(m['official_url'])}\">公式サイト</a>でご確認ください。</p>")
+        # 利用ルール(原本コピーの扱い)
+        pol = policy.get(code, {})
+        rule = {"free": "自由利用（出典を明記すれば複製・公開できる）。原本のコピーと読み取った文字も公開しています。",
+                "partial": "一部のページ・データだけ自由利用。原本はリンクのみ載せています。",
+                "consult": "転載・複製には事前の相談などが必要。原本はリンクのみ載せています。"}.get(
+            pol.get("reuse"), "利用ルールを確認できていません。原本はリンクのみ載せています。")
+        src = f"（<a href=\"{esc(pol['policy_url'])}\" rel=noopener>この団体の利用ルール</a>）" if pol.get("policy_url") else ""
+        body.append(f"<h2>原本の扱い</h2><p>{rule}{src}</p>")
         if st:
             body.append(f"<p class=muted>収集日: {esc(retrieved.get(code, ''))} ・ 巡回ページ数: {esc(st.get('pages'))}</p>")
         (OUT / "m" / f"{code}.html").write_text(page(m["name"], "".join(body), 1), encoding="utf-8")
