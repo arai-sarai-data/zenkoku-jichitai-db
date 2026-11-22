@@ -1,0 +1,121 @@
+name: collect-originals
+
+# 全国1,788団体の公式サイトを回り、当初予算・入札結果・補助金の原本を集める。
+# 1) master: 自治体マスタ(公式サイトURL付き)を作る
+# 2) crawl : 47都道府県を並列に。原本の置き場を見つけ(discover)、原本を取得し(fetch_docs)、画像PDFだけOCR(ocr)
+# 3) merge : 一覧CSVをリポジトリに保存し、原本と文字データはReleaseに置く
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 18 * * 0"   # 毎週月曜 03:17 (日本時間)
+
+permissions:
+  contents: write
+
+jobs:
+  master:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests openpyxl
+      - run: python crawler/build_master.py
+      - uses: actions/upload-artifact@v4
+        with: { name: master, path: data/master.csv }
+
+  crawl:
+    needs: master
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        pref: ["01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-jpn poppler-utils
+      - run: pip install requests lxml openpyxl pypdf
+      - uses: actions/download-artifact@v4
+        with: { name: master, path: data }
+      - run: python crawler/discover.py ${{ matrix.pref }}
+      - name: 途中結果を results ブランチに保存(前回分と団体単位で合わせ、ページ数が多い方を残す)
+        run: |
+          if git fetch -q origin results 2>/dev/null; then
+            git worktree add -q /tmp/prev FETCH_HEAD && python crawler/merge_results.py ${{ matrix.pref }} /tmp/prev
+            git worktree remove --force /tmp/prev
+          fi
+          bash crawler/push_partial.sh ${{ matrix.pref }}
+        continue-on-error: true
+      - run: python crawler/fetch_docs.py ${{ matrix.pref }}
+      - run: python crawler/ocr.py ${{ matrix.pref }}
+        continue-on-error: true
+      - name: 途中結果を再保存(原本の取得結果を含む)
+        run: bash crawler/push_partial.sh ${{ matrix.pref }}
+        continue-on-error: true
+      - name: 原本と文字をまとめる
+        run: |
+          mkdir -p bundle
+          if [ -d work/originals/${{ matrix.pref }} ]; then (cd work/originals && zip -qr ../../bundle/originals-${{ matrix.pref }}.zip ${{ matrix.pref }}); fi
+          if [ -d work/text/${{ matrix.pref }} ]; then (cd work/text && zip -qr ../../bundle/text-${{ matrix.pref }}.zip ${{ matrix.pref }}); fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: result-${{ matrix.pref }}
+          path: |
+            data/links/${{ matrix.pref }}.csv
+            data/status/${{ matrix.pref }}.csv
+            data/docs/${{ matrix.pref }}.csv
+            bundle/
+          retention-days: 7
+
+  merge:
+    needs: [master, crawl]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { path: dl }
+      - name: 一覧CSVをdata/へ集める
+        run: |
+          mkdir -p data/links data/status data/docs bundle
+          cp dl/master/master.csv data/master.csv
+          for d in dl/result-*; do
+            cp -f $d/data/links/*.csv data/links/ 2>/dev/null || true
+            cp -f $d/data/status/*.csv data/status/ 2>/dev/null || true
+            cp -f $d/data/docs/*.csv data/docs/ 2>/dev/null || true
+            cp -f $d/bundle/*.zip bundle/ 2>/dev/null || true
+          done
+          ls data/status | wc -l
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: サイタくんの補助金データと突き合わせ(確認用。公開リポジトリには置かない)
+        run: pip install requests && python crawler/compare_saita.py
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: saita-check
+          path: |
+            data/saita/
+            data/compare/
+          retention-days: 30
+      - name: 確認用データをコミット対象から外す
+        run: rm -rf data/saita data/compare
+      - name: 原本と文字をReleaseに置く
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="originals-$(date +%Y%m%d)"
+          gh release create "$TAG" --title "$TAG" --notes "自治体公式サイトから取得した原本(予算・入札結果・補助金)と取り出した文字。出典は data/docs/*.csv の url 列。" || true
+          ls bundle/*.zip >/dev/null 2>&1 && gh release upload "$TAG" bundle/*.zip --clobber || echo "no bundles"
+      - name: 一覧をコミット
+        run: |
+          git config user.name "collector-bot"
+          git config user.email "collector-bot@users.noreply.github.com"
+          git add data
+          git commit -m "collect: $(date +%Y-%m-%d) [skip ci]" || echo "no changes"
+          git pull --rebase && git push
