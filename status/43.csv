@@ -8,8 +8,8 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 432067,熊本県,玉名市,https://www.city.tamana.lg.jp/,265,時間上限,67,12,0,47,https://www.city.tamana.lg.jp,200:586 404:4 ConnectionError:1
 432083,熊本県,山鹿市,https://www.city.yamaga.kumamoto.jp/,300,,14,25,0,99,https://www.city.yamaga.kumamoto.jp,200:309 404:2 ConnectionError:2
 432105,熊本県,菊池市,https://www.city.kikuchi.lg.jp/,164,時間上限,241,11,0,120,https://www.city.kikuchi.lg.jp,200:587 404:3 ConnectionError:1
-432113,熊本県,宇土市,https://www.city.uto.lg.jp/,300,,19,4,0,113,https://www.city.uto.lg.jp,200:472 ConnectTimeout:1
-432121,熊本県,上天草市,https://www.city.kamiamakusa.kumamoto.jp/,285,時間上限,207,13,0,69,https://www.city.kamiamakusa.kumamoto.jp,200:577 404:1 ConnectionError:2
+432113,熊本県,宇土市,https://www.city.uto.lg.jp/,300,,19,4,0,113,https://www.city.uto.lg.jp,200:472
+432121,熊本県,上天草市,https://www.city.kamiamakusa.kumamoto.jp/,286,時間上限,207,13,0,68,https://www.city.kamiamakusa.kumamoto.jp,200:581 404:1 ConnectionError:2
 432130,熊本県,宇城市,https://www.city.uki.kumamoto.jp/,300,,73,17,0,32,https://www.city.uki.kumamoto.jp,200:496 403:2 404:37 ConnectionError:2
 432148,熊本県,阿蘇市,https://www.city.aso.kumamoto.jp/,185,,259,30,0,65,https://www.city.aso.kumamoto.jp,200:186 404:1 ConnectionError:1
 432156,熊本県,天草市,https://www.city.amakusa.kumamoto.jp/,300,,223,50,1,210,https://www.city.amakusa.kumamoto.jp,200:299 404:3 ConnectionError:2
@@ -27,7 +27,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 434281,熊本県,高森町,https://www.town.takamori.kumamoto.jp/,0,ConnectionError,0,0,0,0,https://www.town.takamori.kumamoto.jp,ConnectionError:4
 434329,熊本県,西原村,https://www.vill.nishihara.kumamoto.jp/,76,,372,19,0,15,https://www.vill.nishihara.kumamoto.jp,200:76 ConnectionError:2
 434337,熊本県,南阿蘇村,https://www.vill.minamiaso.lg.jp/,117,,188,235,0,23,https://www.vill.minamiaso.lg.jp,200:117 ConnectionError:1
-434418,熊本県,御船町,https://www.town.mifune.kumamoto.jp/,268,,38,2,0,52,https://www.town.mifune.kumamoto.jp,200:407 404:5 ConnectTimeout:1 ConnectionError:1
+434418,熊本県,御船町,https://www.town.mifune.kumamoto.jp/,268,,38,2,0,52,https://www.town.mifune.kumamoto.jp,200:407 404:5 ConnectionError:2
 434426,熊本県,嘉島町,https://www.town.kumamoto-kashima.lg.jp/,204,時間上限,279,0,0,23,https://www.town.kumamoto-kashima.lg.jp,200:586 404:5 ConnectionError:1
 434434,熊本県,益城町,https://www.town.mashiki.lg.jp/,300,,379,4,0,170,https://www.town.mashiki.lg.jp,200:300 404:1 ConnectionError:1
 434442,熊本県,甲佐町,https://www.town.kosa.lg.jp/,151,,226,1,0,48,https://www.town.kosa.lg.jp,200:451 404:2 ConnectionError:1
@@ -37,7 +37,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 434841,熊本県,津奈木町,https://www.town.tsunagi.lg.jp/,285,,7,2,0,22,https://www.town.tsunagi.lg.jp,200:379 410:2 ConnectionError:1
 435015,熊本県,錦町,https://www.town.kumamoto-nishiki.lg.jp/,119,,90,40,0,34,https://www.town.kumamoto-nishiki.lg.jp,200:111 404:8 ConnectionError:1
 435058,熊本県,多良木町,https://www.town.taragi.lg.jp/,108,,0,38,0,55,https://www.town.taragi.lg.jp,200:112 ConnectionError:1
-435066,熊本県,湯前町,https://www.town.yunomae.lg.jp/,300,,0,28,0,37,https://www.town.yunomae.lg.jp,200:304 403:2 404:1 ConnectionError:2 ReadTimeout:1
+435066,熊本県,湯前町,https://www.town.yunomae.lg.jp/,300,,0,28,0,37,https://www.town.yunomae.lg.jp,200:303 403:3 404:1 ConnectionError:2
 435074,熊本県,水上村,https://www.vill.mizukami.lg.jp/,73,,0,81,0,27,https://www.vill.mizukami.lg.jp,200:73 ConnectionError:1
 435104,熊本県,相良村,https://www.vill.sagara.lg.jp/,145,,5,1,0,20,https://www.vill.sagara.lg.jp,200:164 404:1 ConnectionError:1
 435112,熊本県,五木村,https://www.vill.itsuki.lg.jp/,59,,3,11,0,39,https://www.vill.itsuki.lg.jp,200:59 ConnectionError:1
