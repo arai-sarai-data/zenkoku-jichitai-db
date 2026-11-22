@@ -29,7 +29,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 024066,青森県,横浜町,https://www.town.yokohama.lg.jp/,300,,62,152,0,105,https://www.town.yokohama.lg.jp,200:305 404:4 ConnectionError:1
 024082,青森県,東北町,https://www.town.tohoku.lg.jp/,286,,0,96,0,242,https://www.town.tohoku.lg.jp,200:284 404:4 ConnectionError:1
 024112,青森県,六ケ所村,https://www.rokkasho.jp/,300,,158,52,0,180,https://www.rokkasho.jp,200:297 404:5 ConnectionError:1
-024121,青森県,おいらせ町,https://www.town.oirase.aomori.jp/,300,,172,22,0,70,https://www.town.oirase.aomori.jp,200:300 ConnectTimeout:2 ConnectionError:2
+024121,青森県,おいらせ町,https://www.town.oirase.aomori.jp/,300,,172,22,0,70,https://www.town.oirase.aomori.jp,200:300 ConnectionError:2
 024236,青森県,大間町,https://www.town.ooma.lg.jp/,300,,33,202,0,17,https://www.town.ooma.lg.jp,200:294 404:6 ConnectionError:1
 024244,青森県,東通村,http://www.vill.higashidoori.lg.jp/,145,,0,50,0,18,http://www.vill.higashidoori.lg.jp,200:145 ConnectionError:2 SSLError:1
 024252,青森県,風間浦村,https://www.kazamaura.jp/,54,,0,59,0,2,https://www.kazamaura.jp,200:72 403:2 404:2 ConnectTimeout:1 robots:1
