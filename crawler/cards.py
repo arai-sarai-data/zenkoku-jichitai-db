@@ -84,13 +84,21 @@ def main():
                 print("fail", href, e, file=sys.stderr)
                 continue
             toc_text = "\n".join((reader.pages[i].extract_text() or "") for i in range(min(2, len(reader.pages))))
-            pref_name = pref or (re.search(r"都道府県名\s*(\S+?[都道府県])", toc_text) or [None, ""])[1]
+            # 県名はPDFの目次(「都道府県名 青森県」)を正とする。一覧表の行見出し(■付き)はずれることがある
+            head = toc_text.split("都道府県名", 1)[-1][:20]
+            pref_name = next((p for p in master if head.lstrip().startswith(p)), re.sub(r"^[■□◆\s]+", "", pref))
             names = master.get(pref_name, {})
             found = 0
             # 目次: 「敦賀市 3」のように 名前 と ページ が並ぶ
-            for m in re.finditer(r"([^\s\d]{1,10}?[市区町村])\s*(\d{1,3})(?!\d)", toc_text):
-                nm, pg = m.group(1), int(m.group(2))
-                code = names.get(nm)
+            toc = [(m.group(1), int(m.group(2)))
+                   for m in re.finditer(r"([^\s\d]{1,10}?[市区町村])\s*(\d{1,3})(?!\d)", toc_text)]
+            # 分割PDF(北海道の2本目など)は、目次のページ番号が1本目からの通し番号になっている
+            offset = 0
+            if toc and max(p for _, p in toc) > len(reader.pages):
+                offset = min(p for _, p in toc) - 2
+            for nm, pg in toc:
+                pg -= offset
+                code = names.get(nm) or names.get(nm.replace("ケ", "ヶ")) or names.get(nm.replace("ヶ", "ケ"))
                 if code and pg <= len(reader.pages):
                     out.append([y, code, nm, href, pg])
                     found += 1
