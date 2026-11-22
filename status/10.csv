@@ -12,7 +12,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 102105,群馬県,富岡市,https://www.city.tomioka.lg.jp/,263,,114,5,0,150,https://www.city.tomioka.lg.jp,200:266 err:10,国内ブラウザ
 102113,群馬県,安中市,https://www.city.annaka.lg.jp/,300,,51,141,0,158,https://www.city.annaka.lg.jp,200:302 404:1 ConnectTimeout:1,
 102121,群馬県,みどり市,https://www.city.midori.gunma.jp/,300,,122,169,0,192,https://www.city.midori.gunma.jp,200:301 ConnectionError:2 robots:1,
-103446,群馬県,榛東村,https://www.vill.shinto.gunma.jp/,254,,9,3,0,93,https://www.vill.shinto.gunma.jp,200:261 401:3 404:1 ConnectionError:2,
+103446,群馬県,榛東村,https://www.vill.shinto.gunma.jp/,254,,9,3,0,93,https://www.vill.shinto.gunma.jp,200:260 401:3 404:2 ConnectionError:2,
 103454,群馬県,吉岡町,https://www.town.yoshioka.gunma.jp/,274,,131,77,0,94,https://www.town.yoshioka.lg.jp,200:271 404:4 ConnectionError:2,
 103667,群馬県,上野村,http://www.uenomura.jp/,194,,5,0,0,4,http://www.uenomura.jp,200:187 403:1 404:6,
 103675,群馬県,神流町,https://www.town.kanna.gunma.jp/,84,,0,2,0,0,https://www.town.kanna.gunma.jp,200:85 ConnectionError:1,
@@ -32,6 +32,6 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 104647,群馬県,玉村町,https://www.town.tamamura.lg.jp/,150,,6,137,0,69,https://www.town.tamamura.lg.jp,200:165 ConnectionError:1,
 105210,群馬県,板倉町,https://www.town.itakura.gunma.jp/,180,,21,292,0,89,https://www.town.itakura.gunma.jp,200:180 ConnectionError:2,
 105228,群馬県,明和町,https://www.town.meiwa.gunma.jp/,215,,10,281,0,91,https://www.town.meiwa.gunma.jp,200:215 ConnectionError:1,
-105236,群馬県,千代田町,https://www.town.chiyoda.gunma.jp/,300,,19,3,0,206,https://www.town.chiyoda.gunma.jp,200:290 404:17 ConnectionError:3,
+105236,群馬県,千代田町,https://www.town.chiyoda.gunma.jp/,300,,19,3,0,206,https://www.town.chiyoda.gunma.jp,200:290 404:17 ConnectionError:2 ReadTimeout:1,
 105244,群馬県,大泉町,https://www.town.oizumi.gunma.jp/,242,,22,81,0,208,https://www.town.oizumi.gunma.jp,200:237 404:15 ConnectionError:2,
 105252,群馬県,邑楽町,https://www.town.ora.gunma.jp/,287,,131,18,0,136,https://www.town.ora.gunma.jp,200:245 404:42 ConnectionError:2,
