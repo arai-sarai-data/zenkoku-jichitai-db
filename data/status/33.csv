@@ -1,0 +1,29 @@
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+330001,岡山県,岡山県,https://www.pref.okayama.jp/,300,,63,86,0,49,https://www.pref.okayama.lg.jp,200:268 404:32 ConnectionError:1
+331007,岡山県,岡山市,https://www.city.okayama.jp/,300,,149,248,0,728,https://www.city.okayama.jp,200:301 404:1 ConnectionError:2
+332020,岡山県,倉敷市,https://www.city.kurashiki.okayama.jp/,300,,83,5,0,317,https://www.city.kurashiki.okayama.jp,200:289 400:12 ConnectionError:2
+332038,岡山県,津山市,https://www.city.tsuyama.lg.jp/,2,,0,0,0,0,https://www.city.tsuyama.lg.jp,200:1 404:1 ConnectTimeout:1
+332046,岡山県,玉野市,https://www.city.tamano.lg.jp/,300,,188,125,0,138,https://www.city.tamano.lg.jp,200:299 404:2 ConnectionError:1
+332054,岡山県,笠岡市,https://www.city.kasaoka.okayama.jp/,300,,425,113,15,209,https://www.city.kasaoka.okayama.jp,200:298 404:2 ConnectionError:2
+332071,岡山県,井原市,https://www.city.ibara.okayama.jp/,300,,48,1390,0,467,https://www.city.ibara.okayama.jp,200:299 404:1 ConnectionError:2
+332089,岡山県,総社市,https://www.city.soja.okayama.jp/,300,,211,230,0,95,https://www.city.soja.okayama.jp,200:295 404:6 ConnectionError:2
+332097,岡山県,高梁市,https://www.city.takahashi.lg.jp/,300,,202,24,0,207,https://www.city.takahashi.lg.jp,200:301 404:1 ConnectionError:1
+332101,岡山県,新見市,https://www.city.niimi.okayama.jp/,274,,381,35,0,226,https://www.city.niimi.okayama.jp,200:282 ConnectionError:1 SSLError:1
+332119,岡山県,備前市,https://www.city.bizen.okayama.jp/,248,,254,4,0,234,https://www.city.bizen.okayama.jp,200:247 404:4 ConnectTimeout:1 SSLError:1
+332127,岡山県,瀬戸内市,https://www.city.setouchi.lg.jp/,300,,193,214,0,289,https://www.city.setouchi.lg.jp,200:300 404:1 ConnectionError:1
+332135,岡山県,赤磐市,https://www.city.akaiwa.lg.jp/,300,,238,412,0,189,https://www.city.akaiwa.lg.jp,200:301 404:3
+332143,岡山県,真庭市,https://www.city.maniwa.lg.jp/,300,,53,28,0,280,https://www.city.maniwa.lg.jp,200:302 404:1 ConnectionError:1
+332151,岡山県,美作市,https://www.city.mimasaka.lg.jp/,300,,29,142,0,203,https://www.city.mimasaka.lg.jp,200:300 ConnectTimeout:1
+332160,岡山県,浅口市,https://www.city.asakuchi.lg.jp/,300,,197,382,5,215,https://www.city.asakuchi.lg.jp,200:296 404:8 ConnectTimeout:1
+333468,岡山県,和気町,https://www.town.wake.lg.jp/,300,,8,10,0,67,https://www.town.wake.lg.jp,200:303 ConnectionError:1
+334235,岡山県,早島町,https://www.town.hayashima.lg.jp/,300,,44,5,3,23,https://www.town.hayashima.lg.jp,200:300 ConnectionError:1
+334456,岡山県,里庄町,https://www.town.satosho.okayama.jp/,231,,2,85,0,154,https://www.town.satosho.okayama.jp,200:234 404:1 ConnectTimeout:1 ConnectionError:2
+334618,岡山県,矢掛町,http://www.town.yakage.okayama.jp/,97,,2,44,0,150,http://www.town.yakage.okayama.jp,200:99 404:1 ConnectTimeout:1 ConnectionError:1
+335860,岡山県,新庄村,http://www.vill.shinjo.okayama.jp/,33,,50,24,6,6,http://www.vill.shinjo.okayama.jp,200:33 ConnectionError:2 SSLError:1
+336068,岡山県,鏡野町,https://www.town.kagamino.lg.jp/,274,,10,30,0,206,https://www.town.kagamino.lg.jp,200:279 403:2 404:1 ConnectionError:1
+336220,岡山県,勝央町,http://www.town.shoo.lg.jp/,300,,42,4,0,75,http://www.town.shoo.lg.jp,200:303 ConnectTimeout:1 ConnectionError:1
+336238,岡山県,奈義町,https://www.town.nagi.okayama.jp/,110,,85,8,0,67,https://www.town.nagi.okayama.jp,200:110 404:1 ConnectionError:2
+336432,岡山県,西粟倉村,https://www.vill.nishiawakura.okayama.jp/,213,,90,5,0,43,https://www.vill.nishiawakura.okayama.jp,200:185 404:28 ConnectionError:1
+336637,岡山県,久米南町,https://www.town.kumenan.lg.jp/,225,,53,28,0,76,https://www.town.kumenan.lg.jp,200:225 404:1 ConnectionError:1
+336661,岡山県,美咲町,https://www.town.misaki.okayama.jp/,189,,37,96,6,5,https://www.town.okayama-misaki.lg.jp,200:191 ConnectionError:2
+336815,岡山県,吉備中央町,https://www.town.kibichuo.lg.jp/,300,,5,0,0,294,https://www.town.kibichuo.lg.jp,200:302 403:1 ConnectTimeout:1

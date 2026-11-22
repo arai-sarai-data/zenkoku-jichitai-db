@@ -1,0 +1,21 @@
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+170003,石川県,石川県,https://www.pref.ishikawa.lg.jp/,300,,1079,7,0,586,https://www.pref.ishikawa.lg.jp,200:298 404:2 ConnectTimeout:1
+172014,石川県,金沢市,https://www4.city.kanazawa.lg.jp/,300,,98,43,0,211,https://www4.city.kanazawa.lg.jp,200:297 404:3 ConnectionError:1
+172022,石川県,七尾市,https://www.city.nanao.lg.jp/,300,,138,814,0,401,https://www.city.nanao.lg.jp,200:296 404:4 ConnectionError:1
+172031,石川県,小松市,https://www.city.komatsu.lg.jp/,300,,376,985,0,176,https://www.city.komatsu.lg.jp,200:300 ConnectTimeout:1
+172049,石川県,輪島市,https://www.city.wajima.ishikawa.jp/,173,時間上限,135,626,0,236,,
+172057,石川県,珠洲市,https://www.city.suzu.lg.jp/,285,,158,316,0,128,https://www.city.suzu.lg.jp,200:289 404:3 ConnectionError:1
+172065,石川県,加賀市,https://www.city.kaga.ishikawa.jp/,0,ConnectionError,0,0,0,0,https://www.city.kaga.ishikawa.jp,ConnectTimeout:1 ConnectionError:2 SSLError:1
+172073,石川県,羽咋市,https://www.city.hakui.lg.jp/,282,,6,42,0,188,https://www.city.hakui.lg.jp,200:286 ConnectionError:1
+172090,石川県,かほく市,https://www.city.kahoku.lg.jp/,300,,182,98,0,281,https://www.city.kahoku.lg.jp,200:298 404:3 ConnectTimeout:1
+172103,石川県,白山市,https://www.city.hakusan.lg.jp/,300,,451,71,0,200,https://www.city.hakusan.lg.jp,200:300 ConnectionError:1 robots:6
+172111,石川県,能美市,https://www.city.nomi.ishikawa.jp/,300,,437,109,0,432,https://www.city.nomi.lg.jp,200:296 404:4 ConnectTimeout:1 ConnectionError:1
+172120,石川県,野々市市,https://www.city.nonoichi.lg.jp/,300,,280,36,0,181,https://www.city.nonoichi.lg.jp,200:300 ConnectionError:1
+173240,石川県,川北町,https://www.town.kawakita.ishikawa.jp/,215,,0,96,0,157,https://www.town.kawakita.ishikawa.jp,200:212 404:5 ConnectTimeout:1 ConnectionError:1
+173614,石川県,津幡町,https://www.town.tsubata.lg.jp/,200,,11,104,0,98,https://www.town.tsubata.lg.jp,200:200 403:1 404:3 ConnectionError:1
+173657,石川県,内灘町,https://www.town.uchinada.lg.jp/,300,,133,88,0,101,https://www.town.uchinada.lg.jp,200:296 404:4 ConnectionError:1
+173843,石川県,志賀町,https://www.town.shika.lg.jp/,238,,4,82,0,149,https://www.town.shika.lg.jp,200:242 302:1 403:1 ConnectionError:1
+173860,石川県,宝達志水町,https://www.hodatsushimizu.jp/,300,,132,185,0,88,https://www.hodatsushimizu.jp,200:301 ConnectionError:1
+174076,石川県,中能登町,https://www.town.nakanoto.ishikawa.jp/,243,,24,31,0,88,https://www.town.nakanoto.ishikawa.jp,200:246 ConnectionError:2
+174611,石川県,穴水町,https://www.town.anamizu.lg.jp/,221,,4,323,0,124,https://www.town.anamizu.lg.jp,200:222 404:1 ConnectionError:1
+174637,石川県,能登町,https://www.town.noto.lg.jp/,300,,41,187,0,103,https://www.town.noto.lg.jp,200:311 ConnectionError:1

@@ -1,0 +1,43 @@
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+470007,沖縄県,沖縄県,https://www.pref.okinawa.lg.jp/,300,,257,233,0,394,https://www.pref.okinawa.lg.jp,200:308 ConnectionError:1
+472018,沖縄県,那覇市,https://www.city.naha.okinawa.jp/,300,,173,121,0,5,https://www.city.naha.okinawa.jp,200:300 ConnectionError:2 ReadTimeout:1
+472051,沖縄県,宜野湾市,https://www.city.ginowan.lg.jp/,285,,110,115,0,10,https://www.city.ginowan.lg.jp,200:290 ConnectionError:1
+472077,沖縄県,石垣市,https://www.city.ishigaki.okinawa.jp/,199,,8,75,0,37,https://www.city.ishigaki.okinawa.jp,200:198 404:3 ConnectionError:2
+472085,沖縄県,浦添市,https://www.city.urasoe.lg.jp/,300,,144,205,5,126,https://www.city.urasoe.lg.jp,200:308 404:8 ConnectionError:1
+472093,沖縄県,名護市,https://www.city.nago.okinawa.jp/,300,,31,187,0,161,https://www.city.nago.okinawa.jp,200:296 404:8 ConnectionError:2
+472107,沖縄県,糸満市,https://www.city.itoman.lg.jp/,300,,78,287,0,46,https://www.city.itoman.lg.jp,200:295 404:10 ConnectionError:1
+472115,沖縄県,沖縄市,https://www.city.okinawa.okinawa.jp/,300,,148,23,0,167,https://www.city.okinawa.okinawa.jp,200:242 404:58 ConnectionError:2
+472123,沖縄県,豊見城市,https://www.city.tomigusuku.lg.jp/,300,,145,394,0,25,https://www.city.tomigusuku.lg.jp,200:308 ConnectionError:1
+472131,沖縄県,うるま市,https://www.city.uruma.lg.jp/,300,,118,60,0,238,https://www.city.uruma.lg.jp,200:300 404:9 ConnectionError:1
+472140,沖縄県,宮古島市,https://www.city.miyakojima.lg.jp/,300,,126,72,0,363,https://www.city.miyakojima.lg.jp,200:330 ConnectionError:1
+472158,沖縄県,南城市,https://www.city.nanjo.okinawa.jp/,146,,167,1,0,83,https://www.city.nanjo.okinawa.jp,200:148 ConnectionError:2
+473014,沖縄県,国頭村,http://www.vill.kunigami.okinawa.jp/,300,,0,0,0,0,http://www.vill.kunigami.okinawa.jp,200:16 404:284 ConnectionError:2
+473022,沖縄県,大宜味村,https://www.vill.ogimi.okinawa.jp/,111,,14,3,0,1,https://www.vill.ogimi.okinawa.jp,200:112 ConnectionError:2
+473031,沖縄県,東村,https://www.vill.higashi.okinawa.jp/,227,,3,1,0,37,https://www.vill.higashi.okinawa.jp,200:226 404:1 ConnectionError:2
+473065,沖縄県,今帰仁村,https://www.nakijin.jp/,97,,5,0,0,35,https://www.nakijin.jp,200:96 404:1 ConnectionError:1
+473081,沖縄県,本部町,https://www.town.motobu.okinawa.jp/,266,,28,0,0,90,https://www.town.motobu.okinawa.jp,200:270 ConnectTimeout:2 ConnectionError:2
+473111,沖縄県,恩納村,https://www.vill.onna.okinawa.jp/,97,,0,2,0,45,https://www.vill.onna.okinawa.jp,200:96 404:1 ConnectionError:2
+473138,沖縄県,宜野座村,http://www.vill.ginoza.okinawa.jp/,78,,0,1,0,15,http://www.vill.ginoza.okinawa.jp,200:78 ConnectionError:2
+473146,沖縄県,金武町,https://www.town.kin.okinawa.jp,152,,17,1,0,6,https://www.town.kin.okinawa.jp,200:152 ConnectionError:2
+473154,沖縄県,伊江村,https://www.iejima.org/,155,,0,0,0,30,https://www.iejima.org,200:169 403:2 404:1 ConnectionError:1
+473243,沖縄県,読谷村,https://www.vill.yomitan.okinawa.jp/index.html,214,,12,1,0,38,https://www.vill.yomitan.okinawa.jp,200:215 ConnectionError:1 SSLError:1
+473251,沖縄県,嘉手納町,https://www.town.kadena.okinawa.jp/,300,,27,1,0,122,https://www.town.kadena.okinawa.jp,200:302 404:6 ConnectionError:2
+473260,沖縄県,北谷町,https://www.chatan.jp/,161,,63,1,0,16,https://www.chatan.jp,200:162 ConnectionError:1
+473278,沖縄県,北中城村,https://www.vill.kitanakagusuku.lg.jp/,154,,149,10,0,10,https://www.vill.kitanakagusuku.lg.jp,200:155 404:1 ConnectionError:1
+473286,沖縄県,中城村,https://www.vill.nakagusuku.okinawa.jp/,189,,104,2,0,34,https://www.vill.nakagusuku.okinawa.jp,200:191 404:1 ConnectionError:2
+473294,沖縄県,西原町,https://www.town.nishihara.okinawa.jp/,300,,65,28,0,41,https://www.town.nishihara.okinawa.jp,200:297 403:2 404:3 ConnectTimeout:1 ConnectionError:2
+473481,沖縄県,与那原町,https://www.town.yonabaru.okinawa.jp/,266,,126,4,0,26,https://www.town.yonabaru.okinawa.jp,200:269 404:1 ConnectionError:2
+473502,沖縄県,南風原町,https://www.town.haebaru.lg.jp/,300,,199,99,0,20,https://www.town.haebaru.lg.jp,200:299 404:1 ConnectionError:1
+473537,沖縄県,渡嘉敷村,https://www.vill.tokashiki.okinawa.jp/,137,,99,10,0,6,https://www.vill.tokashiki.okinawa.jp,200:137 ConnectionError:2
+473545,沖縄県,座間味村,https://www.vill.zamami.okinawa.jp/,300,,6,48,0,41,https://www.vill.zamami.okinawa.jp,200:296 404:8 ConnectionError:2 robots:1
+473553,沖縄県,粟国村,https://www.vill.aguni.okinawa.jp/,50,,0,0,0,3,https://www.vill.aguni.okinawa.jp,200:51 ConnectionError:2
+473561,沖縄県,渡名喜村,http://www.vill.tonaki.okinawa.jp/,62,,4,0,0,0,http://www.vill.tonaki.okinawa.jp,200:63 ConnectionError:2
+473570,沖縄県,南大東村,http://www.vill.minamidaito.okinawa.jp/,204,,0,3,1,28,http://www.vill.minamidaito.okinawa.jp,200:204 ConnectionError:2
+473588,沖縄県,北大東村,https://vill.kitadaito.okinawa.jp/,98,,2,0,0,3,https://vill.kitadaito.okinawa.jp,200:98 ConnectionError:1
+473596,沖縄県,伊平屋村,https://www.vill.iheya.okinawa.jp/,230,,9,4,0,18,https://www.vill.iheya.okinawa.jp,200:229 404:2 ConnectionError:2
+473600,沖縄県,伊是名村,https://vill.izena.okinawa.jp/,73,,1,0,0,9,https://vill.izena.okinawa.jp,200:76 ConnectionError:1
+473618,沖縄県,久米島町,https://www.town.kumejima.okinawa.jp/,215,,59,175,0,36,https://www.town.kumejima.okinawa.jp,200:220 404:2 ConnectionError:2
+473626,沖縄県,八重瀬町,https://www.town.yaese.lg.jp/,300,,188,6,0,25,https://www.town.yaese.lg.jp,200:309 403:6 404:1 ConnectionError:2
+473758,沖縄県,多良間村,https://www.vill.tarama.okinawa.jp/,63,,0,0,0,6,https://www.vill.tarama.okinawa.jp,200:63 ConnectionError:2
+473812,沖縄県,竹富町,https://www.town.taketomi.lg.jp/,221,,2,0,0,77,https://www.town.taketomi.lg.jp,200:220 404:5 ConnectionError:1
+473821,沖縄県,与那国町,https://www.town.yonaguni.okinawa.jp/,151,,92,1,0,40,https://www.town.yonaguni.okinawa.jp,200:153 404:4 ConnectionError:2

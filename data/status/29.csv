@@ -1,0 +1,41 @@
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+290009,奈良県,奈良県,https://www.pref.nara.jp/,300,,1062,31,69,331,https://www.pref.nara.lg.jp,200:300 ConnectionError:1
+292010,奈良県,奈良市,https://www.city.nara.lg.jp/,300,,644,69,0,307,https://www.city.nara.lg.jp,200:300 ConnectionError:1
+292028,奈良県,大和高田市,https://www.city.yamatotakada.nara.jp/,300,,129,561,0,126,https://www.city.yamatotakada.nara.jp,200:309 ConnectTimeout:1 ConnectionError:1
+292036,奈良県,大和郡山市,https://www.city.yamatokoriyama.lg.jp/,300,,60,146,0,121,https://www.city.yamatokoriyama.lg.jp,200:301 ConnectionError:1
+292044,奈良県,天理市,https://www.city.tenri.nara.jp/,263,,3,11,0,52,https://www.city.tenri.nara.jp,200:266 ConnectionError:1
+292052,奈良県,橿原市,https://www.city.kashihara.nara.jp/,300,,59,1195,0,118,https://www.city.kashihara.nara.jp,200:301 ConnectionError:2
+292061,奈良県,桜井市,https://www.city.sakurai.lg.jp/,300,,49,89,0,136,https://www.city.sakurai.lg.jp,200:303 ConnectionError:1
+292079,奈良県,五條市,https://www.city.gojo.lg.jp/,300,,97,241,0,106,https://www.city.gojo.lg.jp,200:300 ConnectionError:1
+292087,奈良県,御所市,https://www.city.gose.nara.jp/,277,,58,60,16,123,https://www.city.gose.nara.jp,200:277 ConnectTimeout:1 ConnectionError:1
+292095,奈良県,生駒市,https://www.city.ikoma.lg.jp/,300,,269,483,0,505,https://www.city.ikoma.lg.jp,200:307 ConnectTimeout:1
+292109,奈良県,香芝市,https://www.city.kashiba.lg.jp/,300,,74,82,6,132,https://www.city.kashiba.lg.jp,200:300 ConnectionError:1
+292117,奈良県,葛城市,https://www.city.katsuragi.nara.jp/,233,,211,296,0,86,https://www.city.katsuragi.nara.jp,200:232 404:2 ConnectionError:2
+292125,奈良県,宇陀市,https://www.city.uda.nara.jp/,300,,547,30,0,156,https://www.city.uda.lg.jp,200:303 ConnectionError:1 SSLError:1
+293229,奈良県,山添村,https://www.vill.yamazoe.nara.jp/,40,,1,1,0,33,https://www.vill.yamazoe.nara.jp,200:38 404:2 ConnectionError:2
+293423,奈良県,平群町,https://www.town.heguri.nara.jp/,235,,18,2,0,137,https://www.town.heguri.nara.jp,200:234 404:5 ConnectionError:2
+293431,奈良県,三郷町,https://www.town.sango.nara.jp/,230,,30,14,0,53,https://www.town.sango.nara.jp,200:228 404:7 ConnectionError:2
+293440,奈良県,斑鳩町,https://www.town.ikaruga.nara.jp/,225,,38,24,0,160,https://www.town.ikaruga.nara.jp,200:226 ConnectionError:2
+293458,奈良県,安堵町,https://www.town.ando.nara.jp/,164,,40,4,0,35,https://www.town.ando.nara.jp,200:160 404:5 ConnectionError:2
+293610,奈良県,川西町,https://www.town.nara-kawanishi.lg.jp/,262,,7,121,0,105,https://www.town.nara-kawanishi.lg.jp,200:262 ConnectionError:1
+293628,奈良県,三宅町,https://www.town.miyake.lg.jp/,260,,19,156,0,52,https://www.town.miyake.lg.jp,200:261 404:4 ConnectTimeout:1 ConnectionError:1
+293636,奈良県,田原本町,https://www.town.tawaramoto.nara.jp/,300,,41,117,1,109,https://www.town.tawaramoto.nara.jp,200:303 ConnectionError:2
+293857,奈良県,曽爾村,https://www.vill.soni.nara.jp/,33,,0,3,0,0,https://www.vill.soni.nara.jp,200:35 ConnectionError:2 robots:1
+293865,奈良県,御杖村,https://www.vill.mitsue.nara.jp/,73,,10,21,0,25,https://www.vill.mitsue.nara.jp,200:73 ConnectionError:1 SSLError:1
+294012,奈良県,高取町,https://www.town.takatori.nara.jp/,119,,13,12,0,48,https://www.town.takatori.nara.jp,200:123 404:1 ConnectionError:1 SSLError:1
+294021,奈良県,明日香村,https://asukamura.jp/,272,,24,176,0,88,https://asukamura.jp,200:285 400:1 405:1 TooManyRedirects:2
+294241,奈良県,上牧町,https://www.town.kanmaki.nara.jp/,217,,9,28,0,75,https://www.town.kanmaki.nara.jp,200:218 ConnectionError:1
+294250,奈良県,王寺町,https://www.town.oji.nara.jp/,296,,41,0,0,116,https://www.town.oji.nara.jp,200:296 ConnectionError:2
+294268,奈良県,広陵町,https://www.town.koryo.nara.jp/,241,,48,427,0,96,https://www.town.koryo.nara.jp,200:241 ConnectionError:2
+294276,奈良県,河合町,https://www.town.kawai.nara.jp/,115,,14,0,0,17,https://www.town.kawai.nara.jp,200:115 ConnectionError:2
+294411,奈良県,吉野町,https://www.town.yoshino.nara.jp/,239,,329,33,0,61,https://www.town.yoshino.nara.jp,200:240 404:1 ConnectionError:2
+294420,奈良県,大淀町,https://www.town.oyodo.lg.jp/,153,,2,115,6,50,https://www.town.oyodo.lg.jp,200:154 ConnectionError:1
+294438,奈良県,下市町,https://www.town.shimoichi.lg.jp/,126,,14,241,0,6,https://www.town.shimoichi.lg.jp,200:128 ConnectionError:1
+294446,奈良県,黒滝村,https://www.vill.kurotaki.nara.jp/,76,,61,29,0,1,https://www.vill.kurotaki.nara.jp,200:78 ConnectionError:2
+294462,奈良県,天川村,https://www.vill.tenkawa.nara.jp/,37,,0,7,0,8,https://www.vill.tenkawa.nara.jp,200:37 ConnectionError:2
+294471,奈良県,野迫川村,https://www.vill.nosegawa.nara.jp/,93,,1,3,0,9,https://www.vill.nosegawa.nara.jp,200:93 ConnectionError:1 SSLError:1
+294497,奈良県,十津川村,https://www.vill.totsukawa.lg.jp/,56,,12,0,0,8,,
+294501,奈良県,下北山村,https://www.vill.shimokitayama.nara.jp/,119,,33,132,0,41,https://www.vill.shimokitayama.nara.jp,200:119 ConnectTimeout:1 ConnectionError:1
+294519,奈良県,上北山村,https://www.vill.kamikitayama.nara.jp/,75,,0,19,0,0,https://www.vill.kamikitayama.nara.jp,200:75 ConnectionError:1
+294527,奈良県,川上村,https://www.vill.kawakami.nara.jp/,109,,2,0,0,19,https://www.vill.kawakami.nara.jp,200:89 404:20 ConnectionError:1 SSLError:1
+294535,奈良県,東吉野村,http://www.vill.higashiyoshino.nara.jp/,50,,12,0,0,15,http://www.vill.higashiyoshino.nara.jp,200:48 404:2 ConnectionError:1 SSLError:1

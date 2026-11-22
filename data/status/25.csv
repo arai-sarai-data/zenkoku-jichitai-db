@@ -1,0 +1,21 @@
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+250007,滋賀県,滋賀県,https://www.pref.shiga.lg.jp/,300,,62,13,0,484,https://www.pref.shiga.lg.jp,200:299 404:1 ConnectionError:1
+252018,滋賀県,大津市,https://www.city.otsu.lg.jp/,300,,56,206,0,338,https://www.city.otsu.lg.jp,200:299 404:1 ConnectionError:1
+252026,滋賀県,彦根市,https://www.city.hikone.lg.jp/,300,,36,245,0,88,https://www.city.hikone.lg.jp,200:299 404:1 ConnectionError:1
+252034,滋賀県,長浜市,https://www.city.nagahama.lg.jp/,300,,266,99,0,528,https://www.city.nagahama.lg.jp,200:300 404:1 ConnectionError:1
+252042,滋賀県,近江八幡市,https://www.city.omihachiman.lg.jp/,300,,449,136,1,110,https://www.city.omihachiman.lg.jp,200:301 ConnectionError:1
+252069,滋賀県,草津市,https://www.city.kusatsu.shiga.jp/,300,,1034,8,0,424,https://www.city.kusatsu.shiga.jp,200:300 ConnectionError:2
+252077,滋賀県,守山市,https://www.city.moriyama.lg.jp/,300,,81,179,0,96,https://www.city.moriyama.lg.jp,200:300 ConnectionError:1 robots:3
+252085,滋賀県,栗東市,https://www.city.ritto.lg.jp/,300,,145,101,0,71,https://www.city.ritto.lg.jp,200:303 ConnectionError:1
+252093,滋賀県,甲賀市,https://www.city.koka.lg.jp/,300,,89,1070,0,197,https://www.city.koka.lg.jp,200:300 ConnectionError:1
+252107,滋賀県,野洲市,https://www.city.yasu.lg.jp/,300,,94,44,0,72,https://www.city.yasu.lg.jp,200:303 404:1 ConnectionError:1
+252115,滋賀県,湖南市,https://www.city.shiga-konan.lg.jp/,300,,265,385,0,58,https://www.city.shiga-konan.lg.jp,200:300 ConnectionError:1
+252123,滋賀県,高島市,https://www.city.takashima.lg.jp/,300,,2,122,0,81,https://www.city.takashima.lg.jp,200:299 404:1 ConnectionError:1
+252131,滋賀県,東近江市,https://www.city.higashiomi.shiga.jp/,300,,360,464,0,76,https://www.city.higashiomi.shiga.jp,200:301 ConnectionError:2
+252140,滋賀県,米原市,https://www.city.maibara.lg.jp/,300,,117,5,0,492,https://www.city.maibara.lg.jp,200:299 404:1 ConnectionError:1
+253839,滋賀県,日野町,https://www.town.shiga-hino.lg.jp/,198,,134,59,0,124,https://www.town.shiga-hino.lg.jp,200:200 ConnectionError:1
+253847,滋賀県,竜王町,https://www.town.ryuoh.shiga.jp/,300,,10,343,0,472,https://www.town.ryuoh.shiga.jp,200:294 404:6 ConnectionError:2
+254258,滋賀県,愛荘町,https://www.town.aisho.shiga.jp/,215,,31,14,0,35,https://www.town.aisho.shiga.jp,200:214 404:1 ConnectionError:2
+254410,滋賀県,豊郷町,https://www.town.toyosato.shiga.jp/,300,,0,707,0,3,https://www.town.toyosato.shiga.jp,200:300 ConnectionError:1 SSLError:1
+254428,滋賀県,甲良町,https://www.kouratown.jp/,211,,23,290,0,12,https://www.kouratown.jp,200:214 404:6
+254436,滋賀県,多賀町,https://www.town.taga.lg.jp/,269,,36,324,0,112,https://www.town.taga.lg.jp,200:269 404:2 ConnectionError:1
