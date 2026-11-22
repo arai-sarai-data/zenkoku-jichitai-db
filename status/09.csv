@@ -1,27 +1,27 @@
-code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants
-090000,栃木県,栃木県,https://www.pref.tochigi.lg.jp/,300,,92,97,10,418
-092011,栃木県,宇都宮市,https://www.city.utsunomiya.lg.jp/,300,,196,99,1,382
-092029,栃木県,足利市,https://www.city.ashikaga.tochigi.jp/,300,,47,364,0,484
-092037,栃木県,栃木市,https://www.city.tochigi.lg.jp/,300,,124,138,0,290
-092045,栃木県,佐野市,https://www.city.sano.lg.jp/,221,時間上限,166,2701,0,4
-092053,栃木県,鹿沼市,https://www.city.kanuma.tochigi.jp/,300,,63,116,0,571
-092061,栃木県,日光市,https://www.city.nikko.lg.jp/,116,,0,3,0,30
-092088,栃木県,小山市,https://www.city.oyama.tochigi.jp/,300,,217,45,6,182
-092096,栃木県,真岡市,https://www.city.moka.lg.jp/,300,,139,211,0,124
-092100,栃木県,大田原市,https://www.city.ohtawara.tochigi.jp/,300,,95,70,0,275
-092118,栃木県,矢板市,https://www.city.yaita.tochigi.jp/,300,,134,438,0,180
-092134,栃木県,那須塩原市,https://www.city.nasushiobara.lg.jp/,300,,907,113,7,305
-092142,栃木県,さくら市,https://www.city.tochigi-sakura.lg.jp/,300,,152,1429,0,297
-092151,栃木県,那須烏山市,https://www.city.nasukarasuyama.lg.jp/,300,,129,501,0,241
-092169,栃木県,下野市,https://www.city.shimotsuke.lg.jp/,300,,931,231,10,477
-093017,栃木県,上三川町,https://www.town.kaminokawa.lg.jp/,300,,8,1069,0,490
-093424,栃木県,益子町,https://www.town.mashiko.lg.jp/,283,,26,122,0,233
-093432,栃木県,茂木町,https://www.town.motegi.tochigi.jp/,128,,164,4,0,14
-093441,栃木県,市貝町,https://www.town.ichikai.tochigi.jp/,300,,59,100,0,64
-093459,栃木県,芳賀町,https://www.town.tochigi-haga.lg.jp/,300,,403,5,0,55
-093611,栃木県,壬生町,https://www.town.mibu.tochigi.jp/,300,,147,72,1,151
-093645,栃木県,野木町,https://www.town.nogi.lg.jp/,300,,346,208,0,221
-093840,栃木県,塩谷町,https://www.town.shioya.tochigi.jp/,300,,44,8,0,73
-093866,栃木県,高根沢町,https://www.town.takanezawa.tochigi.jp/,300,,378,9,0,169
-094072,栃木県,那須町,https://www.town.nasu.lg.jp/,300,,41,120,0,623
-094111,栃木県,那珂川町,https://www.town.tochigi-nakagawa.lg.jp/,300,,120,89,0,289
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+090000,栃木県,栃木県,https://www.pref.tochigi.lg.jp/,300,,92,97,10,418,https://www.pref.tochigi.lg.jp,200:300 404:1 ConnectionError:1
+092011,栃木県,宇都宮市,https://www.city.utsunomiya.lg.jp/,300,,196,99,1,382,https://www.city.utsunomiya.lg.jp,200:298 400:2 ConnectTimeout:1 SSLError:1
+092029,栃木県,足利市,https://www.city.ashikaga.tochigi.jp/,300,,47,364,0,484,https://www.city.ashikaga.tochigi.jp,200:301 ConnectionError:2
+092037,栃木県,栃木市,https://www.city.tochigi.lg.jp/,300,,124,138,0,290,https://www.city.tochigi.lg.jp,200:294 404:6 ConnectionError:1
+092045,栃木県,佐野市,https://www.city.sano.lg.jp/,300,,166,2701,0,53,https://www.city.sano.lg.jp,200:300 SSLError:1
+092053,栃木県,鹿沼市,https://www.city.kanuma.tochigi.jp/,300,,63,116,0,569,https://www.city.kanuma.tochigi.jp,200:301 503:1 ConnectionError:1
+092061,栃木県,日光市,https://www.city.nikko.lg.jp/,171,,149,3,0,47,https://www.city.nikko.lg.jp,200:171 404:1 ConnectionError:1
+092088,栃木県,小山市,https://www.city.oyama.tochigi.jp/,300,,217,45,6,182,https://www.city.oyama.tochigi.jp,200:299 404:1 ConnectTimeout:1 ConnectionError:1
+092096,栃木県,真岡市,https://www.city.moka.lg.jp/,300,,139,229,0,124,https://www.city.moka.lg.jp,200:300 404:2 ConnectionError:1
+092100,栃木県,大田原市,https://www.city.ohtawara.tochigi.jp/,300,,95,70,0,275,https://www.city.ohtawara.tochigi.jp,200:301 404:1 ConnectionError:2
+092118,栃木県,矢板市,https://www.city.yaita.tochigi.jp/,300,,134,438,0,180,https://www.city.yaita.tochigi.jp,200:296 403:1 404:6 ConnectionError:2
+092134,栃木県,那須塩原市,https://www.city.nasushiobara.lg.jp/,300,,904,143,7,152,https://www.city.nasushiobara.tochigi.jp,200:300 ConnectionError:1
+092142,栃木県,さくら市,https://www.city.tochigi-sakura.lg.jp/,300,,152,1429,0,297,https://www.city.tochigi-sakura.lg.jp,200:302
+092151,栃木県,那須烏山市,https://www.city.nasukarasuyama.lg.jp/,300,,129,501,0,228,https://www.city.nasukarasuyama.lg.jp,200:300 404:3 ConnectTimeout:1
+092169,栃木県,下野市,https://www.city.shimotsuke.lg.jp/,300,,931,231,10,477,https://www.city.shimotsuke.lg.jp,200:300 ConnectTimeout:1
+093017,栃木県,上三川町,https://www.town.kaminokawa.lg.jp/,300,,8,1069,0,490,https://www.town.kaminokawa.lg.jp,200:304 404:1 SSLError:1
+093424,栃木県,益子町,https://www.town.mashiko.lg.jp/,283,,26,122,0,233,https://www.town.mashiko.lg.jp,200:269 404:14 ConnectionError:1
+093432,栃木県,茂木町,https://www.town.motegi.tochigi.jp/,128,,164,4,0,14,https://www.town.motegi.tochigi.jp,200:131 ConnectionError:2
+093441,栃木県,市貝町,https://www.town.ichikai.tochigi.jp/,300,,59,100,0,64,https://www.town.ichikai.tochigi.jp,200:300 ConnectionError:2
+093459,栃木県,芳賀町,https://www.town.tochigi-haga.lg.jp/,300,,403,5,0,55,https://www.town.tochigi-haga.lg.jp,200:299 404:1 ConnectTimeout:1
+093611,栃木県,壬生町,https://www.town.mibu.tochigi.jp/,300,,147,72,1,151,https://www.town.mibu.tochigi.jp,200:320 ConnectionError:1 SSLError:1
+093645,栃木県,野木町,https://www.town.nogi.lg.jp/,300,,346,208,0,221,https://www.town.nogi.lg.jp,200:302 ConnectionError:1
+093840,栃木県,塩谷町,https://www.town.shioya.tochigi.jp/,300,,44,8,0,73,https://www.town.shioya.tochigi.jp,200:302 ConnectTimeout:1 ConnectionError:1 robots:1
+093866,栃木県,高根沢町,https://www.town.takanezawa.tochigi.jp/,300,,378,9,0,169,https://www.town.takanezawa.tochigi.jp,200:310 404:2 ConnectionError:1
+094072,栃木県,那須町,https://www.town.nasu.lg.jp/,300,,41,120,0,623,https://www.town.nasu.lg.jp,200:329 ConnectionError:1
+094111,栃木県,那珂川町,https://www.town.tochigi-nakagawa.lg.jp/,300,,120,89,0,289,https://www.town.tochigi-nakagawa.lg.jp,200:294 404:21 503:1 ConnectTimeout:1 ConnectionError:1
