@@ -6,7 +6,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 202045,長野県,岡谷市,https://www.city.okaya.lg.jp/,300,,101,335,0,37,https://www.city.okaya.lg.jp,200:300 ConnectionError:1
 202053,長野県,飯田市,https://www.city.iida.lg.jp/,300,,178,1061,0,432,https://www.city.iida.lg.jp,200:290 404:10 ConnectionError:1
 202061,長野県,諏訪市,https://www.city.suwa.lg.jp/,300,,9,32,0,358,https://www.city.suwa.lg.jp,200:303 ConnectionError:1
-202070,長野県,須坂市,https://www.city.suzaka.nagano.jp/,300,,169,43,0,188,https://www.city.suzaka.nagano.jp,200:300 404:1 ConnectionError:2
+202070,長野県,須坂市,https://www.city.suzaka.nagano.jp/,300,,169,43,0,189,https://www.city.suzaka.nagano.jp,200:301 ConnectionError:2
 202088,長野県,小諸市,https://www.city.komoro.lg.jp/,298,,74,11,0,117,https://www.city.komoro.lg.jp,200:301 ConnectionError:1
 202096,長野県,伊那市,https://www.inacity.jp/,300,,232,76,0,428,https://www.inacity.jp,200:300 ConnectionError:1
 202100,長野県,駒ケ根市,https://www.city.komagane.nagano.jp/,300,,273,188,0,207,https://www.city.komagane.nagano.jp,200:300 ConnectionError:2
