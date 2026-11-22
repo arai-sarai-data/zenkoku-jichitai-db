@@ -1,6 +1,6 @@
 code,name,policy_url,reuse,link,evidence
 470007,沖縄県,https://www.pref.okinawa.lg.jp/about/1018107.html,unknown,free,
-472018,那覇市,https://www.city.naha.okinawa.jp/about/1005983.html,unknown,free,
+472018,那覇市,https://www.city.naha.okinawa.jp/about/1005983.html,consult,free,「私的使用のための複製」や「引用」等著作権法上認められる場合を除き、那覇市の許可なく本ホームページに掲載されている文書・画像等を無断使用・複製・転載・販売・改変・印刷配付することを禁止します。
 472051,宜野湾市,https://www.city.ginowan.lg.jp/site/5154.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で転用・引用することはできません。
 472077,石垣市,,unknown,unknown,
 472085,浦添市,https://www.city.urasoe.lg.jp/about.html,consult,unknown,ただし、「無断転載を禁じます」等の注記があるものについては、それに従ってください。
@@ -8,8 +8,8 @@ code,name,policy_url,reuse,link,evidence
 472107,糸満市,https://www.city.itoman.lg.jp/site/userguide/,unknown,unknown,
 472115,沖縄市,,unknown,unknown,error: SSLError
 472123,豊見城市,https://www.city.tomigusuku.lg.jp/soshiki/1/1007/gyomuannai/4/782.html#tyosaku,consult,unknown,原則、著作権は豊見城市に帰属しており、一部の画像等の著作権は、原著作者が所有していますので、無断での使用や転載を禁じます。
-472131,うるま市,https://www.city.uruma.lg.jp/cgi-bin/advert/click_total/click.cgi?cms_area_id=1&cms_banner_id=5&cms_link_url=https%3A%2F%2Fwww.car489.info%2F,free,unknown,またその他のプランでも数日間という長期の利用であっても安い料金で組むことができますので、オプションをお好みに応じて付け加えていくことでより快適な沖縄旅行を満喫できるでしょう。
-472140,宮古島市,https://www.city.miyakojima.lg.jp/website/link.html,free,free,文字サイズの切り替え、サイト内検索、翻訳機能が利用できます。
+472131,うるま市,https://www.city.uruma.lg.jp/1002007000/contents/3099.html,unknown,unknown,
+472140,宮古島市,https://www.city.miyakojima.lg.jp/website/policy.html,consult,free,「私的使用のための複製」や「引用」など、著作権法上認められた場合を除き、無断で複製・転用することはできません。
 472158,南城市,,unknown,unknown,
 473014,国頭村,https://www.vill.kunigami.okinawa.jp/copylight/,consult,free,ただし、「無断転載禁止」等の注記があるものについてはそれに従ってください。
 473022,大宜味村,,unknown,unknown,
