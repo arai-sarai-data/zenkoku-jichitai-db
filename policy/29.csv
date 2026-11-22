@@ -3,12 +3,12 @@ code,name,policy_url,reuse,link,evidence
 292010,奈良市,https://www.city.nara.lg.jp/site/userguide/8771.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、当ホームページに掲載の文章、画像などについて無断で複製・転用することを禁止します。
 292028,大和高田市,https://www.city.yamatotakada.nara.jp/oshirase_top/10636.html,unknown,unknown,
 292036,大和郡山市,https://www.city.yamatokoriyama.lg.jp/konositenitsuite/5517.html,consult,free,また、当ホームページの本文および写真を許可無く複製・複写することを禁じます。
-292044,天理市,https://www.city.tenri.nara.jp/kakuka/shichoukoushitsu/kohoka/about/link.html,unknown,free,
+292044,天理市,https://www.city.tenri.nara.jp/kakuka/shichoukoushitsu/kohoka/about/link.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、天理市の許可なく当ホームページに掲載されている文書・画像等を無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 292052,橿原市,,unknown,unknown,
 292061,桜井市,https://www.city.sakurai.lg.jp/sosiki/soumu/soumuka/1395188256792.html,unknown,unknown,
 292079,五條市,,unknown,unknown,
 292087,御所市,https://www.city.gose.nara.jp/site_policy/0000000003.html,unknown,free,
-292095,生駒市,https://www.city.ikoma.lg.jp/site_policy/0000000002.html,unknown,free,
+292095,生駒市,https://www.city.ikoma.lg.jp/site_policy/0000000002.html,consult,free,著作権法上認められる場合を除き、生駒市の許可なく生駒市ホームページ上に掲載されている文書や画像、その他データ等を無断使用、複製、転載、販売、改変、印刷配布することを禁止します。
 292109,香芝市,https://www.city.kashiba.lg.jp/site/userguide/list186-378.html,unknown,unknown,
 292117,葛城市,https://www.city.katsuragi.nara.jp/site/4339.html,consult,free,ただし、「無断転載を禁じます」等の注記があるものについては、それに従ってください。
 292125,宇陀市,https://www.city.uda.lg.jp/soshiki/1/2090.html,unknown,free,
@@ -19,7 +19,7 @@ code,name,policy_url,reuse,link,evidence
 293458,安堵町,https://www.town.ando.nara.jp/category/4-5-0-0-0-0-0-0-0-0.html,unknown,unknown,
 293610,川西町,https://www.town.nara-kawanishi.lg.jp/site_policy/0000000014.html,consult,free,著作権法上認められる場合を除き、本町の許可なく本サイト上の文書や画像、各データ等の無断使用・複製・転載することを禁止します。
 293628,三宅町,https://www.town.miyake.lg.jp/soshiki/22/3063.html,unknown,unknown,
-293636,田原本町,https://www.town.tawaramoto.nara.jp/soshki/jumin/fukushi/kenko/kenko/syougaisya/shuwalink.html,free,unknown,手話リンクを利用して、役場へ問い合わせできます
+293636,田原本町,https://www.town.tawaramoto.nara.jp/about_site/10001.html,unknown,unknown,
 293857,曽爾村,https://www.vill.soni.nara.jp/link/itemlist/130,unknown,unknown,
 293865,御杖村,,unknown,unknown,
 294012,高取町,,unknown,unknown,
@@ -34,7 +34,7 @@ code,name,policy_url,reuse,link,evidence
 294446,黒滝村,https://www.vill.kurotaki.nara.jp/terms/,unknown,unknown,
 294462,天川村,,unknown,unknown,
 294471,野迫川村,,unknown,unknown,
-294497,十津川村,https://www.vill.totsukawa.lg.jp/about/policy/,free,unknown,身体障害者手帳の交付を受けているなど、条件を満たす場合は割引料金で利用することができます。
+294497,十津川村,https://www.vill.totsukawa.lg.jp/about/policy/,unknown,unknown,
 294501,下北山村,https://www.vill.shimokitayama.nara.jp/yakuba/link.html,unknown,unknown,
 294519,上北山村,https://www.vill.kamikitayama.nara.jp/soshiki/kikakuseisakuka/kuninai_kokusaikouryuu_kouikirennkei/153.html,unknown,unknown,
 294527,川上村,https://www.vill.kawakami.nara.jp/life/docs/2017030900024/,unknown,unknown,
