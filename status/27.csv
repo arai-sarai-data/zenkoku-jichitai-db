@@ -30,7 +30,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 272272,大阪府,東大阪市,https://www.city.higashiosaka.lg.jp/,300,,68,129,0,143,https://www.city.higashiosaka.lg.jp,200:300 ConnectionError:1
 272281,大阪府,泉南市,https://www.city.sennan.lg.jp/,300,,73,52,0,8,https://www.city.sennan.lg.jp,200:298 404:2 ConnectionError:1
 272299,大阪府,四條畷市,https://www.city.shijonawate.lg.jp/,300,,6,601,0,119,https://www.city.shijonawate.lg.jp,200:291 404:9 ConnectionError:1
-272302,大阪府,交野市,https://www.city.katano.osaka.jp/,300,,16,83,0,131,https://www.city.katano.osaka.jp,200:318 408:1 502:1 ConnectionError:2
+272302,大阪府,交野市,https://www.city.katano.osaka.jp/,300,,16,83,0,131,https://www.city.katano.osaka.jp,200:320 ConnectionError:2
 272311,大阪府,大阪狭山市,https://www.city.osakasayama.osaka.jp/,300,,256,650,0,14,https://www.city.osakasayama.osaka.jp,200:300 ConnectionError:2
 272329,大阪府,阪南市,https://www.city.hannan.lg.jp/,300,,447,605,0,11,https://www.city.hannan.lg.jp,200:300 ConnectionError:1
 273015,大阪府,島本町,https://www.town.shimamoto.lg.jp,300,,209,115,15,124,https://www.town.shimamoto.lg.jp,200:300 ConnectionError:1
