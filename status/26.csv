@@ -14,7 +14,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 262111,京都府,京田辺市,https://www.city.kyotanabe.lg.jp/,300,,438,44,0,236,https://www.city.kyotanabe.lg.jp,200:300 ConnectionError:1
 262129,京都府,京丹後市,https://www.city.kyotango.lg.jp/,300,,259,252,0,356,https://www.city.kyotango.lg.jp,200:300 ConnectionError:1
 262137,京都府,南丹市,https://www.city.nantan.kyoto.jp/www/,216,,2,2,0,82,https://www.city.nantan.kyoto.jp,200:213 404:5 ConnectTimeout:1 ConnectionError:1
-262145,京都府,木津川市,https://www.city.kizugawa.lg.jp/,300,,572,455,0,210,https://www.city.kizugawa.lg.jp,200:298 404:3 ConnectionError:1
+262145,京都府,木津川市,https://www.city.kizugawa.lg.jp/,300,,572,455,0,216,https://www.city.kizugawa.lg.jp,200:298 404:3 ConnectionError:1
 263036,京都府,大山崎町,https://www.town.oyamazaki.kyoto.jp/,300,,225,10,0,6,https://www.town.oyamazaki.kyoto.jp,200:278 404:22 ConnectionError:1
 263222,京都府,久御山町,https://www.town.kumiyama.lg.jp/,293,,330,880,0,167,https://www.town.kumiyama.lg.jp,200:295 404:1 ConnectionError:1
 263435,京都府,井手町,https://www.town.ide.kyoto.jp/,300,,115,298,0,46,https://www.town.ide.kyoto.jp,200:299 404:1 ConnectionError:1
