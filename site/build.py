@@ -23,6 +23,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
 LINKS_PER_KIND = 60
+LINKS_PER_KIND_OTHER = 12   # 英中韓ページの原本リンク件数(全件は日本語ページ)
 SITE_NAME = {"ja": "全国自治体 予算・入札・補助金データベース", "en": "Japan Local Government Finance Database",
              "zh": "日本地方政府预算·招标·补助金数据库", "ko": "일본 지자체 예산·입찰·보조금 데이터베이스"}
 LANGS = ["ja", "en", "zh", "ko"]
@@ -524,13 +525,17 @@ def main():
                     if t["link_lang_note"]:
                         body.append(f'<p class="muted">{esc(t["link_lang_note"])}</p>')
                     body.append(f'<table><tr><th>{esc(t["source"])}</th><th>{esc(t["page"])}</th></tr>')
-                    for r in items[:LINKS_PER_KIND]:
+                    lim = LINKS_PER_KIND if lang == "ja" else LINKS_PER_KIND_OTHER
+                    for r in items[:lim]:
                         tx = r["link_text"] or r["url"]
                         body.append(f'<tr><td><a href="{esc(r["url"])}" rel="noopener">{esc(tx)}</a></td>'
                                     f'<td><a href="{esc(r["found_on"])}" rel="noopener" class="muted">{esc(t["page"])}</a></td></tr>')
                     body.append("</table>")
-                    if len(items) > LINKS_PER_KIND:
-                        body.append(f'<p class="muted">{esc(t["more"].format(n=len(items) - LINKS_PER_KIND))}</p>')
+                    if len(items) > lim:
+                        more = esc(t["more"].format(n=len(items) - lim))
+                        if lang != "ja":   # 他言語は件数を絞り、全件は日本語ページへ(サイト容量を抑える)
+                            more = f'<a href="../../m/{code}.html">{more}</a>'
+                        body.append(f'<p class="muted">{more}</p>')
                 elif kind == "budget" and pref_budget.get(pc):
                     body.append(f"<p>{esc(t['pref_budget'])}</p><ul>")
                     for r in pref_budget[pc][:10]:
