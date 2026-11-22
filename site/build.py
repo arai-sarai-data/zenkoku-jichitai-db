@@ -17,7 +17,7 @@ import html
 import json
 import re
 import shutil
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -414,6 +414,13 @@ def main():
     master_kind = {m["code"]: m["kind"] for m in master}
     names_en = {r["code"]: r["name_en"] for r in read_csv(ROOT / "data" / "names_en.csv") if r.get("name_en")}
     pref_en = {c[:2]: n for c, n in names_en.items() if master_kind.get(c) == "都道府県"}
+    # 同じ英語名の団体(利島村と十島村の Toshima Village など)は県名を添えて区別する
+    dup = Counter(n for c, n in names_en.items() if c in master_kind)
+    for c, n in list(names_en.items()):
+        if c in master_kind and dup[n] > 1 and master_kind.get(c) != "都道府県":
+            p = re.sub(r" (Prefecture|Metropolis)$", "", pref_en.get(c[:2], ""))
+            if p:
+                names_en[c] = f"{n}, {p}"
     status, links, retrieved, policy = {}, defaultdict(lambda: defaultdict(list)), {}, {}
     for p in (ROOT / "data" / "status").glob("*.csv"):
         for r in read_csv(p):
