@@ -1,21 +1,21 @@
-code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants
-320005,島根県,島根県,https://www.pref.shimane.lg.jp/,300,,532,674,0,27
-322016,島根県,松江市,https://www.city.matsue.lg.jp/,297,時間上限,317,52,0,689
-322024,島根県,浜田市,https://www.city.hamada.shimane.jp/,300,,125,69,10,384
-322032,島根県,出雲市,https://www.city.izumo.shimane.jp/,300,,143,7,0,358
-322041,島根県,益田市,https://www.city.masuda.lg.jp/,300,,120,54,0,47
-322059,島根県,大田市,https://www.city.oda.lg.jp/,255,,132,6,0,86
-322067,島根県,安来市,https://www.city.yasugi.shimane.jp/,300,,192,15,0,265
-322075,島根県,江津市,https://www.city.gotsu.lg.jp/,300,,102,8,0,80
-322091,島根県,雲南市,https://www.city.unnan.shimane.jp/,300,,178,15,0,210
-323438,島根県,奥出雲町,https://www.town.okuizumo.shimane.jp/,231,,23,65,0,43
-323861,島根県,飯南町,https://www.iinan.jp/,233,,0,26,0,75
-324418,島根県,川本町,https://www.town.shimane-kawamoto.lg.jp/,27,,0,1,0,6
-324485,島根県,美郷町,https://www.town.shimane-misato.lg.jp/,114,,15,1,0,50
-324493,島根県,邑南町,https://www.town.ohnan.lg.jp/,225,,0,17,2,77
-325015,島根県,津和野町,https://www.town.tsuwano.lg.jp/,300,,556,1059,0,58
-325058,島根県,吉賀町,https://www.town.yoshika.lg.jp/,287,,288,20,0,110
-325252,島根県,海士町,http://www.town.ama.shimane.jp/,73,,0,0,0,48
-325261,島根県,西ノ島町,https://www.town.nishinoshima.shimane.jp/,165,,1,1,0,25
-325279,島根県,知夫村,http://www.vill.chibu.lg.jp/,28,,0,0,0,11
-325287,島根県,隠岐の島町,https://www.town.okinoshima.shimane.jp/,284,,24,2,0,125
+code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
+320005,島根県,島根県,https://www.pref.shimane.lg.jp/,300,,532,674,0,27,https://www.pref.shimane.lg.jp,200:300 404:4 ConnectionError:1
+322016,島根県,松江市,https://www.city.matsue.lg.jp/,300,,39,52,0,675,https://www.city.matsue.lg.jp,200:301 404:1 ConnectionError:1
+322024,島根県,浜田市,https://www.city.hamada.shimane.jp/,300,,125,69,10,384,https://www.city.hamada.shimane.jp,200:306 ConnectionError:2
+322032,島根県,出雲市,https://www.city.izumo.shimane.jp/,300,,143,7,0,358,https://www.city.izumo.shimane.jp,200:300 ConnectionError:2
+322041,島根県,益田市,https://www.city.masuda.lg.jp/,300,,120,54,0,38,https://www.city.masuda.lg.jp,200:302 ConnectionError:1
+322059,島根県,大田市,https://www.city.oda.lg.jp/,255,,132,6,0,86,https://www.city.oda.lg.jp,200:252 404:3 ConnectionError:1
+322067,島根県,安来市,https://www.city.yasugi.shimane.jp/,300,,192,15,0,265,https://www.city.yasugi.shimane.jp,200:308 404:7 ConnectTimeout:1 ConnectionError:2
+322075,島根県,江津市,https://www.city.gotsu.lg.jp/,300,,102,8,0,80,https://www.city.gotsu.lg.jp,200:300 ConnectionError:1
+322091,島根県,雲南市,https://www.city.unnan.shimane.jp/,300,,178,15,0,210,https://www.city.unnan.shimane.jp,200:301 404:3 ConnectTimeout:3 ConnectionError:1
+323438,島根県,奥出雲町,https://www.town.okuizumo.shimane.jp/,231,,23,65,0,43,https://www.town.okuizumo.shimane.jp,200:226 404:6 ConnectionError:2
+323861,島根県,飯南町,https://www.iinan.jp/,233,,0,26,0,75,https://www.iinan.jp,200:233 404:1 ConnectTimeout:1 ReadTimeout:1
+324418,島根県,川本町,https://www.town.shimane-kawamoto.lg.jp/,27,,0,1,0,6,https://www.town.shimane-kawamoto.lg.jp,200:27 ConnectionError:1
+324485,島根県,美郷町,https://www.town.shimane-misato.lg.jp/,114,,15,1,0,50,https://gov.town.shimane-misato.lg.jp,200:113 404:1 ConnectionError:1
+324493,島根県,邑南町,https://www.town.ohnan.lg.jp/,225,,0,17,2,77,https://www.town.ohnan.lg.jp,200:229 403:1 404:5 ConnectTimeout:1
+325015,島根県,津和野町,https://www.town.tsuwano.lg.jp/,300,,556,1059,0,58,https://www.town.tsuwano.lg.jp,200:300 ConnectionError:1
+325058,島根県,吉賀町,https://www.town.yoshika.lg.jp/,289,,288,20,0,110,https://www.town.yoshika.lg.jp,200:269 401:1 404:25 ConnectTimeout:1
+325252,島根県,海士町,http://www.town.ama.shimane.jp/,73,,0,0,0,48,http://www.town.ama.shimane.jp,200:70 403:3 ConnectionError:1
+325261,島根県,西ノ島町,https://www.town.nishinoshima.shimane.jp/,165,,1,1,0,25,https://www.town.nishinoshima.shimane.jp,200:163 404:2 ConnectionError:2
+325279,島根県,知夫村,http://www.vill.chibu.lg.jp/,28,,0,0,0,11,http://www.vill.chibu.lg.jp,200:28 ConnectionError:1 SSLError:1
+325287,島根県,隠岐の島町,https://www.town.okinoshima.shimane.jp/,286,,24,2,0,125,https://www.town.okinoshima.shimane.jp,200:291 404:1 ConnectionError:2
