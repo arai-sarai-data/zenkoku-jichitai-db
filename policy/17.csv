@@ -3,7 +3,7 @@ code,name,policy_url,reuse,link,evidence
 172014,金沢市,https://www4.city.kanazawa.lg.jp/11790.html,consult,free,私的使用のための複製や引用など著作権法上認められた場合を除き、金沢市公式ホームページに掲載されている写真、イラスト、音声、動画、記事等は、無断で複製・転用することはできません。
 172022,七尾市,https://www.city.nanao.lg.jp/koho/shise/koho/riyoannai/about.html,consult,free,本サイトの一部または全部を著作権法の定める範囲を超え、無断で複製、翻訳、翻案、転載、出版、販売、貸与することを禁じます。
 172031,小松市,https://www.city.komatsu.lg.jp/site/5901.html,consult,free,「 私的使用のための複製」や「引用」など著作権法上認められた場合を除き、小松市の許可なく無断で複製・転用することはできません。
-172049,輪島市,https://www.city.wajima.ishikawa.jp/docs/2013040100041/?doc_id=1104,consult,free,これらの情報については、「引用」など、著作権法上認められた場合を除き、無断で複製・転用することはできません。
+172049,輪島市,,unknown,unknown,error: ConnectTimeout
 172057,珠洲市,https://www.city.suzu.lg.jp/soshiki/1/3816.html,free,free,​このコンテンツは Creative Commons の【表示】（CC BY）ライセンスに従う限り、自由に二次利用可能です。
 172065,加賀市,,unknown,unknown,error: ConnectTimeout
 172073,羽咋市,,unknown,unknown,
