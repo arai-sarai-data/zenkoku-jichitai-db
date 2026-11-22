@@ -19,10 +19,9 @@ import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from urllib.parse import urljoin
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from discover import Site, WORKERS  # noqa: E402
+from discover import Site, WORKERS, safe_join  # noqa: E402
 from htmlutil import parse_html  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -85,8 +84,8 @@ def check(row):
         cands = []
         for a in doc.xpath(".//a[@href]"):
             t = (a.text_content() or "").strip()
-            href = urljoin(r.url, a.get("href"))
-            if not site.same_site(href) or href.lower().split("?")[0].endswith((".pdf", ".jpg", ".png", ".zip")):
+            href = safe_join(r.url, a.get("href") or "")
+            if not href or not site.same_site(href) or href.lower().split("?")[0].endswith((".pdf", ".jpg", ".png", ".zip")):
                 continue
             if POLICY_TEXT.search(t) or POLICY_URL.search(href):
                 cands.append((0 if re.search(r"著作権|利用規約|利用ルール|ポリシー", t) else 1, href))
