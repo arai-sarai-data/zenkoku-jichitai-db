@@ -56,17 +56,24 @@ jobs:
           fi
           bash crawler/push_partial.sh ${{ matrix.pref }}
         continue-on-error: true
+      - name: 利用ルールの判定(原本コピーを公開してよいか)
+        run: python crawler/policy.py ${{ matrix.pref }}
+        continue-on-error: true
       - run: python crawler/fetch_docs.py ${{ matrix.pref }}
       - run: python crawler/ocr.py ${{ matrix.pref }}
         continue-on-error: true
       - name: 途中結果を再保存(原本の取得結果を含む)
         run: bash crawler/push_partial.sh ${{ matrix.pref }}
         continue-on-error: true
-      - name: 原本と文字をまとめる
+      - name: 原本と文字をまとめる(公開は、利用ルールで自由利用とされた団体だけ)
         run: |
           mkdir -p bundle
-          if [ -d work/originals/${{ matrix.pref }} ]; then (cd work/originals && zip -qr ../../bundle/originals-${{ matrix.pref }}.zip ${{ matrix.pref }}); fi
-          if [ -d work/text/${{ matrix.pref }} ]; then (cd work/text && zip -qr ../../bundle/text-${{ matrix.pref }}.zip ${{ matrix.pref }}); fi
+          FREE=$(python -c "import csv,sys; print(' '.join(r['code'] for r in csv.DictReader(open('data/policy/${{ matrix.pref }}.csv',encoding='utf-8')) if r['reuse']=='free'))" 2>/dev/null || true)
+          for kind in originals text; do
+            dirs=""
+            for c in $FREE; do [ -d "work/$kind/${{ matrix.pref }}/$c" ] && dirs="$dirs ${{ matrix.pref }}/$c"; done
+            if [ -n "$dirs" ]; then (cd work/$kind && zip -qr ../../bundle/$kind-${{ matrix.pref }}.zip $dirs); fi
+          done
       - uses: actions/upload-artifact@v4
         with:
           name: result-${{ matrix.pref }}
@@ -74,6 +81,7 @@ jobs:
             data/links/${{ matrix.pref }}.csv
             data/status/${{ matrix.pref }}.csv
             data/docs/${{ matrix.pref }}.csv
+            data/policy/${{ matrix.pref }}.csv
             bundle/
           retention-days: 7
 
@@ -87,12 +95,13 @@ jobs:
         with: { path: dl }
       - name: 一覧CSVをdata/へ集める
         run: |
-          mkdir -p data/links data/status data/docs bundle
+          mkdir -p data/links data/status data/docs data/policy bundle
           cp dl/master/master.csv data/master.csv
           for d in dl/result-*; do
             cp -f $d/data/links/*.csv data/links/ 2>/dev/null || true
             cp -f $d/data/status/*.csv data/status/ 2>/dev/null || true
             cp -f $d/data/docs/*.csv data/docs/ 2>/dev/null || true
+            cp -f $d/data/policy/*.csv data/policy/ 2>/dev/null || true
             cp -f $d/bundle/*.zip bundle/ 2>/dev/null || true
           done
           ls data/status | wc -l
@@ -115,7 +124,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           TAG="originals-$(date +%Y%m%d)"
-          gh release create "$TAG" --title "$TAG" --notes "自治体公式サイトから取得した原本(予算・入札結果・補助金)と取り出した文字。出典は data/docs/*.csv の url 列。" || true
+          gh release create "$TAG" --title "$TAG" --notes "自治体公式サイトから取得した原本(予算・入札結果・補助金)と取り出した文字。利用ルールで自由利用(政府標準利用規約・CC BY 等)とされた自治体の分だけを置く(data/policy/*.csv)。出典は data/docs/*.csv の url 列。" || true
           ls bundle/*.zip >/dev/null 2>&1 && gh release upload "$TAG" bundle/*.zip --clobber || echo "no bundles"
       - name: 一覧をコミット
         run: |
