@@ -11,7 +11,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 012092,北海道,夕張市,https://www.city.yubari.lg.jp/,300,,24,626,0,93,https://www.city.yubari.lg.jp,200:301 SSLError:1
 012106,北海道,岩見沢市,https://www.city.iwamizawa.hokkaido.jp/,300,,225,25,5,21,https://www.city.iwamizawa.hokkaido.jp,200:301 ConnectionError:2
 012114,北海道,網走市,https://www.city.abashiri.hokkaido.jp/,300,,28,179,0,216,https://www.city.abashiri.hokkaido.jp,200:300 ConnectTimeout:1 ConnectionError:1
-012122,北海道,留萌市,https://www.e-rumoi.jp/,120,,354,17,0,110,https://www.e-rumoi.jp,200:126 404:3 ConnectTimeout:1
+012122,北海道,留萌市,https://www.e-rumoi.jp/,151,,473,17,0,143,https://www.e-rumoi.jp,200:155 404:5 ConnectTimeout:1
 012131,北海道,苫小牧市,https://www.city.tomakomai.hokkaido.jp,300,,243,13,0,380,https://www.city.tomakomai.hokkaido.jp,200:294 404:6 ConnectTimeout:1 ConnectionError:1
 012149,北海道,稚内市,https://www.city.wakkanai.hokkaido.jp/,300,,23,14,0,61,https://www.city.wakkanai.hokkaido.jp,200:300 ConnectionError:2
 012157,北海道,美唄市,https://www.city.bibai.hokkaido.jp/,230,,21,5,0,109,https://www.city.bibai.hokkaido.jp,200:231 404:2 ConnectTimeout:2 ConnectionError:1
@@ -47,7 +47,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 013463,北海道,八雲町,https://www.town.yakumo.lg.jp/,300,,106,408,0,15,https://www.town.yakumo.lg.jp,200:300
 013471,北海道,長万部町,https://www.town.oshamambe.lg.jp/,300,,0,0,0,18,https://www.town.oshamambe.lg.jp,200:305
 013617,北海道,江差町,https://www.hokkaido-esashi.jp/,188,,2,601,3,3,https://www.hokkaido-esashi.jp,200:188 ConnectionError:1
-013625,北海道,上ノ国町,https://www.town.kaminokuni.lg.jp/,173,,6,63,0,46,https://www.town.kaminokuni.lg.jp,200:174 ConnectionError:1 ReadTimeout:1
+013625,北海道,上ノ国町,https://www.town.kaminokuni.lg.jp/,174,,6,63,0,46,https://www.town.kaminokuni.lg.jp,200:174 403:1 ConnectionError:1
 013633,北海道,厚沢部町,https://www.town.assabu.lg.jp/,211,,302,2,0,2,https://www.town.assabu.lg.jp,200:213 403:1
 013641,北海道,乙部町,https://www.town.otobe.lg.jp/,127,,10,0,0,7,https://www.town.otobe.lg.jp,200:128 ConnectionError:1
 013676,北海道,奥尻町,https://www.town.okushiri.lg.jp/,186,,2,4,0,19,https://www.town.okushiri.lg.jp,200:185 404:2 ConnectionError:1
@@ -67,9 +67,9 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 014028,北海道,岩内町,https://www.town.iwanai.hokkaido.jp/,199,,0,0,0,50,https://www.town.iwanai.hokkaido.jp,200:200 ConnectionError:1
 014036,北海道,泊村,https://www.vill.tomari.hokkaido.jp/,152,,6,6,5,6,https://www.vill.tomari.hokkaido.jp,200:158 ConnectionError:2
 014044,北海道,神恵内村,https://www.vill.kamoenai.hokkaido.jp/,111,,11,9,0,53,https://www.vill.kamoenai.hokkaido.jp,200:112 404:3 ConnectionError:2
-014052,北海道,積丹町,https://www.town.shakotan.lg.jp/,50,,0,0,0,4,https://www.town.shakotan.lg.jp,200:49 404:1 ConnectTimeout:1
+014052,北海道,積丹町,https://www.town.shakotan.lg.jp/,50,,0,0,0,4,https://www.town.shakotan.lg.jp,200:49 404:1 ConnectionError:1
 014061,北海道,古平町,https://www.town.furubira.lg.jp/,68,,2,19,0,27,https://www.town.furubira.lg.jp,200:71 404:1 SSLError:1
-014079,北海道,仁木町,https://www.town.niki.hokkaido.jp/,199,,4,0,0,148,https://www.town.niki.hokkaido.jp,200:199 ConnectTimeout:1 ConnectionError:1
+014079,北海道,仁木町,https://www.town.niki.hokkaido.jp/,204,,4,0,0,149,https://www.town.niki.hokkaido.jp,200:204 ConnectTimeout:1 ConnectionError:1
 014087,北海道,余市町,https://www.town.yoichi.hokkaido.jp/,300,,169,0,0,228,https://www.town.yoichi.hokkaido.jp,200:302 403:2 404:2 ConnectionError:1
 014095,北海道,赤井川村,https://www.akaigawa.com/,98,,0,0,0,14,https://www.akaigawa.com,200:98
 014231,北海道,南幌町,https://www.town.nanporo.hokkaido.jp/,161,,20,0,0,89,https://www.town.nanporo.hokkaido.jp,200:165 404:2 ConnectionError:1 SSLError:1
@@ -86,14 +86,14 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 014362,北海道,雨竜町,https://www.town.uryu.hokkaido.jp/,153,,10,2,0,11,https://www.town.uryu.hokkaido.jp,200:155 404:3 ConnectionError:2
 014371,北海道,北竜町,http://www.town.hokuryu.hokkaido.jp/,113,,6,0,0,24,http://www.town.hokuryu.hokkaido.jp,200:110 404:3 ConnectionError:1
 014389,北海道,沼田町,https://www.town.numata.hokkaido.jp/,233,,2,0,0,47,https://www.town.numata.hokkaido.jp,200:237 ConnectionError:2
-014524,北海道,鷹栖町,https://www.town.takasu.hokkaido.jp/,209,,1,4,0,85,https://www.town.takasu.hokkaido.jp,200:217 403:2 ConnectionError:1
+014524,北海道,鷹栖町,https://www.town.takasu.hokkaido.jp/,209,,1,4,0,85,https://www.town.takasu.hokkaido.jp,200:209 403:1 429:9 ConnectionError:1
 014532,北海道,東神楽町,https://www.town.higashikagura.lg.jp/,121,,31,37,5,28,https://www.town.higashikagura.lg.jp,200:126 ConnectTimeout:1
 014541,北海道,当麻町,https://www.town.tohma.hokkaido.jp/,84,,6,0,0,35,https://www.town.tohma.hokkaido.jp,200:83 404:1 SSLError:1 robots:3
 014559,北海道,比布町,https://www.town.pippu.hokkaido.jp/,255,,14,4,0,48,https://www.town.pippu.hokkaido.jp,200:257 ConnectionError:1
 014567,北海道,愛別町,https://www.town.aibetsu.hokkaido.jp/,284,,43,1,0,13,https://www.town.aibetsu.hokkaido.jp,200:285 ConnectionError:1
 014575,北海道,上川町,https://www.town.hokkaido-kamikawa.lg.jp/,300,,160,62,0,200,https://www.town.hokkaido-kamikawa.lg.jp,200:300 ConnectionError:1
 014583,北海道,東川町,https://town.higashikawa.hokkaido.jp/,94,,17,0,0,54,https://higashikawa-town.jp,200:94 ConnectionError:1
-014591,北海道,美瑛町,https://town.biei.hokkaido.jp/,300,,48,314,0,101,https://town.biei.hokkaido.jp,200:294 403:3 404:4 ConnectionError:1
+014591,北海道,美瑛町,https://town.biei.hokkaido.jp/,300,,48,314,0,101,https://town.biei.hokkaido.jp,200:295 403:2 404:4 ConnectionError:1
 014605,北海道,上富良野町,https://www.town.kamifurano.hokkaido.jp/,184,,161,15,1,42,https://www.town.kamifurano.hokkaido.jp,200:339 404:8 ConnectionError:2
 014613,北海道,中富良野町,https://www.town.nakafurano.lg.jp/,148,,0,34,2,207,https://www.town.nakafurano.lg.jp,200:149 ConnectionError:1
 014621,北海道,南富良野町,https://www.town.minamifurano.hokkaido.jp/,287,,12,88,0,23,https://www.town.minamifurano.hokkaido.jp,200:308 404:9 ConnectionError:1 SSLError:1
@@ -109,10 +109,10 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 014826,北海道,小平町,https://www.town.obira.hokkaido.jp/,49,,0,0,0,2,https://www.town.obira.hokkaido.jp,200:50 404:1 ConnectionError:2
 014834,北海道,苫前町,http://www.town.tomamae.lg.jp/,245,,197,10,0,136,http://www.town.tomamae.lg.jp,200:246 ConnectionError:1 SSLError:1
 014842,北海道,羽幌町,https://www.town.haboro.lg.jp/,300,,401,18,0,315,https://www.town.haboro.lg.jp,200:314 403:1
-014851,北海道,初山別村,http://www.vill.shosanbetsu.lg.jp/,88,,5,0,0,13,http://www.vill.shosanbetsu.lg.jp,200:87 404:1 ConnectionError:1
+014851,北海道,初山別村,http://www.vill.shosanbetsu.lg.jp/,88,,5,0,0,13,http://www.vill.shosanbetsu.lg.jp,200:86 404:1 429:1 ConnectionError:1
 014869,北海道,遠別町,https://www.town.embetsu.hokkaido.jp/,157,,15,0,0,40,https://www.town.embetsu.hokkaido.jp,200:162 ConnectionError:2
 014877,北海道,天塩町,https://www.teshiotown.hokkaido.jp/,122,,1,19,0,18,https://www.teshiotown.hokkaido.jp,200:122 SSLError:1
-015113,北海道,猿払村,https://www.vill.sarufutsu.hokkaido.jp/,160,,43,30,0,17,https://www.vill.sarufutsu.hokkaido.jp,200:163 ConnectionError:2
+015113,北海道,猿払村,https://www.vill.sarufutsu.hokkaido.jp/,160,,43,30,0,17,https://www.vill.sarufutsu.hokkaido.jp,200:160 429:3 ConnectionError:2
 015121,北海道,浜頓別町,http://www.town.hamatonbetsu.hokkaido.jp/,122,,28,0,0,3,http://www.town.hamatonbetsu.hokkaido.jp,200:122 ConnectionError:2 SSLError:1
 015130,北海道,中頓別町,https://www.town.nakatombetsu.hokkaido.jp/,85,,7,0,0,23,https://www.town.nakatombetsu.hokkaido.jp,200:83 404:2 ConnectionError:2
 015148,北海道,枝幸町,https://www.esashi.jp/,234,,8,0,0,38,https://www.esashi.jp,200:232 404:2 SSLError:1
@@ -123,11 +123,11 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 015202,北海道,幌延町,https://www.town.horonobe.lg.jp/,145,,35,2,0,90,https://www.town.horonobe.lg.jp,200:149 ConnectionError:1
 015431,北海道,美幌町,http://www.town.bihoro.hokkaido.jp/,255,,35,7,0,131,http://www.town.bihoro.hokkaido.jp,200:258 ConnectionError:2
 015440,北海道,津別町,https://www.town.tsubetsu.hokkaido.jp/,170,,24,0,0,33,https://www.town.tsubetsu.hokkaido.jp,200:171 ConnectionError:1
-015458,北海道,斜里町,https://www.town.shari.hokkaido.jp/,237,,164,54,23,116,https://www.town.shari.hokkaido.jp,200:238 404:2 ConnectionError:1
+015458,北海道,斜里町,https://www.town.shari.hokkaido.jp/,238,,164,54,23,117,https://www.town.shari.hokkaido.jp,200:239 404:2 ConnectionError:1
 015466,北海道,清里町,https://www.town.kiyosato.hokkaido.jp/,300,,42,244,0,30,https://www.town.kiyosato.hokkaido.jp,200:300 ConnectionError:1 robots:2
-015474,北海道,小清水町,https://www.town.koshimizu.hokkaido.jp/,196,,6,10,0,21,https://www.town.koshimizu.hokkaido.jp,200:192 404:1 500:2 503:1 ConnectTimeout:1 ConnectionError:2
+015474,北海道,小清水町,https://www.town.koshimizu.hokkaido.jp/,197,,6,10,0,21,https://www.town.koshimizu.hokkaido.jp,200:193 404:1 500:2 503:1 ConnectionError:2
 015491,北海道,訓子府町,https://www.town.kunneppu.hokkaido.jp/,216,,1,0,0,42,https://www.town.kunneppu.hokkaido.jp,200:200 404:16 ConnectionError:1
-015504,北海道,置戸町,https://www.town.oketo.hokkaido.jp/,150,,81,1,0,48,https://www.town.oketo.hokkaido.jp,200:32 403:118 ConnectionError:2 TooManyRedirects:1
+015504,北海道,置戸町,https://www.town.oketo.hokkaido.jp/,150,,81,1,0,48,https://www.town.oketo.hokkaido.jp,200:31 403:119 ConnectionError:2 TooManyRedirects:1
 015521,北海道,佐呂間町,https://www.town.saroma.hokkaido.jp/,300,,0,0,0,123,https://www.town.saroma.hokkaido.jp,200:288 404:12 ConnectionError:1
 015555,北海道,遠軽町,https://engaru.jp/,300,,553,0,0,95,https://engaru.jp,200:300
 015598,北海道,湧別町,https://www.town.yubetsu.lg.jp/,300,,2,100,0,313,https://www.town.yubetsu.lg.jp,200:324
@@ -152,7 +152,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 016101,北海道,新ひだか町,https://www.shinhidaka-hokkaido.jp/,186,,12,181,0,53,https://www.shinhidaka-hokkaido.jp,200:177 404:10 ConnectionError:1
 016314,北海道,音更町,https://www.town.otofuke.hokkaido.jp/,300,,386,169,0,224,https://www.town.otofuke.hokkaido.jp,200:264 404:36 ConnectionError:2
 016322,北海道,士幌町,https://www.shihoro.jp/,255,,15,1,5,150,https://www.shihoro.jp,200:258 ConnectionError:1
-016331,北海道,上士幌町,https://www.kamishihoro.jp/,182,,6,2,0,40,https://www.kamishihoro.jp,200:257
+016331,北海道,上士幌町,https://www.kamishihoro.jp/,183,,6,2,0,40,https://www.kamishihoro.jp,200:258
 016349,北海道,鹿追町,https://www.town.shikaoi.lg.jp/,188,,11,133,0,98,https://www.town.shikaoi.lg.jp,200:189 ConnectionError:1
 016357,北海道,新得町,https://www.shintoku-town.jp/,300,,2,107,0,224,https://www.shintoku-town.jp,200:300 robots:1
 016365,北海道,清水町,https://www.town.shimizu.hokkaido.jp/,2,,0,0,0,0,https://www.town.shimizu.hokkaido.jp,200:2 ConnectionError:2
@@ -165,7 +165,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 016446,北海道,池田町,https://www.town.hokkaido-ikeda.lg.jp/,300,,195,218,0,115,https://www.town.hokkaido-ikeda.lg.jp,200:300 ConnectionError:1
 016454,北海道,豊頃町,https://www.toyokoro.jp/,220,,0,103,0,57,https://www.toyokoro.jp,200:223 404:2 ConnectionError:1
 016462,北海道,本別町,https://www.town.honbetsu.hokkaido.jp/,300,,16,0,0,58,https://www.town.honbetsu.hokkaido.jp,200:300 ConnectionError:2
-016471,北海道,足寄町,https://www.town.ashoro.hokkaido.jp/,136,,11,34,0,115,https://www.town.ashoro.hokkaido.jp,200:135 404:3 ConnectTimeout:1 ConnectionError:1
+016471,北海道,足寄町,https://www.town.ashoro.hokkaido.jp/,136,,11,34,0,115,https://www.town.ashoro.hokkaido.jp,200:135 404:3 ConnectionError:2
 016489,北海道,陸別町,https://www.rikubetsu.jp/,158,,10,41,0,22,https://www.rikubetsu.jp,200:158
 016497,北海道,浦幌町,https://www.urahoro.jp/,300,,26,158,0,303,https://www.urahoro.jp,200:300 robots:12
 016616,北海道,釧路町,http://www.town.kushiro.lg.jp/,300,,11,1321,0,25,http://www.town.kushiro.lg.jp,200:272 404:32 ConnectionError:1 SSLError:1
