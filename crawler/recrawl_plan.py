@@ -15,7 +15,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from discover import looks_like_doc  # noqa: E402
+from docrules import looks_like_doc  # noqa: E402
 
 base = Path(sys.argv[1])
 mode = sys.argv[2] if len(sys.argv) > 2 else "failed"   # failed: 失敗のみ / missing: 原本0件の種類がある団体も
