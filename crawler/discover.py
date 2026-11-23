@@ -42,23 +42,7 @@ try:
     RENDER_OK = os.environ.get("NO_RENDER") != "1"
 except ImportError:
     RENDER_OK = False
-DOC_EXT = (".pdf", ".xlsx", ".xls", ".csv", ".docx", ".doc", ".zip")
-# 拡張子のないダウンロード用URL(例: /download/?t=LD&id=1&fid=2、/dl?q=xxx.pdf)でも、
-# リンク文字が「(PDF：439KB)」のようにファイルを示していれば原本とみなす
-DOC_HINT = re.compile(r"(PDF|ＰＤＦ|Excel|エクセル|EXCEL|xlsx?|Word|ワード|docx?|CSV|ZIP)\s*(形式|ファイル)?\s*[:：/／,，\s]*\s*(約|約\s*)?[\d.,，]+\s*(KB|MB|kB|Kb|キロ|ｷﾛ|バイト|B\b)"
-                      r"|[（(\[［]\s*(PDF|ＰＤＦ|Excel|エクセル|Word|ワード|CSV|ZIP)\s*[)）\]］:：]", re.I)
-DL_URL = re.compile(r"/(download|downloads|dl|file|files|attach|attachment|uploaded|material|getfile|fs)(/|\?|$)|[?&](fid|file_?id|filename|file|q)=", re.I)
-
-
-def looks_like_doc(link, text=""):
-    """文書ファイル(PDF・Excel等)へのリンクらしいか"""
-    low = link.lower()
-    path, _, query = low.partition("?")
-    if path.endswith(DOC_EXT):
-        return True
-    if query and any(e in query for e in DOC_EXT):
-        return True
-    return bool(DOC_HINT.search(text or "")) and bool(DL_URL.search(low) or query)
+from docrules import DOC_EXT, DOC_HINT, DL_URL, looks_like_doc  # noqa: E402,F401
 
 KEYWORDS = {
     "budget": ["当初予算", "予算書", "予算の概要", "予算概要", "予算案", "予算説明書", "予算に関する説明書",
