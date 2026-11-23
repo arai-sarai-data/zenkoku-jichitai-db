@@ -38,7 +38,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 203840,長野県,飯島町,https://www.town.iijima.lg.jp/,300,,448,159,0,247,https://www.town.iijima.lg.jp,200:299 404:1 ConnectionError:1
 203858,長野県,南箕輪村,https://www.vill.minamiminowa.lg.jp/,300,,39,651,0,150,https://www.vill.minamiminowa.lg.jp,200:294 403:1 404:7 ConnectionError:1
 203866,長野県,中川村,https://www.vill.nakagawa.nagano.jp/,300,,39,25,0,217,https://www.vill.nakagawa.nagano.jp,200:299 403:1 ConnectionError:2
-203882,長野県,宮田村,https://www.vill.miyada.nagano.jp/,4,,0,0,0,0,https://www.vill.miyada.nagano.jp,200:3 403:1 ConnectionError:1
+203882,長野県,宮田村,https://www.vill.miyada.nagano.jp/,198,描画で再読,13,30,0,44,https://www.vill.miyada.nagano.jp,200:198 403:1 Error:2
 204021,長野県,松川町,https://www.town.matsukawa.lg.jp/,187,,288,1321,0,18,https://www.town.matsukawa.lg.jp,200:188 ConnectionError:1
 204030,長野県,高森町,https://www.town.nagano-takamori.lg.jp/,180,,84,203,0,71,https://www.town.nagano-takamori.lg.jp,200:185 ConnectionError:1
 204048,長野県,阿南町,http://www.town.anan.nagano.jp/,103,,3,5,0,72,http://www.town.anan.nagano.jp,200:112 500:1 ConnectionError:1 SSLError:1
