@@ -44,7 +44,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 204048,長野県,阿南町,http://www.town.anan.nagano.jp/,103,,3,5,0,72,http://www.town.anan.nagano.jp,200:112 500:1 ConnectionError:1 SSLError:1
 204072,長野県,阿智村,https://www.vill.achi.lg.jp/,300,,2,39,0,170,https://www.vill.achi.lg.jp,200:295 403:1 404:7 ConnectionError:1
 204099,長野県,平谷村,https://www.hirayamura.jp/,125,,1,0,0,5,https://www.hirayamura.jp,200:152
-204102,長野県,根羽村,https://www.nebamura.jp/,33,,0,0,0,0,https://www.nebamura.jp,200:33 SSLError:1
+204102,長野県,根羽村,https://www.nebamura.jp/,33,,39,0,0,0,https://www.nebamura.jp,200:33 SSLError:1
 204111,長野県,下條村,https://www.vill-shimojo.jp/,93,,0,2,0,9,https://www.vill-shimojo.jp,200:94
 204129,長野県,売木村,https://www.urugi.jp/,68,,0,0,0,29,https://www.urugi.jp,200:67 403:1
 204137,長野県,天龍村,https://www.vill-tenryu.jp/,209,,0,2,0,43,https://www.vill-tenryu.jp,200:226 404:1 ConnectionError:1
