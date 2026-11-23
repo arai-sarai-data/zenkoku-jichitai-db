@@ -69,7 +69,7 @@ jobs:
 
   merge:
     needs: crawl-from-japan
-    if: always() && needs.crawl-from-japan.result != 'skipped'
+    if: ${{ !cancelled() && needs.crawl-from-japan.result != 'skipped' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
