@@ -16,7 +16,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 122165,千葉県,習志野市,https://www.city.narashino.lg.jp/,300,,172,192,0,22,https://www.city.narashino.lg.jp,200:300 ConnectionError:1
 122173,千葉県,柏市,https://www.city.kashiwa.lg.jp/,300,,124,12,0,323,https://www.city.kashiwa.lg.jp,200:234 404:66 ConnectionError:1
 122181,千葉県,勝浦市,https://www.city.katsuura.lg.jp/,267,,19,8,0,114,https://www.city.katsuura.lg.jp,200:272 ConnectTimeout:1 ConnectionError:1
-122190,千葉県,市原市,https://www.city.ichihara.chiba.jp/,300,描画で再読,645,166,0,220,https://www.city.ichihara.chiba.jp,200:300 Error:2
+122190,千葉県,市原市,https://www.city.ichihara.chiba.jp/,300,描画で再読,645,166,0,221,https://www.city.ichihara.chiba.jp,200:300 403:1 Error:2 TimeoutError:1
 122203,千葉県,流山市,https://www.city.nagareyama.chiba.jp/,300,,38,167,0,119,https://www.city.nagareyama.chiba.jp,200:300 ConnectionError:2
 122211,千葉県,八千代市,https://www.city.yachiyo.chiba.jp/,300,,555,59,0,107,https://www.city.yachiyo.lg.jp,200:300 ConnectionError:3
 122220,千葉県,我孫子市,https://www.city.abiko.chiba.jp/,300,,1219,10,0,463,https://www.city.abiko.chiba.jp,200:312 ConnectionError:2
