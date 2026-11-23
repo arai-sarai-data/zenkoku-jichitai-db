@@ -3,11 +3,17 @@
 使い方: python crawler/merge_results.py <県コード> <前回resultsのフォルダ>
   data/links/<県>.csv と data/status/<県>.csv(今回分)を、前回分と合わせて上書きする。
   今回巡回した団体の行は今回分に置き換え、それ以外の団体は前回分を残す。
-  ただし今回のほうが読めたページが少ない団体は、前回分を残す(悪化させない)。
+  ただし今回のほうが悪い団体は前回分を残す(悪化させない)。
+  良し悪しは (原本ファイルらしいリンク数, 見つけたリンク数, 読めたページ数) の順に比べる。
+  (以前はページ数だけで比べていたため、404だらけの300ページが、原本が見つかった234ページに勝っていた)
 """
 import csv
 import sys
+from collections import Counter
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from docrules import looks_like_doc  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 pref, prev = sys.argv[1].zfill(2), Path(sys.argv[2])
@@ -26,8 +32,17 @@ old_st, old_st_fields = read(prev / "status" / f"{pref}.csv")
 new_ln, ln_fields = read(ROOT / "data" / "links" / f"{pref}.csv")
 old_ln, old_ln_fields = read(prev / "links" / f"{pref}.csv")
 
-old_pages = {r["code"]: int(r.get("pages") or 0) for r in old_st}
-replace = {r["code"] for r in new_st if int(r.get("pages") or 0) >= old_pages.get(r["code"], 0)}
+def score(st_rows, ln_rows):
+    docs, total = Counter(), Counter()
+    for r in ln_rows:
+        total[r["code"]] += 1
+        if r.get("is_document") == "1" or looks_like_doc(r.get("url", ""), r.get("link_text", "")):
+            docs[r["code"]] += 1
+    return {r["code"]: (docs[r["code"]], total[r["code"]], int(r.get("pages") or 0)) for r in st_rows}
+
+
+old_score, new_score = score(old_st, old_ln), score(new_st, new_ln)
+replace = {c for c, v in new_score.items() if v >= old_score.get(c, (0, 0, 0))}
 
 fields = list(dict.fromkeys((old_st_fields or []) + (st_fields or [])))
 status = [r for r in old_st if r["code"] not in replace] + [r for r in new_st if r["code"] in replace]
