@@ -77,7 +77,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 014257,北海道,上砂川町,https://town.kamisunagawa.hokkaido.jp/,115,,31,1,0,24,https://town.kamisunagawa.hokkaido.jp,200:115 ConnectionError:1
 014273,北海道,由仁町,https://www.town.yuni.lg.jp/,236,,6,0,0,11,https://www.town.yuni.lg.jp,200:234 404:2 ConnectionError:1
 014281,北海道,長沼町,https://www.maoi-net.jp/,300,,3,3,0,114,https://www.maoi-net.jp,200:299 403:1 ConnectionError:1
-014290,北海道,栗山町,https://www.town.kuriyama.hokkaido.jp/,280,時間上限,93,2,0,72,https://www.town.kuriyama.hokkaido.jp,200:264 404:1 503:20 ConnectionError:2
+014290,北海道,栗山町,https://www.town.kuriyama.hokkaido.jp/,300,,91,2,0,122,https://www.town.kuriyama.hokkaido.jp,200:299 404:2 ConnectionError:2
 014303,北海道,月形町,http://www.town.tsukigata.hokkaido.jp/,176,,10,10,0,37,http://www.town.tsukigata.hokkaido.jp,200:177 404:2 ConnectionError:2
 014311,北海道,浦臼町,https://www.town.urausu.hokkaido.jp/,143,,4,0,0,55,https://www.town.urausu.hokkaido.jp,200:143 ConnectionError:1
 014320,北海道,新十津川町,https://www.town.shintotsukawa.lg.jp/,118,,19,39,0,27,https://www.town.shintotsukawa.lg.jp,200:118 ConnectionError:1
@@ -106,7 +106,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 014711,北海道,中川町,https://www.town.nakagawa.hokkaido.jp/,300,,45,0,0,67,https://www.town.nakagawa.hokkaido.jp,200:313 ConnectionError:1
 014729,北海道,幌加内町,https://www.town.horokanai.hokkaido.jp/,191,,1,14,0,7,https://www.town.horokanai.hokkaido.jp,200:185 404:6 ConnectionError:1
 014818,北海道,増毛町,https://www.town.mashike.hokkaido.jp/,104,,14,0,0,21,https://www.town.mashike.hokkaido.jp,200:101 404:5 ConnectionError:2
-014826,北海道,小平町,https://www.town.obira.hokkaido.jp/,49,,0,0,0,2,https://www.town.obira.hokkaido.jp,200:50 404:1 ConnectionError:2
+014826,北海道,小平町,https://www.town.obira.hokkaido.jp/,138,,2,0,0,19,https://www.town.obira.hokkaido.jp,200:139 404:1 ConnectionError:2
 014834,北海道,苫前町,http://www.town.tomamae.lg.jp/,245,,197,10,0,136,http://www.town.tomamae.lg.jp,200:246 ConnectionError:1 SSLError:1
 014842,北海道,羽幌町,https://www.town.haboro.lg.jp/,300,,401,18,0,315,https://www.town.haboro.lg.jp,200:314 403:1
 014851,北海道,初山別村,http://www.vill.shosanbetsu.lg.jp/,88,,5,0,0,13,http://www.vill.shosanbetsu.lg.jp,200:86 404:1 429:1 ConnectionError:1
