@@ -13,9 +13,11 @@ robots.txt に従い、同じサイトへは WAIT 秒以上の間隔を空ける
         data/status/<県コード>.csv  1行=1団体の回った結果(種類ごとの件数)
 """
 import csv
+import os
 import heapq
 import re
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -35,6 +37,11 @@ MAX_PAGES = 300     # 1団体あたり最大ページ数
 WORKERS = 16        # 同時に回る団体数(別サイトなので並列化してよい。同一サイトへの間隔は WAIT で守る)
 TIMEOUT = 20
 TIME_BUDGET = 20 * 60   # 1団体あたりの上限時間(秒)。遅いサイトで全体が止まらないように
+try:
+    import playwright  # noqa: F401
+    RENDER_OK = os.environ.get("NO_RENDER") != "1"
+except ImportError:
+    RENDER_OK = False
 DOC_EXT = (".pdf", ".xlsx", ".xls", ".csv", ".docx", ".doc", ".zip")
 # 拡張子のないダウンロード用URL(例: /download/?t=LD&id=1&fid=2、/dl?q=xxx.pdf)でも、
 # リンク文字が「(PDF：439KB)」のようにファイルを示していれば原本とみなす
@@ -99,8 +106,27 @@ def score(text: str, url: str):
     return s
 
 
+RENDER_MIN_PAGES = 10   # 通常の読み取りでこれ未満しか読めなかったサイトは、ブラウザで描画して読み直す
+_open_sites = threading.local()
+
+
+class Rendered:
+    """ブラウザで描画したページを requests の Response と同じように扱うための入れ物"""
+    def __init__(self, url, html, status):
+        self.url, self.status_code = url, status
+        self.text = html
+        self.content = html.encode("utf-8")
+        self.headers = {"Content-Type": "text/html; charset=utf-8"}
+        self.apparent_encoding = "utf-8"
+
+
 class Site:
-    def __init__(self, base):
+    def __init__(self, base, render=False):
+        self.render = render
+        self._pw = self._browser = self._page = None
+        if not hasattr(_open_sites, "items"):
+            _open_sites.items = []
+        _open_sites.items.append(self)
         self.base = base
         p = urlparse(base)
         self.host = p.netloc.lower()
@@ -168,10 +194,45 @@ class Site:
         k = self._gov_key(h)
         return k is not None and any(self._gov_key(b) == k for b in self.hosts)
 
+    def _render(self, url):
+        """JavaScriptで中身を作るサイト用: Chromiumで開いて描画後のHTMLを返す"""
+        if self._page is None:
+            from playwright.sync_api import sync_playwright
+            self._pw = sync_playwright().start()
+            self._browser = self._pw.chromium.launch(executable_path=os.environ.get("CHROME_PATH") or None)
+            self._page = self._browser.new_page(user_agent=UA, locale="ja-JP")
+        delay = WAIT - (time.time() - self.last)
+        if delay > 0:
+            time.sleep(delay)
+        self.last = time.time()
+        resp = self._page.goto(url, wait_until="networkidle", timeout=45000)
+        ctype = (resp.headers.get("content-type", "") if resp else "") or "text/html"
+        status = resp.status if resp else 200
+        if "html" not in ctype:
+            return Rendered(self._page.url, "", status), ctype
+        return Rendered(self._page.url, self._page.content(), status), ctype
+
+    def close(self):
+        for x in (self._browser, self._pw):
+            try:
+                if x is self._pw and x is not None:
+                    x.stop()
+                elif x is not None:
+                    x.close()
+            except Exception:  # noqa: BLE001
+                pass
+        self._pw = self._browser = self._page = None
+
     def fetch(self, url):
         if not self.allowed(url):
             self.codes["robots"] = self.codes.get("robots", 0) + 1
             return None, "robots"
+        if self.render:
+            r, ctype = self._render(url)
+            self.codes[str(r.status_code)] = self.codes.get(str(r.status_code), 0) + 1
+            if "html" not in ctype or r.status_code >= 400:
+                return None, ctype
+            return r, ctype
         r = self._get(url)
         self.codes[str(r.status_code)] = self.codes.get(str(r.status_code), 0) + 1
         ctype = r.headers.get("Content-Type", "")
@@ -188,10 +249,28 @@ def safe_join(base, href):
         return None
 
 
+def _close_sites():
+    for site in getattr(_open_sites, "items", []):
+        site.close()
+    _open_sites.items = []
+
+
 def crawl_safe(entity):
-    """1団体の予期しない失敗で県全体が止まらないようにする"""
+    """1団体の予期しない失敗で県全体が止まらないようにする。
+    数ページしか読めなかったサイト(JavaScriptで中身を作るサイトなど)は、ブラウザで描画して読み直し、多く読めた方を採る"""
     try:
-        return crawl(entity)
+        found, status = crawl(entity)
+        if status["pages"] < RENDER_MIN_PAGES and entity.get("official_url") and RENDER_OK:
+            try:
+                f2, s2 = crawl(entity, render=True)
+                if s2["pages"] > status["pages"] or len(f2) > len(found):
+                    s2["error"] = (s2["error"] + " 描画で再読").strip()
+                    found, status = f2, s2
+            except Exception as e:  # noqa: BLE001
+                print(f"{entity['code']}: 描画での読み直しに失敗 {type(e).__name__}: {e}"[:200])
+            finally:
+                _close_sites()
+        return found, status
     except Exception as e:  # noqa: BLE001
         status = {"code": entity["code"], "pref": entity["pref"], "name": entity["name"],
                   "official_url": entity["official_url"], "pages": 0,
@@ -200,7 +279,7 @@ def crawl_safe(entity):
         return [], status
 
 
-def crawl(entity):
+def crawl(entity, render=False):
     code, name, base = entity["code"], entity["name"], entity["official_url"]
     found = []        # (kind, url, text, page_url, is_doc, external, strong)
     status = {"code": code, "pref": entity["pref"], "name": name, "official_url": base,
@@ -209,7 +288,7 @@ def crawl(entity):
         status["error"] = "公式URL不明"
         return found, status
     try:
-        site = Site(base)
+        site = Site(base, render=render)
     except Exception as e:  # noqa: BLE001
         status["error"] = f"init: {e}"
         return found, status
