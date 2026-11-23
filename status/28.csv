@@ -25,7 +25,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 282235,兵庫県,丹波市,https://www.city.tamba.lg.jp/,300,,237,136,0,363,https://www.city.tamba.lg.jp,200:300 ConnectionError:1,
 282243,兵庫県,南あわじ市,https://www.city.minamiawaji.hyogo.jp/,300,,604,147,0,428,https://www.city.minamiawaji.hyogo.jp,200:300 404:1 ConnectionError:2,
 282251,兵庫県,朝来市,https://www.city.asago.hyogo.jp/,300,,192,75,0,193,https://www.city.asago.hyogo.jp,200:300 ConnectTimeout:1 ConnectionError:1,
-282260,兵庫県,淡路市,https://www.city.awaji.lg.jp/,221,時間上限,64,8,0,52,https://www.city.awaji.lg.jp,200:197 404:1 503:25 ConnectionError:1,
+282260,兵庫県,淡路市,https://www.city.awaji.lg.jp/,300,,94,88,0,204,https://www.city.awaji.lg.jp,200:297 404:3 ConnectionError:1,
 282278,兵庫県,宍粟市,https://www.city.shiso.lg.jp/,300,,736,33,0,95,https://www.city.shiso.lg.jp,200:300 ConnectionError:1,
 282286,兵庫県,加東市,https://www.city.kato.lg.jp/,300,,38,12,0,28,https://www.city.kato.lg.jp,200:300 ConnectTimeout:1,
 282294,兵庫県,たつの市,https://www.city.tatsuno.lg.jp/,300,,67,7,0,61,https://www.city.tatsuno.lg.jp,200:305 ConnectTimeout:1,
