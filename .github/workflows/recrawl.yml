@@ -51,7 +51,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: pip install requests lxml openpyxl pypdf
+      - run: pip install requests lxml openpyxl pypdf urllib3 playwright && python -m playwright install --with-deps chromium
       - uses: actions/download-artifact@v4
         with: { name: master, path: data }
       - name: 再巡回
