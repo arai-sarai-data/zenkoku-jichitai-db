@@ -1,7 +1,7 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 010006,北海道,北海道,https://www.pref.hokkaido.lg.jp/,300,,477,998,13,690,https://www.pref.hokkaido.lg.jp,200:312 ConnectionError:1
 011002,北海道,札幌市,https://www.city.sapporo.jp/,300,,1802,461,0,1188,https://www.city.sapporo.jp,200:298 404:2 ConnectionError:1
-012025,北海道,函館市,https://www.city.hakodate.hokkaido.jp/,289,時間上限,102,4301,0,2173,https://www.city.hakodate.hokkaido.jp,200:292 404:1 ConnectionError:2
+012025,北海道,函館市,https://www.city.hakodate.hokkaido.jp/,299,時間上限,102,4301,0,2173,https://www.city.hakodate.hokkaido.jp,200:302 404:1 ConnectionError:2
 012033,北海道,小樽市,https://www.city.otaru.lg.jp/,300,,72,156,0,143,https://www.city.otaru.lg.jp,200:300 ConnectionError:1
 012041,北海道,旭川市,https://www.city.asahikawa.hokkaido.jp/,300,,160,275,0,407,https://www.city.asahikawa.hokkaido.jp,200:301 404:1 ConnectionError:2 robots:16
 012050,北海道,室蘭市,https://www.city.muroran.lg.jp/,300,,37,90,0,194,https://www.city.muroran.lg.jp,200:296 404:4 ConnectionError:1
