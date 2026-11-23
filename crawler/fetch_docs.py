@@ -22,7 +22,7 @@ import requests
 import urllib3
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from discover import looks_like_doc  # noqa: E402
+from docrules import looks_like_doc  # noqa: E402
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ROOT = Path(__file__).resolve().parent.parent
