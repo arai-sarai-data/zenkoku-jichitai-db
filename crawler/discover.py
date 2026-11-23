@@ -81,11 +81,11 @@ def score(text: str, url: str):
                 v = max(v, 10 - i * 0.5)
         if STRONG[kind].search(t):
             v += 5
-        if kind == "budget" and re.search(r"yosan|zaisei", url, re.I):
+        if kind == "budget" and re.search(r"yosan|zaisei|financ|budget", url, re.I):
             v += 2
-        if kind == "bids" and re.search(r"nyusatsu|nyuusatsu|keiyaku|rakusatsu", url, re.I):
+        if kind == "bids" and re.search(r"nyusatsu|nyuusatsu|nyusatu|nyuusatu|keiyaku|rakusatsu|/bids?[/_.-]|bidding|tender|procure", url, re.I):
             v += 2
-        if kind == "grants" and re.search(r"hojo|josei|shien", url, re.I):
+        if kind == "grants" and re.search(r"hojo|josei|shien|subsid|grant", url, re.I):
             v += 2
         if kind == "pref_muni_budget" and re.search(r"shichoson|sityouson|shichouson|zaisei", url, re.I):
             v += 2
