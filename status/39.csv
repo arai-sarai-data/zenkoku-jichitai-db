@@ -27,7 +27,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 394017,高知県,中土佐町,https://www.town.nakatosa.lg.jp/,115,,3,6,0,45,https://www.town.nakatosa.lg.jp,200:248 ConnectionError:1
 394025,高知県,佐川町,https://www.town.sakawa.lg.jp/,140,,4,17,0,53,https://www.town.sakawa.lg.jp,200:225 ConnectionError:1
 394033,高知県,越知町,http://www.town.ochi.kochi.jp/,122,,0,485,0,76,http://www.town.ochi.kochi.jp,200:121 404:1 ConnectionError:2
-394050,高知県,梼原町,http://www.town.yusuhara.kochi.jp/,137,,0,2,0,1,https://www.town.yusuhara.lg.jp,200:137 ConnectionError:2
+394050,高知県,梼原町,http://www.town.yusuhara.kochi.jp/,300,,0,2,0,18,https://www.town.yusuhara.lg.jp,200:300 ConnectionError:2
 394106,高知県,日高村,https://www.vill.hidaka.kochi.jp/,78,,0,155,0,106,https://www.vill.hidaka.kochi.jp,200:80 ConnectionError:2
 394114,高知県,津野町,https://town.kochi-tsuno.lg.jp/,26,,0,0,0,39,https://town.kochi-tsuno.lg.jp,200:25 401:1 SSLError:1
 394122,高知県,四万十町,https://www.town.shimanto.lg.jp/,300,,265,26,0,133,https://www.town.shimanto.lg.jp,200:300 ConnectionError:1
