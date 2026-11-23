@@ -83,12 +83,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: { ref: main }
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.12" }
-      - run: python -m pip install requests lxml openpyxl pypdf urllib3
+      - name: PCのPythonを使う(PCはPowerShellのスクリプト実行が禁止のため setup-python は使わない)
+        shell: cmd
+        run: |
+          where py >nul 2>&1 && (echo PY=py -3>>"%GITHUB_ENV%") || (echo PY=python>>"%GITHUB_ENV%")
+      - shell: cmd
+        run: '%PY% -m pip install --user requests lxml openpyxl pypdf urllib3'
       - name: 国内から、まだ取れていない分を取得
+        shell: cmd
         env: { INCREMENTAL: "1", PYTHONIOENCODING: utf-8 }
-        run: python crawler/fetch_docs.py ${{ matrix.pref }}
+        run: '%PY% crawler/fetch_docs.py ${{ matrix.pref }}'
       - uses: actions/upload-artifact@v4
         with:
           name: docs-jp-${{ matrix.pref }}
