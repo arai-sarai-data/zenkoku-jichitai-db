@@ -5,7 +5,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 172031,石川県,小松市,https://www.city.komatsu.lg.jp/,300,,376,985,0,176,https://www.city.komatsu.lg.jp,200:300 ConnectTimeout:1
 172049,石川県,輪島市,https://www.city.wajima.ishikawa.jp/,177,時間上限,135,626,0,252,https://www.city.wajima.ishikawa.jp,200:176 404:1 ConnectTimeout:7 ConnectionError:2
 172057,石川県,珠洲市,https://www.city.suzu.lg.jp/,285,,158,316,0,128,https://www.city.suzu.lg.jp,200:289 404:3 ConnectionError:1
-172065,石川県,加賀市,https://www.city.kaga.ishikawa.jp/,0,ConnectionError,0,0,0,0,https://www.city.kaga.ishikawa.jp,ConnectTimeout:1 ConnectionError:2 SSLError:1
+172065,石川県,加賀市,https://www.city.kaga.ishikawa.jp/,0,ConnectionError,0,0,0,0,https://www.city.kaga.ishikawa.jp,ConnectTimeout:2 ConnectionError:2
 172073,石川県,羽咋市,https://www.city.hakui.lg.jp/,282,,6,42,0,188,https://www.city.hakui.lg.jp,200:286 ConnectionError:1
 172090,石川県,かほく市,https://www.city.kahoku.lg.jp/,300,,182,98,0,281,https://www.city.kahoku.lg.jp,200:298 404:3 ConnectTimeout:1
 172103,石川県,白山市,https://www.city.hakusan.lg.jp/,300,,451,71,0,200,https://www.city.hakusan.lg.jp,200:300 ConnectionError:1 robots:6
