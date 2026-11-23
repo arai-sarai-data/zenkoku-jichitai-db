@@ -60,5 +60,5 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 133817,東京都,三宅村,https://www.vill.miyake.tokyo.jp/,300,,14,0,2,45,https://www.vill.miyake.tokyo.jp,200:299 404:1 ConnectionError:1,
 133825,東京都,御蔵島村,https://www.vill.mikurasima.tokyo.jp/,30,,1,0,0,18,https://www.vill.mikurasima.tokyo.jp,200:32 ConnectionError:1 SSLError:1,
 134015,東京都,八丈町,https://www.town.hachijo.tokyo.jp/,300,,566,66,0,26,https://www.town.hachijo.tokyo.jp,200:299 403:1 ConnectionError:2,
-134023,東京都,青ヶ島村,https://www.vill.aogashima.tokyo.jp/,4,,0,0,0,0,https://www.vill.aogashima.tokyo.jp,200:4 ConnectionError:2,
+134023,東京都,青ヶ島村,https://www.vill.aogashima.tokyo.jp/,12,,0,0,0,0,https://www.vill.aogashima.tokyo.jp,200:12 ConnectionError:2,
 134210,東京都,小笠原村,https://www.vill.ogasawara.tokyo.jp/,200,,137,0,0,19,https://www.vill.ogasawara.tokyo.jp,200:200 ConnectionError:1,
