@@ -12,7 +12,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 202100,長野県,駒ケ根市,https://www.city.komagane.nagano.jp/,300,,273,188,0,207,https://www.city.komagane.nagano.jp,200:300 ConnectionError:2
 202118,長野県,中野市,https://www.city.nakano.nagano.jp/,300,,134,2656,0,330,https://www.city.nakano.nagano.jp,200:300 ConnectionError:2
 202126,長野県,大町市,https://www.city.omachi.nagano.jp/,300,,57,121,0,64,https://www.city.omachi.nagano.jp,200:279 404:21 ConnectionError:2
-202134,長野県,飯山市,https://www.city.iiyama.nagano.jp/,300,,0,0,0,0,https://www.city.iiyama.nagano.jp,200:4 404:296 ConnectionError:2
+202134,長野県,飯山市,https://www.city.iiyama.nagano.jp/,209,,162,99,0,91,https://www.city.iiyama.nagano.jp,200:206 404:4 ConnectTimeout:1 ConnectionError:2
 202142,長野県,茅野市,https://www.city.chino.lg.jp/,300,,13,80,0,294,https://www.city.chino.lg.jp,200:316 ConnectionError:1
 202151,長野県,塩尻市,https://www.city.shiojiri.lg.jp/,300,,31,124,0,121,https://www.city.shiojiri.lg.jp,200:303 404:3 ConnectionError:1
 202177,長野県,佐久市,https://www.city.saku.nagano.jp/,300,,319,163,0,491,https://www.city.saku.nagano.jp,200:309 ConnectTimeout:1 ConnectionError:1
@@ -21,7 +21,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 202207,長野県,安曇野市,https://www.city.azumino.nagano.jp/,209,,900,184,0,467,https://www.city.azumino.nagano.jp,200:205 302:1 404:4 ConnectionError:2
 203033,長野県,小海町,https://www.koumi-town.jp/,176,,44,73,1,38,https://www.koumi-town.jp,200:177 ConnectionError:1
 203041,長野県,川上村,https://www.vill.kawakami.nagano.jp/,58,,9,2,0,24,https://www.vill.kawakami.nagano.jp,200:59 ConnectionError:2
-203050,長野県,南牧村,https://www.minamimakimura.jp/,300,,0,372,0,0,https://www.minamimakimura.jp,200:3 404:297 ConnectionError:1
+203050,長野県,南牧村,https://www.minamimakimura.jp/,34,,2,3,0,22,https://www.minamimakimura.jp,200:34 ConnectionError:1
 203068,長野県,南相木村,https://www.minamiaiki.jp/,25,,0,0,0,9,https://www.minamiaiki.jp,200:24 404:2 SSLError:1
 203076,長野県,北相木村,http://www.vill.kitaaiki.nagano.jp/,119,,0,2,1,30,http://www.vill.kitaaiki.nagano.jp,200:122 ConnectionError:1 SSLError:1
 203092,長野県,佐久穂町,https://www.town.sakuho.nagano.jp/,300,,37,30,0,237,https://www.town.sakuho.nagano.jp,200:304 ConnectionError:2
