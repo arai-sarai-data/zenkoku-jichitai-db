@@ -5,7 +5,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 232025,愛知県,岡崎市,https://www.city.okazaki.lg.jp/,300,,414,249,0,498,https://www.city.okazaki.lg.jp,200:299 503:1 ConnectionError:1
 232033,愛知県,一宮市,https://www.city.ichinomiya.aichi.jp/,300,,168,103,0,114,https://www.city.ichinomiya.aichi.jp,200:300 ConnectionError:1 SSLError:1
 232041,愛知県,瀬戸市,https://www.city.seto.aichi.jp/,300,,928,2255,0,226,https://www.city.seto.aichi.jp,200:300 ConnectionError:2
-232050,愛知県,半田市,https://www.city.handa.lg.jp/,198,時間上限,815,146,0,437,,
+232050,愛知県,半田市,https://www.city.handa.lg.jp/,198,時間上限,815,146,0,437,https://www.city.handa.lg.jp,200:187 503:11 ConnectionError:1 robots:1
 232068,愛知県,春日井市,https://www.city.kasugai.lg.jp/,300,,284,262,26,171,https://www.city.kasugai.lg.jp,200:295 400:5 ConnectionError:1
 232076,愛知県,豊川市,https://www.city.toyokawa.lg.jp/,300,,395,22,0,163,https://www.city.toyokawa.lg.jp,200:300 ConnectionError:1
 232084,愛知県,津島市,https://www.city.tsushima.lg.jp,300,,590,10,0,187,https://www.city.tsushima.lg.jp,200:300 ConnectionError:1
