@@ -687,6 +687,20 @@ li.appendChild(a);res.appendChild(li)})});
 <h2>주의사항</h2><ul><li>원본은 자동으로 찾기 때문에 누락이나 관계없는 링크가 있을 수 있습니다.</li><li>정확한 내용은 반드시 원본(일본어)에서 확인하세요.</li>
 <li>수집은 각 사이트의 robots.txt를 따르고 접속 간격을 둡니다.</li><li>원본 사본은 이용 규칙상 자유 이용이 허용된 지자체의 것만 공개합니다.</li></ul>""",
         }[lang]
+        # 掲載停止・訂正の申し出先(リンクの事前連絡を求める自治体などからの申し出に、すぐ応じられるように)
+        req = "https://github.com/arai-sarai-data/zenkoku-jichitai-db/issues/new?title="
+        about += {
+            "ja": f'<h2 id="contact">掲載停止・訂正の申し出</h2><p>自治体の方で、リンクの掲載停止や内容の訂正を希望される場合は、'
+                  f'<a href="{req}%E6%8E%B2%E8%BC%89%E5%81%9C%E6%AD%A2%E3%83%BB%E8%A8%82%E6%AD%A3%E3%81%AE%E7%94%B3%E3%81%97%E5%87%BA">こちらの申し出窓口</a>'
+                  '（GitHub）から団体名と対象のページをお知らせください。確認のうえ速やかに対応します。</p>',
+            "en": f'<h2 id="contact">Removal and correction requests</h2><p>Local governments that want a link removed or a figure corrected can '
+                  f'<a href="{req}Removal%20or%20correction%20request">send a request here</a> (GitHub) with the government name and the page concerned. '
+                  'We will respond promptly.</p>',
+            "zh": f'<h2 id="contact">删除·更正申请</h2><p>地方政府如希望删除链接或更正内容，请通过'
+                  f'<a href="{req}Removal%20or%20correction%20request">此申请窗口</a>（GitHub）告知团体名称和相关页面。我们将尽快处理。</p>',
+            "ko": f'<h2 id="contact">게재 중지·정정 요청</h2><p>지자체에서 링크 게재 중지나 내용 정정을 원하시면 '
+                  f'<a href="{req}Removal%20or%20correction%20request">이 요청 창구</a>(GitHub)로 단체명과 해당 페이지를 알려 주세요. 확인 후 신속히 대응하겠습니다.</p>',
+        }[lang]
         (base / "about.html").write_text(page(ctx, t["about"], about, 0, "about.html"), encoding="utf-8")
 
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
