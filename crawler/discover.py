@@ -63,6 +63,8 @@ STRONG = {
 # ページの題名が「財政・予算」程度(6点)でも、そのページ内の文書は原本候補にする(例: 古座川町は画像リンクで文字なし)
 PAGE_CTX_MIN = 6
 NAV_HINT = re.compile(r"(くらし|暮らし|総務課|財政課|企画課|契約課|管財課|役場|課のページ|部署|事業者|ビジネス|産業|行政|市政|町政|村政|区政|県政|財政|組織|分類|カテゴリ|一覧|sitemap|サイトマップ)")
+# URLの部分から分かる案内ページ(例: /top/gyosei/、/soshiki/zaisei/)
+NAV_URL = re.compile(r"/(gyosei|gyousei|gyouseijouhou|kurashi|soshiki|zaisei|shisei|chosei|sonsei|kusei|keiyaku|nyusatsu|nyuusatsu|nyusatu|nyuusatu)(/|_|\.|$)", re.I)
 EXTERNAL_BID = re.compile(r"(ppi|nyusatsu|e-?bid|denshi|choutatsu|chotatsu|cals|e-?nyu|keiyaku|efftis)", re.I)
 JS_URL = re.compile(r"""["'](/[A-Za-z0-9_\-./%]+?\.(?:html?|php|jsp|aspx?)|https?://[^"'\s<>]+?)["']""")
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".mp4", ".mp3", ".ics", ".css", ".js")
@@ -428,6 +430,10 @@ def crawl(entity, render=False):
             if not link:
                 continue
             text = " ".join(a.text_content().split())[:200]
+            if not text:
+                # 画像だけのリンク(例: 高千穂町のメニュー)は画像の説明文や title を文字の代わりに使う
+                alts = [i.get("alt", "") for i in a.iterfind(".//img")] + [a.get("title", ""), a.get("aria-label", "")]
+                text = " ".join(" ".join(alts).split())[:200]
             low = link.lower().split("?")[0]
             if low.endswith(SKIP_EXT):
                 continue
@@ -454,7 +460,7 @@ def crawl(entity, render=False):
                     have = strong_found[kind]
                     weight = 1.5 if have == 0 else (1.0 if have < 10 else 0.3)
                     prio = max(prio, v * weight)
-                if NAV_HINT.search(text):
+                if NAV_HINT.search(text) or NAV_URL.search(link):
                     prio += 3
                 if prio > 0 or depth < 1:
                     push(link, prio - depth * 0.5, depth + 1)
