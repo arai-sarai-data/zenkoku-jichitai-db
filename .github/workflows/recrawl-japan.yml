@@ -46,16 +46,20 @@ jobs:
       matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.12" }
-      - run: python -m pip install requests lxml openpyxl pypdf
+      - name: PCのPythonを使う(PCはPowerShellのスクリプト実行が禁止のため setup-python は使わない)
+        shell: cmd
+        run: |
+          where py >nul 2>&1 && (echo PY=py -3>>"%GITHUB_ENV%") || (echo PY=python>>"%GITHUB_ENV%")
+      - shell: cmd
+        run: '%PY% -m pip install --user requests lxml openpyxl pypdf urllib3'
       - uses: actions/download-artifact@v4
         with: { name: master, path: data }
       - name: 日本国内から再巡回
+        shell: cmd
         env:
           ONLY_CODES: ${{ matrix.codes }}
           PYTHONIOENCODING: utf-8
-        run: python crawler/discover.py ${{ matrix.pref }}
+        run: '%PY% crawler/discover.py ${{ matrix.pref }}'
       - uses: actions/upload-artifact@v4
         with:
           name: jp-${{ matrix.pref }}
