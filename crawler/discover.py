@@ -21,7 +21,7 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, urldefrag
+from urllib.parse import quote, urljoin, urlparse, urldefrag
 from urllib.robotparser import RobotFileParser
 
 import requests
@@ -60,7 +60,7 @@ STRONG = {
     "grants": re.compile(r"(補助金|助成金|奨励金|支援制度|補助制度|助成制度)"),
     "pref_muni_budget": re.compile(r"市(区)?町村.{0,6}(当初予算|予算(の概要|状況|規模))|財政要覧|市(区)?町村財政(の状況|の概要|状況)"),
 }
-NAV_HINT = re.compile(r"(くらし|事業者|ビジネス|産業|行政|市政|町政|村政|区政|県政|財政|組織|分類|カテゴリ|一覧|sitemap|サイトマップ)")
+NAV_HINT = re.compile(r"(くらし|暮らし|総務課|財政課|企画課|契約課|管財課|役場|課のページ|部署|事業者|ビジネス|産業|行政|市政|町政|村政|区政|県政|財政|組織|分類|カテゴリ|一覧|sitemap|サイトマップ)")
 EXTERNAL_BID = re.compile(r"(ppi|nyusatsu|e-?bid|denshi|choutatsu|chotatsu|cals|e-?nyu|keiyaku|efftis)", re.I)
 JS_URL = re.compile(r"""["'](/[A-Za-z0-9_\-./%]+?\.(?:html?|php|jsp|aspx?)|https?://[^"'\s<>]+?)["']""")
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".mp4", ".mp3", ".ics", ".css", ".js")
@@ -353,6 +353,24 @@ def crawl(entity, render=False):
                     push(loc, max(sc.values()), 1)
     try:
         read_sitemaps()
+    except Exception:  # noqa: BLE001
+        pass
+
+    # WordPress のサイトは内蔵の検索(/wp-json/wp/v2/search)で「予算」「入札」「補助金」のページを先に足す
+    # (例: 根羽村は課のページの中に財政のリンクがあり、リンク文字だけでは辿れない)
+    def read_wp_search():
+        for q in ("予算", "入札", "補助金"):
+            u = f"{site.root}/wp-json/wp/v2/search?per_page=20&search={quote(q)}"
+            if not site.allowed(u):
+                return
+            r = site._get(u)
+            if r.status_code != 200 or not r.text.lstrip().startswith("["):
+                return
+            for it in r.json():
+                if isinstance(it, dict) and it.get("url"):
+                    push(it["url"], 60, 1)
+    try:
+        read_wp_search()
     except Exception:  # noqa: BLE001
         pass
 
