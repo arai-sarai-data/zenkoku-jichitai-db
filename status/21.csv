@@ -39,6 +39,6 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 215040,岐阜県,七宗町,https://www.hichiso.jp/,252,,58,72,0,53,https://www.hichiso.jp,200:253 404:1 500:2 ConnectionError:1,
 215058,岐阜県,八百津町,https://www.town.yaotsu.lg.jp/,300,,75,210,1,85,https://www.town.yaotsu.lg.jp,200:305 ConnectionError:1,
 215066,岐阜県,白川町,https://www.town.shirakawa.lg.jp/,182,,3,206,0,138,https://www.town.shirakawa.lg.jp,200:182 ConnectionError:1,
-215074,岐阜県,東白川村,https://www.vill.higashishirakawa.gifu.jp/,17,,0,0,0,0,https://www.vill.higashishirakawa.gifu.jp,200:17 ConnectionError:1,
+215074,岐阜県,東白川村,https://www.vill.higashishirakawa.gifu.jp/,18,,0,0,0,0,https://www.vill.higashishirakawa.gifu.jp,200:18 ConnectionError:1,
 215210,岐阜県,御嵩町,https://www.town.mitake.lg.jp/,300,,3,717,0,82,https://www.town.mitake.lg.jp,200:289 404:12,
 216046,岐阜県,白川村,https://www.vill.shirakawa.lg.jp/,121,,32,401,0,38,https://www.vill.shirakawa.lg.jp,200:125 404:2 ConnectionError:1,
