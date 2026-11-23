@@ -37,7 +37,7 @@ ENTITY_BUDGET = 30 * 60   # 1団体あたりの上限時間(秒)。超えた分�
 INCREMENTAL = os.environ.get("INCREMENTAL") == "1"
 ONLY_CODES = set(filter(None, os.environ.get("ONLY_CODES", "").split(",")))
 # 取り直しても無駄な失敗(robots.txtで禁止・ファイルが無い)
-FINAL_ERRORS = ("robots", "HTTPError: 404", "HTTPError: 410", "not a document", "too large")
+FINAL_ERRORS = ("robots", "HTTPError: 404 (別URLも不可)", "HTTPError: 410", "not a document", "too large")
 
 
 def pdf_text(data):
@@ -91,15 +91,68 @@ def sniff_ext(data, url):
     return Path(urlparse(url).path).suffix.lower() or ".bin"
 
 
-def download(sess, url):
-    """原本を取得。接続失敗・5xx・タイムアウトは間隔を空けて最大 RETRIES 回。証明書の不備は検証なしで取り直す(公開文書の読み取りのみ)"""
+class _LegacyTLS(requests.adapters.HTTPAdapter):
+    """古い暗号方式のサイト用(証明書の検証をしなくても接続できない場合)"""
+    def init_poolmanager(self, *a, **kw):
+        import ssl
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        try:
+            ctx.set_ciphers("DEFAULT@SECLEVEL=0")
+        except ssl.SSLError:
+            ctx.set_ciphers("DEFAULT@SECLEVEL=1")
+        ctx.minimum_version = ssl.TLSVersion.TLSv1
+        kw["ssl_context"] = ctx
+        return super().init_poolmanager(*a, **kw)
+
+
+def _alternatives(url, referer):
+    """404のときに試す別のURL。
+    1) <base href="/"> のページの相対リンクを、ページの場所から解決してしまった場合 → サイトの最上位から解決し直す
+    2) 日本語のファイル名を Shift_JIS で置いているサイト → Shift_JIS で符号化し直す"""
+    from urllib.parse import quote, unquote, urlsplit, urlunsplit
+    alts = []
+    if referer:
+        d = referer.split("?")[0].rsplit("/", 1)[0] + "/"
+        if url.startswith(d):
+            p = urlsplit(url)
+            alts.append(f"{p.scheme}://{p.netloc}/" + url[len(d):])
+    p = urlsplit(url)
+    raw = unquote(p.path)
+    if any(ord(c) > 127 for c in raw):
+        try:
+            alts.append(urlunsplit((p.scheme, p.netloc, quote(raw.encode("cp932"), safe="/%"), p.query, "")))
+        except UnicodeEncodeError:
+            pass
+    return [a for a in alts if a != url]
+
+
+def download(sess, url, referer=""):
+    """原本を取得。接続失敗・5xx・タイムアウトは間隔を空けて最大 RETRIES 回。
+    証明書の不備は検証なしで、古い暗号方式は緩めた設定で取り直す(公開文書の読み取りのみ)。404は別のURLの候補も試す"""
     verify = True
     err = ""
-    for i in range(RETRIES):
+    headers = {"Referer": referer} if referer else {}
+    tried_alt = False
+    i = 0
+    while i < RETRIES:
+        i += 1
         try:
-            resp = sess.get(url, timeout=(20, 60), stream=True, verify=verify)   # 接続20秒・読み取り60秒
+            resp = sess.get(url, timeout=(20, 60), stream=True, verify=verify, headers=headers)   # 接続20秒・読み取り60秒
             if resp.status_code in (404, 410):
-                return None, f"HTTPError: {resp.status_code}"
+                if not tried_alt:
+                    tried_alt = True
+                    for alt in _alternatives(url, referer):
+                        try:
+                            r2 = sess.get(alt, timeout=(20, 60), stream=True, verify=verify, headers=headers)
+                        except Exception:  # noqa: BLE001
+                            continue
+                        if r2.status_code == 200:
+                            resp = r2
+                            break
+                if resp.status_code in (404, 410):
+                    return None, f"HTTPError: {resp.status_code} (別URLも不可)"
             resp.raise_for_status()
             buf = io.BytesIO()
             for chunk in resp.iter_content(1 << 16):
@@ -109,14 +162,18 @@ def download(sess, url):
             return buf.getvalue(), ""
         except requests.exceptions.SSLError as e:
             err = f"SSLError: {e}"[:120]
-            verify = False
+            if verify:
+                verify = False
+            else:
+                host = url.split("/")[2]
+                sess.mount(f"https://{host}/", _LegacyTLS())
             continue
         except Exception as e:  # noqa: BLE001
             err = f"{type(e).__name__}: {e}"[:120]
             code = getattr(getattr(e, "response", None), "status_code", 0) or 0
-            if 400 <= code < 500 and code not in (408, 429):
+            if 400 <= code < 500 and code not in (403, 408, 429):
                 return None, err
-            time.sleep(5 * (i + 1))
+            time.sleep(5 * i)
     return None, err
 
 
@@ -169,7 +226,7 @@ def process_entity(args):
         if wait > 0:
             time.sleep(wait)
         last[host] = time.time()
-        data, err = download(sess, url)
+        data, err = download(sess, url, r.get("found_on", ""))
         if err:
             rec["error"] = err
             results.append(rec)
