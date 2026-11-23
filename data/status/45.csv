@@ -18,11 +18,11 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 454036,宮崎県,西米良村,https://www.vill.nishimera.lg.jp/,37,,6,30,0,7,https://www.vill.nishimera.lg.jp,200:37 404:1 ConnectionError:1
 454044,宮崎県,木城町,https://www.town.kijo.lg.jp/,230,,1,55,0,33,https://www.town.kijo.lg.jp,200:226 404:4 ConnectionError:1
 454052,宮崎県,川南町,https://www.town.kawaminami.miyazaki.jp/,240,,18,50,0,79,https://www.town.kawaminami.miyazaki.jp,200:242 403:1 404:1 ConnectionError:2
-454061,宮崎県,都農町,https://www.town.tsuno.lg.jp/,98,描画で再読,8,84,0,28,https://www.town.tsuno.lg.jp,200:98 Error:1
+454061,宮崎県,都農町,https://www.town.tsuno.lg.jp/,106,描画で再読,8,84,0,51,https://www.town.tsuno.lg.jp,200:106 Error:1
 454214,宮崎県,門川町,https://www.town.kadogawa.lg.jp/,175,,5,91,1,38,https://www.town.kadogawa.lg.jp,200:173 403:1 404:1 ConnectionError:1
 454290,宮崎県,諸塚村,https://www.vill.morotsuka.miyazaki.jp/,95,,0,1,0,10,https://www.vill.morotsuka.miyazaki.jp,200:96 ConnectionError:2
 454303,宮崎県,椎葉村,https://www.vill.shiiba.miyazaki.jp/,65,,20,4,0,0,https://www.vill.shiiba.miyazaki.jp,200:68 ConnectionError:2
 454311,宮崎県,美郷町,https://www.town.miyazaki-misato.lg.jp/,272,,60,53,0,18,https://www.town.miyazaki-misato.lg.jp,200:274 ConnectionError:1
-454419,宮崎県,高千穂町,https://www.town-takachiho.jp/,61,,0,2,0,0,https://www.town-takachiho.jp,200:61 ConnectionError:1
+454419,宮崎県,高千穂町,https://www.town-takachiho.jp/,300,,18,6,0,51,https://www.town-takachiho.jp,200:300 ConnectionError:1
 454427,宮崎県,日之影町,https://www.town.hinokage.lg.jp/,90,,1,0,0,12,https://www.town.hinokage.lg.jp,200:92 ConnectionError:1
 454435,宮崎県,五ケ瀬町,https://www.town.gokase.miyazaki.jp/,62,,5,0,0,21,https://www.town.gokase.miyazaki.jp,200:62 ConnectionError:2

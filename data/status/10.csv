@@ -15,7 +15,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 103446,群馬県,榛東村,https://www.vill.shinto.gunma.jp/,254,,9,3,0,93,https://www.vill.shinto.gunma.jp,200:260 401:3 404:2 ConnectionError:2,
 103454,群馬県,吉岡町,https://www.town.yoshioka.gunma.jp/,274,,131,77,0,94,https://www.town.yoshioka.lg.jp,200:271 404:4 ConnectionError:2,
 103667,群馬県,上野村,http://www.uenomura.jp/,194,,5,0,0,4,http://www.uenomura.jp,200:187 403:1 404:6,
-103675,群馬県,神流町,https://www.town.kanna.gunma.jp/,84,,0,2,0,0,https://www.town.kanna.gunma.jp,200:85 ConnectionError:1,
+103675,群馬県,神流町,https://www.town.kanna.gunma.jp/,300,,1,15,0,21,https://www.town.kanna.gunma.jp,200:300 ConnectionError:1,
 103829,群馬県,下仁田町,https://www.town.shimonita.lg.jp/,147,,64,6,0,78,https://www.town.shimonita.lg.jp,200:146 503:1 ConnectionError:1,
 103837,群馬県,南牧村,http://www.nanmoku.ne.jp/,48,,17,0,0,2,http://www.nanmoku.ne.jp,200:48 SSLError:1,
 103845,群馬県,甘楽町,https://www.town.kanra.lg.jp/,300,,133,42,0,110,https://www.town.kanra.lg.jp,200:314 404:1 ConnectionError:1,
