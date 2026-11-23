@@ -30,7 +30,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 394050,高知県,梼原町,http://www.town.yusuhara.kochi.jp/,137,,0,2,0,1,https://www.town.yusuhara.lg.jp,200:150 ConnectionError:2
 394106,高知県,日高村,https://www.vill.hidaka.kochi.jp/,78,,0,155,0,106,https://www.vill.hidaka.kochi.jp,200:80 ConnectionError:2
 394114,高知県,津野町,https://town.kochi-tsuno.lg.jp/,26,,0,0,0,39,https://town.kochi-tsuno.lg.jp,200:25 401:1 SSLError:1
-394122,高知県,四万十町,https://www.town.shimanto.lg.jp/,259,時間上限,166,26,0,54,https://www.town.shimanto.lg.jp,200:590 ConnectionError:1
+394122,高知県,四万十町,https://www.town.shimanto.lg.jp/,300,,265,26,0,133,https://www.town.shimanto.lg.jp,200:300 ConnectionError:1
 394246,高知県,大月町,https://www.town.otsuki.kochi.jp/,81,,0,11,0,38,https://www.town.otsuki.kochi.jp,200:163 ConnectionError:2
 394271,高知県,三原村,http://www.vill.mihara.kochi.jp/,100,,11,1,0,16,http://www.vill.mihara.kochi.jp,200:171 404:1 ConnectionError:2
 394289,高知県,黒潮町,https://www.town.kuroshio.lg.jp/,220,,69,78,0,171,https://www.town.kuroshio.lg.jp,200:220 ConnectionError:1
