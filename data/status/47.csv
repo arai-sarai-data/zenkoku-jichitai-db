@@ -11,7 +11,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 472131,沖縄県,うるま市,https://www.city.uruma.lg.jp/,300,,118,60,0,238,https://www.city.uruma.lg.jp,200:300 404:9 ConnectionError:1
 472140,沖縄県,宮古島市,https://www.city.miyakojima.lg.jp/,300,,126,72,0,363,https://www.city.miyakojima.lg.jp,200:330 ConnectionError:1
 472158,沖縄県,南城市,https://www.city.nanjo.okinawa.jp/,146,,167,1,0,83,https://www.city.nanjo.okinawa.jp,200:148 ConnectionError:2
-473014,沖縄県,国頭村,http://www.vill.kunigami.okinawa.jp/,300,,0,0,0,0,http://www.vill.kunigami.okinawa.jp,200:16 404:284 ConnectionError:2
+473014,沖縄県,国頭村,http://www.vill.kunigami.okinawa.jp/,300,,0,0,0,0,http://www.vill.kunigami.okinawa.jp,200:16 404:284 ConnectTimeout:1 ConnectionError:2
 473022,沖縄県,大宜味村,https://www.vill.ogimi.okinawa.jp/,111,,14,3,0,1,https://www.vill.ogimi.okinawa.jp,200:112 ConnectionError:2
 473031,沖縄県,東村,https://www.vill.higashi.okinawa.jp/,227,,3,1,0,37,https://www.vill.higashi.okinawa.jp,200:226 404:1 ConnectionError:2
 473065,沖縄県,今帰仁村,https://www.nakijin.jp/,97,,5,0,0,35,https://www.nakijin.jp,200:96 404:1 ConnectionError:1

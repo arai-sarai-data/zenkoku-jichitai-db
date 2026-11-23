@@ -14,7 +14,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 402133,福岡県,行橋市,https://www.city.yukuhashi.fukuoka.jp/,300,,14,325,0,94,https://www.city.yukuhashi.fukuoka.jp,200:299 404:4 ConnectionError:1 SSLError:1
 402141,福岡県,豊前市,https://www.city.buzen.lg.jp/,300,,171,713,0,74,https://www.city.buzen.lg.jp,200:281 403:3 404:16 ConnectionError:1
 402150,福岡県,中間市,https://www.city.nakama.lg.jp/,263,,126,103,0,43,https://www.city.nakama.lg.jp,200:263 401:1 ConnectTimeout:2 ConnectionError:2
-402168,福岡県,小郡市,https://www.city.ogori.fukuoka.jp/,205,時間上限,86,9,0,53,https://www.city.ogori.fukuoka.jp,200:576 403:2 ConnectionError:2
+402168,福岡県,小郡市,https://www.city.ogori.fukuoka.jp/,205,時間上限,86,9,0,53,https://www.city.ogori.fukuoka.jp,200:574 403:2 ConnectionError:2
 402176,福岡県,筑紫野市,https://www.city.chikushino.fukuoka.jp/,300,,77,180,0,89,https://www.city.chikushino.fukuoka.jp,200:305 ConnectionError:2
 402184,福岡県,春日市,https://www.city.kasuga.fukuoka.jp/,300,,249,84,0,81,https://www.city.kasuga.fukuoka.jp,200:300 ConnectionError:2
 402192,福岡県,大野城市,https://www.city.onojo.fukuoka.jp/,206,,64,9,0,44,https://www.city.onojo.fukuoka.jp,200:204 404:2 ConnectTimeout:1 ConnectionError:1

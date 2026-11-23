@@ -27,6 +27,6 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 304069,和歌山県,すさみ町,http://www.town.susami.lg.jp/,73,,1,0,0,45,http://www.town.susami.lg.jp,200:70 404:3 SSLError:1
 304212,和歌山県,那智勝浦町,https://www.town.nachikatsuura.wakayama.jp/,205,,119,14,0,59,https://www.town.nachikatsuura.wakayama.jp,200:208 ConnectionError:1 SSLError:1 robots:1
 304221,和歌山県,太地町,https://www.town.taiji.wakayama.jp,143,,25,9,0,21,https://www.town.taiji.wakayama.jp,200:138 404:5 SSLError:2
-304247,和歌山県,古座川町,http://www.town.kozagawa.wakayama.jp/,67,,0,0,0,2,https://www.town.kozagawa.lg.jp,200:67 SSLError:1
+304247,和歌山県,古座川町,http://www.town.kozagawa.wakayama.jp/,74,,0,0,0,3,https://www.town.kozagawa.lg.jp,200:74 SSLError:1
 304271,和歌山県,北山村,https://www.vill.kitayama.wakayama.jp/,81,,0,0,0,21,https://www.vill.kitayama.wakayama.jp,200:99 ConnectionError:1 SSLError:1
 304280,和歌山県,串本町,https://www.town.kushimoto.wakayama.jp/,248,,59,2,0,131,https://www.town.kushimoto.wakayama.jp,200:247 404:5 SSLError:2
