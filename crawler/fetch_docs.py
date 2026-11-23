@@ -9,6 +9,7 @@
 import csv
 import hashlib
 import io
+import os
 import sys
 import time
 from collections import defaultdict
@@ -18,13 +19,24 @@ from urllib.parse import urlparse
 from urllib.robotparser import RobotFileParser
 
 import requests
+import urllib3
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from discover import looks_like_doc  # noqa: E402
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ROOT = Path(__file__).resolve().parent.parent
 UA = "zenkoku-jichitai-db/0.1 (public-interest open database of local government finance; +https://github.com/)"
 WAIT = 2.0
 MAX_FILES_PER_ENTITY = 40
 MAX_BYTES = 60 * 1024 * 1024
 WORKERS = 16
+RETRIES = 3
+# INCREMENTAL=1: 既存の data/docs/<県>.csv で取得済みの原本は残し、未取得・失敗分だけ取りに行く
+INCREMENTAL = os.environ.get("INCREMENTAL") == "1"
+ONLY_CODES = set(filter(None, os.environ.get("ONLY_CODES", "").split(",")))
+# 取り直しても無駄な失敗(robots.txtで禁止・ファイルが無い)
+FINAL_ERRORS = ("robots", "HTTPError: 404", "HTTPError: 410", "not a document", "too large")
 
 
 def pdf_text(data):
@@ -59,9 +71,57 @@ def xlsx_text(data):
         return 0, ""
 
 
+def sniff_ext(data, url):
+    """中身から種類を判定する(拡張子のないダウンロードURLに対応)。HTMLなら None"""
+    head = data[:2048].lstrip().lower()
+    if data[:4] == b"%PDF":
+        return ".pdf"
+    if data[:2] == b"PK":
+        z = data[:4096]
+        if b"xl/" in z:
+            return ".xlsx"
+        if b"word/" in z:
+            return ".docx"
+        return ".zip"
+    if data[:8] == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":
+        return ".doc" if url.lower().split("?")[0].endswith(".doc") else ".xls"
+    if head.startswith((b"<!doctype html", b"<html")) or b"<html" in head[:512]:
+        return None
+    return Path(urlparse(url).path).suffix.lower() or ".bin"
+
+
+def download(sess, url):
+    """原本を取得。接続失敗・5xx・タイムアウトは間隔を空けて最大 RETRIES 回。証明書の不備は検証なしで取り直す(公開文書の読み取りのみ)"""
+    verify = True
+    err = ""
+    for i in range(RETRIES):
+        try:
+            resp = sess.get(url, timeout=120, stream=True, verify=verify)
+            if resp.status_code in (404, 410):
+                return None, f"HTTPError: {resp.status_code}"
+            resp.raise_for_status()
+            buf = io.BytesIO()
+            for chunk in resp.iter_content(1 << 16):
+                buf.write(chunk)
+                if buf.tell() > MAX_BYTES:
+                    return None, "too large"
+            return buf.getvalue(), ""
+        except requests.exceptions.SSLError as e:
+            err = f"SSLError: {e}"[:120]
+            verify = False
+            continue
+        except Exception as e:  # noqa: BLE001
+            err = f"{type(e).__name__}: {e}"[:120]
+            code = getattr(getattr(e, "response", None), "status_code", 0) or 0
+            if 400 <= code < 500 and code not in (408, 429):
+                return None, err
+            time.sleep(5 * (i + 1))
+    return None, err
+
+
 def pick(rows):
     """1団体あたり、確度の高いものを優先して最大 MAX_FILES_PER_ENTITY 件"""
-    docs = [r for r in rows if r["is_document"] == "1"]
+    docs = [r for r in rows if r["is_document"] == "1" or looks_like_doc(r["url"], r.get("link_text", ""))]
     docs.sort(key=lambda r: (r["strong"] != "1", r["kind"]))
     seen, out = set(), []
     for r in docs:
@@ -102,21 +162,17 @@ def process_entity(args):
         if wait > 0:
             time.sleep(wait)
         last[host] = time.time()
-        try:
-            resp = sess.get(url, timeout=120, stream=True)
-            resp.raise_for_status()
-            buf = io.BytesIO()
-            for chunk in resp.iter_content(1 << 16):
-                buf.write(chunk)
-                if buf.tell() > MAX_BYTES:
-                    raise ValueError("too large")
-            data = buf.getvalue()
-        except Exception as e:  # noqa: BLE001
-            rec["error"] = f"{type(e).__name__}: {e}"[:120]
+        data, err = download(sess, url)
+        if err:
+            rec["error"] = err
             results.append(rec)
             continue
         sha = hashlib.sha256(data).hexdigest()
-        ext = Path(urlparse(url).path).suffix.lower() or ".bin"
+        ext = sniff_ext(data, url)
+        if ext is None:
+            rec["error"] = "not a document (HTML)"
+            results.append(rec)
+            continue
         rec["sha256"], rec["bytes"] = sha, len(data)
         if data[:4] == b"%PDF":
             pages, text = pdf_text(data)
@@ -161,11 +217,28 @@ def main():
     with open(ROOT / "data" / "links" / f"{pref}.csv", encoding="utf-8") as f:
         for r in csv.DictReader(f):
             by_code[r["code"]].append(r)
-    jobs = [(pref, code, rows) for code, rows in by_code.items()]
+    keep = []
+    out_path = ROOT / "data" / "docs" / f"{pref}.csv"
+    if INCREMENTAL and out_path.exists():
+        # 取得済み・取り直しても無駄なものは残し、それ以外(未取得・一時的な失敗)だけ取りに行く
+        done = set()
+        with open(out_path, encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if r["sha256"] or r["error"].startswith(FINAL_ERRORS):
+                    keep.append(r)
+                    done.add(r["url"])
+        by_code = {c: [r for r in rows if r["url"] not in done] for c, rows in by_code.items()}
+    if ONLY_CODES:
+        by_code = {c: rows for c, rows in by_code.items() if c in ONLY_CODES}
+    jobs = [(pref, code, rows) for code, rows in by_code.items() if rows]
+    print(f"{pref}: 取りに行く団体 {len(jobs)} / 残す取得済み {len(keep)} 件")
     out = []
     with ThreadPoolExecutor(WORKERS) as ex:
         for res in ex.map(process_entity_safe, jobs):
             out.extend(res)
+    if keep:
+        got = {r["url"] for r in out}
+        out = [r for r in keep if r["url"] not in got] + out
     (ROOT / "data" / "docs").mkdir(parents=True, exist_ok=True)
     fields = ["code", "kind", "url", "link_text", "found_on", "sha256", "bytes", "pages", "text_chars",
               "needs_ocr", "stored_as", "error"]
@@ -174,7 +247,7 @@ def main():
         w.writeheader()
         w.writerows(out)
     ok = sum(1 for r in out if r["sha256"])
-    ocr = sum(1 for r in out if r["needs_ocr"] == 1)
+    ocr = sum(1 for r in out if str(r["needs_ocr"]) == "1")
     print(f"{pref}: files {ok}/{len(out)}, needs_ocr {ocr}")
 
 
