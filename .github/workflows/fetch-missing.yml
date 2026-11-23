@@ -47,8 +47,31 @@ jobs:
           name: docs-gh-${{ matrix.pref }}
           path: data/docs/${{ matrix.pref }}.csv
 
-  fetch-from-japan:
+  save-gh:
     needs: fetch
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/download-artifact@v4
+        with: { pattern: "docs-gh-*", path: dl }
+      - name: GitHubからの取得結果を data/docs に反映
+        run: |
+          mkdir -p data/docs
+          for d in dl/docs-gh-*; do cp -f $d/*.csv data/docs/ 2>/dev/null || true; done
+          python3 crawler/docs_summary.py
+      - name: コミット
+        run: |
+          git config user.name "collector-bot"
+          git config user.email "collector-bot@users.noreply.github.com"
+          git add data/docs
+          git commit -m "fetch-missing(github): $(date +%Y-%m-%d) [skip ci]" || echo "no changes"
+          for i in 1 2 3; do git pull -q --rebase --autostash && git push && break; sleep 10; done
+
+  # まだ取れていない分を国内PCから。PCが止まっている間は待機し、起動すると処理される(GitHub側の結果は先に保存済み)
+  fetch-from-japan:
+    needs: save-gh
     if: always()
     runs-on: [self-hosted, japan]
     timeout-minutes: 600
@@ -59,9 +82,7 @@ jobs:
         pref: ${{ fromJSON(inputs.prefs || '["01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47"]') }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
-        continue-on-error: true
-        with: { name: "docs-gh-${{ matrix.pref }}", path: data/docs }
+        with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: python -m pip install requests lxml openpyxl pypdf urllib3
@@ -73,31 +94,24 @@ jobs:
           name: docs-jp-${{ matrix.pref }}
           path: data/docs/${{ matrix.pref }}.csv
 
-  save:
-    needs: [fetch, fetch-from-japan]
-    if: always()
+  save-jp:
+    needs: fetch-from-japan
+    if: always() && needs.fetch-from-japan.result != 'skipped'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/download-artifact@v4
-        with: { pattern: "docs-*", path: dl }
-      - name: 取得結果を data/docs に反映(国内PCの結果を優先)
+        with: { pattern: "docs-jp-*", path: dl }
+      - name: 国内PCからの取得結果を反映
         run: |
           mkdir -p data/docs
-          for d in dl/docs-gh-*; do cp -f $d/*.csv data/docs/ 2>/dev/null || true; done
           for d in dl/docs-jp-*; do cp -f $d/*.csv data/docs/ 2>/dev/null || true; done
-          python - <<'PY'
-          import csv, glob
-          tot = ok = 0; codes = set()
-          for f in glob.glob("data/docs/*.csv"):
-              for r in csv.DictReader(open(f, encoding="utf-8")):
-                  tot += 1; ok += bool(r["sha256"]); codes.add(r["code"]) if r["sha256"] else None
-          print(f"原本 {ok}/{tot} 件、原本を取れた団体 {len(codes)}")
-          PY
+          python3 crawler/docs_summary.py
       - name: コミット
         run: |
           git config user.name "collector-bot"
           git config user.email "collector-bot@users.noreply.github.com"
           git add data/docs
-          git commit -m "fetch-missing: $(date +%Y-%m-%d) [skip ci]" || echo "no changes"
+          git commit -m "fetch-missing(japan): $(date +%Y-%m-%d) [skip ci]" || echo "no changes"
           for i in 1 2 3; do git pull -q --rebase --autostash && git push && break; sleep 10; done
