@@ -51,7 +51,7 @@ jobs:
         run: |
           where py >nul 2>&1 && (echo PY=py -3>>"%GITHUB_ENV%") || (echo PY=python>>"%GITHUB_ENV%")
       - shell: cmd
-        run: '%PY% -m pip install --user requests lxml openpyxl pypdf urllib3'
+        run: '%PY% -m pip install --user requests lxml openpyxl pypdf urllib3 playwright && %PY% -m playwright install chromium'
       - uses: actions/download-artifact@v4
         with: { name: master, path: data }
       - name: 日本国内から再巡回
