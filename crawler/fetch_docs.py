@@ -32,6 +32,7 @@ MAX_FILES_PER_ENTITY = 40
 MAX_BYTES = 60 * 1024 * 1024
 WORKERS = 16
 RETRIES = 3
+ENTITY_BUDGET = 30 * 60   # 1団体あたりの上限時間(秒)。超えた分は「時間上限」として次回取り直す
 # INCREMENTAL=1: 既存の data/docs/<県>.csv で取得済みの原本は残し、未取得・失敗分だけ取りに行く
 INCREMENTAL = os.environ.get("INCREMENTAL") == "1"
 ONLY_CODES = set(filter(None, os.environ.get("ONLY_CODES", "").split(",")))
@@ -96,7 +97,7 @@ def download(sess, url):
     err = ""
     for i in range(RETRIES):
         try:
-            resp = sess.get(url, timeout=120, stream=True, verify=verify)
+            resp = sess.get(url, timeout=(20, 60), stream=True, verify=verify)   # 接続20秒・読み取り60秒
             if resp.status_code in (404, 410):
                 return None, f"HTTPError: {resp.status_code}"
             resp.raise_for_status()
@@ -141,8 +142,14 @@ def process_entity(args):
     robots = {}
     last = defaultdict(float)
     results = []
+    started = time.time()
     for r in pick(rows):
         url = r["url"]
+        if time.time() - started > ENTITY_BUDGET:
+            results.append({"code": code, "kind": r["kind"], "url": url, "link_text": r["link_text"],
+                            "found_on": r["found_on"], "sha256": "", "bytes": 0, "pages": 0, "text_chars": 0,
+                            "needs_ocr": "", "stored_as": "", "error": "時間上限(次回取り直し)"})
+            continue
         host = urlparse(url).netloc
         if host not in robots:
             rp = RobotFileParser()
