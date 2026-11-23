@@ -36,6 +36,22 @@ WORKERS = 16        # 同時に回る団体数(別サイトなので並列化し
 TIMEOUT = 20
 TIME_BUDGET = 20 * 60   # 1団体あたりの上限時間(秒)。遅いサイトで全体が止まらないように
 DOC_EXT = (".pdf", ".xlsx", ".xls", ".csv", ".docx", ".doc", ".zip")
+# 拡張子のないダウンロード用URL(例: /download/?t=LD&id=1&fid=2、/dl?q=xxx.pdf)でも、
+# リンク文字が「(PDF：439KB)」のようにファイルを示していれば原本とみなす
+DOC_HINT = re.compile(r"(PDF|ＰＤＦ|Excel|エクセル|EXCEL|xlsx?|Word|ワード|docx?|CSV|ZIP)\s*(形式|ファイル)?\s*[:：/／,，\s]*\s*(約|約\s*)?[\d.,，]+\s*(KB|MB|kB|Kb|キロ|ｷﾛ|バイト|B\b)"
+                      r"|[（(\[［]\s*(PDF|ＰＤＦ|Excel|エクセル|Word|ワード|CSV|ZIP)\s*[)）\]］:：]", re.I)
+DL_URL = re.compile(r"/(download|downloads|dl|file|files|attach|attachment|uploaded|material|getfile|fs)(/|\?|$)|[?&](fid|file_?id|filename|file|q)=", re.I)
+
+
+def looks_like_doc(link, text=""):
+    """文書ファイル(PDF・Excel等)へのリンクらしいか"""
+    low = link.lower()
+    path, _, query = low.partition("?")
+    if path.endswith(DOC_EXT):
+        return True
+    if query and any(e in query for e in DOC_EXT):
+        return True
+    return bool(DOC_HINT.search(text or "")) and bool(DL_URL.search(low) or query)
 
 KEYWORDS = {
     "budget": ["当初予算", "予算書", "予算の概要", "予算概要", "予算案", "予算説明書", "予算に関する説明書",
@@ -297,11 +313,16 @@ def crawl(entity):
                 if link and site.same_site(link) and not link.lower().split("?")[0].endswith(SKIP_EXT):
                     sc = score("", link)
                     push(link, (max(sc.values()) if sc else 1) - depth * 0.5, depth + 1)
+        # <base href> があるページは、相対リンクをそこから解決する(無いと /a/b/a/b/... のような誤ったURLになる)
+        base_href = r.url
+        b = doc.find(".//base[@href]")
+        if b is not None:
+            base_href = safe_join(r.url, b.get("href", "").strip()) or r.url
         for a in doc.iterfind(".//a[@href]"):
             href = a.get("href", "").strip()
             if not href or href.startswith(("mailto:", "tel:", "javascript:")):
                 continue
-            link = safe_join(r.url, href)
+            link = safe_join(base_href, href)
             if not link:
                 continue
             text = " ".join(a.text_content().split())[:200]
@@ -309,7 +330,7 @@ def crawl(entity):
             if low.endswith(SKIP_EXT):
                 continue
             sc = score(text, link)
-            is_doc = low.endswith(DOC_EXT)
+            is_doc = looks_like_doc(link, text)
             internal = site.same_site(link)
             # 原本候補として記録: 文書ファイル、またはページ自体が該当種類らしいページ内の文書
             for kind, v in sc.items():
