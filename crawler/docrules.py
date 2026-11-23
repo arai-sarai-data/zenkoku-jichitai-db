@@ -6,7 +6,7 @@ DOC_EXT = (".pdf", ".xlsx", ".xls", ".csv", ".docx", ".doc", ".zip")
 # リンク文字が「(PDF：439KB)」のようにファイルを示していれば原本とみなす
 DOC_HINT = re.compile(r"(PDF|ＰＤＦ|Excel|エクセル|EXCEL|xlsx?|Word|ワード|docx?|CSV|ZIP)\s*(形式|ファイル)?\s*[:：/／,，\s]*\s*(約|約\s*)?[\d.,，]+\s*(KB|MB|kB|Kb|キロ|ｷﾛ|バイト|B\b)"
                       r"|[（(\[［]\s*(PDF|ＰＤＦ|Excel|エクセル|Word|ワード|CSV|ZIP)\s*[)）\]］:：]", re.I)
-DL_URL = re.compile(r"/(download|downloads|dl|file|files|attach|attachment|uploaded|material|getfile|fs)(/|\?|$)|[?&](fid|file_?id|filename|file|q)=", re.I)
+DL_URL = re.compile(r"/(download\w*|dl|files?(_\w+)?|attach\w*|upload\w*|material\w*|getfile|fs|binary|docs?)(/|\?|$)|[?&](fid|file_?id|filename|file|q|did)=", re.I)
 
 
 DOC_TYPE_PATH = re.compile(r"/(pdf|xlsx?|excel|docx?|word|csv)/[\w\-]+/?$", re.I)
