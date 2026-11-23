@@ -171,12 +171,31 @@ class Site:
         except Exception:  # noqa: BLE001
             return True
 
+    # ドメインのうち自治体名でない部分(種別・都道府県名・汎用語)。残りが自治体名の部分
+    GENERIC = {"www", "city", "town", "vill", "village", "pref", "ku", "lg", "jp", "go", "or", "ne", "co", "ac",
+               "ed", "gr", "com", "net", "org", "info", "web", "official", "hp", "www2", "www3",
+               "hokkaido", "aomori", "iwate", "miyagi", "akita", "yamagata", "fukushima", "ibaraki", "tochigi",
+               "gunma", "saitama", "chiba", "tokyo", "kanagawa", "niigata", "toyama", "ishikawa", "fukui",
+               "yamanashi", "nagano", "gifu", "shizuoka", "aichi", "mie", "shiga", "kyoto", "osaka", "hyogo",
+               "nara", "wakayama", "tottori", "shimane", "okayama", "hiroshima", "yamaguchi", "tokushima",
+               "kagawa", "ehime", "kochi", "fukuoka", "saga", "nagasaki", "kumamoto", "oita", "miyazaki",
+               "kagoshima", "okinawa", "metro"}
+
+    @classmethod
+    def _name_labels(cls, h):
+        return {x for x in cls._bare(h).split(".") if len(x) >= 4 and x not in cls.GENERIC}
+
     def same_site(self, url):
         h = self._bare(urlparse(url).netloc)
         if any(h == b or h.endswith("." + b) for b in self.hosts):
             return True
         k = self._gov_key(h)
-        return k is not None and any(self._gov_key(b) == k for b in self.hosts)
+        if k is not None and any(self._gov_key(b) == k for b in self.hosts):
+            return True
+        # 公式サイトが別ドメインへ移った場合(例: town.shibecha.hokkaido.jp → hokkaido.shibecha.jp)。
+        # 自治体名の部分(shibecha)が同じなら同じ自治体のサイトとみなす
+        names = self._name_labels(h)
+        return bool(names) and any(names & self._name_labels(b) for b in self.hosts)
 
     def _render(self, url):
         """JavaScriptで中身を作るサイト用: Chromiumで開いて描画後のHTMLを返す"""
