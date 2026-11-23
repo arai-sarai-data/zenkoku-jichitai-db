@@ -5118,9 +5118,9 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 261009,京都市,pref_muni_budget,https://www.city.kyoto.lg.jp/gyozai/page/cmsfiles/contents/0000079/79032/2_sanko1.pdf,参考資料1 市町村財政比較分析表(ファイル名:2_sanko1.pdf サイズ:657.78 キロバイト),https://www.city.kyoto.lg.jp/gyozai/page/0000079032.html,1,0,0,2026-11-22
 262013,福知山市,bids,https://kyoto.efftis.jp/26000/CALS/Accepter/,電子入札システム,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/,0,1,0,2026-11-22
 262013,福知山市,bids,https://kyoto.efftis.jp/26000/CALS/PPI_P/,入札情報公開システム,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/,0,1,0,2026-11-22
-262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/life/2/15/,入札・契約,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/90606.html,0,0,1,2026-11-22
+262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/life/2/15/,入札・契約,https://www.city.fukuchiyama.lg.jp/sitemap.html,0,0,1,2026-11-22
 262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku,入札・契約,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/,0,0,1,2026-11-22
-262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/,入札・契約情報,https://www.city.fukuchiyama.lg.jp/index2.html,0,0,1,2026-11-22
+262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/,入札・契約,https://www.city.fukuchiyama.lg.jp/sitemap.html,0,0,1,2026-11-22
 262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/13317.html,令和元年度役務・物品 入札結果（公営企業を含む）,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/list62-170.html,0,0,1,2026-11-22
 262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/2074.html,過去の入札結果,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/list62-1086.html,0,0,1,2026-11-22
 262013,福知山市,bids,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/22622.html,令和2年度役務・物品 入札結果（公営企業を含む）,https://www.city.fukuchiyama.lg.jp/site/nyusatsukeiyaku/list62-170.html,0,0,1,2026-11-22
@@ -15939,6 +15939,7 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000001042.html#index-1-6,助成金の額,https://www.city.kizugawa.lg.jp/0000001042.html,0,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000001048.html#index-1-4,助成金上限額,https://www.city.kizugawa.lg.jp/0000001048.html,0,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000001124.html,骨髄ドナー助成制度[2023年7月13日],https://www.city.kizugawa.lg.jp/category/2-1-0-0-0-0-0-0-0-0.html,0,0,1,2026-11-22
+262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000002089.html,特殊詐欺等防止対策機器購入費補助金,https://www.city.kizugawa.lg.jp/0000003124.html,0,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000002307.html,木津川環境にやさしい農業支援事業補助金[2025年11月18日],https://www.city.kizugawa.lg.jp/category/4-3-0-0-0-0-0-0-0-0.html,0,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000002307.html#index-1-6,補助金の額,https://www.city.kizugawa.lg.jp/0000002307.html,0,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/0000002953.html,木津川市住宅用蓄電設備設置費補助金（蓄電設備を設置する方へ）,https://www.city.kizugawa.lg.jp/0000000925.html,0,0,1,2026-11-22
@@ -16117,6 +16118,11 @@ code,name,kind,url,link_text,found_on,is_document,external,strong,retrieved
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3017/youko.pdf,"木津川市京丹後市友好交流事業補助金交付要綱 (PDF, 295.41KB)",https://www.city.kizugawa.lg.jp/0000003017.html,1,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3025/youkou.pdf,"木津川市産業競争力強化支援事業補助金交付要綱 (PDF, 233.92KB)",https://www.city.kizugawa.lg.jp/0000003025.html,1,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3102/bousaiyouhin_chirashi.pdf,"家庭用防災用品購入費補助金 チラシ (PDF, 488.16KB)",https://www.city.kizugawa.lg.jp/0000003102.html,1,0,1,2026-11-22
+262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3124/ininnjyou.docx,(ワード形式),https://www.city.kizugawa.lg.jp/0000003124.html,1,0,0,2026-11-22
+262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3124/kiki.pdf,(PDF形式、44.47KB),https://www.city.kizugawa.lg.jp/0000003124.html,1,0,0,2026-11-22
+262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3124/sinseisyo.docx,ワード形式),https://www.city.kizugawa.lg.jp/0000003124.html,1,0,0,2026-11-22
+262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3124/tebiki.pdf,(PDF形式),https://www.city.kizugawa.lg.jp/0000003124.html,1,0,0,2026-11-22
+262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3124/youkou.pdf,(PDF形式),https://www.city.kizugawa.lg.jp/0000003124.html,1,0,0,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3188/0624sinseisyo.pdf,"ツキノワグマ出没時農業者被害防止対策物品購入費補助金交付申請書兼実績報告書兼請求書（別記様式第1号） (PDF, 112.61KB)",https://www.city.kizugawa.lg.jp/0000003188.html,1,0,1,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3188/0624tebiki.pdf,"申請の手引き (PDF, 6.10MB)",https://www.city.kizugawa.lg.jp/0000003188.html,1,0,0,2026-11-22
 262145,木津川市,grants,https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000003/3188/260624sinseisyo.docx,ツキノワグマ出没時農業者被害防止対策物品購入費補助金交付申請書兼実績報告書兼請求書（別記様式第1号）(ワード形式、31.11KB),https://www.city.kizugawa.lg.jp/0000003188.html,1,0,1,2026-11-22

@@ -4,9 +4,9 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 362026,徳島県,鳴門市,https://www.city.naruto.tokushima.jp/,300,,119,7,0,112,https://www.city.naruto.lg.jp,200:304 ConnectionError:1
 362034,徳島県,小松島市,https://www.city.komatsushima.lg.jp/,300,,112,224,0,78,https://www.city.komatsushima.lg.jp,200:308 404:3 ConnectionError:1
 362042,徳島県,阿南市,https://www.city.anan.tokushima.jp/,227,,36,1440,0,186,https://www.city.anan.tokushima.jp,200:227 404:8 ConnectionError:2
-362051,徳島県,吉野川市,https://www.city.yoshinogawa.lg.jp/,300,,102,115,0,67,https://www.city.yoshinogawa.lg.jp,200:311 502:2 ConnectionError:1
+362051,徳島県,吉野川市,https://www.city.yoshinogawa.lg.jp/,300,,102,115,0,67,https://www.city.yoshinogawa.lg.jp,200:313 ConnectionError:1
 362069,徳島県,阿波市,https://www.city.awa.lg.jp/,300,,62,169,0,152,https://www.city.awa.lg.jp,200:307 ConnectionError:1
-362077,徳島県,美馬市,https://www.city.mima.lg.jp/,300,,169,95,0,109,https://www.city.mima.lg.jp,200:315 404:2 ConnectTimeout:1 robots:2
+362077,徳島県,美馬市,https://www.city.mima.lg.jp/,300,,169,90,0,109,https://www.city.mima.lg.jp,200:315 404:2 ConnectTimeout:1 robots:2
 362085,徳島県,三好市,https://www.miyoshi.i-tokushima.jp/,101,,2,258,0,71,https://www.miyoshi.i-tokushima.jp,200:102 ConnectionError:1
 363014,徳島県,勝浦町,https://www.town.katsuura.lg.jp/,265,,95,150,1,112,https://www.town.katsuura.lg.jp,200:273 ConnectionError:1
 363022,徳島県,上勝町,http://www.kamikatsu.jp/,198,,5,1,0,21,http://www.kamikatsu.jp,200:203 404:1 ConnectTimeout:1
@@ -18,9 +18,9 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 363871,徳島県,美波町,https://www.town.minami.lg.jp/,295,,21,506,0,61,https://www.town.minami.lg.jp,200:297 404:4 ConnectionError:1
 363880,徳島県,海陽町,https://www.town.kaiyo.lg.jp/,261,,3,818,0,61,https://www.town.kaiyo.lg.jp,200:256 404:15 ConnectionError:1
 364011,徳島県,松茂町,https://www.town.matsushige.tokushima.jp/,165,,6,250,0,54,https://www.town.matsushige.tokushima.jp,200:181 404:2 ConnectionError:1 SSLError:1
-364029,徳島県,北島町,https://www.town.kitajima.lg.jp/,271,,2,398,0,223,,
+364029,徳島県,北島町,https://www.town.kitajima.lg.jp/,271,,2,398,0,223,https://www.town.kitajima.lg.jp,200:272 404:3 ConnectionError:1
 364037,徳島県,藍住町,https://www.town.aizumi.lg.jp/,245,,2,3,0,97,https://www.town.aizumi.lg.jp,200:243 404:4 ConnectionError:2
 364045,徳島県,板野町,http://www.town.itano.tokushima.jp/,300,,32,268,0,13,http://www.town.itano.tokushima.jp,200:312 ConnectionError:1 SSLError:2
 364053,徳島県,上板町,https://www.townkamiita.jp/,171,,8,184,5,72,https://www.townkamiita.jp,200:171 ConnectionError:1 robots:1
-364681,徳島県,つるぎ町,https://www.town.tokushima-tsurugi.lg.jp/,198,,2,2,0,58,https://www.town.tokushima-tsurugi.lg.jp,200:203 403:1 ConnectionError:1
+364681,徳島県,つるぎ町,https://www.town.tokushima-tsurugi.lg.jp/,198,,2,2,0,58,https://www.town.tokushima-tsurugi.lg.jp,200:204 ConnectionError:1
 364894,徳島県,東みよし町,https://www.town.higashimiyoshi.lg.jp/,183,,2,153,0,71,https://www.town.higashimiyoshi.lg.jp,200:191 404:2 ConnectionError:1

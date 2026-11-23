@@ -1,7 +1,7 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 270008,大阪府,大阪府,https://www.pref.osaka.lg.jp/,300,,7,1222,0,926,https://www.pref.osaka.lg.jp,200:291 403:1 404:11 ConnectionError:1
 271004,大阪府,大阪市,https://www.city.osaka.lg.jp/,300,,935,465,6,417,https://www.city.osaka.lg.jp,200:282 404:18 ConnectionError:1
-271403,大阪府,堺市,https://www.city.sakai.lg.jp/,300,,23,378,0,330,https://www.city.sakai.lg.jp,200:199 404:101 ConnectionError:1
+271403,大阪府,堺市,https://www.city.sakai.lg.jp/,300,,21,378,0,375,https://www.city.sakai.lg.jp,200:198 404:102 ConnectionError:1
 272027,大阪府,岸和田市,https://www.city.kishiwada.lg.jp/,300,,251,85,0,385,https://www.city.kishiwada.lg.jp,200:300 ConnectionError:1
 272035,大阪府,豊中市,https://www.city.toyonaka.osaka.jp/,300,,210,60,0,465,https://www.city.toyonaka.osaka.jp,200:300 ConnectionError:2
 272043,大阪府,池田市,https://www.city.ikeda.osaka.jp/,300,,17,18,0,159,https://www.city.ikeda.osaka.jp,200:296 404:4 ConnectTimeout:1 ConnectionError:1
@@ -37,7 +37,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 273210,大阪府,豊能町,https://www.town.toyono.osaka.jp/,300,,258,286,0,91,https://www.town.toyono.osaka.jp,200:300 404:1 ConnectionError:2
 273228,大阪府,能勢町,https://www.town.nose.osaka.jp/,300,,371,18,4,0,https://www.town.nose.osaka.jp,200:300 ConnectionError:2
 273414,大阪府,忠岡町,https://www.town.tadaoka.osaka.jp/,200,,170,39,0,33,https://www.town.tadaoka.osaka.jp,200:200 404:1 ConnectTimeout:1 ConnectionError:1
-273619,大阪府,熊取町,https://www.town.kumatori.lg.jp/,300,,211,188,0,92,https://www.town.kumatori.lg.jp,200:301 ConnectionError:1
+273619,大阪府,熊取町,https://www.town.kumatori.lg.jp/,300,,230,188,0,92,https://www.town.kumatori.lg.jp,200:301 ConnectionError:1
 273627,大阪府,田尻町,https://www.town.tajiri.osaka.jp/,267,,12,3,0,21,https://www.town.tajiri.osaka.jp,200:271 ConnectionError:2
 273660,大阪府,岬町,https://www.town.misaki.osaka.jp/,300,,40,424,0,82,https://www.town.misaki.osaka.jp,200:299 404:1 ConnectionError:2
 273813,大阪府,太子町,https://www.town.taishi.osaka.jp/,300,,157,51,0,47,https://www.town.taishi.osaka.jp,200:300 ConnectTimeout:1 ConnectionError:1

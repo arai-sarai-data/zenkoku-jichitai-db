@@ -6,7 +6,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 082040,茨城県,古河市,https://www.city.ibaraki-koga.lg.jp/,300,,506,170,0,52,https://www.city.ibaraki-koga.lg.jp,200:296 404:4 ConnectionError:1,
 082058,茨城県,石岡市,https://www.city.ishioka.lg.jp,300,,73,280,0,198,https://www.city.ishioka.lg.jp,200:302 ConnectionError:1,
 082074,茨城県,結城市,https://www.city.yuki.lg.jp/,300,,249,1501,0,260,https://www.city.yuki.lg.jp,200:300 ConnectionError:1,
-082082,茨城県,龍ケ崎市,https://www.city.ryugasaki.ibaraki.jp/,300,,1160,363,0,453,https://www.city.ryugasaki.ibaraki.jp,200:300 ConnectionError:2,
+082082,茨城県,龍ケ崎市,https://www.city.ryugasaki.ibaraki.jp/,300,,1160,363,0,479,https://www.city.ryugasaki.ibaraki.jp,200:300 ConnectionError:2,
 082104,茨城県,下妻市,https://www.city.shimotsuma.lg.jp/,159,,147,111,0,72,https://www.city.shimotsuma.lg.jp,200:162 ConnectionError:1,
 082112,茨城県,常総市,https://www.city.joso.lg.jp/,296,,255,1048,0,135,https://www.city.joso.lg.jp,200:296 404:1 405:2 ConnectionError:1,
 082121,茨城県,常陸太田市,https://www.city.hitachiota.ibaraki.jp/,253,,53,813,0,185,https://www.city.hitachiota.ibaraki.jp,200:266 ConnectionError:2,
@@ -38,7 +38,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 083411,茨城県,東海村,https://www.vill.tokai.ibaraki.jp/,300,,186,51,1,117,https://www.vill.tokai.ibaraki.jp,200:303 ConnectionError:2,
 083640,茨城県,大子町,https://www.town.daigo.ibaraki.jp/,203,,29,255,0,234,https://www.town.daigo.ibaraki.jp,200:189 403:1 404:16 ConnectionError:2,
 084425,茨城県,美浦村,https://www.vill.miho.lg.jp/,300,,260,121,0,49,https://www.vill.miho.lg.jp,200:300 ConnectionError:1,
-084433,茨城県,阿見町,https://www.town.ami.lg.jp/,290,,112,211,0,126,https://www.town.ami.lg.jp,200:291 404:2 500:1 ConnectTimeout:1 ConnectionError:1,
+084433,茨城県,阿見町,https://www.town.ami.lg.jp/,291,,112,211,0,126,https://www.town.ami.lg.jp,200:292 404:2 500:1 ConnectionError:1,
 084476,茨城県,河内町,https://www.town.ibaraki-kawachi.lg.jp/,161,,8,25,0,73,https://www.town.ibaraki-kawachi.lg.jp,200:164 err:1,国内ブラウザ
 085219,茨城県,八千代町,https://www.town.ibaraki-yachiyo.lg.jp/,298,,28,203,0,136,https://www.town.ibaraki-yachiyo.lg.jp,200:301 404:1 ConnectionError:1,
 085421,茨城県,五霞町,https://www.town.goka.lg.jp/,282,,241,132,1,39,https://www.town.goka.lg.jp,200:283 ConnectionError:1,

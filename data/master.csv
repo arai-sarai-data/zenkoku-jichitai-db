@@ -535,7 +535,7 @@ code,pref,name,kind,official_url,url_check
 242098,三重県,尾鷲市,市,https://www.city.owase.lg.jp/,ok
 242101,三重県,亀山市,市,https://www.city.kameyama.mie.jp/,ok
 242110,三重県,鳥羽市,市,https://www.city.toba.mie.jp/,ok
-242128,三重県,熊野市,市,https://www.city.kumano.lg.jp/,ok
+242128,三重県,熊野市,市,https://www.city.kumano.lg.jp/,unreachable
 242144,三重県,いなべ市,市,https://www.city.inabe.mie.jp/,ok
 242152,三重県,志摩市,市,https://www.city.shima.mie.jp/,ok
 242161,三重県,伊賀市,市,https://www.city.iga.lg.jp/,ok

@@ -1,7 +1,7 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 400009,福岡県,福岡県,https://www.pref.fukuoka.lg.jp/,300,,497,265,1281,257,https://www.pref.fukuoka.lg.jp,200:300 ConnectionError:1
 401005,福岡県,北九州市,https://www.city.kitakyushu.lg.jp/,300,,530,268,0,199,https://www.city.kitakyushu.lg.jp,200:299 404:1 ConnectionError:1
-401307,福岡県,福岡市,https://www.city.fukuoka.lg.jp/,300,,441,138,0,5036,https://www.city.fukuoka.lg.jp,200:300 403:1 404:3 ConnectionError:1
+401307,福岡県,福岡市,https://www.city.fukuoka.lg.jp/,300,,389,136,0,5184,https://www.city.fukuoka.lg.jp,200:288 403:14 404:3 ConnectionError:1
 402028,福岡県,大牟田市,https://www.city.omuta.lg.jp/,300,,514,189,0,46,https://www.city.omuta.lg.jp,200:300 ConnectionError:1
 402036,福岡県,久留米市,https://www.city.kurume.fukuoka.jp/,300,,136,3388,0,0,https://www.city.kurume.fukuoka.jp,200:300 ConnectTimeout:1 ConnectionError:1
 402044,福岡県,直方市,https://www.city.nogata.fukuoka.jp/,1,,0,0,0,0,https://www.city.nogata.fukuoka.jp,404:1 ConnectionError:1 SSLError:2
@@ -11,10 +11,10 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 402109,福岡県,八女市,https://www.city.yame.fukuoka.jp/,240,,262,191,0,172,https://www.city.yame.fukuoka.jp,200:240 ConnectionError:2
 402117,福岡県,筑後市,https://www.city.chikugo.lg.jp/,267,,22,278,0,220,https://www.city.chikugo.lg.jp,200:267 ConnectionError:1
 402125,福岡県,大川市,https://www.city.okawa.lg.jp/,246,,2,56,0,32,https://www.city.okawa.lg.jp,200:248 404:2 ConnectionError:1
-402133,福岡県,行橋市,https://www.city.yukuhashi.fukuoka.jp/,300,,14,325,0,94,https://www.city.yukuhashi.fukuoka.jp,200:301 404:3 ConnectionError:1 SSLError:1
+402133,福岡県,行橋市,https://www.city.yukuhashi.fukuoka.jp/,300,,14,325,0,94,https://www.city.yukuhashi.fukuoka.jp,200:299 404:4 ConnectionError:1 SSLError:1
 402141,福岡県,豊前市,https://www.city.buzen.lg.jp/,300,,171,713,0,74,https://www.city.buzen.lg.jp,200:281 403:3 404:16 ConnectionError:1
 402150,福岡県,中間市,https://www.city.nakama.lg.jp/,263,,126,103,0,43,https://www.city.nakama.lg.jp,200:263 401:1 ConnectTimeout:2 ConnectionError:2
-402168,福岡県,小郡市,https://www.city.ogori.fukuoka.jp/,205,時間上限,86,9,0,53,https://www.city.ogori.fukuoka.jp,200:578 403:2 ConnectionError:2
+402168,福岡県,小郡市,https://www.city.ogori.fukuoka.jp/,205,時間上限,86,9,0,53,https://www.city.ogori.fukuoka.jp,200:574 403:2 ConnectionError:2
 402176,福岡県,筑紫野市,https://www.city.chikushino.fukuoka.jp/,300,,77,180,0,89,https://www.city.chikushino.fukuoka.jp,200:305 ConnectionError:2
 402184,福岡県,春日市,https://www.city.kasuga.fukuoka.jp/,300,,249,84,0,81,https://www.city.kasuga.fukuoka.jp,200:300 ConnectionError:2
 402192,福岡県,大野城市,https://www.city.onojo.fukuoka.jp/,206,,64,9,0,44,https://www.city.onojo.fukuoka.jp,200:204 404:2 ConnectTimeout:1 ConnectionError:1
@@ -55,7 +55,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 406082,福岡県,大任町,https://www.town.oto.fukuoka.jp/,150,,0,0,0,10,https://www.town.oto.fukuoka.jp,200:152 ConnectTimeout:1 ConnectionError:1
 406091,福岡県,赤村,https://www.akamura.net/,40,,0,25,1,0,https://www.akamura.net,200:40
 406104,福岡県,福智町,https://www.town.fukuchi.lg.jp/,256,,23,28,0,131,https://www.town.fukuchi.lg.jp,200:254 404:2 ConnectionError:1
-406210,福岡県,苅田町,https://www.town.kanda.lg.jp/,253,,268,188,0,78,https://www.town.kanda.lg.jp,200:251 404:4 429:1 ConnectionError:1
+406210,福岡県,苅田町,https://www.town.kanda.lg.jp/,253,,268,188,0,78,https://www.town.kanda.lg.jp,200:252 404:4 ConnectionError:1
 406252,福岡県,みやこ町,https://www.town.miyako.lg.jp/,300,,13,12,0,95,https://www.town.miyako.lg.jp,200:303 404:1 ConnectionError:1
 406422,福岡県,吉富町,https://www.town.yoshitomi.lg.jp/,168,,9,10,0,88,https://www.town.yoshitomi.lg.jp,200:169 404:4 ConnectionError:1
 406465,福岡県,上毛町,https://www.town.koge.lg.jp/,128,,9,2,0,52,https://www.town.koge.lg.jp,200:128 ConnectionError:1
