@@ -9,6 +9,9 @@ DOC_HINT = re.compile(r"(PDF|ＰＤＦ|Excel|エクセル|EXCEL|xlsx?|Word|ワ�
 DL_URL = re.compile(r"/(download|downloads|dl|file|files|attach|attachment|uploaded|material|getfile|fs)(/|\?|$)|[?&](fid|file_?id|filename|file|q)=", re.I)
 
 
+DOC_TYPE_PATH = re.compile(r"/(pdf|xlsx?|excel|docx?|word|csv)/[\w\-]+/?$", re.I)
+
+
 def looks_like_doc(link, text=""):
     """文書ファイル(PDF・Excel等)へのリンクらしいか"""
     low = link.lower()
@@ -16,5 +19,8 @@ def looks_like_doc(link, text=""):
     if path.endswith(DOC_EXT):
         return True
     if query and any(e in query for e in DOC_EXT):
+        return True
+    # 種類名のフォルダ＋番号のダウンロードURL(例: /Link/Pdf/7920、/file/xlsx/123)
+    if DOC_TYPE_PATH.search(path):
         return True
     return bool(DOC_HINT.search(text or "")) and bool(DL_URL.search(low) or query)
