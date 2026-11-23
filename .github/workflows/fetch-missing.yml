@@ -49,7 +49,7 @@ jobs:
 
   save-gh:
     needs: fetch
-    if: always()
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -72,7 +72,7 @@ jobs:
   # まだ取れていない分を国内PCから。PCが止まっている間は待機し、起動すると処理される(GitHub側の結果は先に保存済み)
   fetch-from-japan:
     needs: save-gh
-    if: always()
+    if: ${{ !cancelled() }}
     runs-on: [self-hosted, japan]
     timeout-minutes: 600
     strategy:
@@ -100,7 +100,7 @@ jobs:
 
   save-jp:
     needs: fetch-from-japan
-    if: always() && needs.fetch-from-japan.result != 'skipped'
+    if: ${{ !cancelled() && needs.fetch-from-japan.result != 'skipped' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
