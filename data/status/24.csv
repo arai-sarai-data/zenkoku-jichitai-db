@@ -8,7 +8,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 242071,三重県,鈴鹿市,https://www.city.suzuka.lg.jp/,300,,43,1334,0,242,https://www.city.suzuka.lg.jp,200:300 ConnectionError:1,
 242080,三重県,名張市,https://www.city.nabari.lg.jp/,300,,36,9,0,83,https://www.city.nabari.lg.jp,200:449 404:4 ConnectionError:1,
 242098,三重県,尾鷲市,https://www.city.owase.lg.jp/,300,,39,497,0,113,https://www.city.owase.lg.jp,200:299 404:1 ConnectionError:1,
-242101,三重県,亀山市,https://www.city.kameyama.mie.jp/,299,時間上限,212,23,0,105,https://www.city.kameyama.mie.jp,200:307 ConnectionError:2,
+242101,三重県,亀山市,https://www.city.kameyama.mie.jp/,300,,212,23,0,105,https://www.city.kameyama.mie.jp,200:308 ConnectionError:2,
 242110,三重県,鳥羽市,https://www.city.toba.mie.jp/,300,,303,1623,0,75,https://www.city.toba.mie.jp,200:300 404:1 ConnectionError:2,
 242128,三重県,熊野市,https://www.city.kumano.lg.jp/,300,,274,312,0,212,https://www.city.kumano.lg.jp,200:294 404:6 robots:2,
 242144,三重県,いなべ市,https://www.city.inabe.mie.jp/,300,,283,82,0,76,https://www.city.inabe.mie.jp,200:300 ConnectionError:2 robots:6,
