@@ -171,7 +171,7 @@ code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,fina
 016616,北海道,釧路町,http://www.town.kushiro.lg.jp/,300,,11,1321,0,25,http://www.town.kushiro.lg.jp,200:272 404:32 ConnectionError:1 SSLError:1
 016624,北海道,厚岸町,https://www.akkeshi-town.jp/,182,,18,66,0,68,https://www.akkeshi-town.jp,200:185
 016632,北海道,浜中町,https://www.townhamanaka.jp/,300,,6,10,0,107,https://www.townhamanaka.jp,200:310 ConnectionError:1
-016641,北海道,標茶町,https://town.shibecha.hokkaido.jp/,2,,0,0,0,0,https://town.shibecha.hokkaido.jp,200:2 ConnectionError:1 SSLError:1
+016641,北海道,標茶町,https://town.shibecha.hokkaido.jp/,109,,19,0,0,10,https://town.shibecha.hokkaido.jp,200:109 ConnectionError:1 SSLError:1
 016659,北海道,弟子屈町,https://www.town.teshikaga.hokkaido.jp/,81,,3,0,2,14,https://www.town.teshikaga.hokkaido.jp,200:81 ConnectTimeout:1 ConnectionError:1
 016675,北海道,鶴居村,https://www.vill.tsurui.lg.jp/,232,,8,172,0,29,https://www.vill.tsurui.lg.jp,200:240 ConnectionError:1
 016683,北海道,白糠町,https://www.town.shiranuka.lg.jp/,196,,1,28,0,1224,https://www.town.shiranuka.lg.jp,200:196 ConnectionError:1
