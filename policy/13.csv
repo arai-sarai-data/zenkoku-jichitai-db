@@ -56,7 +56,7 @@ code,name,policy_url,reuse,link,evidence
 133612,大島町,https://www.town.oshima.tokyo.jp/site/userguide/exclusion.html,consult,free,大島町公式ウェブサイトの内容について、「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 133621,利島村,,unknown,unknown,
 133639,新島村,,unknown,unknown,
-133647,神津島村,,unknown,unknown,error: ConnectTimeout
+133647,神津島村,https://www.vill.kouzushima.tokyo.jp/2026-1002-2/,unknown,unknown,
 133817,三宅村,https://www.vill.miyake.tokyo.jp/website/link.html,unknown,unknown,
 133825,御蔵島村,https://www.vill.mikurasima.tokyo.jp/copyright.html,consult,unknown,「私的使用のための複製」や「引用」など著作権法上認められる場合を除き、御蔵島村の許可なく御蔵島村ホームページに掲載されている文書・画像などを無断使用・複製・転載・販売・改変・印刷配布することを禁止します。
 134015,八丈町,https://www.town.hachijo.tokyo.jp/chousei/links/,unknown,free,
