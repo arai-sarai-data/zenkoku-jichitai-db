@@ -1,25 +1,25 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-340006,広島県,広島県,https://www.pref.hiroshima.lg.jp/,300,,25,614,0,483,https://www.pref.hiroshima.lg.jp,200:300 ConnectTimeout:5 ConnectionError:1
-341002,広島県,広島市,https://www.city.hiroshima.lg.jp/,300,,511,27,0,176,https://www.city.hiroshima.lg.jp,200:300 ConnectTimeout:1 robots:1
+340006,広島県,広島県,https://www.pref.hiroshima.lg.jp/,300,,490,78,0,618,https://www.pref.hiroshima.lg.jp,200:300 404:1 ConnectionError:1
+341002,広島県,広島市,https://www.city.hiroshima.lg.jp/,300,,1229,51,0,24,https://www.city.hiroshima.lg.jp,200:300 ConnectTimeout:1
 342025,広島県,呉市,https://www.city.kure.lg.jp/,300,,153,3,0,257,https://www.city.kure.lg.jp,200:231 404:69 ConnectionError:1
 342033,広島県,竹原市,https://www.city.takehara.lg.jp/,300,,90,2609,0,38,https://www.city.takehara.lg.jp,200:300 ConnectionError:1
-342041,広島県,三原市,https://www.city.mihara.hiroshima.jp/,300,,532,784,0,249,https://www.city.mihara.hiroshima.jp,200:300 404:1 ConnectionError:2
-342050,広島県,尾道市,https://www.city.onomichi.hiroshima.jp/,300,,27,978,4,19,https://www.city.onomichi.hiroshima.jp,200:300 ConnectionError:2
-342076,広島県,福山市,https://www.city.fukuyama.hiroshima.jp/,300,,283,2095,0,38,https://www.city.fukuyama.hiroshima.jp,200:300 404:1 ConnectionError:2
+342041,広島県,三原市,https://www.city.mihara.hiroshima.jp/,300,,577,858,0,664,https://www.city.mihara.hiroshima.jp,200:300 404:1 ConnectionError:2
+342050,広島県,尾道市,https://www.city.onomichi.hiroshima.jp/,300,,80,998,0,2,https://www.city.onomichi.hiroshima.jp,200:300 ConnectionError:2
+342076,広島県,福山市,https://www.city.fukuyama.hiroshima.jp/,300,,408,7067,0,132,https://www.city.fukuyama.hiroshima.jp,200:300 404:1 ConnectionError:2
 342084,広島県,府中市,https://www.city.fuchu.hiroshima.jp/,300,,120,483,0,178,https://www.city.fuchu.hiroshima.jp,200:301 ConnectionError:2
 342092,広島県,三次市,https://www.city.miyoshi.hiroshima.jp/,300,,444,365,0,301,https://www.city.miyoshi.hiroshima.jp,200:301 ConnectionError:2
-342106,広島県,庄原市,https://www.city.shobara.hiroshima.jp/,300,,162,172,6,160,https://www.city.shobara.hiroshima.jp,200:282 403:6 404:12 ConnectTimeout:2 ConnectionError:1
-342114,広島県,大竹市,https://www.city.otake.hiroshima.jp/,300,,948,1,0,71,https://www.city.otake.hiroshima.jp,200:301 ConnectionError:2
-342122,広島県,東広島市,https://www.city.higashihiroshima.lg.jp/,300,,320,515,0,172,https://www.city.higashihiroshima.lg.jp,200:300 404:1 ConnectionError:1
-342131,広島県,廿日市市,https://www.city.hatsukaichi.hiroshima.jp/,300,,232,123,0,262,https://www.city.hatsukaichi.hiroshima.jp,200:300 ConnectionError:2
-342149,広島県,安芸高田市,https://www.akitakata.jp/,300,,415,207,0,323,https://www.akitakata.jp,200:309 ConnectionError:1
+342106,広島県,庄原市,https://www.city.shobara.hiroshima.jp/,300,,194,314,6,162,https://www.city.shobara.hiroshima.jp,200:288 404:12 ConnectTimeout:1 ConnectionError:1
+342114,広島県,大竹市,https://www.city.otake.hiroshima.jp/,300,,998,3,0,94,https://www.city.otake.hiroshima.jp,200:300 ConnectionError:2
+342122,広島県,東広島市,https://www.city.higashihiroshima.lg.jp/,300,,337,2601,0,76,https://www.city.higashihiroshima.lg.jp,200:301 ConnectionError:1
+342131,広島県,廿日市市,https://www.city.hatsukaichi.hiroshima.jp/,300,,229,133,0,389,https://www.city.hatsukaichi.hiroshima.jp,200:299 404:1 ConnectionError:2
+342149,広島県,安芸高田市,https://www.akitakata.jp/,300,,337,237,0,442,https://www.akitakata.jp,200:309 ConnectionError:1
 342157,広島県,江田島市,https://www.city.etajima.hiroshima.jp/,4,,0,0,0,0,https://www.city.etajima.hiroshima.jp,200:4 ConnectionError:2
-343021,広島県,府中町,https://www.town.fuchu.hiroshima.jp/,300,,122,13,0,30,https://www.town.fuchu.hiroshima.jp,200:299 404:1 ConnectionError:2
-343048,広島県,海田町,https://www.town.kaita.lg.jp/,300,,24,4,0,6,https://www.town.kaita.lg.jp,200:298 404:2 ConnectionError:1
-343072,広島県,熊野町,https://www.town.kumano.hiroshima.jp/,107,,0,124,0,1,https://www.town.kumano.lg.jp,200:108 ConnectionError:3
-343099,広島県,坂町,https://www.town.saka.lg.jp/,300,,8,59,0,42,https://www.town.saka.lg.jp,200:300 ConnectionError:1
-343684,広島県,安芸太田町,https://www.akiota.jp/,279,,1,99,0,48,https://www.akiota.jp,200:284 404:1 ConnectionError:1
-343692,広島県,北広島町,https://www.town.kitahiroshima.lg.jp/,208,,103,808,0,116,https://www.town.kitahiroshima.lg.jp,200:207 404:1 ConnectionError:1
-344311,広島県,大崎上島町,https://www.town.osakikamijima.hiroshima.jp/,129,,16,653,0,25,https://www.town.osakikamijima.hiroshima.jp,200:134 ConnectionError:2
-344621,広島県,世羅町,https://www.town.sera.hiroshima.jp/,249,,2,65,0,43,https://www.town.sera.hiroshima.jp,200:255 ConnectionError:2
+343021,広島県,府中町,https://www.town.fuchu.hiroshima.jp/,300,,126,13,0,86,https://www.town.fuchu.hiroshima.jp,200:297 404:3 ConnectionError:2
+343048,広島県,海田町,https://www.town.kaita.lg.jp/,300,,48,65,0,26,https://www.town.kaita.lg.jp,200:298 404:2 ConnectionError:1
+343072,広島県,熊野町,https://www.town.kumano.hiroshima.jp/,239,,137,282,0,117,https://www.town.kumano.lg.jp,200:237 403:1 404:3 ConnectionError:3
+343099,広島県,坂町,https://www.town.saka.lg.jp/,300,,8,60,0,72,https://www.town.saka.lg.jp,200:300 ConnectionError:1
+343684,広島県,安芸太田町,https://www.akiota.jp/,300,,1,100,0,81,https://www.akiota.jp,200:300 404:1 ConnectionError:1
+343692,広島県,北広島町,https://www.town.kitahiroshima.lg.jp/,300,,102,812,0,209,https://www.town.kitahiroshima.lg.jp,200:298 404:2 ConnectionError:1
+344311,広島県,大崎上島町,https://www.town.osakikamijima.hiroshima.jp/,300,,40,661,0,117,https://www.town.osakikamijima.hiroshima.jp,200:301 401:1 404:3 ConnectionError:2
+344621,広島県,世羅町,https://www.town.sera.hiroshima.jp/,300,,6,65,0,110,https://www.town.sera.hiroshima.jp,200:296 404:4 ConnectionError:2
 345458,広島県,神石高原町,https://www.jinsekigun.jp/,300,,48,23,4,243,https://www.jinsekigun.jp,200:299 404:1 ConnectionError:1
