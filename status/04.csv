@@ -1,37 +1,37 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-040002,宮城県,宮城県,https://www.pref.miyagi.jp/,300,,275,232,0,1590,https://www.pref.miyagi.jp,200:298 404:2 ConnectionError:2
-041009,宮城県,仙台市,https://www.city.sendai.jp/,300,,42,47,0,665,https://www.city.sendai.jp,200:283 404:17 ConnectTimeout:1 ConnectionError:1
-042021,宮城県,石巻市,https://www.city.ishinomaki.lg.jp/,300,,412,8661,0,335,https://www.city.ishinomaki.lg.jp,200:303 ConnectionError:1
-042030,宮城県,塩竈市,https://www.city.shiogama.miyagi.jp/,275,,40,136,0,71,https://www.city.shiogama.miyagi.jp,200:277 404:1 ConnectionError:2
+040002,宮城県,宮城県,https://www.pref.miyagi.jp/,300,,1334,217,0,1029,https://www.pref.miyagi.jp,200:298 404:2 ConnectionError:2
+041009,宮城県,仙台市,https://www.city.sendai.jp/,300,,54,287,0,596,https://www.city.sendai.jp,200:291 404:9 ConnectTimeout:1 ConnectionError:1
+042021,宮城県,石巻市,https://www.city.ishinomaki.lg.jp/,300,,439,17233,0,600,https://www.city.ishinomaki.lg.jp,200:300 ConnectionError:1
+042030,宮城県,塩竈市,https://www.city.shiogama.miyagi.jp/,300,,255,144,0,107,https://www.city.shiogama.miyagi.jp,200:297 404:3 ConnectionError:2
 042056,宮城県,気仙沼市,https://www.kesennuma.miyagi.jp/,300,,283,207,0,252,https://www.kesennuma.miyagi.jp,200:446 ConnectionError:1
-042064,宮城県,白石市,https://www.city.shiroishi.miyagi.jp/,300,,152,190,0,79,https://www.city.shiroishi.miyagi.jp,200:302 ConnectionError:2
+042064,宮城県,白石市,https://www.city.shiroishi.miyagi.jp/,300,,319,190,0,683,https://www.city.shiroishi.miyagi.jp,200:300 ConnectionError:2
 042072,宮城県,名取市,https://www.city.natori.miyagi.jp/,300,,799,1370,0,128,https://www.city.natori.miyagi.jp,200:298 403:1 404:1 ConnectTimeout:1 ConnectionError:2
-042081,宮城県,角田市,https://www.city.kakuda.lg.jp/,300,,166,126,0,20,https://www.city.kakuda.lg.jp,200:302 ConnectionError:1
-042099,宮城県,多賀城市,https://www.city.tagajo.miyagi.jp/,300,,115,83,0,116,https://www.city.tagajo.miyagi.jp,200:166 404:134 ConnectionError:2
-042111,宮城県,岩沼市,https://www.city.iwanuma.miyagi.jp/,151,,34,573,0,72,https://www.city.iwanuma.miyagi.jp,200:150 403:1 ConnectionError:2
-042129,宮城県,登米市,https://www.city.tome.miyagi.jp/,300,,350,195,0,235,https://www.city.tome.miyagi.jp,200:195 404:123 ConnectionError:2
+042081,宮城県,角田市,https://www.city.kakuda.lg.jp/,300,,218,138,0,77,https://www.city.kakuda.lg.jp,200:299 404:3 ConnectionError:1
+042099,宮城県,多賀城市,https://www.city.tagajo.miyagi.jp/,300,,152,153,0,252,https://www.city.tagajo.miyagi.jp,200:301 404:1 ConnectionError:2
+042111,宮城県,岩沼市,https://www.city.iwanuma.miyagi.jp/,300,,71,1118,0,194,https://www.city.iwanuma.miyagi.jp,200:299 403:1 ConnectionError:2
+042129,宮城県,登米市,https://www.city.tome.miyagi.jp/,300,,376,281,0,370,https://www.city.tome.miyagi.jp,200:317 404:2 ConnectionError:2
 042137,宮城県,栗原市,https://www.kuriharacity.jp/,300,,584,344,0,109,https://www.kuriharacity.jp,200:306 404:8 ConnectionError:1
 042145,宮城県,東松島市,https://www.city.higashimatsushima.miyagi.jp/,300,,480,309,0,79,,
 042153,宮城県,大崎市,https://www.city.osaki.miyagi.jp/,300,,388,472,0,10,https://www.city.osaki.miyagi.jp,200:299 404:1 ConnectionError:2
-042161,宮城県,富谷市,https://www.tomiya-city.miyagi.jp/,300,,144,360,0,50,https://www.tomiya-city.miyagi.jp,200:267 403:2 404:31
-043010,宮城県,蔵王町,https://www.town.zao.miyagi.jp/,300,,42,231,0,302,https://www.town.zao.miyagi.jp,200:301 ConnectTimeout:2 ConnectionError:1
-043028,宮城県,七ケ宿町,https://town.shichikashuku.miyagi.jp/,94,,0,5,0,11,https://town.shichikashuku.miyagi.jp,200:101 ConnectionError:1
-043214,宮城県,大河原町,https://www.town.ogawara.miyagi.jp/,244,,429,32,0,82,https://www.town.ogawara.miyagi.jp,200:246 404:2 ConnectTimeout:1 ConnectionError:1
-043222,宮城県,村田町,https://www.town.murata.miyagi.jp/,300,,113,42,0,74,https://www.town.murata.miyagi.jp,200:274 404:27 ConnectTimeout:5 ConnectionError:1
-043231,宮城県,柴田町,https://www.town.shibata.miyagi.jp/,300,,11,124,0,32,https://www.town.shibata.miyagi.jp,200:299 404:1 ConnectionError:1
-043249,宮城県,川崎町,https://www.town.kawasaki.miyagi.jp/,300,,118,382,0,91,https://www.town.kawasaki.miyagi.jp,200:300 ConnectionError:2
-043419,宮城県,丸森町,https://www.town.marumori.miyagi.jp/,265,,217,80,0,108,https://www.town.marumori.miyagi.jp,200:274 ConnectTimeout:1 ConnectionError:2
-043613,宮城県,亘理町,https://www.town.watari.miyagi.jp/,300,,17,198,0,83,https://www.town.watari.miyagi.jp,200:305 ConnectionError:1
-043621,宮城県,山元町,https://www.town.yamamoto.miyagi.jp/,300,,18,42,0,129,https://www.town.yamamoto.miyagi.jp,200:300 ConnectTimeout:1 ConnectionError:1
-044016,宮城県,松島町,https://www.town.miyagi-matsushima.lg.jp/,300,,25,72,0,72,https://www.town.miyagi-matsushima.lg.jp,200:303 ConnectTimeout:1 ReadTimeout:1
-044041,宮城県,七ケ浜町,https://www.shichigahama.com/,87,,0,35,0,5,https://www.shichigahama.com,200:88 403:1 ConnectTimeout:3
-044067,宮城県,利府町,https://www.town.rifu.miyagi.jp/,263,,56,263,0,111,https://www.town.rifu.miyagi.jp,200:262 404:1 ConnectionError:2
-044211,宮城県,大和町,https://www.town.taiwa.miyagi.jp/,165,,14,393,0,8,https://www.town.taiwa.miyagi.jp,200:166 ConnectionError:2
-044229,宮城県,大郷町,https://www.town.miyagi-osato.lg.jp/,300,,78,255,0,67,https://www.town.miyagi-osato.lg.jp,200:294 302:1 403:1 404:4 TooManyRedirects:1
-044245,宮城県,大衡村,https://www.village.ohira.miyagi.jp/,123,,0,15,0,33,https://www.village.ohira.miyagi.jp,200:125 ConnectionError:1
-044440,宮城県,色麻町,https://www.town.shikama.miyagi.jp/,160,,28,687,0,3,https://www.town.shikama.miyagi.jp,200:161 ConnectTimeout:1 ConnectionError:1
-044458,宮城県,加美町,https://www.town.kami.miyagi.jp/,244,,116,127,0,73,https://www.town.kami.miyagi.jp,200:245 ConnectionError:2
+042161,宮城県,富谷市,https://www.tomiya-city.miyagi.jp/,300,,161,366,0,151,https://www.tomiya-city.miyagi.jp,200:258 403:1 404:41
+043010,宮城県,蔵王町,https://www.town.zao.miyagi.jp/,300,,40,297,0,377,https://www.town.zao.miyagi.jp,200:300 ConnectionError:1
+043028,宮城県,七ケ宿町,https://town.shichikashuku.miyagi.jp/,300,,37,21,0,275,https://town.shichikashuku.miyagi.jp,200:307 ConnectionError:1
+043214,宮城県,大河原町,https://www.town.ogawara.miyagi.jp/,264,,429,34,0,108,https://www.town.ogawara.miyagi.jp,200:266 404:2 ConnectTimeout:1 ConnectionError:1
+043222,宮城県,村田町,https://www.town.murata.miyagi.jp/,300,,82,100,0,97,https://www.town.murata.miyagi.jp,200:294 404:6 ConnectTimeout:1 ConnectionError:1
+043231,宮城県,柴田町,https://www.town.shibata.miyagi.jp/,300,,11,124,0,95,https://www.town.shibata.miyagi.jp,200:299 404:1 ConnectionError:1
+043249,宮城県,川崎町,https://www.town.kawasaki.miyagi.jp/,300,,131,546,0,219,https://www.town.kawasaki.miyagi.jp,200:300 ConnectionError:2
+043419,宮城県,丸森町,https://www.town.marumori.miyagi.jp/,277,,217,89,0,141,https://www.town.marumori.miyagi.jp,200:286 ConnectTimeout:1 ConnectionError:2
+043613,宮城県,亘理町,https://www.town.watari.miyagi.jp/,300,,19,214,0,207,https://www.town.watari.miyagi.jp,200:305 ConnectionError:1
+043621,宮城県,山元町,https://www.town.yamamoto.miyagi.jp/,300,,37,89,0,354,https://www.town.yamamoto.miyagi.jp,200:300 ConnectTimeout:1 ConnectionError:1
+044016,宮城県,松島町,https://www.town.miyagi-matsushima.lg.jp/,300,,65,35,0,102,https://www.town.miyagi-matsushima.lg.jp,200:300 ConnectTimeout:1
+044041,宮城県,七ケ浜町,https://www.shichigahama.com/,124,,0,35,0,15,https://www.shichigahama.com,200:124 403:2 ConnectTimeout:3
+044067,宮城県,利府町,https://www.town.rifu.miyagi.jp/,300,,67,350,0,149,https://www.town.rifu.miyagi.jp,200:300 404:1 ConnectionError:2
+044211,宮城県,大和町,https://www.town.taiwa.miyagi.jp/,300,,15,402,0,104,https://www.town.taiwa.miyagi.jp,200:301 ConnectionError:2
+044229,宮城県,大郷町,https://www.town.miyagi-osato.lg.jp/,300,,302,233,0,169,https://www.town.miyagi-osato.lg.jp,200:293 403:1 404:6
+044245,宮城県,大衡村,https://www.village.ohira.miyagi.jp/,135,,10,15,0,42,https://www.village.ohira.miyagi.jp,200:137 ConnectionError:1
+044440,宮城県,色麻町,https://www.town.shikama.miyagi.jp/,300,,92,702,0,92,https://www.town.shikama.miyagi.jp,200:300 ConnectTimeout:1 ConnectionError:1
+044458,宮城県,加美町,https://www.town.kami.miyagi.jp/,300,,148,151,0,89,https://www.town.kami.miyagi.jp,200:300 ConnectionError:2
 045012,宮城県,涌谷町,https://www.town.wakuya.miyagi.jp/,300,,148,2774,0,20,https://www.town.wakuya.miyagi.jp,200:305 ConnectionError:2
-045055,宮城県,美里町,https://www.town.misato.miyagi.jp/,234,,50,824,0,51,https://www.town.misato.miyagi.jp,200:236 ConnectionError:2
-045811,宮城県,女川町,https://www.town.onagawa.miyagi.jp/,300,,4,603,0,211,https://www.town.onagawa.miyagi.jp,200:288 404:18 ConnectionError:1
-046060,宮城県,南三陸町,https://www.town.minamisanriku.miyagi.jp/,280,,480,993,0,60,https://www.town.minamisanriku.miyagi.jp,200:286 ConnectionError:1 SSLError:1
+045055,宮城県,美里町,https://www.town.misato.miyagi.jp/,234,,53,877,0,83,https://www.town.misato.miyagi.jp,200:236 ConnectionError:2
+045811,宮城県,女川町,https://www.town.onagawa.miyagi.jp/,300,,4,656,0,209,https://www.town.onagawa.miyagi.jp,200:289 404:17 ConnectionError:1
+046060,宮城県,南三陸町,https://www.town.minamisanriku.miyagi.jp/,300,,494,980,0,98,https://www.town.minamisanriku.miyagi.jp,200:300 ConnectionError:1 SSLError:1
