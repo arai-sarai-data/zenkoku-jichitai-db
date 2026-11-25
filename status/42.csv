@@ -1,23 +1,23 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-420000,長崎県,長崎県,https://www.pref.nagasaki.jp/,300,,133,357,0,466,https://www.pref.nagasaki.jp,200:299 404:1 ConnectionError:1
-422011,長崎県,長崎市,https://www.city.nagasaki.lg.jp/,300,,120,17,0,382,https://www.city.nagasaki.lg.jp,200:294 404:6 ConnectionError:1
+420000,長崎県,長崎県,https://www.pref.nagasaki.jp/,300,,1290,256,10,669,https://www.pref.nagasaki.jp,200:299 404:1 ConnectionError:1
+422011,長崎県,長崎市,https://www.city.nagasaki.lg.jp/,300,,93,25,0,553,https://www.city.nagasaki.lg.jp,200:299 404:1 ConnectionError:1
 422029,長崎県,佐世保市,https://www.city.sasebo.lg.jp/,300,,451,85,0,159,https://www.city.sasebo.lg.jp,200:235 404:65 ConnectionError:1
-422037,長崎県,島原市,https://www.city.shimabara.lg.jp/,300,,105,183,0,60,https://www.city.shimabara.lg.jp,200:556 ConnectionError:1
-422045,長崎県,諫早市,https://www.city.isahaya.nagasaki.jp/,282,,49,4,0,133,https://www.city.isahaya.nagasaki.jp,200:282 ConnectionError:2
-422053,長崎県,大村市,https://www.city.omura.nagasaki.jp/,300,,11,10,0,275,https://www.city.omura.nagasaki.jp,200:302 ConnectionError:2
-422070,長崎県,平戸市,https://www.city.hirado.nagasaki.jp/,300,,550,122,0,189,https://www.city.hirado.nagasaki.jp,200:303 ConnectTimeout:1
-422088,長崎県,松浦市,https://www.city-matsuura.jp/,246,,99,75,0,97,https://www.city-matsuura.jp,200:246 ConnectionError:1
-422096,長崎県,対馬市,https://www.city.tsushima.nagasaki.jp/,300,,478,998,0,283,https://www.city.tsushima.nagasaki.jp,200:304 ConnectionError:1
-422100,長崎県,壱岐市,https://www.city.iki.nagasaki.jp/,300,,1,343,0,57,https://www.city.iki.nagasaki.jp,200:302 ConnectionError:2
-422118,長崎県,五島市,https://www.city.goto.nagasaki.jp/,300,,20,4534,0,184,https://www.city.goto.nagasaki.jp,200:300 ConnectionError:1 SSLError:1
-422126,長崎県,西海市,https://www.city.saikai.nagasaki.jp/,206,,180,118,3,73,https://www.city.saikai.nagasaki.jp,200:202 404:6 ConnectionError:2
-422134,長崎県,雲仙市,https://www.city.unzen.nagasaki.jp/,300,,23,51,0,163,https://www.city.unzen.nagasaki.jp,200:330 404:2 ConnectTimeout:1 ConnectionError:1
-422142,長崎県,南島原市,https://www.city.minamishimabara.lg.jp/,227,,207,61,0,115,https://www.city.minamishimabara.lg.jp,200:223 404:6 ConnectionError:1
-423076,長崎県,長与町,https://webtown.nagayo.jp/,300,,6,37,0,74,https://webtown.nagayo.jp,200:299 404:1 ConnectionError:1
-423084,長崎県,時津町,https://www.town.togitsu.nagasaki.jp/,300,,42,55,0,109,https://www.town.togitsu.nagasaki.jp,200:300 ConnectionError:2
-423211,長崎県,東彼杵町,https://www.town.higashisonogi.lg.jp/,300,,36,294,0,69,https://www.town.higashisonogi.lg.jp,200:302 ConnectionError:1
-423220,長崎県,川棚町,https://www.kawatana.jp/,300,,17,1212,0,192,https://www.kawatana.jp,200:279 404:22 ConnectTimeout:1 robots:1
-423238,長崎県,波佐見町,https://www.town.hasami.lg.jp/,115,,33,27,0,73,https://www.town.hasami.lg.jp,200:115 ConnectionError:1 SSLError:4
-423831,長崎県,小値賀町,https://www.town.ojika.lg.jp/,52,,126,4,0,1,https://www.town.ojika.lg.jp,200:52 ConnectionError:1
-423912,長崎県,佐々町,https://www.sazacho-nagasaki.jp/,300,,71,0,0,75,https://www.sazacho-nagasaki.jp,200:301 ConnectionError:1
-424111,長崎県,新上五島町,https://official.shinkamigoto.net/,293,,80,1183,16,75,,
+422037,長崎県,島原市,https://www.city.shimabara.lg.jp/,300,,314,267,0,0,https://www.city.shimabara.lg.jp,200:300 ConnectionError:1
+422045,長崎県,諫早市,https://www.city.isahaya.nagasaki.jp/,300,,142,8,0,93,https://www.city.isahaya.nagasaki.jp,200:299 404:1 ConnectionError:2
+422053,長崎県,大村市,https://www.city.omura.nagasaki.jp/,300,,11,90,0,313,https://www.city.omura.nagasaki.jp,200:300 404:2 ConnectionError:2
+422070,長崎県,平戸市,https://www.city.hirado.nagasaki.jp/,300,,630,122,0,153,https://www.city.hirado.nagasaki.jp,200:303 ConnectTimeout:1
+422088,長崎県,松浦市,https://www.city-matsuura.jp/,300,,84,152,0,147,https://www.city-matsuura.jp,200:300 ConnectionError:1
+422096,長崎県,対馬市,https://www.city.tsushima.nagasaki.jp/,300,,470,1013,0,248,https://www.city.tsushima.nagasaki.jp,200:300 ConnectionError:1
+422100,長崎県,壱岐市,https://www.city.iki.nagasaki.jp/,300,,120,384,0,8,https://www.city.iki.nagasaki.jp,200:300 ConnectionError:2
+422118,長崎県,五島市,https://www.city.goto.nagasaki.jp/,300,,20,4534,0,196,https://www.city.goto.nagasaki.jp,200:300 ConnectionError:1 SSLError:1
+422126,長崎県,西海市,https://www.city.saikai.nagasaki.jp/,300,,193,136,3,93,https://www.city.saikai.nagasaki.jp,200:297 404:6 ConnectionError:2
+422134,長崎県,雲仙市,https://www.city.unzen.nagasaki.jp/,300,,36,304,0,222,https://www.city.unzen.nagasaki.jp,200:316 404:2 ConnectTimeout:1 ConnectionError:1
+422142,長崎県,南島原市,https://www.city.minamishimabara.lg.jp/,241,,208,68,0,148,https://www.city.minamishimabara.lg.jp,200:240 404:2 ConnectionError:1
+423076,長崎県,長与町,https://webtown.nagayo.jp/,300,,6,40,0,107,https://webtown.nagayo.jp,200:298 404:2 ConnectionError:1
+423084,長崎県,時津町,https://www.town.togitsu.nagasaki.jp/,300,,50,124,0,122,https://www.town.togitsu.nagasaki.jp,200:300 ConnectionError:2
+423211,長崎県,東彼杵町,https://www.town.higashisonogi.lg.jp/,300,,41,315,0,85,https://www.town.higashisonogi.lg.jp,200:300 ConnectionError:1
+423220,長崎県,川棚町,https://www.kawatana.jp/,300,,17,1240,0,234,https://www.kawatana.jp,200:281 404:20 SSLError:1 robots:1
+423238,長崎県,波佐見町,https://www.town.hasami.lg.jp/,120,,33,29,0,77,https://www.town.hasami.lg.jp,200:120 ConnectionError:1 SSLError:4
+423831,長崎県,小値賀町,https://www.town.ojika.lg.jp/,300,,128,9,0,59,https://www.town.ojika.lg.jp,200:308 ConnectionError:1
+423912,長崎県,佐々町,https://www.sazacho-nagasaki.jp/,300,,174,2,0,89,https://www.sazacho-nagasaki.jp,200:301 ConnectionError:1
+424111,長崎県,新上五島町,https://official.shinkamigoto.net/,300,,683,1085,24,177,https://official.shinkamigoto.net,200:304 ConnectionError:1 robots:11
