@@ -4,7 +4,7 @@ code,name,policy_url,reuse,link,evidence
 131024,中央区,https://www.city.chuo.lg.jp/cgi-bin/advert/click_total/click.cgi?cms_area_id=1&cms_banner_id=43&cms_link_url=https%3A%2F%2Fmercury-realestate.co.jp%2F%3Fcyuo,unknown,unknown,
 131032,港区,https://www.city.minato.tokyo.jp/kuse/link/index.html,unknown,free,
 131041,新宿区,https://www.city.shinjuku.lg.jp/kusei/about.html,consult,free,本サイト上の文書・画像などの無断使用・転載、二次利用を禁止します。
-131059,文京区,https://www.city.bunkyo.lg.jp/b003/p006007/index.html,consult,unknown,error: ConnectTimeout
+131059,文京区,https://www.city.bunkyo.lg.jp/b003/p006007/index.html,consult,unknown,本サイト上の文書・画像などの無断使用・転載、二次利用を禁止します。
 131067,台東区,https://www.city.taito.lg.jp/aboutweb/index.html,unknown,unknown,
 131075,墨田区,https://www.city.sumida.lg.jp/thissite/index.html,unknown,unknown,
 131083,江東区,https://www.city.koto.lg.jp/011501/8787.html,consult,free,著作権法上認められている行為を除き、本サイト上の文書・画像などの無断使用・転載、二次利用を禁止します。
@@ -20,7 +20,7 @@ code,name,policy_url,reuse,link,evidence
 131181,荒川区,,unknown,unknown,error: ConnectTimeout
 131199,板橋区,https://www.city.itabashi.tokyo.jp/kusei/kouhou/about/index.html,consult,free,「私的使用のための複製」や「引用」など著作権法上認められた場合を除き、無断で複製・転用することはできません。
 131202,練馬区,https://www.city.nerima.tokyo.jp/aboutweb/accessibilitypolicy/index.html,unknown,unknown,
-131211,足立区,https://www.city.adachi.tokyo.jp/hodo/ku/kuse/link.html,unknown,unknown,
+131211,足立区,https://www.city.adachi.tokyo.jp/care-s/public-comment-on-dementia-policy-plan-accepting-opinions.html,unknown,unknown,
 131229,葛飾区,https://www.city.katsushika.lg.jp/about/copyright.html,consult,unknown,本サイト上の文書・画像等の各ファイルは、「私的使用のための複製」や「引用」など著作権法上認められている場合を除き、無断で転載・改変することを禁じます。
 131237,江戸川区,https://www.city.edogawa.tokyo.jp/aboutweb/privacypolicy.html,unknown,unknown,
 132012,八王子市,https://www.city.hachioji.tokyo.jp/987/p012146.html,unknown,free,
