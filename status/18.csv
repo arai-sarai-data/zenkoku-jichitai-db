@@ -1,19 +1,19 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-180009,福井県,福井県,https://www.pref.fukui.lg.jp/,300,,140,129,133,1041,https://www.pref.fukui.lg.jp,200:298 404:2 ConnectionError:1
-182010,福井県,福井市,https://www.city.fukui.lg.jp/,300,,148,95,0,349,https://www.city.fukui.lg.jp,200:299 404:1 ConnectionError:1
+180009,福井県,福井県,https://www.pref.fukui.lg.jp/,300,,501,256,133,988,https://www.pref.fukui.lg.jp,200:298 404:2 ConnectionError:1
+182010,福井県,福井市,https://www.city.fukui.lg.jp/,300,,248,723,0,353,https://www.city.fukui.lg.jp,200:300 ConnectionError:1
 182028,福井県,敦賀市,https://www.city.tsuruga.lg.jp/,300,,51,12,0,216,https://www.city.tsuruga.lg.jp,200:300 ConnectionError:1
-182044,福井県,小浜市,https://www1.city.obama.fukui.jp/,300,,452,198,0,170,https://www1.city.obama.fukui.jp,200:300 ConnectionError:1
-182052,福井県,大野市,https://www.city.ono.fukui.jp/,300,,170,6,0,258,https://www.city.ono.fukui.jp,200:300 ConnectionError:2
-182061,福井県,勝山市,https://www.city.katsuyama.fukui.jp/,300,,276,256,0,363,https://www.city.katsuyama.fukui.jp,200:300 ConnectionError:2
-182079,福井県,鯖江市,https://www.city.sabae.fukui.jp/,300,,133,2094,1,90,https://www.city.sabae.fukui.jp,200:300 ConnectionError:2
-182087,福井県,あわら市,https://www.city.awara.lg.jp/,300,,44,109,0,289,https://www.city.awara.lg.jp,200:300 404:6 ConnectionError:1
-182095,福井県,越前市,https://www.city.echizen.lg.jp/,300,,363,153,0,282,https://www.city.echizen.lg.jp,200:294 404:8 ConnectionError:1
-182109,福井県,坂井市,https://www.city.fukui-sakai.lg.jp/,300,,248,1062,0,904,https://www.city.fukui-sakai.lg.jp,200:302 ConnectionError:1
+182044,福井県,小浜市,https://www1.city.obama.fukui.jp/,300,,544,250,0,239,https://www1.city.obama.fukui.jp,200:298 404:2 ConnectionError:1
+182052,福井県,大野市,https://www.city.ono.fukui.jp/,300,,192,16,0,491,https://www.city.ono.fukui.jp,200:300 ConnectionError:2
+182061,福井県,勝山市,https://www.city.katsuyama.fukui.jp/,300,,264,1133,0,10,https://www.city.katsuyama.fukui.jp,200:300 ConnectionError:2
+182079,福井県,鯖江市,https://www.city.sabae.fukui.jp/,300,,35,2512,1,87,https://www.city.sabae.fukui.jp,200:299 403:1 ConnectionError:2
+182087,福井県,あわら市,https://www.city.awara.lg.jp/,300,,64,134,0,280,https://www.city.awara.lg.jp,200:298 404:4 ConnectionError:1
+182095,福井県,越前市,https://www.city.echizen.lg.jp/,300,,381,182,0,330,https://www.city.echizen.lg.jp,200:295 404:7 ConnectionError:1
+182109,福井県,坂井市,https://www.city.fukui-sakai.lg.jp/,300,,286,1287,0,814,https://www.city.fukui-sakai.lg.jp,200:301 ConnectionError:1
 183229,福井県,永平寺町,https://www.town.eiheiji.lg.jp/,300,,0,627,0,117,https://www.town.eiheiji.lg.jp,200:300 SSLError:1
-183822,福井県,池田町,https://www.town.ikeda.fukui.jp/,300,,36,7,0,108,https://www.town.ikeda.fukui.jp,200:298 404:2 ConnectionError:1
-184047,福井県,南越前町,https://www.town.minamiechizen.lg.jp/,300,,2,80,0,188,https://www.town.minamiechizen.lg.jp,200:300 SSLError:1
-184233,福井県,越前町,https://www.town.echizen.fukui.jp/,300,,186,22,0,141,https://www.town.echizen.fukui.jp,200:312 ConnectionError:2
+183822,福井県,池田町,https://www.town.ikeda.fukui.jp/,300,,36,7,0,141,https://www.town.ikeda.fukui.jp,200:298 404:3 ConnectionError:1
+184047,福井県,南越前町,https://www.town.minamiechizen.lg.jp/,300,,2,82,0,271,https://www.town.minamiechizen.lg.jp,200:300 SSLError:1
+184233,福井県,越前町,https://www.town.echizen.fukui.jp/,300,,162,25,0,285,https://www.town.echizen.fukui.jp,200:305 ConnectTimeout:1 ConnectionError:1
 184420,福井県,美浜町,https://www.town.fukui-mihama.lg.jp/,300,,231,9,0,301,https://www.town.fukui-mihama.lg.jp,200:298 404:2 ConnectionError:1
-184811,福井県,高浜町,https://www.town.takahama.fukui.jp/,254,,124,294,0,250,https://www.town.takahama.fukui.jp,200:254 404:2 ConnectionError:2
+184811,福井県,高浜町,https://www.town.takahama.fukui.jp/,300,,164,310,0,301,https://www.town.takahama.fukui.jp,200:297 404:4 ConnectionError:2
 184837,福井県,おおい町,https://www.town.ohi.fukui.jp/,300,,413,210,0,105,https://www.town.ohi.fukui.jp,200:300 ConnectionError:1 SSLError:1
-185019,福井県,若狭町,https://www.town.fukui-wakasa.lg.jp/,160,,8,50,0,65,https://www.town.fukui-wakasa.lg.jp,200:158 404:2 ConnectionError:1
+185019,福井県,若狭町,https://www.town.fukui-wakasa.lg.jp/,300,,14,71,0,78,https://www.town.fukui-wakasa.lg.jp,200:300 ConnectionError:1
