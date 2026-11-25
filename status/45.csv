@@ -1,28 +1,28 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
 450006,宮崎県,宮崎県,https://www.pref.miyazaki.lg.jp/,300,,100,303,462,331,https://www.pref.miyazaki.lg.jp,200:302 ConnectionError:1
-452017,宮崎県,宮崎市,https://www.city.miyazaki.miyazaki.jp/,300,,544,14,0,314,https://www.city.miyazaki.miyazaki.jp,200:302 ConnectionError:2
-452025,宮崎県,都城市,https://www.city.miyakonojo.miyazaki.jp/,300,,117,357,0,79,https://www.city.miyakonojo.miyazaki.jp,200:300 404:1 ConnectionError:2
-452033,宮崎県,延岡市,https://www.city.nobeoka.miyazaki.jp/,300,,42,389,0,80,https://www.city.nobeoka.miyazaki.jp,200:295 404:5 ConnectionError:2
-452041,宮崎県,日南市,https://www.city.nichinan.lg.jp/,300,,63,27,0,86,https://www.city.nichinan.lg.jp,200:301 ConnectionError:1
-452050,宮崎県,小林市,https://www.city.kobayashi.lg.jp/,300,,59,147,0,149,https://www.city.kobayashi.lg.jp,200:314 404:1 ConnectionError:1
+452017,宮崎県,宮崎市,https://www.city.miyazaki.miyazaki.jp/,300,,723,688,0,310,https://www.city.miyazaki.miyazaki.jp,200:302 ConnectionError:2
+452025,宮崎県,都城市,https://www.city.miyakonojo.miyazaki.jp/,300,,126,470,0,276,https://www.city.miyakonojo.miyazaki.jp,200:300 404:1 ConnectionError:2
+452033,宮崎県,延岡市,https://www.city.nobeoka.miyazaki.jp/,300,,47,429,0,208,https://www.city.nobeoka.miyazaki.jp,200:297 404:3 ConnectionError:2
+452041,宮崎県,日南市,https://www.city.nichinan.lg.jp/,300,,3,628,0,136,https://www.city.nichinan.lg.jp,200:301 ConnectionError:1
+452050,宮崎県,小林市,https://www.city.kobayashi.lg.jp/,300,,65,248,0,133,https://www.city.kobayashi.lg.jp,200:315 ConnectionError:1
 452068,宮崎県,日向市,https://www.hyugacity.jp/,2,,1,0,0,1,https://www.hyugacity.jp,503:2 ConnectionError:1
-452076,宮崎県,串間市,https://www.city.kushima.lg.jp/,168,,61,52,0,0,https://www.city.kushima.lg.jp,200:155 403:4 404:8 500:1 ConnectionError:1
-452084,宮崎県,西都市,https://www.city.saito.lg.jp/,273,,148,173,0,84,https://www.city.saito.lg.jp,200:263 403:1 404:7 429:2 ConnectionError:1
-452092,宮崎県,えびの市,https://www.city.ebino.lg.jp/,284,,7,52,0,67,https://www.city.ebino.lg.jp,200:283 404:2 ConnectionError:1
-453412,宮崎県,三股町,https://www.town.mimata.lg.jp/,89,,40,12,0,41,https://www.town.mimata.lg.jp,200:89 ConnectionError:1
-453617,宮崎県,高原町,https://www.town.takaharu.lg.jp/,166,,9,1,0,11,https://www.town.takaharu.lg.jp,200:168 503:1 ConnectionError:1
-453820,宮崎県,国富町,https://www.town.kunitomi.miyazaki.jp/,74,,23,0,0,39,https://www.town.kunitomi.miyazaki.jp,200:72 404:2 ConnectionError:2
-453838,宮崎県,綾町,https://www.town.aya.miyazaki.jp/,205,,4,46,0,14,https://www.town.aya.miyazaki.jp,200:203 404:7 ConnectionError:2
+452076,宮崎県,串間市,https://www.city.kushima.lg.jp/,173,,61,52,0,1,https://www.city.kushima.lg.jp,200:160 403:4 404:8 500:1 ConnectionError:1
+452084,宮崎県,西都市,https://www.city.saito.lg.jp/,300,,173,223,0,172,https://www.city.saito.lg.jp,200:294 404:6 ConnectionError:1
+452092,宮崎県,えびの市,https://www.city.ebino.lg.jp/,300,,31,111,0,60,https://www.city.ebino.lg.jp,200:299 404:1 ConnectionError:1
+453412,宮崎県,三股町,https://www.town.mimata.lg.jp/,94,,40,12,0,52,https://www.town.mimata.lg.jp,200:94 ConnectionError:1
+453617,宮崎県,高原町,https://www.town.takaharu.lg.jp/,300,,10,1,0,56,https://www.town.takaharu.lg.jp,200:296 404:4 ConnectionError:1
+453820,宮崎県,国富町,https://www.town.kunitomi.miyazaki.jp/,86,,53,0,0,43,https://www.town.kunitomi.miyazaki.jp,200:82 404:4 ConnectionError:2
+453838,宮崎県,綾町,https://www.town.aya.miyazaki.jp/,300,,17,47,0,35,https://www.town.aya.miyazaki.jp,200:278 404:22 ConnectionError:2
 454010,宮崎県,高鍋町,https://www.town.takanabe.lg.jp/,168,,6,94,0,27,https://www.town.takanabe.lg.jp,200:169 ConnectionError:1
-454028,宮崎県,新富町,https://www.town.shintomi.lg.jp/,150,,1,9,1,1,https://www.town.shintomi.lg.jp,200:149 404:1 ConnectionError:1
-454036,宮崎県,西米良村,https://www.vill.nishimera.lg.jp/,37,,6,30,0,7,https://www.vill.nishimera.lg.jp,200:37 404:1 ConnectionError:1
-454044,宮崎県,木城町,https://www.town.kijo.lg.jp/,230,,1,55,0,33,https://www.town.kijo.lg.jp,200:226 404:4 ConnectionError:1
-454052,宮崎県,川南町,https://www.town.kawaminami.miyazaki.jp/,240,,18,50,0,79,https://www.town.kawaminami.miyazaki.jp,200:242 403:1 404:1 ConnectionError:2
+454028,宮崎県,新富町,https://www.town.shintomi.lg.jp/,300,,25,124,1,73,https://www.town.shintomi.lg.jp,200:299 404:1 ConnectionError:1
+454036,宮崎県,西米良村,https://www.vill.nishimera.lg.jp/,39,,6,30,0,20,https://www.vill.nishimera.lg.jp,200:39 404:1 ConnectionError:1
+454044,宮崎県,木城町,https://www.town.kijo.lg.jp/,232,,16,80,0,50,https://www.town.kijo.lg.jp,200:228 404:4 ConnectionError:1
+454052,宮崎県,川南町,https://www.town.kawaminami.miyazaki.jp/,300,,19,91,0,146,https://www.town.kawaminami.miyazaki.jp,200:296 404:4 ConnectionError:2
 454061,宮崎県,都農町,https://www.town.tsuno.lg.jp/,106,描画で再読,8,84,0,51,https://www.town.tsuno.lg.jp,200:106 Error:1
-454214,宮崎県,門川町,https://www.town.kadogawa.lg.jp/,175,,5,91,1,38,https://www.town.kadogawa.lg.jp,200:173 403:1 404:1 ConnectionError:1
-454290,宮崎県,諸塚村,https://www.vill.morotsuka.miyazaki.jp/,95,,0,1,0,10,https://www.vill.morotsuka.miyazaki.jp,200:96 ConnectionError:2
-454303,宮崎県,椎葉村,https://www.vill.shiiba.miyazaki.jp/,65,,20,4,0,0,https://www.vill.shiiba.miyazaki.jp,200:68 ConnectionError:2
-454311,宮崎県,美郷町,https://www.town.miyazaki-misato.lg.jp/,272,,60,53,0,18,https://www.town.miyazaki-misato.lg.jp,200:274 ConnectionError:1
+454214,宮崎県,門川町,https://www.town.kadogawa.lg.jp/,218,,42,102,1,51,https://www.town.kadogawa.lg.jp,200:217 403:1 ConnectionError:1
+454290,宮崎県,諸塚村,https://www.vill.morotsuka.miyazaki.jp/,300,,19,14,0,31,https://www.vill.morotsuka.miyazaki.jp,200:299 404:1 ConnectionError:2
+454303,宮崎県,椎葉村,https://www.vill.shiiba.miyazaki.jp/,66,,20,5,0,0,https://www.vill.shiiba.miyazaki.jp,200:69 ConnectionError:2
+454311,宮崎県,美郷町,https://www.town.miyazaki-misato.lg.jp/,277,,60,53,0,30,https://www.town.miyazaki-misato.lg.jp,200:278 404:1 ConnectionError:1
 454419,宮崎県,高千穂町,https://www.town-takachiho.jp/,300,,18,6,0,51,https://www.town-takachiho.jp,200:300 ConnectionError:1
-454427,宮崎県,日之影町,https://www.town.hinokage.lg.jp/,90,,1,0,0,12,https://www.town.hinokage.lg.jp,200:92 ConnectionError:1
-454435,宮崎県,五ケ瀬町,https://www.town.gokase.miyazaki.jp/,62,,5,0,0,21,https://www.town.gokase.miyazaki.jp,200:62 ConnectionError:2
+454427,宮崎県,日之影町,https://www.town.hinokage.lg.jp/,140,,1,0,0,33,https://www.town.hinokage.lg.jp,200:142 ConnectionError:1
+454435,宮崎県,五ケ瀬町,https://www.town.gokase.miyazaki.jp/,145,,9,0,0,43,https://www.town.gokase.miyazaki.jp,200:145 ConnectionError:2
