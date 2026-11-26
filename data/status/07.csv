@@ -1,61 +1,61 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-070009,福島県,福島県,https://www.pref.fukushima.lg.jp/,300,,411,3988,94,162,https://www.pref.fukushima.lg.jp,200:300 404:2 SSLError:1
-072010,福島県,福島市,https://www.city.fukushima.fukushima.jp/,300,,144,1064,0,65,https://www.city.fukushima.fukushima.jp,200:300 ConnectionError:2
-072028,福島県,会津若松市,https://www.city.aizuwakamatsu.fukushima.jp/,300,,308,3367,0,252,https://www.city.aizuwakamatsu.fukushima.jp,200:307 404:1 ConnectionError:2
-072036,福島県,郡山市,https://www.city.koriyama.lg.jp/,300,,269,482,0,239,https://www.city.koriyama.lg.jp,200:301 ConnectionError:1
-072044,福島県,いわき市,https://www.city.iwaki.lg.jp/,300,,353,879,0,659,https://www.city.iwaki.lg.jp,200:303 ConnectionError:1
-072052,福島県,白河市,https://www.city.shirakawa.fukushima.jp/,300,,53,675,0,152,https://www.city.shirakawa.fukushima.jp,200:298 404:2 ConnectionError:2
-072079,福島県,須賀川市,https://www.city.sukagawa.fukushima.jp/,300,,75,348,0,42,https://www.city.sukagawa.fukushima.jp,200:300 ConnectionError:2
-072087,福島県,喜多方市,https://www.city.kitakata.fukushima.jp/,300,,604,114,0,94,https://www.city.kitakata.fukushima.jp,200:300 ConnectionError:2
-072095,福島県,相馬市,https://www.city.soma.fukushima.jp/,300,,19,206,0,28,https://www.city.soma.fukushima.jp,200:299 404:2 ConnectionError:2
-072109,福島県,二本松市,https://www.city.nihonmatsu.lg.jp/,300,,163,899,0,104,https://www.city.nihonmatsu.lg.jp,200:300 ConnectionError:1
-072117,福島県,田村市,https://www.city.tamura.lg.jp/,270,,12,739,0,141,https://www.city.tamura.lg.jp,200:266 404:4 ConnectionError:1
-072125,福島県,南相馬市,https://www.city.minamisoma.lg.jp/,300,,655,13,0,266,https://www.city.minamisoma.lg.jp,200:318 ConnectionError:1
-072133,福島県,伊達市,https://www.city.fukushima-date.lg.jp/,300,,52,125,0,198,https://www.city.fukushima-date.lg.jp,200:310 403:1 404:1 ConnectionError:1
-072141,福島県,本宮市,https://www.city.motomiya.lg.jp/,300,,213,366,0,157,https://www.city.motomiya.lg.jp,200:298 404:2 ConnectionError:1
-073016,福島県,桑折町,https://www.town.koori.fukushima.jp/,281,,13,83,0,128,https://www.town.koori.fukushima.jp,200:283 404:4 ConnectionError:2
-073032,福島県,国見町,https://www.town.kunimi.fukushima.jp/,300,,128,344,0,113,https://www.town.kunimi.fukushima.jp,200:300 ConnectionError:2
-073083,福島県,川俣町,https://www.town.kawamata.lg.jp/,193,,39,16,0,66,https://www.town.kawamata.lg.jp,200:188 403:1 404:4 ConnectionError:1
-073229,福島県,大玉村,https://www.vill.otama.fukushima.jp/,290,,11,1073,0,93,https://www.vill.otama.fukushima.jp,200:298 ConnectionError:1
-073423,福島県,鏡石町,https://www.town.kagamiishi.fukushima.jp/,300,,9,1,0,56,https://www.town.kagamiishi.fukushima.jp,200:297 404:4 ConnectionError:2
-073440,福島県,天栄村,https://www.vill.tenei.fukushima.jp/,170,,9,20,0,174,https://www.vill.tenei.fukushima.jp,200:171 403:1 ConnectionError:2
-073628,福島県,下郷町,https://www.town.shimogo.fukushima.jp/,100,,10,0,0,53,https://www.town.shimogo.fukushima.jp,200:101 ConnectionError:1
-073644,福島県,檜枝岐村,https://www.vill.hinoemata.lg.jp/,152,,10,0,0,19,https://www.vill.hinoemata.lg.jp,200:152 SSLError:1
-073679,福島県,只見町,https://www.town.tadami.lg.jp/,108,,4,2,0,28,https://www.town.tadami.lg.jp,200:104 404:4 ConnectionError:1
-073687,福島県,南会津町,https://www.town.minamiaizu.lg.jp/,146,,9,67,0,42,https://www.town.minamiaizu.lg.jp,200:146 ConnectionError:1
-074021,福島県,北塩原村,https://www.vill.kitashiobara.fukushima.jp/,300,,10,56,0,82,https://www.vill.kitashiobara.fukushima.jp,200:300 ConnectionError:2
-074055,福島県,西会津町,https://www.town.nishiaizu.fukushima.jp/,109,,10,1,1,44,https://www.town.nishiaizu.fukushima.jp,200:108 404:1 ConnectionError:2
-074071,福島県,磐梯町,https://www.town.bandai.fukushima.jp/,172,,7,7,0,54,https://www.town.bandai.fukushima.jp,200:168 404:5 ConnectionError:2
-074080,福島県,猪苗代町,https://www.town.inawashiro.fukushima.jp/,55,,55,19,0,21,https://www.town.inawashiro.fukushima.jp,200:55 ConnectionError:2
-074217,福島県,会津坂下町,https://www.town.aizubange.fukushima.jp/,300,,15,44,0,86,https://www.town.aizubange.fukushima.jp,200:298 404:2 ConnectionError:2
-074225,福島県,湯川村,https://www.vill.yugawa.fukushima.jp/,300,,0,0,4,76,https://www.vill.yugawa.fukushima.jp,200:282 404:18 ConnectionError:2
-074233,福島県,柳津町,https://www.town.yanaizu.fukushima.jp/,131,,9,0,0,84,https://www.town.yanaizu.fukushima.jp,200:134 404:3 ConnectionError:2
-074446,福島県,三島町,https://www.town.mishima.fukushima.jp/,300,,6,6,0,89,https://www.town.mishima.fukushima.jp,200:301 ConnectionError:2
-074454,福島県,金山町,https://www.town.kaneyama.fukushima.jp/,89,,0,7,4,13,https://www.town.kaneyama.fukushima.jp,200:89 403:1 ConnectionError:1 SSLError:1
-074462,福島県,昭和村,https://www.vill.showa.fukushima.jp/,43,,0,1,0,4,https://www.vill.showa.fukushima.jp,200:43 ConnectionError:1
-074471,福島県,会津美里町,https://www.town.aizumisato.fukushima.jp/,103,,32,14,0,4,https://www.town.aizumisato.fukushima.jp,200:103 ConnectionError:2
-074616,福島県,西郷村,https://www.vill.nishigo.fukushima.jp/,300,,70,30,0,92,https://www.vill.nishigo.fukushima.jp,200:301 ConnectionError:2
-074641,福島県,泉崎村,https://www.vill.izumizaki.fukushima.jp/,300,,2,119,0,39,https://www.vill.izumizaki.fukushima.jp,200:302 403:1 ConnectionError:2
-074659,福島県,中島村,https://www.vill-nakajima.jp/,153,,33,2,0,24,https://www.vill-nakajima.jp,200:148 404:8 ConnectionError:1
-074667,福島県,矢吹町,https://www.town.yabuki.fukushima.jp/,172,,16,48,0,64,https://www.town.yabuki.fukushima.jp,200:154 404:21 ConnectionError:2
-074811,福島県,棚倉町,https://www.town.tanagura.fukushima.jp/,272,,407,101,0,112,https://www.town.tanagura.fukushima.jp,200:273 404:2 ConnectionError:2
-074829,福島県,矢祭町,https://www.town.yamatsuri.fukushima.jp/,223,,32,2,0,130,,
-074837,福島県,塙町,https://www.town.hanawa.fukushima.jp/,90,,136,106,0,23,https://www.town.hanawa.fukushima.jp,200:90 404:1 ConnectionError:2
-074845,福島県,鮫川村,https://www.vill.samegawa.fukushima.jp/,222,,34,97,0,63,https://www.vill.samegawa.fukushima.jp,200:185 404:40 ConnectionError:2
-075019,福島県,石川町,https://www.town.ishikawa.fukushima.jp/,270,,19,66,0,289,https://www.town.ishikawa.fukushima.jp,200:267 403:1 404:4 500:1 ConnectionError:2 SSLError:2
-075027,福島県,玉川村,https://www.vill.tamakawa.fukushima.jp/,115,,0,0,0,54,https://www.vill.tamakawa.fukushima.jp,200:118 ConnectionError:2
-075035,福島県,平田村,https://www.vill.hirata.fukushima.jp/,279,,64,0,0,36,https://www.vill.hirata.fukushima.jp,200:276 403:1 404:4 ConnectionError:2
-075043,福島県,浅川町,http://www.town.asakawa.fukushima.jp/,198,,0,1,0,16,http://www.town.asakawa.fukushima.jp,200:200 ConnectionError:1
-075051,福島県,古殿町,https://www.town.furudono.fukushima.jp/,300,,4,1,0,95,https://www.town.furudono.fukushima.jp,200:301 ConnectionError:2
-075213,福島県,三春町,https://www.town.miharu.fukushima.jp/,264,,238,124,0,131,https://www.town.miharu.fukushima.jp,200:263 404:3 ConnectionError:2
+070009,福島県,福島県,https://www.pref.fukushima.lg.jp/,300,,523,4792,65,177,https://www.pref.fukushima.lg.jp,200:300 404:2 SSLError:1
+072010,福島県,福島市,https://www.city.fukushima.fukushima.jp/,300,,172,1201,0,127,https://www.city.fukushima.fukushima.jp,200:300 ConnectionError:2
+072028,福島県,会津若松市,https://www.city.aizuwakamatsu.fukushima.jp/,300,,308,3369,0,330,https://www.city.aizuwakamatsu.fukushima.jp,200:303 404:1 ConnectionError:2
+072036,福島県,郡山市,https://www.city.koriyama.lg.jp/,300,,602,1763,0,291,https://www.city.koriyama.lg.jp,200:300 404:1 ConnectionError:1
+072044,福島県,いわき市,https://www.city.iwaki.lg.jp/,300,,302,907,0,707,https://www.city.iwaki.lg.jp,200:302 ConnectionError:1
+072052,福島県,白河市,https://www.city.shirakawa.fukushima.jp/,300,,92,704,0,177,https://www.city.shirakawa.fukushima.jp,200:298 404:2 ConnectionError:2
+072079,福島県,須賀川市,https://www.city.sukagawa.fukushima.jp/,300,,200,415,0,422,https://www.city.sukagawa.fukushima.jp,200:300 ConnectionError:2
+072087,福島県,喜多方市,https://www.city.kitakata.fukushima.jp/,300,,1416,110,0,111,https://www.city.kitakata.fukushima.jp,200:298 404:2 ConnectionError:2
+072095,福島県,相馬市,https://www.city.soma.fukushima.jp/,300,,39,230,0,72,https://www.city.soma.fukushima.jp,200:300 ConnectionError:2
+072109,福島県,二本松市,https://www.city.nihonmatsu.lg.jp/,300,,187,937,0,218,https://www.city.nihonmatsu.lg.jp,200:299 404:1 ConnectionError:1
+072117,福島県,田村市,https://www.city.tamura.lg.jp/,300,,71,859,0,228,https://www.city.tamura.lg.jp,200:296 404:4 ConnectionError:1
+072125,福島県,南相馬市,https://www.city.minamisoma.lg.jp/,300,,662,253,0,297,https://www.city.minamisoma.lg.jp,200:318 ConnectionError:1
+072133,福島県,伊達市,https://www.city.fukushima-date.lg.jp/,300,,46,195,0,468,https://www.city.fukushima-date.lg.jp,200:310 403:1 404:4 ConnectionError:1
+072141,福島県,本宮市,https://www.city.motomiya.lg.jp/,300,,272,382,0,159,https://www.city.motomiya.lg.jp,200:298 404:2 ConnectionError:1
+073016,福島県,桑折町,https://www.town.koori.fukushima.jp/,300,,27,84,0,194,https://www.town.koori.fukushima.jp,200:295 404:8 ConnectionError:2
+073032,福島県,国見町,https://www.town.kunimi.fukushima.jp/,300,,84,344,0,306,https://www.town.kunimi.fukushima.jp,200:300 ConnectionError:2
+073083,福島県,川俣町,https://www.town.kawamata.lg.jp/,297,,44,91,0,310,https://www.town.kawamata.lg.jp,200:283 403:1 404:13 ConnectionError:1
+073229,福島県,大玉村,https://www.vill.otama.fukushima.jp/,300,,117,1081,0,186,https://www.vill.otama.fukushima.jp,200:309 ConnectionError:1
+073423,福島県,鏡石町,https://www.town.kagamiishi.fukushima.jp/,300,,181,20,0,292,https://www.town.kagamiishi.fukushima.jp,200:298 404:2 ConnectionError:2
+073440,福島県,天栄村,https://www.vill.tenei.fukushima.jp/,300,,60,45,0,257,https://www.vill.tenei.fukushima.jp,200:300 ConnectionError:2
+073628,福島県,下郷町,https://www.town.shimogo.fukushima.jp/,102,,10,0,0,63,https://www.town.shimogo.fukushima.jp,200:103 ConnectionError:1
+073644,福島県,檜枝岐村,https://www.vill.hinoemata.lg.jp/,171,,10,0,0,19,https://www.vill.hinoemata.lg.jp,200:171 SSLError:1
+073679,福島県,只見町,https://www.town.tadami.lg.jp/,128,,7,268,0,46,https://www.town.tadami.lg.jp,200:124 404:4 ConnectionError:1
+073687,福島県,南会津町,https://www.town.minamiaizu.lg.jp/,300,,12,87,0,91,https://www.town.minamiaizu.lg.jp,200:301 ConnectionError:1
+074021,福島県,北塩原村,https://www.vill.kitashiobara.fukushima.jp/,300,,25,56,0,97,https://www.vill.kitashiobara.fukushima.jp,200:300 ConnectionError:2
+074055,福島県,西会津町,https://www.town.nishiaizu.fukushima.jp/,300,,12,1,1,116,https://www.town.nishiaizu.fukushima.jp,200:299 404:1 ConnectionError:2
+074071,福島県,磐梯町,https://www.town.bandai.fukushima.jp/,241,,22,43,0,102,https://www.town.bandai.fukushima.jp,200:237 404:5 ConnectionError:2
+074080,福島県,猪苗代町,https://www.town.inawashiro.fukushima.jp/,300,,56,19,0,97,https://www.town.inawashiro.fukushima.jp,200:300 ConnectionError:2
+074217,福島県,会津坂下町,https://www.town.aizubange.fukushima.jp/,300,,35,44,0,97,https://www.town.aizubange.fukushima.jp,200:297 404:3 ConnectionError:2
+074225,福島県,湯川村,https://www.vill.yugawa.fukushima.jp/,300,,98,20,4,75,https://www.vill.yugawa.fukushima.jp,200:288 404:12 ConnectionError:2
+074233,福島県,柳津町,https://www.town.yanaizu.fukushima.jp/,214,,9,0,0,116,https://www.town.yanaizu.fukushima.jp,200:235 404:3 ConnectionError:2
+074446,福島県,三島町,https://www.town.mishima.fukushima.jp/,300,,12,46,0,195,https://www.town.mishima.fukushima.jp,200:300 ConnectionError:2
+074454,福島県,金山町,https://www.town.kaneyama.fukushima.jp/,300,,57,12,4,87,https://www.town.kaneyama.fukushima.jp,200:298 403:1 404:1 ConnectionError:1 SSLError:1
+074462,福島県,昭和村,https://www.vill.showa.fukushima.jp/,56,,0,2,0,23,https://www.vill.showa.fukushima.jp,200:56 ConnectionError:1
+074471,福島県,会津美里町,https://www.town.aizumisato.fukushima.jp/,300,,42,24,0,126,https://www.town.aizumisato.fukushima.jp,200:303 ConnectionError:2
+074616,福島県,西郷村,https://www.vill.nishigo.fukushima.jp/,300,,73,90,0,34,https://www.vill.nishigo.fukushima.jp,200:300 ConnectionError:2
+074641,福島県,泉崎村,https://www.vill.izumizaki.fukushima.jp/,300,,28,122,0,79,https://www.vill.izumizaki.fukushima.jp,200:304 404:1 ConnectionError:2
+074659,福島県,中島村,https://www.vill-nakajima.jp/,155,,33,18,0,46,https://www.vill-nakajima.jp,200:150 404:8 ConnectionError:1
+074667,福島県,矢吹町,https://www.town.yabuki.fukushima.jp/,154,,16,48,0,129,https://www.town.yabuki.fukushima.jp,200:156 404:1 ConnectionError:2
+074811,福島県,棚倉町,https://www.town.tanagura.fukushima.jp/,300,,424,63,0,79,https://www.town.tanagura.fukushima.jp,200:300 ConnectionError:2
+074829,福島県,矢祭町,https://www.town.yamatsuri.fukushima.jp/,229,,32,2,0,180,https://www.town.yamatsuri.fukushima.jp,200:232 ConnectionError:2
+074837,福島県,塙町,https://www.town.hanawa.fukushima.jp/,95,,136,106,0,56,https://www.town.hanawa.fukushima.jp,200:95 404:1 ConnectionError:2
+074845,福島県,鮫川村,https://www.vill.samegawa.fukushima.jp/,256,,52,106,0,82,https://www.vill.samegawa.fukushima.jp,200:207 404:52 ConnectionError:2
+075019,福島県,石川町,https://www.town.ishikawa.fukushima.jp/,277,,19,97,0,362,https://www.town.ishikawa.fukushima.jp,200:274 403:1 404:4 500:1 ConnectionError:2 SSLError:2
+075027,福島県,玉川村,https://www.vill.tamakawa.fukushima.jp/,275,,0,280,0,163,https://www.vill.tamakawa.fukushima.jp,200:278 ConnectionError:2
+075035,福島県,平田村,https://www.vill.hirata.fukushima.jp/,300,,245,111,0,78,https://www.vill.hirata.fukushima.jp,200:290 403:1 404:9 ConnectionError:2
+075043,福島県,浅川町,http://www.town.asakawa.fukushima.jp/,230,,1,1,0,154,http://www.town.asakawa.fukushima.jp,200:235 ConnectionError:1
+075051,福島県,古殿町,https://www.town.furudono.fukushima.jp/,300,,82,21,0,79,https://www.town.furudono.fukushima.jp,200:300 ConnectionError:2
+075213,福島県,三春町,https://www.town.miharu.fukushima.jp/,300,,333,244,0,251,https://www.town.miharu.fukushima.jp,200:297 404:3 ConnectionError:2
 075221,福島県,小野町,https://www.town.ono.fukushima.jp/,300,,86,56,0,112,https://www.town.ono.fukushima.jp,200:300 ConnectionError:2
-075418,福島県,広野町,https://www.town.hirono.fukushima.jp/,300,,12,238,0,358,https://www.town.hirono.fukushima.jp,200:299 400:1 ConnectionError:2
-075426,福島県,楢葉町,https://www.town.naraha.lg.jp/,225,,0,33,0,111,https://www.town.naraha.lg.jp,200:226 SSLError:1 robots:1
-075434,福島県,富岡町,https://www.tomioka-town.jp/,252,,5,109,0,117,https://www.tomioka-town.jp,200:249 403:2 404:4 ConnectionError:1
-075442,福島県,川内村,http://www.kawauchimura.jp/,202,,5,0,1,54,http://www.kawauchimura.jp,200:211 ConnectionError:1
-075451,福島県,大熊町,https://www.town.okuma.fukushima.jp/,300,,4,120,6,213,https://www.town.okuma.fukushima.jp,200:301 404:1 ConnectionError:2
-075469,福島県,双葉町,https://www.town.fukushima-futaba.lg.jp/,300,,42,17,0,47,https://www.town.fukushima-futaba.lg.jp,200:299 404:2 SSLError:1
-075477,福島県,浪江町,https://www.town.namie.fukushima.jp/,300,,24,137,0,191,https://www.town.namie.fukushima.jp,200:299 404:1 ConnectionError:2
-075485,福島県,葛尾村,https://www.katsurao.org/,300,,4,52,0,31,https://www.katsurao.org,200:300 403:1 ConnectionError:1
-075612,福島県,新地町,https://www.shinchi-town.jp/,248,,0,280,0,22,https://www.shinchi-town.jp,200:248 404:6 ConnectionError:1
-075647,福島県,飯舘村,https://www.vill.iitate.fukushima.jp/,297,,7,52,0,28,https://www.vill.iitate.fukushima.jp,200:300 ConnectionError:2 SSLError:1
+075418,福島県,広野町,https://www.town.hirono.fukushima.jp/,300,,66,254,0,354,https://www.town.hirono.fukushima.jp,200:300 ConnectionError:2
+075426,福島県,楢葉町,https://www.town.naraha.lg.jp/,238,,1,33,0,475,https://www.town.naraha.lg.jp,200:238 404:1 SSLError:1 robots:1
+075434,福島県,富岡町,https://www.tomioka-town.jp/,300,,5,105,0,464,https://www.tomioka-town.jp,200:296 403:1 404:3 ConnectionError:1
+075442,福島県,川内村,http://www.kawauchimura.jp/,300,,11,41,1,299,http://www.kawauchimura.jp,200:301 ConnectionError:1
+075451,福島県,大熊町,https://www.town.okuma.fukushima.jp/,300,,3,132,6,315,https://www.town.okuma.fukushima.jp,200:299 404:1 ConnectionError:2
+075469,福島県,双葉町,https://www.town.fukushima-futaba.lg.jp/,300,,40,17,0,272,https://www.town.fukushima-futaba.lg.jp,200:299 404:2 SSLError:1
+075477,福島県,浪江町,https://www.town.namie.fukushima.jp/,300,,24,152,0,572,https://www.town.namie.fukushima.jp,200:296 404:4 ConnectionError:2
+075485,福島県,葛尾村,https://www.katsurao.org/,300,,24,52,0,289,https://www.katsurao.org,200:299 403:1 ConnectionError:1
+075612,福島県,新地町,https://www.shinchi-town.jp/,300,,2,328,0,188,https://www.shinchi-town.jp,200:294 404:6 ConnectionError:1
+075647,福島県,飯舘村,https://www.vill.iitate.fukushima.jp/,300,,7,52,0,333,https://www.vill.iitate.fukushima.jp,200:300 ConnectionError:2

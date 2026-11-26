@@ -1,22 +1,22 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-380008,愛媛県,愛媛県,https://www.pref.ehime.jp,300,,8,304,0,258,https://www.pref.ehime.jp,200:300 ConnectionError:2
+380008,愛媛県,愛媛県,https://www.pref.ehime.jp,300,,182,1714,0,145,https://www.pref.ehime.jp,200:300 ConnectionError:2
 382019,愛媛県,松山市,https://www.city.matsuyama.ehime.jp/,300,,625,106,0,704,https://www.city.matsuyama.ehime.jp,200:300 ConnectionError:2
-382027,愛媛県,今治市,https://www.city.imabari.ehime.jp/,223,,201,777,0,236,https://www.city.imabari.ehime.jp,200:223 404:2 500:2 ConnectionError:3
-382035,愛媛県,宇和島市,https://www.city.uwajima.ehime.jp/,300,,298,501,0,101,https://www.city.uwajima.ehime.jp,200:298 404:2 ConnectionError:2
-382043,愛媛県,八幡浜市,https://www.city.yawatahama.ehime.jp/,300,,23,67,0,226,https://www.city.yawatahama.ehime.jp,200:306 ConnectionError:2
-382051,愛媛県,新居浜市,https://www.city.niihama.lg.jp/,300,,327,12,0,151,https://www.city.niihama.lg.jp,200:348 ConnectionError:1
+382027,愛媛県,今治市,https://www.city.imabari.ehime.jp/,296,,518,874,0,299,https://www.city.imabari.ehime.jp,200:295 404:2 500:2 ConnectionError:3
+382035,愛媛県,宇和島市,https://www.city.uwajima.ehime.jp/,300,,319,510,0,255,https://www.city.uwajima.ehime.jp,200:299 404:1 ConnectionError:2
+382043,愛媛県,八幡浜市,https://www.city.yawatahama.ehime.jp/,300,,143,164,0,47,https://www.city.yawatahama.ehime.jp,200:402 ConnectionError:2
+382051,愛媛県,新居浜市,https://www.city.niihama.lg.jp/,300,,358,246,0,21,https://www.city.niihama.lg.jp,200:299 404:1 ConnectionError:1
 382060,愛媛県,西条市,https://www.city.saijo.ehime.jp/,300,,125,58,0,90,https://www.city.saijo.ehime.jp,200:300 404:1 ConnectionError:2
-382078,愛媛県,大洲市,https://www.city.ozu.ehime.jp/,300,,282,330,0,317,https://www.city.ozu.ehime.jp,200:303 ConnectionError:2
-382108,愛媛県,伊予市,https://www.city.iyo.lg.jp/,300,,357,57,4,348,https://www.city.iyo.lg.jp,200:301 404:1 502:1 ConnectionError:1
-382132,愛媛県,四国中央市,https://www.city.shikokuchuo.ehime.jp/,297,,346,171,0,473,https://www.city.shikokuchuo.ehime.jp,200:296 404:1 ConnectionError:2 robots:1
-382141,愛媛県,西予市,https://www.city.seiyo.ehime.jp/,300,,477,312,0,87,https://www.city.seiyo.ehime.jp,200:296 404:4 ConnectionError:2
-382159,愛媛県,東温市,https://www.city.toon.ehime.jp/,300,,232,29,0,112,https://www.city.toon.ehime.jp,200:301 ConnectionError:2
-383562,愛媛県,上島町,https://www.town.kamijima.lg.jp/,247,,10,27,0,127,https://www.town.kamijima.lg.jp,200:248 404:2 ConnectionError:1
-383864,愛媛県,久万高原町,https://www.kumakogen.jp/,225,,16,19,0,59,https://www.kumakogen.jp,200:228 ConnectionError:1
-384011,愛媛県,松前町,https://www.town.masaki.ehime.jp/,300,,180,73,0,66,https://www.town.masaki.ehime.jp,200:300 404:2 ConnectionError:2 SSLError:1
-384020,愛媛県,砥部町,https://www.town.tobe.ehime.jp/,300,,389,322,0,59,https://www.town.tobe.ehime.jp,200:300 ConnectionError:2
-384224,愛媛県,内子町,https://www.town.uchiko.ehime.jp/,300,,181,84,0,185,https://www.town.uchiko.ehime.jp,200:299 404:1 ConnectionError:2
-384429,愛媛県,伊方町,https://www.town.ikata.ehime.jp/,232,,177,40,0,108,https://www.town.ikata.ehime.jp,200:232 ConnectionError:2
-384844,愛媛県,松野町,https://www.town.matsuno.ehime.jp/,117,,239,607,0,28,https://www.town.matsuno.ehime.jp,200:115 404:2 ConnectionError:2
-384887,愛媛県,鬼北町,https://www.town.kihoku.ehime.jp/,134,,130,89,0,36,https://www.town.kihoku.ehime.jp,200:134 ConnectionError:2
-385069,愛媛県,愛南町,https://www.town.ainan.ehime.jp/,300,,185,346,0,128,https://www.town.ainan.ehime.jp,200:236 404:64 ConnectionError:2
+382078,愛媛県,大洲市,https://www.city.ozu.ehime.jp/,300,,384,342,0,571,https://www.city.ozu.ehime.jp,200:299 404:1 ConnectionError:2
+382108,愛媛県,伊予市,https://www.city.iyo.lg.jp/,300,,400,80,4,304,https://www.city.iyo.lg.jp,200:300 ConnectionError:1
+382132,愛媛県,四国中央市,https://www.city.shikokuchuo.ehime.jp/,300,,345,190,0,570,https://www.city.shikokuchuo.ehime.jp,200:297 404:3 ConnectionError:2
+382141,愛媛県,西予市,https://www.city.seiyo.ehime.jp/,300,,516,329,0,94,https://www.city.seiyo.ehime.jp,200:299 404:1 ConnectionError:2
+382159,愛媛県,東温市,https://www.city.toon.ehime.jp/,300,,262,28,0,269,https://www.city.toon.ehime.jp,200:300 ConnectionError:2
+383562,愛媛県,上島町,https://www.town.kamijima.lg.jp/,300,,11,30,0,170,https://www.town.kamijima.lg.jp,200:295 404:5 ConnectionError:1
+383864,愛媛県,久万高原町,https://www.kumakogen.jp/,300,,31,25,0,122,https://www.kumakogen.jp,200:299 404:1 ConnectionError:1
+384011,愛媛県,松前町,https://www.town.masaki.ehime.jp/,300,,180,79,0,168,https://www.town.masaki.ehime.jp,200:299 404:1 ConnectionError:2
+384020,愛媛県,砥部町,https://www.town.tobe.ehime.jp/,300,,432,379,0,102,https://www.town.tobe.ehime.jp,200:300 ConnectionError:2
+384224,愛媛県,内子町,https://www.town.uchiko.ehime.jp/,300,,163,101,0,250,https://www.town.uchiko.ehime.jp,200:297 404:3 ConnectionError:2
+384429,愛媛県,伊方町,https://www.town.ikata.ehime.jp/,300,,177,150,0,249,https://www.town.ikata.ehime.jp,200:300 ConnectionError:2
+384844,愛媛県,松野町,https://www.town.matsuno.ehime.jp/,300,,239,632,0,118,https://www.town.matsuno.ehime.jp,200:291 404:9 ConnectionError:2
+384887,愛媛県,鬼北町,https://www.town.kihoku.ehime.jp/,300,,134,988,0,142,https://www.town.kihoku.ehime.jp,200:297 404:3 ConnectionError:2
+385069,愛媛県,愛南町,https://www.town.ainan.ehime.jp/,300,,254,474,0,375,https://www.town.ainan.ehime.jp,200:300 404:1 ConnectionError:2

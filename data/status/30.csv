@@ -1,32 +1,32 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-300004,和歌山県,和歌山県,https://www.pref.wakayama.lg.jp/,300,,1354,525,0,141,https://www.pref.wakayama.lg.jp,200:301 404:1 ConnectionError:1 SSLError:2
+300004,和歌山県,和歌山県,https://www.pref.wakayama.lg.jp/,300,,1357,853,0,268,https://www.pref.wakayama.lg.jp,200:299 403:1 404:1 ConnectionError:1 SSLError:1
 302015,和歌山県,和歌山市,https://www.city.wakayama.wakayama.jp/,300,,41,2019,0,303,https://www.city.wakayama.wakayama.jp,200:300 ConnectTimeout:1 ConnectionError:1
-302023,和歌山県,海南市,https://www.city.kainan.lg.jp/,270,,190,4,5,83,https://www.city.kainan.lg.jp,200:270 404:1 ConnectTimeout:1
-302031,和歌山県,橋本市,https://www.city.hashimoto.lg.jp/,300,,28,925,0,18,https://www.city.hashimoto.lg.jp,200:300 ConnectionError:1
+302023,和歌山県,海南市,https://www.city.kainan.lg.jp/,300,,218,102,5,161,https://www.city.kainan.lg.jp,200:300 ConnectTimeout:1
+302031,和歌山県,橋本市,https://www.city.hashimoto.lg.jp/,300,,813,89,0,121,https://www.city.hashimoto.lg.jp,200:301 ConnectionError:1
 302040,和歌山県,有田市,https://www.city.arida.lg.jp/,300,,70,311,0,166,https://www.city.arida.lg.jp,200:300 ConnectTimeout:1
-302058,和歌山県,御坊市,https://www.city.gobo.lg.jp/,258,,200,54,0,88,https://www.city.gobo.lg.jp,200:262 ConnectionError:1
-302066,和歌山県,田辺市,https://www.city.tanabe.lg.jp/,261,,255,82,0,49,https://www.city.tanabe.lg.jp,200:261 ConnectionError:1
-302074,和歌山県,新宮市,https://www.city.shingu.lg.jp/,300,,38,38,0,107,https://www.city.shingu.lg.jp,200:300 ConnectionError:1 robots:1
-302082,和歌山県,紀の川市,https://www.city.kinokawa.lg.jp/,274,,387,362,0,228,https://www.city.kinokawa.lg.jp,200:263 404:11 ConnectionError:1
-302091,和歌山県,岩出市,https://www.city.iwade.lg.jp/,258,,110,152,0,36,https://www.city.iwade.lg.jp,200:255 403:3 ConnectTimeout:2 ConnectionError:1
-303046,和歌山県,紀美野町,https://www.town.kimino.wakayama.jp/,160,,0,101,0,51,https://www.town.kimino.wakayama.jp,200:163 ConnectionError:2
-303411,和歌山県,かつらぎ町,https://www.town.katsuragi.wakayama.jp/,184,,26,644,0,47,https://www.town.katsuragi.wakayama.jp,200:187 ConnectionError:2
-303437,和歌山県,九度山町,https://www.town.kudoyama.wakayama.jp/,172,,71,237,0,74,https://www.town.kudoyama.lg.jp,200:172 ConnectTimeout:1 SSLError:1
+302058,和歌山県,御坊市,https://www.city.gobo.lg.jp/,280,,211,79,0,99,https://www.city.gobo.lg.jp,200:284 ConnectionError:1
+302066,和歌山県,田辺市,https://www.city.tanabe.lg.jp/,300,,263,185,0,157,https://www.city.tanabe.lg.jp,200:300 ConnectionError:1
+302074,和歌山県,新宮市,https://www.city.shingu.lg.jp/,300,,40,44,0,177,https://www.city.shingu.lg.jp,200:300 404:1 500:1 ConnectionError:1 robots:2
+302082,和歌山県,紀の川市,https://www.city.kinokawa.lg.jp/,284,,409,405,0,240,https://www.city.kinokawa.lg.jp,200:273 404:11 ConnectionError:9
+302091,和歌山県,岩出市,https://www.city.iwade.lg.jp/,300,,113,151,0,107,https://www.city.iwade.lg.jp,200:304 ConnectionError:1
+303046,和歌山県,紀美野町,https://www.town.kimino.wakayama.jp/,300,,39,126,0,101,https://www.town.kimino.wakayama.jp,200:303 ConnectionError:2
+303411,和歌山県,かつらぎ町,https://www.town.katsuragi.wakayama.jp/,206,,26,657,0,116,https://www.town.katsuragi.wakayama.jp,200:205 404:1 ConnectionError:2
+303437,和歌山県,九度山町,https://www.town.kudoyama.wakayama.jp/,180,,71,257,0,95,https://www.town.kudoyama.lg.jp,200:186 SSLError:2
 303445,和歌山県,高野町,https://www.town.koya.wakayama.jp/,230,,148,0,0,110,https://www.town.koya.wakayama.jp,200:229 404:3 ConnectionError:1
-303615,和歌山県,湯浅町,https://www.town.yuasa.wakayama.jp/,168,,5,48,0,95,https://www.town.yuasa.wakayama.jp,200:169 404:1 ConnectionError:1 SSLError:1
-303623,和歌山県,広川町,https://www.town.hirogawa.wakayama.jp/,300,,4,370,0,125,https://www.town.hirogawa.wakayama.jp,200:302 ConnectionError:1 SSLError:1
-303666,和歌山県,有田川町,https://www.town.aridagawa.lg.jp/,200,,289,10,0,184,https://www.town.aridagawa.lg.jp,200:200 ChunkedEncodingError:1 ConnectionError:1
-303810,和歌山県,美浜町,http://www.town.mihama.wakayama.jp/,272,,437,0,0,59,http://www.town.mihama.wakayama.jp,200:286 ConnectTimeout:1 ConnectionError:1 ReadTimeout:1
-303828,和歌山県,日高町,http://www.town.wakayama-hidaka.lg.jp/,300,,193,0,0,39,http://www.town.wakayama-hidaka.lg.jp,200:310 ConnectTimeout:1
-303836,和歌山県,由良町,http://www.town.yura.wakayama.jp/,240,,17,0,0,24,http://www.town.yura.wakayama.jp,200:251 ConnectionError:1 ReadTimeout:2
-303909,和歌山県,印南町,https://www.town.wakayama-inami.lg.jp/,161,,244,2,0,45,https://www.town.wakayama-inami.lg.jp,200:163 ConnectTimeout:1
+303615,和歌山県,湯浅町,https://www.town.yuasa.wakayama.jp/,300,,5,48,0,120,https://www.town.yuasa.wakayama.jp,200:300 404:2 ConnectionError:1 SSLError:1
+303623,和歌山県,広川町,https://www.town.hirogawa.wakayama.jp/,300,,16,394,0,147,https://www.town.hirogawa.wakayama.jp,200:302 ConnectionError:1 SSLError:1
+303666,和歌山県,有田川町,https://www.town.aridagawa.lg.jp/,300,,291,39,0,241,https://www.town.aridagawa.lg.jp,200:300 ChunkedEncodingError:1 ConnectionError:1
+303810,和歌山県,美浜町,http://www.town.mihama.wakayama.jp/,300,,437,0,0,89,http://www.town.mihama.wakayama.jp,200:338 ConnectTimeout:1 ConnectionError:1 ReadTimeout:1
+303828,和歌山県,日高町,http://www.town.wakayama-hidaka.lg.jp/,300,,170,0,0,56,http://www.town.wakayama-hidaka.lg.jp,200:336 ConnectTimeout:1
+303836,和歌山県,由良町,http://www.town.yura.wakayama.jp/,263,,17,0,0,52,https://www.town.yura.lg.jp,200:268 404:1 ConnectionError:1 SSLError:1
+303909,和歌山県,印南町,https://www.town.wakayama-inami.lg.jp/,245,,284,2,0,89,https://www.town.wakayama-inami.lg.jp,200:247 ConnectTimeout:1
 303917,和歌山県,みなべ町,https://www.town.minabe.lg.jp/,209,,30,0,0,144,https://www.town.minabe.lg.jp,200:207 404:3 ConnectTimeout:1
-303925,和歌山県,日高川町,https://www.town.hidakagawa.lg.jp/,250,,214,95,0,189,https://www.town.hidakagawa.lg.jp,200:249 404:3 SSLError:1
-304018,和歌山県,白浜町,https://www.town.shirahama.wakayama.jp/,163,,17,0,0,91,https://www.town.shirahama.wakayama.jp,200:160 404:3 SSLError:1
-304042,和歌山県,上富田町,https://www.town.kamitonda.lg.jp/,132,,134,1,0,75,https://www.town.kamitonda.lg.jp,200:132 ConnectionError:1
-304069,和歌山県,すさみ町,http://www.town.susami.lg.jp/,73,,1,0,0,45,http://www.town.susami.lg.jp,200:70 404:3 SSLError:1
-304212,和歌山県,那智勝浦町,https://www.town.nachikatsuura.wakayama.jp/,205,,119,14,0,59,https://www.town.nachikatsuura.wakayama.jp,200:208 ConnectionError:1 SSLError:1 robots:1
-304221,和歌山県,太地町,https://www.town.taiji.wakayama.jp,143,,25,9,0,21,https://www.town.taiji.wakayama.jp,200:138 404:5 SSLError:2
-304247,和歌山県,古座川町,http://www.town.kozagawa.wakayama.jp/,90,,7,0,0,3,https://www.town.kozagawa.lg.jp,200:89 404:1 SSLError:1
-304271,和歌山県,北山村,https://www.vill.kitayama.wakayama.jp/,81,,0,0,0,21,https://www.vill.kitayama.wakayama.jp,200:99 ConnectionError:1 SSLError:1
+303925,和歌山県,日高川町,https://www.town.hidakagawa.lg.jp/,300,,248,259,0,146,https://www.town.hidakagawa.lg.jp,200:297 404:6 SSLError:1
+304018,和歌山県,白浜町,https://www.town.shirahama.wakayama.jp/,300,,45,11,0,84,https://www.town.shirahama.wakayama.jp,200:293 404:7 SSLError:1
+304042,和歌山県,上富田町,https://www.town.kamitonda.lg.jp/,300,,146,2,0,96,https://www.town.kamitonda.lg.jp,200:300 ConnectionError:1
+304069,和歌山県,すさみ町,http://www.town.susami.lg.jp/,174,,1,0,0,53,http://www.town.susami.lg.jp,200:167 404:7 SSLError:1
+304212,和歌山県,那智勝浦町,https://www.town.nachikatsuura.wakayama.jp/,193,,120,32,0,83,https://www.town.nachikatsuura.wakayama.jp,200:196 ConnectionError:1 SSLError:1 robots:1
+304221,和歌山県,太地町,https://www.town.taiji.wakayama.jp,200,,37,19,0,52,https://www.town.taiji.wakayama.jp,200:182 404:18 SSLError:2
+304247,和歌山県,古座川町,http://www.town.kozagawa.wakayama.jp/,91,,7,0,0,3,https://www.town.kozagawa.lg.jp,200:90 404:1 SSLError:1
+304271,和歌山県,北山村,https://www.vill.kitayama.wakayama.jp/,99,,9,0,0,45,https://www.vill.kitayama.wakayama.jp,200:117 ConnectionError:1 SSLError:1
 304280,和歌山県,串本町,https://www.town.kushimoto.wakayama.jp/,248,,59,2,0,131,https://www.town.kushimoto.wakayama.jp,200:247 404:5 SSLError:2

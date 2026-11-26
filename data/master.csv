@@ -36,7 +36,7 @@ code,pref,name,kind,official_url,url_check
 350001,山口県,山口県,都道府県,https://www.pref.yamaguchi.lg.jp/,ok
 360007,徳島県,徳島県,都道府県,https://www.pref.tokushima.lg.jp/,ok
 370002,香川県,香川県,都道府県,https://www.pref.kagawa.lg.jp/,ok
-380008,愛媛県,愛媛県,都道府県,https://www.pref.ehime.jp,ok
+380008,愛媛県,愛媛県,都道府県,https://www.pref.ehime.jp,unreachable
 390003,高知県,高知県,都道府県,https://www.pref.kochi.lg.jp/,ok
 400009,福岡県,福岡県,都道府県,https://www.pref.fukuoka.lg.jp/,ok
 410004,佐賀県,佐賀県,都道府県,https://www.pref.saga.lg.jp/,ok
@@ -61,7 +61,7 @@ code,pref,name,kind,official_url,url_check
 012131,北海道,苫小牧市,市,https://www.city.tomakomai.hokkaido.jp,ok
 012149,北海道,稚内市,市,https://www.city.wakkanai.hokkaido.jp/,ok
 012157,北海道,美唄市,市,https://www.city.bibai.hokkaido.jp/,ok
-012165,北海道,芦別市,市,https://www.city.ashibetsu.hokkaido.jp/,ng
+012165,北海道,芦別市,市,https://www.city.ashibetsu.hokkaido.jp/,ok
 012173,北海道,江別市,市,https://www.city.ebetsu.hokkaido.jp/,ok
 012181,北海道,赤平市,市,https://www.city.akabira.hokkaido.jp/,ok
 012190,北海道,紋別市,市,https://mombetsu.jp/,ok
@@ -116,7 +116,7 @@ code,pref,name,kind,official_url,url_check
 042111,宮城県,岩沼市,市,https://www.city.iwanuma.miyagi.jp/,ok
 042129,宮城県,登米市,市,https://www.city.tome.miyagi.jp/,ok
 042137,宮城県,栗原市,市,https://www.kuriharacity.jp/,ok
-042145,宮城県,東松島市,市,https://www.city.higashimatsushima.miyagi.jp/,unreachable
+042145,宮城県,東松島市,市,https://www.city.higashimatsushima.miyagi.jp/,ok
 042153,宮城県,大崎市,市,https://www.city.osaki.miyagi.jp/,ok
 042161,宮城県,富谷市,市,https://www.tomiya-city.miyagi.jp/,ok
 052019,秋田県,秋田市,市,https://www.city.akita.lg.jp/,ok
@@ -237,7 +237,7 @@ code,pref,name,kind,official_url,url_check
 112224,埼玉県,越谷市,市,https://www.city.koshigaya.saitama.jp/,ok
 112232,埼玉県,蕨市,市,https://www.city.warabi.saitama.jp/,ok
 112241,埼玉県,戸田市,市,https://www.city.toda.saitama.jp/,ok
-112259,埼玉県,入間市,市,https://www.city.iruma.saitama.jp/,unreachable
+112259,埼玉県,入間市,市,https://www.city.iruma.saitama.jp/,ok
 112275,埼玉県,朝霞市,市,https://www.city.asaka.lg.jp/,ok
 112283,埼玉県,志木市,市,https://www.city.shiki.lg.jp/,ok
 112291,埼玉県,和光市,市,https://www.city.wako.lg.jp/,ok
@@ -296,7 +296,7 @@ code,pref,name,kind,official_url,url_check
 131016,東京都,千代田区,特別区,https://www.city.chiyoda.lg.jp/,ok
 131024,東京都,中央区,特別区,https://www.city.chuo.lg.jp/,ok
 131032,東京都,港区,特別区,https://www.city.minato.tokyo.jp/,ok
-131041,東京都,新宿区,特別区,https://www.city.shinjuku.lg.jp/,ok
+131041,東京都,新宿区,特別区,https://www.city.shinjuku.lg.jp/,unreachable
 131059,東京都,文京区,特別区,https://www.city.bunkyo.lg.jp/,ok
 131067,東京都,台東区,特別区,https://www.city.taito.lg.jp/,ok
 131075,東京都,墨田区,特別区,https://www.city.sumida.lg.jp/,ok
@@ -396,7 +396,7 @@ code,pref,name,kind,official_url,url_check
 172031,石川県,小松市,市,https://www.city.komatsu.lg.jp/,ok
 172049,石川県,輪島市,市,https://www.city.wajima.ishikawa.jp/,ok
 172057,石川県,珠洲市,市,https://www.city.suzu.lg.jp/,ok
-172065,石川県,加賀市,市,https://www.city.kaga.ishikawa.jp/,unreachable
+172065,石川県,加賀市,市,https://www.city.kaga.ishikawa.jp/,ok
 172073,石川県,羽咋市,市,https://www.city.hakui.lg.jp/,ok
 172090,石川県,かほく市,市,https://www.city.kahoku.lg.jp/,ok
 172103,石川県,白山市,市,https://www.city.hakusan.lg.jp/,ok
@@ -535,7 +535,7 @@ code,pref,name,kind,official_url,url_check
 242098,三重県,尾鷲市,市,https://www.city.owase.lg.jp/,ok
 242101,三重県,亀山市,市,https://www.city.kameyama.mie.jp/,ok
 242110,三重県,鳥羽市,市,https://www.city.toba.mie.jp/,ok
-242128,三重県,熊野市,市,https://www.city.kumano.lg.jp/,unreachable
+242128,三重県,熊野市,市,https://www.city.kumano.lg.jp/,ok
 242144,三重県,いなべ市,市,https://www.city.inabe.mie.jp/,ok
 242152,三重県,志摩市,市,https://www.city.shima.mie.jp/,ok
 242161,三重県,伊賀市,市,https://www.city.iga.lg.jp/,ok
@@ -801,8 +801,8 @@ code,pref,name,kind,official_url,url_check
 432059,熊本県,水俣市,市,https://www.city.minamata.lg.jp/,ok
 432067,熊本県,玉名市,市,https://www.city.tamana.lg.jp/,ok
 432083,熊本県,山鹿市,市,https://www.city.yamaga.kumamoto.jp/,ok
-432105,熊本県,菊池市,市,https://www.city.kikuchi.lg.jp/,ok
-432113,熊本県,宇土市,市,https://www.city.uto.lg.jp/,ok
+432105,熊本県,菊池市,市,https://www.city.kikuchi.lg.jp/,unreachable
+432113,熊本県,宇土市,市,https://www.city.uto.lg.jp/,unreachable
 432121,熊本県,上天草市,市,https://www.city.kamiamakusa.kumamoto.jp/,ok
 432130,熊本県,宇城市,市,https://www.city.uki.kumamoto.jp/,ok
 432148,熊本県,阿蘇市,市,https://www.city.aso.kumamoto.jp/,ok
@@ -1239,7 +1239,7 @@ code,pref,name,kind,official_url,url_check
 124265,千葉県,長柄町,町村,https://www.town.nagara.chiba.jp/,ok
 124273,千葉県,長南町,町村,https://www.town.chonan.chiba.jp/,ok
 124419,千葉県,大多喜町,町村,https://www.town.otaki.chiba.jp/,ok
-124435,千葉県,御宿町,町村,https://www.town.onjuku.chiba.jp/,unreachable
+124435,千葉県,御宿町,町村,https://www.town.onjuku.chiba.jp/,ok
 124630,千葉県,鋸南町,町村,https://www.town.kyonan.chiba.jp/,ok
 133035,東京都,瑞穂町,町村,https://www.town.mizuho.tokyo.jp/,ok
 133051,東京都,日の出町,町村,https://www.town.hinode.tokyo.jp/,ok
@@ -1347,7 +1347,7 @@ code,pref,name,kind,official_url,url_check
 204161,長野県,豊丘村,町村,https://www.vill.nagano-toyooka.lg.jp/,ok
 204170,長野県,大鹿村,町村,http://www.vill.ooshika.nagano.jp/,ok
 204226,長野県,上松町,町村,https://www.town.agematsu.nagano.jp/,ok
-204234,長野県,南木曽町,町村,https://www.town.nagiso.nagano.jp/,ng
+204234,長野県,南木曽町,町村,https://www.town.nagiso.nagano.jp/,ok
 204251,長野県,木祖村,町村,https://www.vill.kiso.nagano.jp/,ok
 204293,長野県,王滝村,町村,https://www.vill.otaki.nagano.jp/,ok
 204307,長野県,大桑村,町村,https://www.vill.okuwa.lg.jp/,ok

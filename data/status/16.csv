@@ -1,17 +1,17 @@
 code,pref,name,official_url,pages,error,budget,bids,pref_muni_budget,grants,final_url,codes
-160008,富山県,富山県,https://www.pref.toyama.jp/,300,,11,15,0,699,https://www.pref.toyama.jp,200:241 404:59 ConnectionError:1 SSLError:1
-162019,富山県,富山市,https://www.city.toyama.toyama.jp/,300,,918,1640,0,417,https://www.city.toyama.lg.jp,200:301 ConnectionError:1 robots:2
-162027,富山県,高岡市,https://www.city.takaoka.toyama.jp/,300,,145,11,0,144,https://www.city.takaoka.toyama.jp,200:300 ConnectionError:2
-162043,富山県,魚津市,https://www.city.uozu.toyama.jp/,300,,121,41,0,351,https://www.city.uozu.toyama.jp,200:299 404:1 ConnectionError:2
-162051,富山県,氷見市,https://www.city.himi.toyama.jp/,300,,305,29,0,149,https://www.city.himi.toyama.jp,200:300 ConnectionError:2
-162060,富山県,滑川市,https://www.city.namerikawa.toyama.jp/,191,,287,5,0,127,https://www.city.namerikawa.toyama.jp,200:192 404:1 ConnectionError:2
-162078,富山県,黒部市,https://www.city.kurobe.toyama.jp/,147,,71,691,0,167,,
-162086,富山県,砺波市,https://www.city.tonami.toyama.jp/,256,,80,25,0,63,https://www.city.tonami.toyama.jp,200:252 404:4 ConnectionError:1
+160008,富山県,富山県,https://www.pref.toyama.jp/,300,,17,58,0,674,https://www.pref.toyama.jp,200:297 404:3 ConnectionError:1 SSLError:1
+162019,富山県,富山市,https://www.city.toyama.toyama.jp/,300,,981,1883,0,410,https://www.city.toyama.lg.jp,200:300 ConnectionError:1 robots:1
+162027,富山県,高岡市,https://www.city.takaoka.toyama.jp/,300,,117,80,0,237,https://www.city.takaoka.toyama.jp,200:299 404:1 ConnectionError:2
+162043,富山県,魚津市,https://www.city.uozu.toyama.jp/,300,,122,45,0,414,https://www.city.uozu.toyama.jp,200:299 404:1 ConnectionError:2
+162051,富山県,氷見市,https://www.city.himi.toyama.jp/,300,,324,2,0,245,https://www.city.himi.toyama.jp,200:300 404:1 ConnectionError:2
+162060,富山県,滑川市,https://www.city.namerikawa.toyama.jp/,300,,337,5,0,136,https://www.city.namerikawa.toyama.jp,200:300 404:1 ConnectionError:2
+162078,富山県,黒部市,https://www.city.kurobe.toyama.jp/,156,,233,701,0,185,https://www.city.kurobe.toyama.jp,200:158 ConnectionError:2
+162086,富山県,砺波市,https://www.city.tonami.toyama.jp/,274,,80,27,0,89,https://www.city.tonami.toyama.jp,200:270 404:4 ConnectTimeout:1 ConnectionError:1
 162094,富山県,小矢部市,https://www.city.oyabe.toyama.jp/,300,,233,269,0,258,https://www.city.oyabe.toyama.jp,200:313 ConnectionError:2 robots:2
 162108,富山県,南砺市,https://www.city.nanto.toyama.jp/,300,,100,115,0,7,https://www.city.nanto.toyama.jp,200:300 ConnectTimeout:1 ConnectionError:1
-162116,富山県,射水市,https://www.city.imizu.toyama.jp/,300,,159,89,0,288,https://www.city.imizu.toyama.jp,200:300 ConnectionError:2
-163210,富山県,舟橋村,https://www.vill.funahashi.toyama.jp/,48,,1,0,0,0,https://www.vill.funahashi.toyama.jp,200:48 ConnectionError:2
-163228,富山県,上市町,https://www.town.kamiichi.toyama.jp/,223,,33,34,0,103,https://www.town.kamiichi.toyama.jp,200:226 404:1 ConnectTimeout:1 ConnectionError:2
-163236,富山県,立山町,https://www.town.tateyama.toyama.jp/,284,,12,43,0,155,https://www.town.tateyama.toyama.jp,200:285 ConnectionError:2
-163422,富山県,入善町,https://www.town.nyuzen.toyama.jp/,248,,56,29,0,15,https://www.town.nyuzen.toyama.jp,200:248 ConnectionError:2
-163431,富山県,朝日町,https://www.town.asahi.toyama.jp/,116,,35,27,0,9,https://www.town.asahi.toyama.jp,200:114 404:2 ConnectionError:1
+162116,富山県,射水市,https://www.city.imizu.toyama.jp/,300,,267,93,0,307,https://www.city.imizu.toyama.jp,200:300 ConnectionError:2
+163210,富山県,舟橋村,https://www.vill.funahashi.toyama.jp/,68,,35,16,0,14,https://www.vill.funahashi.toyama.jp,200:68 ConnectionError:2
+163228,富山県,上市町,https://www.town.kamiichi.toyama.jp/,300,,41,34,0,175,https://www.town.kamiichi.toyama.jp,200:303 404:1 ConnectionError:2
+163236,富山県,立山町,https://www.town.tateyama.toyama.jp/,300,,27,93,0,161,https://www.town.tateyama.toyama.jp,200:300 ConnectionError:2
+163422,富山県,入善町,https://www.town.nyuzen.toyama.jp/,300,,80,250,0,52,https://www.town.nyuzen.toyama.jp,200:300 ConnectionError:2
+163431,富山県,朝日町,https://www.town.asahi.toyama.jp/,300,,67,38,0,101,https://www.town.asahi.toyama.jp,200:297 404:3 ConnectionError:1
